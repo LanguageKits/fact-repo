@@ -18,7 +18,7 @@
 **How to run:**
 - Open your command prompt / terminal.
 - Go to "fact-repo-annotator".
-- Type "yarn start". This will start the application in your browser
+- Type "yarn start". This will start the application in your browser.
 
 **Client ID**
 You will need a personal token to annotate. Generate one for your account with repo access at
