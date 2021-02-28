@@ -2,7 +2,12 @@
 
 
 ## Getting Started
-
+ - Fork the repo to either start your own annotation project or to contribute to fact-repo
+ - If you have data annotated that you want to add to the fact-repo repository, please do a pull request
+## Data Scrape
+- In the Scripts folder we have included a basic scrape script
+- To run the script you must have a github account with push permissions to a repository
+- The script will ingest urls.txt which should contain a list of urls and a category for each url
 ## Annotator Tools
 **Build:**
 - Download npm from https://nodejs.org/en/
