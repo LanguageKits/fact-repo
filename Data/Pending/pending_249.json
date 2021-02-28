@@ -1,0 +1,341 @@
+{
+    "document_id": -1,
+    "url": "https://www.mondo.com/blog-net-neutrality-impacts-businesses/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:50:43.178807+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": " Net neutrality has confusingly become a divisive and politically-driven issue as of late.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "To help clarify the potential impact the reversal of current net neutrality laws could have on your business (and why you see #NetNeutrality trending semiannually in your social feeds), we’ve gathered together the facts, on both sides, so you can stay informed on potential internet regulations and what they’ll mean for your bottom line.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "While the conversation over net neutrality can easily make anyone’s eyes glaze over with the amount of three or four-letter acronyms used (ISPs, SOPA, PIPA, etc.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "and the mention of non-specific governmental regulations (Looking at you, Title II), bear with us.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "After all, the loss of net neutrality could mean that you might not even be able to read this blog without paying an additional fee to your internet service provider (ISP).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Net neutrality by definition is the principle that ISPs (I’ll try not to use too many acronyms, I swear) should provide access to all content and applications available on the internet regardless of the source, without favoring or blocking particular products or websites.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "In 2015, the Federal Communications Commission (FCC) passed regulation in the form of reclassifying internet access as a Title II communications service and imposed strict net neutrality rules on broadband and wireless internet providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Today, we are seeing the FCC look into rolling back those regulations and allowing ISPs more control over the internet access they provide.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "This is where things get tricky.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The FCC and proponents of rolling back net neutrality (i.e.the country’s largest ISPs: AT&T, Comcast, & Verizon) argue that doing so will boost broadband network investments and create more competition in the broadband and wireless internet provider market, providing consumers with more options.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Currently, according to the FCC’s own 2016 data, 89 percent of Americans have only one or two provider options for broadband service, with one often being much slower than the other.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Critics, including some websites you might recognize, like Netflix, Google, Facebook, Reddit, Amazon, and dozens more, argue that rolling back net neutrality will result in ISPs choosing to restrict certain content from their consumers entirely, request consumers pay more to access it, or slow speeds for content and online products that don’t pay the ISP itself more money for faster speeds.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The recent discussion around changing current legislation led to one of the largest online protests ever on July 12 called the “ Day of Action” which was organized by consumer advocacy groups in partnership with websites and tech companies large and small.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "(You can see the most-complete list of participants and their individual “Day of Action” contributions here .)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The campaign reportedly reached around 10 million people, resulted in 1.6 to 2.1 million new comments on the FCC’s webpage regarding rolling back net neutrality, and more than 3.5 million emails to members of Congress asking them to act on the issue.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Now that we’re on the same page, it’s time to address the impact on your bottom line if net neutrality regulation gets reversed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Depending on your industry, your size, and the type of online offerings you have, you may be asked by your current ISP to pay more to provide their consumers with faster speeds to your website.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "It’s likely your business will experience increased censorship, slower speeds, and additional fees by ISPs as well, but will be more directly impacted than larger businesses due to budget restraints that make paying these fees unsustainable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "This explains why former startups and small to medium-sized businesses also make up a bulk of the online supporters of net neutrality and take more of a stand than corporations, like Google or Amazon, that can bear the burden of higher ISP tolls and a consumer base that can afford to pay higher WiFi or Internet/cable bills.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "A lack of net neutrality regulations could enable ISPs to choose winners and losers in the marketplace.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Think about it the way Sam Altman, the president of Y Combinator a startup accelerator, put it in this Wired article .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "As every internet-based business knows, the internet provides every individual with an equal opportunity to compete and grow their businesses and ideas in the marketplace, with consumers ultimately deciding which business succeed and which don’t.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Without net neutrality, an unequal balance could occur where larger companies can afford to cut deals with ISPs for the best speeds, while smaller businesses lacking those types of funds will be forced into slower speeds, which in today’s 4G and 5G world would force any new business to close.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Before you think that maybe ISPs won’t regulate content and force businesses to pay more for improved internet connectivity for consumers, consider the recent NY lawsuit against Spectrum-TWC, formerly Time Warner Cable, that alleged the provider had forced interconnection fees on websites like Netflix after slowing down speeds of consumers trying to access the site until Netflix complied and paid additional fees.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Regardless of political affiliations, it’s clear that net neutrality is an incredibly impactful component of creating a fair and balanced marketplace where businesses of all sizes can compete.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "While your larger business may not suffer the consequences of potential net neutrality rollbacks, who knows what innovative startup could be blocked from the same growth and marketplace opportunities companies like yours profited from.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "If net neutrality is eliminated, our economy and, in turn, both business owners and consumers will end up paying the price.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "If you’re looking to hire Tech professionals skilled in website development, maintenance, or cybersecurity to keep your online offerings secure in an evolving online marketplace, contact Mondo today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "We’ll match you with the high-end, niche experts you won’t find anywhere else.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "FCC tech Shannon Vize currently works as the Content Strategist and MKTG Team Lead at Mondo.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Shannon authors a majority of the content published by Mondo, in addition to managing the national content and digital marketing strategies for the IT, Tech, & Digital Marketing Staffing Agency.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "She has been published on various online platforms on subjects ranging from tech to fashion to social issues.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": ", IT & Technology , , , IT & Technology , , x",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

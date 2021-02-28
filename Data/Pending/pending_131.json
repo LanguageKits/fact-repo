@@ -1,0 +1,1381 @@
+{
+    "document_id": -1,
+    "url": "https://newatlas.com/what-is-net-neutrality/47676/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Rich Haridy",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:42:59.567239+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Here is our primer on this contentious issue, presenting the arguments for and against.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "In a nutshell, net neutrality is the idea that all internet traffic should be treated equally by internet service providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "This means that an ISP should not have the ability to throttle or prioritize certain packets of information for whatever reason.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Net neutrality proposes that ISPs should not be able to create multiple tiers of accessibility and all services, be it Netflix or a small streaming upstart, should have the same prioritization when sending data through a given network.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "On first glance it is fair to assume that net neutrality is a no-brainer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Of course the internet should be open and accessible to all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Proponents arguing in favor of net neutrality are widespread, from major technology companies such as Amazon and Microsoft to civil rights groups such as the ACLU and the Electronic Frontier Foundation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Supporters of net neutrality argue that internet service providers should not be allowed to have the ability to throttle certain services over others.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The danger is that this could allow larger, more powerful entities to dominate the marketplace by paying the internet providers for faster speeds, while other smaller, less resourced competitors could languish with slower speeds.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Without net neutrality regulations, it is argued that ISPs could have too much power in controlling access to content that better serves their business interests.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "This could result in some websites getting throttled because they report information critical of certain corporations, or deals being struck between ISPs and companies that may directly or indirectly result in the monopolizing of markets.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The inventor of the world wide web, Sir Tim Berners-Lee, summed up the issue in an open letter in 2015 : \"The Web evolved into a powerful and ubiquitous platform because I was able to build it on an open network that treated all packets of information equally.This principle of net neutrality has kept the Internet a free and open space since its inception.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "As with many things, the issue of net neutrality is much more complicated than it seems, and those against regulation argue that ISPs need to have the ability to treat different types of internet traffic unequally in order to maintain the best possible service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "While it's a nice idealistic notion that all packets of information traveling through the internet be treated equally, it also can be noted that not all internet traffic is the same.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Harsha Madhyastha, a computer scientist from the University of Michigan argues that limiting the ability of ISPs to control the flow of information through their networks could result in a dysfunctional system , \"Now consider two users whose internet traffic goes through the congested link.That would mean slightly slowing down the data backup, freeing up bandwidth to minimize video delays and keep the picture quality high.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Another argument against net neutrality posits the potential problems with government overreach complicating and stifling the free market with messy regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Free market advocates claim that consumers will decide what services they want.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "So for example, if an ISP throttles Netflix because it isn't paying enough for the so-called \"fast lane\" then consumers who want that service will simply move to another provider.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Not only that, but freeing up ISPs to be able to charge more for those services that hog more bandwidth could allow ISPs new revenue sources that in turn permit greater investment in building faster networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "This argument claims that net neutrality actually stifles innovation and growth by limiting the ability for markets and infrastructures to develop.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Net neutrality rules have been debated for over a decade and Barack Obama's presidency did its utmost to put several pro-net neutrality policies into effect.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "After several false starts the Obama administration managed to implement new FCC net neutrality rules in 2015.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The regulations essentially boiled down to setting rules governing the three main principles underpinning net neutrality: No broadband provider can block lawful content, no broadband provider can throttle specific content or services, and no broadband provider can accept fees from a service for prioritized speeds.",
+            "fact": true,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "These regulations immediately provoked a legal battle with internet providers who claimed the FCC was overreaching, but by mid-2016 a Court of Appeals upheld the FCC regulations that are now currently in effect.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "The legal battle is not over though, as we will most likely see this issue rising up the chain to the US Supreme Court.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "\"We have always expected this issue to be decided by the Supreme Court and we look forward to participating in that appeal,\" said Senior Executive Vice President and General Counsel for AT&T;, David McAtee II, in 2016 .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Policies change with administrations though, and the future looks to hold dramatic shifts in US government's approach to net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "President Trump's newly appointed FCC chairman Ajit Pai has been an outspoken critic of Obama's net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "\"We need to fire up the weed whacker and remove those rules that are holding back investment, innovation, and job creation,\" s aid Pai in December 2016 .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "It is unclear whether the current net neutrality regulations will be overturned or whether, under Pai's watch, the FCC will simply decline to enforce them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "In a press conference after Pai's first FCC meeting as Chairman he refused to be drawn on the FCC's future actions regarding the net neutrality regulations saying, \"I'm not going to comment on what steps we may or may not take on enforcement.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "While no one knows what exactly what the future holds for net neutrality, we can be sure that the vigorous debate around this issue is set to continue for quite some time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "LinkedIn With interests in film, new media, and the new wave of psychedelic science, Rich has written for a number of online and print publications over the last decade and was Chair of the Australian Film Critics Association from 2013-2015.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Since joining New Atlas Rich’s interests have broadened to encompass the era-defining effects of new technology on culture and life in the 21st century.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "18 comments  Sign in to post a comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Please keep comments to less than 150 words.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "No abusive material or spam will be published.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "February 1, 2017 01:56 AM This is a complicated issue, and I can see both sides have good arguments.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "To me this looks like a chicken and egg problem.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "I don't have the answer, but I know this.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Politics and government screw things up and nobody is happy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "My suggestion is this.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Continue looking at the problem, look to innovation and new tech to solve the problem.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Don't allow both government and Big ISP's to dominate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Both have a tendency to suppress innovation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "One for profit the other for votes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "aksdad February 1, 2017 06:13 AM One of the best ways to stifle innovation is to introduce government control.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "The explosion of internet services and infrastructure over the last 20 years happened without any regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "The badly misnamed \"net neutrality\" prevents the companies that spend billions on expensive infrastructure from charging more to customers who use more bandwidth.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "It's like making gas stations charge the same amount for every tank of gas.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "A bus with a 200 gallon tank pays the same as a car with an 18 gallon tank, even though the bus consumes much more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Net neutrality is essentially Marxist: \"to each according to his needs\" without regard to the cost of providing those services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "VirtualGathis February 1, 2017 11:24 AM In this case regulation is required as the ISPs have already shown their willingness to extort money for nothing from their victims, er customers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "This was clearly demonstrated recently when comcast and cox started deliberately impeding Netflix traffic until Netflix paid them protection money to stop throttling their traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "I am aware of their argument \"Well Netflix is now accounting for 33% of our traffic!They should pay us to carry their traffic!\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "This ignores the fact that they are already charging the end user, me and you, for the service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "To put this into perspective take it out of the digital realm and make it physical.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Take it to Amazon, you pay for your item and the shipping fee for UPS to carry it to your door.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "Then one day UPS looks at their traffic and says \"Hey, we've had to add 6 planes to these routes because of Amazon!They should have to pay for those planes!\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "They then start double billing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "Now when you buy your package and pay your $6-$20 they also bill Amazon $6-$20 on top of that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "They are now charging twice for the same service once to you and once to the seller.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "This is exactly what comcast and other ISPs are doing for \"internet fast lanes\".",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "They are literally billing twice for the same service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "The example this story uses is actually a red herring and has nothing to do with net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "What is comes down to is we, as customers, are paying for a given bandwidth.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "We agree to pay $X/mo and the ISP agrees to provide XKb/sec bandwidth.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "If I keep that utilization peaked at Xkb/sec all the time it is a fair use of the product I am paying for.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "The place where this model breaks down is when the ISP over-sells it's network based on \"average utilization\" meaning when they determine how much to charge they are assuming you will only use your connection 10% of the time and never at full capacity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "So sell ten, sometimes as much as twenty, connections at XKb/sec for every XKb/s capacity, then gripe and complain when people actually use the service they have paid for.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "The problem isn't that we NEED internet fast lanes, the problem is that ISPs are using \"new math\" (Charlie Brown reference) rather than build for the capacity they have sold, so oversell their networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "The other reason I have zero sympathy for their arguements about NEEDING to be able to throttle traffic and double bill is that at no time in the last 5 years has Comcast, Cox, or any of the major opponents of net neutrality documented less than a 95% profit for the year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "I wish I could get a 100% return on investment at my bank and still be humored when I complained that it wasn't enough and they should pay me special fees for nothing more than the money I already provided them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "VirtualGathis February 1, 2017 11:36 AM @aksdad - Your analogy has nothing to do with the concept of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "Net neutrality isn't asking the gas station to provide unequal quantities of fuel for the same cost, they are asking the gas station provide an entire gallon of gas every time they charge for a gallon of gasoline.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "Doing away with net neutrality is actually more akin to doing away with the department of weights and measures.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "If you want an idea of exactly how much that fosters honest, value added, business in an unregulated free market go back and look at the reasons behind weights and measures being created.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "no one was actually selling what they were charging for.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "The same issue is happening with internet service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "They bill you for a connection at XKb/sec then sell the same XKb/sec to ten to twenty people.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "That is not a fair practice, especially when on top of that they are attempting to charge the content providers for the same connection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "DrRobo Dawg February 1, 2017 12:04 PM @S Michael \"I can see both sides have good arguments.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "No they do not.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "You either do not understand the arguments or are in favour of ripping of the consumer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "@aksdad \"The badly misnamed \"net neutrality\" prevents the companies that spend billions on expensive infrastructure from charging more to customers who use more bandwidth.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "This is a blatant lie.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "The customers is PAYING for the bandwidth at the price SET BY THE COMPANY.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "The confusion comes in because the company sells more bandwidth than they have - thus the congestion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "Imagine an airline service selling 200 seats for a plane that seats 180 and hoping 20 people miss the flight.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "\"It's like making gas stations charge the same amount for every tank of gas.A bus with a 200 gallon tank pays the same as a car with an 18 gallon tank, even though the bus consumes much more. \"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "Rather imagine a food delivery service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "You pay for the food plus distance traveled.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "Upon using the service you find if you order from McDonnals or BurgerKing your food arrives in due time and is warm, but if you order from anywhere else it is cold and takes hours longer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "This is because McDonnals and BurgerKing have paid your delivery service to prioritize them, and may have even paid a bit more to stifle their competitors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "You could go to another food delivery service, but McD and BK have made the deal with all of them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "McD and BK get more money from the larger customer base which validates the expense, and the delivery service is getting paid twice for delivering your food.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "The only one loosing is you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "piperTom February 1, 2017 12:30 PM The ISPs are imperfect and there are too few in the market, but the basic question is even more simple that suggested above.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "Our choice is between people who invest their own time and resources in providing a service and bureaucrats who are accountable (if to anyone) only to higher-ups whose interest is in maintaining their power.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "I mistrust corporations as much as the next guy, but the big corps get their awful power buying it from government.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": "Cutting the state out of the equation gives the innovative start-up his best chance.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "npublici February 1, 2017 01:44 PM A solution would be to alow no one to provide below a minimum speed and bandwidth to end use customers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "February 1, 2017 01:53 PM No--this ISN'T complicated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": "The internet is part of the public commons--same as roads, fire, police, prisons, etc.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "Removing neutrality is essentially privatizing the internet and the ISPs know that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 105,
+            "sentence": "Well, if you buy our gold package...yadda...' Neutrality is just like our telephone system.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 106,
+            "sentence": "You don't pay more for calls from aunt Sally than you do for calls from uncle Fred.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 107,
+            "sentence": "In other words, phone companies are known as \"common carriers\"--that's a serious legal term btw.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 108,
+            "sentence": "I get a kick out of people who love to beat on government.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 109,
+            "sentence": "Because the internet was created by our tax dollars and the government, AND the government has so far treated the internet as a neutral venue for all of us to benefit from.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 110,
+            "sentence": "The so-called free market and business has only ONE interest--money and it will make billions IF neutrality is removed and their status as \"common carriers\" is redrafted, and they can treat the internet just as they do satellite TV.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 111,
+            "sentence": "No--this ISN'T complicated at all, but AT&T would love for you to think it is.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 112,
+            "sentence": "DonPryor February 1, 2017 02:13 PM Net Neutrality is based upon the argument that that available bandwidth (nets) is finite, this is patently not true.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 113,
+            "sentence": "If you want to make a true then let the feds and or the rest of the world manage and regulate it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 114,
+            "sentence": "I have been on the net since the late 70's, I remember the days when a T-1 would run over a $1000 mo, and a 800 prefix would cost over $1500 per mo.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 115,
+            "sentence": "Today on ranch in rural Tx, I have fiber to the house, yes the house and I am peeling off 100Mbs and I can have more if I want it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 116,
+            "sentence": "I also remember when a 300 baud modem was fast!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 117,
+            "sentence": "The Feds do not have a role in managing electrons as much as they would love to.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 118,
+            "sentence": "The prime role of Govt is to ensure a competitive marketplace and not let ANY entity become \"to big to fail\"!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 119,
+            "sentence": "KEEP THE GOVT(s) out of it and let capitalism build more and more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 120,
+            "sentence": "chase February 1, 2017 02:51 PM We haven't seen true \"Net Neutrality\" in a long time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 121,
+            "sentence": "The terms \"chocking\" and \"throttling\" in reference to the net came about due to a lack of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 122,
+            "sentence": "The \"watchers\" for lack of a better term of net traffic usage by the providers have shown and proven a lack of net neutrality time and time again.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 123,
+            "sentence": "As well as false claims of actually end user usage.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 124,
+            "sentence": "Even the search engines such as Google are bias and structured so through use of a lack of impartial search engine alogrithyms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 125,
+            "sentence": "And open impartial structure is needed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 126,
+            "sentence": "Regulations and Government intervention only come about after an outpouring of public dissatisfaction.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 127,
+            "sentence": "And usually until that public outcry overwhelms Government, Government turns a blind eye towards anything that would be considered unfair to the public.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 128,
+            "sentence": "ie the people as a whole.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 129,
+            "sentence": "Would be providers have been trying to nickel dime bandwidth usage for as long as the net became a commercial market arena and land lines for voice became a thing of the past for most parts.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 130,
+            "sentence": "It's capitalism... controlling interests, leverage and latitude, supply and demand.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 131,
+            "sentence": "There's nothing fair about it once it reaches the point of being capitalistic driven entity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 132,
+            "sentence": "Which the net has been for a while.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 133,
+            "sentence": "I don't think it's a matter of will they eventually regulate policy on the providers, I believe it's just a matter of when.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 134,
+            "sentence": "Saving comment... Raspberry Pi camera module gets interchangeable lens support Intel's new 10th Gen laptop processors crack 5GHz AI scans satellite imagery to locate unexploded Vietnam War-era bombs Purism puts privacy and security in focus with Librem Mini computer Parkinson's discovery implicates \"second brain\" in the gut Cyberpunk-inspired pocket knife cuts a very futuristic figure New molecular insights into how gut bacteria influences memory Scientists use mushroom DNA to produce permanently-glowing plants Over 280,000 people receive our email newsletter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 135,
+            "sentence": "See the stories that matter in your inbox every morning.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 136,
+            "sentence": "HOME FEATURES REVIEWS ABOUT ADVERTISE TERMS PRIVACY CONTACT FAQ LIFESTYLE SCIENCE TECHNOLOGY TRANSPORT twitter instagram flipboard facebook linkedin",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

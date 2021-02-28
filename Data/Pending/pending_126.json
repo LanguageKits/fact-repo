@@ -1,0 +1,641 @@
+{
+    "document_id": -1,
+    "url": "https://time.com/102268/net-neutrality-facts/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Sam Gustin",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:42:45.456714+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": " Federal Communications Commission (FCC) Chairman Tom Wheeler listens during a news conference after an open meeting to receive public comment on proposed open Internet notice of proposed rule-making and spectrum auctions on May 15, 2014 at the FCC headquarters in Washington.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "May 16, 2014 8:44 AM EDT  For many years, net neutrality was a relatively obscure policy topic that mostly preoccupied phone and cable companies, D.C. telecom lawyers, Open Internet activists and a handful of tech firms and startups.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Compared to major national issues like the economy, national security, healthcare and immigration, net neutrality barely registered a blip on the American consciousness.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Those days are over.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Over the last three weeks, net neutrality has become front page news across the country, after a U.S. plan to update its Internet regulations was leaked to the press .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The Internet exploded in commentary , tens of thousands of people called and emailed the FCC, the nation’s largest Internet and broadband companies weighed in, dozens of U.S. lawmakers registered their views, and protestors established an encampment outside the FCC’s D.C. office.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "On Thursday, the FCC passed a crucial hurdle advancing the public comment process that will ultimately lead to new net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Four demonstrators had to be dragged away after disrupting the proceedings.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Let’s take a take a step back and examine what this whole kerfuffle is about.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Net neutrality is the idea that the Internet should be an open platform, and broadband companies shouldn’t be able to interfere with your right to access content and services online.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Another way of putting this is that broadband giants like Comcast, Verizon, and AT&T shouldn’t be able to block or discriminate against certain content — especially rival content — as it enters your home and reaches your computer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Net neutrality advocates believe that all Internet users should have unfettered access to the Internet, just like all Americans have the right to travel anywhere in the 50 states without a passport.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Without this open access, which many Internet users take for granted, startups like Google, Twitter and Facebook might never have flourished, net neutrality advocates argue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The FCC’s net neutrality policies have been in limbo since a federal court struck down most of the agency’s 2010 open Internet order in January.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "That order prohibited broadband providers like Comcast and Verizon from blocking traffic like Skype or Netflix or putting them into an Internet “slow lane.” Without such protections, net neutrality advocates fear the Internet could turn into a two-tiered system — or worse, something akin to cable TV with premium bundles and packages.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The Federal Communications Commission is an independent federal agency overseen by Congress that regulates all communications “by radio, television, wire, satellite and cable” throughout the country.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "As such, the FCC has broad regulatory authority over corporate giants like CBS, AT&T, Comcast, DirectTV, among many other companies.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The agency is also responsible for managing the nation’s wireless spectrum — the radio airwaves that make our smartphones and tablets connect to each other and the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "In recent years, the FCC has increasingly focused on Internet access, both wired and wireless, which has become a crucial communications medium.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Among the most important FCC mandates are promoting competition, innovation and media diversity in order to advance the public interest.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The FCC is an independent agency, which means the White House can’t tell it what to do.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The FCC is led by five commissioners who are appointed by the president and confirmed by the Senate for five-year terms.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The president appoints one of the commissioners to be chairman of the commission, which is usually split along party lines 3-2, depending on who is in the White House.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Historically, the FCC chairman has had broad power to determine the agenda’s agency.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "The current FCC chairman is Tom Wheeler, a Democrat and former venture capitalist who served as the top cable and wireless lobbyist two decades ago, and raised hundreds of thousands of dollars for Obama’s presidential campaigns.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "The two other Democratic commissioners are Mignon Clyburn, a former public official from South Carolina, and Jessica Rosenworcel, a lawyer and former senior Senate staffer.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "The two Republican commissioners are Ajit Pai, a former senior FCC official and Michael O'Rielly , a former senior Congressional staffer.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "On Thursday, the FCC approved what’s called a “notice of proposed rulemaking” (NPRM) on party lines making Wheeler’s draft open Internet proposal available for public review, and triggering four months of public comment.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "The proposal seeks public input on the best way to ensure the Internet stays open, and to prevent broadband companies from blocking or discriminating against rival services, especially startups, potentially harming innovation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Wheeler’s draft opens the door to so-called “paid prioritization,” in which broadband providers could strike special deals with Internet companies for preferential treatment.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Commissioners Clyburn and Rosenworcel both oppose such special deals, and offered their views in statements on Thursday.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Commissioners Pai and O'Rielly oppose regulating the Internet-based on free-market principles and said as much in their own statements.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Open Internet advocates argue that strong net neutrality rules are essential in order to ensure that the Internet remains the open, dynamic platform that has spawned a generation of technological innovation and generated billions of dollars in economic growth — much of it coming from tech startups.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "As a presidential candidate, Obama famously declared that he would “take a backseat to no one in my commitment to network neutrality,” and vowed to appoint FCC commissioners who felt the same way.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Many net neutrality advocates feel burned by Obama.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "And they weren’t amused when he chose Wheeler, who once served as a top industry lobbyist, as president of the National Cable Television Association (NCTA) and later as CEO of the Cellular Telecommunications & Internet Association (CTIA), to be FCC chairman.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Wheeler insists he supports open Internet principles, but many net neutrality advocates are still skeptical.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "“Tom Wheeler spoke passionately about the open Internet, but his rousing rhetoric doesn’t match the reality of his proposal,” says Craig Aaron, president and CEO of Free Press.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Net neutrality advocates want the FCC to reclassify broadband companies under the Title II “common carrier” provisions of the Communications Act that have governed traditional phone companies for decades.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Such reclassification, which Wheeler says he’s considering, would subject the broadband companies to tighter regulation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "The broadband giants oppose such reclassification with every fiber of their being.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "“Reclassification of broadband Internet access offerings as Title II — telecommunications services would impose great costs, allowing unprecedented government micromanagement of all aspects of the Internet economy,” twenty-eight CEOs including Lowell McAdam of Verizon, Randall Stephenson of AT&T, Robert Marcus of Time Warner Cable, and Brian Roberts of Comcast, wrote in a letter to the FCC.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "“Under Title II, new service offerings, options, and features would be delayed or altogether foregone.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Consumers would face less choice, and a less adaptive and responsive Internet.”",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "The FCC vote to approve the NPRM triggered a four-month comment period for the public to weigh in: 60 days (until July 15) to submit initial comments and another 57 days (until September 10) for reply comments.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "The agency is seeking input on several crucial questions including whether the FCC should prohibit paid prioritization completely, whether the new rules should apply to mobile broadband service, and whether the agency should reclassify broadband service under Title II “common carrier” principles.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "The FCC has encouraged the public to participate in the process.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Interested parties can submit their comments here , or at Docket 14-28 : “Protecting and Promoting the Open Internet.” Recent public comment filings can be found here .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Email comments are also accepted at openinternet@fcc.gov .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "(Remember, you’ll be filing a document into an official FCC proceeding, and any information submitted, including names and addresses, will be publicly available via the web.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Most Popular on TIME 1 2 3 Sign up for Inside TIME.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Be the first to see the new cover of TIME and get our most compelling stories delivered straight to your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Please enter a valid email address.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Check the box if you do not wish to receive promotional offers via email from TIME.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "You can unsubscribe at any time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "By signing up you are agreeing to our and Thank you!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "For your security, we've sent a confirmation email to the address you entered.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Click the link to confirm your subscription and begin receiving our newsletters.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "If you don't get the confirmation within 10 minutes, please check your spam folder.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "Contact us at editors@time.com .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "EDIT POST Special Offer: 12 Weeks for $12 SUBSCRIBE NOW Sign up to receive the top stories you need to know now on politics, health and more SUBSCRIBE TIME Edge  Shop the TIME Store  , ( ) and .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "TIME may receive compensation for some links to products and services on this website.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Offers may be subject to change without notice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

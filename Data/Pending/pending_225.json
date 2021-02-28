@@ -1,0 +1,421 @@
+{
+    "document_id": -1,
+    "url": "https://www.mercurynews.com/2019/10/06/editorial-california-must-defend-states-robust-net-neutrality-law/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:32:27.562636+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "SiliconValley.com Letters to the Editor SUBSCRIBE NOW GET BREAKING NEWS IN YOUR BROWSER.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "CLICK HERE TO TURN ON NOTIFICATIONS.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "SiliconValley.com Letters to the Editor SUBSCRIBE NOW Editorial: Internet’s future rests on…   Share this: Click to share on Facebook (Opens in new window) Click to share on Twitter (Opens in new window) Click to email this to a friend (Opens in new window) Click to print (Opens in new window) California jobless claims   New shelter in place rules   San Jose rent freeze   Elon’s outburst   Yoga with 🐈 🐈 🐈   Bay Area COVID-19 map   Coronavirus: California, Los Angeles see huge jump in new cases   Editorial: Internet’s future rests on California’s defense of net neutrality law   Stakes couldn’t be higher for consumers and businesses seeking to preserve equal access to web sites Share this: Click to share on Facebook (Opens in new window) Click to share on Twitter (Opens in new window) Click to email this to a friend (Opens in new window) Click to print (Opens in new window) Tech pioneer Tim Berners-Lee, the inventor of the World Wide Web, remains a fierce defender of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "(Jean-Christophe Bott/Associated Press)   .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "PUBLISHED: October 6, 2019 at 7:10 a.m. .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "UPDATED: October 6, 2019 at 4:19 p.m.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The future of the internet as we know it rests in California’s ability to defend what is widely regarded as the nation’s most robust net neutrality law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The stakes couldn’t be higher for consumers and small businesses seeking to preserve equal access to the internet: The outcome will determine whether users will have the ability to access and watch material of their choosing from web sites at an affordable price.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "A federal appeals court ruling Tuesday upheld the Federal Communications Commission’s 2017 misguided repeal of net neutrality protections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The ruling opens the door for broadband companies such as AT&T, Comcast and Verizon to take control of the internet by slowing down or even blocking traffic from web sites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The internet service providers (ISPs) stand to rake in billions by charging web sites more for faster internet access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "But the federal appeals court overruled the FCC’s claim that it could prevent state governments from establishing their own net neutrality standards.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "California did just that in 2018 when then-Gov.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Jerry Brown signed California’s model legislation requiring ISPs to to treat all web traffic equally.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The state agreed to hold off on enforcing its law until the federal appeals court could decide whether the FCC regulations prevented states from enforcing their laws.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Four other states — New Jersey, Oregon, Vermont and Washington — have passed laws or resolutions protecting net neutrality principles.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Nearly 30 other states are considering some form of net neutrality laws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "All eyes will be on California as it tries to prove that its legislation does not directly conflict with the FCC regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "It won’t be an easy task.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "California’s argument will likely rest on its right to protect consumers, a position bolstered by the FCC’s insistence that it does not have the authority to regulate broadband providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Tech pioneers such as World Wide Web inventor Tim Berners-Lee and “Father of the internet” Vint Cerf are strong net neutrality advocates.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Berners-Lee in 2017 argued that “to reach its full potential, the internet must remain a permissionless space for creativity, innovation and free expression.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "… (The FCC) wants to step back and allow concentrated market players to pick winners and losers online.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Their talk is all about getting more people connected, but what is the point if your ISP only lets you watch the movies they choose, just like the old days of cable?” Ultimately, Congress needs to step in and write a national net neutrality law that will settle the issue, once and for all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "But don’t hold your breath waiting for it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "A bill providing net neutrality protections sailed through the House of Representatives in April, but languishes in the Senate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "That’s no big surprise.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Broadband companies gave Senate Majority Leader Mitch McConnell $251,110 prior to the FCC’s repeal of net neutrality protections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "All told, broadband providers have poured more than $600 million into their lobbying efforts in the last 20 years.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Until Congress acts, it’s up to the states to protect consumers and businesses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "California should take the lead by fiercely defending its net neutrality law, making it the standard for others to adopt.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Report an error AT&T FCC Net neutrality PM Report All Access Digital offer for just 99 cents!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Watch: California Gov.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Gavin Newsom provides update on coronavirus response, Apr.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "30       Coronavirus: Bay Area shelter-in-place allows construction, golf       Fox News vs. MSNBC: Chris Hayes denounces video of California doctors who downplay the threat of COVID-19 as Tucker Carlson hypes it       California Coronavirus Data: See latest COVID-19 case and death updates       Cue the debunking: Two California doctors go viral with dubious COVID test conclusions       Editorial: McConnell’s reckless COVID-19 bailout claim on pensions   April 29, 2020 at 5:10 a.m. Before Senate majority leader says blue states like California should seek bankruptcy, he should look at Kentucky.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Editorial: No time to lose resolve in fight against coronavirus   April 25, 2020 at 5:10 a.m. Bay Area findings add data as scientists work to unsort COVID-19 mysteries and Trump marches to his own drummer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Editorial: Newsom must end cover-up of COVID-19 nursing home deaths   April 23, 2020 at 12:14 p.m. California governor should insist on state, county transparency, reject immunity for abusive facilities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Editorial: U.S. must stop blocking global effort to fight COVID-19   April 23, 2020 at 5:10 a.m. Short-sighted approach needlessly pits nation against nation and could backfire on Americans   RSS Today’s e-Edition Monster.com Powered by WordPress.com VIP This website uses cookies to improve your experience.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "By continuing to use the site, you accept our and .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "OK Post was not sent - check your email addresses!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Email check failed, please try again    Sorry, your blog cannot share posts by email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

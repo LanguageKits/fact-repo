@@ -1,0 +1,61 @@
+{
+    "document_id": -1,
+    "url": "https://www.facebook.com/freepress/posts/10157821673770610",
+    "document_category": "Social Media",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:51:55.990212+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "or TV Show MediaJustice C-SPAN Today at 6:30 AM \"People of all political stripes overwhelmingly demanded a free and ... open internet, and instead Chairman Pai stuck us with this dumpster fire.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 🔥 https://www.freepress.net/…/free-press-… Yesterday at 8:00 AM Congress should expand broadband so everyone, especially low-income ... Americans, can stay connected to vital resources.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Join in a few minutes for a digital press conference where we will deliver five petitions that jointly received over 100K signatures: Yesterday at 6:30 AM The FCC is relying on companies like AT&T, Comcast and Verizon to d ... o the right thing out of the goodness of executives’ hearts.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "And in a not-so-stunning turn of events, companies are breaking their pledge and disconnecting people.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "🤦‍♀️ 🤦‍♀️ 🤦‍♀️ 🤦‍♀️ 🤦‍♀️ 🤦‍♀️ 🤦‍♀️ 🤦‍♀️ 🤦‍♀️ 🤦‍♀️ 🤦‍♀️ 🤦‍♀️ 🤦‍♀️ 🤦‍♀️ 🤦‍♀️ 🤦‍♀️ 🤦‍♀️ 🤦‍♀️ 🤦‍♀️ 🤦‍♀️ 🤦‍♀️ English (US) 中文(简体) العربية 한국어 हिन्दी 日本語",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

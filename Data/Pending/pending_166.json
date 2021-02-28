@@ -1,0 +1,341 @@
+{
+    "document_id": -1,
+    "url": "https://mtstandard.com/opinion/letters/net-neutrality-needed/article_06b03de1-418e-5947-abbc-4c2983497b16.html",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Steve Holt and Helena",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:29:53.698336+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": " Saved items COVID-19 406 Politics TV Listings e-Edition Place an ad Newsletter sign-up YouTube .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Saved items COVID-19 WhatsApp SMS Net neutrality needed 0 comments  Share this WhatsApp SMS Net neutrality needed Mar 20, 2020 Mar 20, 2020 0 × You have run out of free articles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "You can support our newsroom by joining at our lowest rate!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Log in or Activate your account .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Loading&hellp; {{title}} {{start_at_rate}} {{format_dollars}} {{start_price}} {{format_cents}} {{term}} {{promotional_format_dollars}}{{promotional_price}}{{promotional_format_cents}} {{term}} {{html}} {{action_button}} Thanks for being a subscriber.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Sorry, your subscription does not include this content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Please call 877-514-6397 to upgrade your subscription.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Keep reading for FREE!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Enjoy more articles by signing up or logging in.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "No credit card required.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Net neutrality needed As a small business owner, the internet is critical to my business.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "It’s the first place potential customers go to find us, it’s how I communicate with employees and partners, and it’s how I access a lot of the tools and services I need to keep the trains running.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "I want Congress to pass open internet legislation — sometimes call “net neutrality” — because small businesses need a fair shake online.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "I shouldn’t have to worry about having to pay more to avoid being pushed into a slow lane by broadband providers or big tech platforms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "It's common sense, it’s fair, and it’s an idea popular with voters in both parties.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "But Washington has become so polarized that even such an easy issue like this has gotten stuck in a partisan shouting match.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "And because Congress has never written net neutrality into law, regulators at the FCC have even tried resorting to unusual workarounds to implement net neutrality — such as reclassifying all broadband providers as “common carriers” like telephone or railroad monopolies, an old-school legal framework originally written in the 1930s.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "While net neutrality is popular, saddling modern high-speed broadband service with policies originally written almost a century ago seems to be Beltway overreach.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "When this utility approach was tried years ago, investment in new broadband networks dipped measurably.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "We need to find a better solution.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Rather than yet another round of FCC regulations likely to get tied up in court for years on end, Congress should solve this issue for good with a permanent, bipartisan open internet law, without all the baggage of outdated utility regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "A more modern approach will both protect the internet’s openness while encouraging more investment to expand broadband networks to reach more Montanans with faster speeds.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Montana’s two senators have always shown a willingness to break through partisan impasse with common sense, pragmatic solutions.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "That’s exactly what we need yet again on this issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "It’s the kind of pragmatic, problem-solving leadership that small businesses — and all Montanans with a stake in the internet economy — urgently need.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "0 comments  1 0 0 0 1 Catch the latest in Opinion Get opinion pieces, letters and editorials sent directly to your inbox weekly!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "I understand and agree that registration on or use of this site constitutes agreement to its user agreement and privacy policy .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Related to this story Apr 23, 2020 I have known Mr. J.P. Gallagher for the majority of my life.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "I had always considered him an acquaintance, but after working professionally wit… Apr 27, 2020 For 16 years Helena Democrats have controlled our state with many state agencies having little if any accountability.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Letter to the editor icon2 WhatsApp SMS YouTube e-Edition Work here .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Powered by from TownNews.com .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "{{title}} {{summary}} You don't have any notifications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Get up-to-the-minute news sent straight to your device.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

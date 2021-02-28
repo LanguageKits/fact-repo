@@ -1,0 +1,581 @@
+{
+    "document_id": -1,
+    "url": "https://www.theatlantic.com/technology/archive/2014/09/todays-net-neutrality-campaign-explained/379973/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Rose Eveleth",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:56:10.928967+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "svg PUBLIC \"-//W3C//DTD SVG 1.1//EN\" \"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd\" Skip to content Sign in If you ignored all the popups on Tumblr, Reddit, and Twitter, this is for you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "September 10, 2014 Today is Internet Slowdown Day.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "You might have seen that phrase around, or noticed the little spinny wheel avatars in your Twitter feed, or the popups on your favorite sites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "If you ignored them all, this is for you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Let’s start with a key point: The net isn’t actually slowing down today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Your favorite websites will load just as quickly (or slowly) as they usually do.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "But somewhere on pages like Tumblr, Kickstarter, Meetup, Netflix, Reddit, Twitter, Upworthy, Urban Dictionary, Vimeo, and more, you’ll see a little note.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "“Protect Internet freedom.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Defend Net Neutrality,” says the little popup bar on Netflix.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "“Today’s the day,” Tumblr reminds you.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "“The day you can help save the Internet from being ruined.” At Etsy they ask you to “Protect the Etsy Community from Internet Slow Lanes.” The campaign is called Battle for the Net , and is organized by a handful of groups like Fight for the Future, Demand Progress, and the Free Press Action Fund.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The push is for Net Neutrality, and specifically for something called the “Title II” approach.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Here’s what’s going on.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "In May of this year, the Federal Communications Commission proposed new rules for how content online would be handled.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The proposal sounds innocuous enough on its face.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "It would require telecommunication companies to promise that “all users have access to an Internet experience that is sufficiently robust, fast and effectively usable.” The idea is that these regulations would keep sites from intentionally slowing down access to information, but it would allow them to pay for a guaranteed fast lane.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "This is where net neutrality folks balk.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Essentially, these new rules set up a world in which speed on the Internet is bought and sold.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "(It's worth noting that this is already true in some ways now, but this would enshrine the practices in the regulatory fabric of the Internet.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Sites that can afford it could pay for access to the fast lane.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Sites that can’t, get stuck in the slow lane.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "This is where today’s lingo comes from.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "These net neutrality advocates are opposed to this FCC plan—which is now, conveniently, open for public comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "So today, they’re trying to get Internet users to speak up and tell their representatives that they don’t want site speed to be dictated by how deep that sites pockets are.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "The alternative that today's campaigners are pushing is to regulate broadband Internet providers like utilities using a proviso of the Communications Act of 1934 .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Right now, broadband companies are considered a Title I entity.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Title II of that act describes “common carriers,” and it’s the way that the FCC currently regulates phone companies.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Fight for the Future is proposing that the FCC simply bump Internet providers into Title II.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Under Title II, common carriers are expressly forbidden from making “ any unjust or unreasonable discrimination in charges, practices, classifications, regulations, facilities, or services.” It would give the FCC the ability to regulate Internet service providers like they do phone carriers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Another key part of Title II is that the FCC can selectively chose which pieces its going to apply to which type of company.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "So if the agency decides that a rule in Title II doesn’t make sense to enforce, they can simply stop enforcing it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "This is what net neutrality advocates are calling a “light-touch Title II approach.” The idea being that the FCC could lump Internet service providers into Title II, and then exempt them from most of the rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "So today’s campaigners want users to speak up in favor of both net neutrality and the Title II approach.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "It’s worth noting that not all Net Neutrality advocates are in favor of this Title II plan.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Phone companies, under Title II, are heavily regulated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Far more regulated than sites are today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "So some see the Title II switch as nothing more than a bait and switch.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Telecommunications companies don’t want to be classified as Title II because it means more rules for them to follow.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "They’re not so sure the FCC is simply going to plop them into Title II and release them of the rules it includes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Here’s how Tumblr explains the problem : Here’s the deal: The FCC is on the verge of allowing Internet service providers (like the one you’re using right now) to build fast lanes for sites that can pay for them, leaving everyone else in the slow lane.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "This would be disastrous for anyone who uses the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "But here’s the thing: These websites are smart—they’re not making an ethical argument about what is fair in the world of the web.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "They’re not talking about the freedom of information, or equal access to data.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "They’re talking about you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "If you let this happen, your day to day Internet experience will be worse.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "That episode will buffer for longer, that Nicki Minaj song will take longer to play and that adorable corgi GIF will take forever to load.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "No, you don’t.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "And not only are they making it about your experience, they’re making it a fight between the big rich bad guys and the little mom-and-pop websites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "For the record, Netflix makes $71 million every year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Twitter makes $312 million.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "These companies are big hitters with deep pockets whose businesses rely on fast connections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "If they lose this fight, you can be pretty sure that they’ll fork over the dough to be in the fast lane—and then probably turn around and charge you for it somehow.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "They just don’t want to.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Which is, of course, totally reasonable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "We want to hear what you think about this article.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Submit a letter to the editor or write to letters@theatlantic.com.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "is a writer, producer, and designer based in New York.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

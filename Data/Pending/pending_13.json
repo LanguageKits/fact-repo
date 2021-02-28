@@ -1,0 +1,871 @@
+{
+    "document_id": -1,
+    "url": "https://www.commondreams.org/views/2020/03/03/how-trumps-attack-net-neutrality-created-legal-mess-entire-internet",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Jessica J. González ",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:37:51.967956+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to main content : Common Dreams is the one news source that cares about making the world a better place.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "We don’t just transcribe the events of the day, checking our values at the door.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "We believe in providing the news in a way that makes a better world possible.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "And that is needed now more than ever.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "We believe that with a pandemic spiraling out of control, people desperately need information they can trust.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "And we believe that hard-hitting journalism is essential to hold the Trump administration accountable for their deadly incompetence.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Common Dreams’ Spring Fundraising Campaign is critical to ensure that we can continue to provide the nonprofit progressive journalism you count on every day.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Every reader contribution, however big or small, is so valuable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "-- Please select a donation method: The only thing that keeps us going is support from readers like you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Every contribution makes a huge difference.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "PLEASE GIVE NOW Our pandemic coverage is free to all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "As is all of our reporting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "But your generosity is crucial to our survival.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "DONATE NOW SUBSCRIBE DONATE Search form Published on Tuesday, March 03, 2020 by Now more than ever we need the Senate to pass the Save the Internet Act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "by 0 The stakes for ensuring that people have reliable access to broadband are higher than this administration will ever admit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "(Photo: /Flickr/cc) February marked another turn in the fight for Net Neutrality, the principle that people—not their internet providers—should control their online experiences.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "This particular phase of the battle over the future of the internet illuminates how the Trump FCC’s Net Neutrality repeal undermines public safety and our national goal of universal broadband adoption.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "In 2015, in response to a popular and bipartisan outcry, the Obama administration passed common-sense Net Neutrality rules that prevented ISPs from blocking, throttling and taking money in exchange for prioritizing certain types of internet traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "That decision also restored the FCC’s legal authority over the broadband industry under Title II of the Communications Act.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Congress granted the agency this authority decades earlier but the George W. Bush-era FCC willingly surrendered it to companies like AT&T, Comcast and Verizon in a blatant show of agency capture.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "This restored authority ensured that the FCC could step in if broadband providers—many of whom enjoy near-monopoly status—discriminate, gouge or treat people unfairly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "In 2017, despite very little support beyond the Big Telecom lobby, the Trump FCC ignored the public’s wishes and issued a sweeping repeal of the Obama-era rules, including a misguided decision to cede its Title II authority to regulate and oversee broadband providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "As Free Press Action explained at the time, the FCC’s decision to take away its own congressionally granted authority over broadband providers has consequences that reach well beyond the issue of ISPs blocking or throttling websites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "That sweeping decision also undercut the FCC’s authority to protect broadband customers from ISP abuses, such as privacy violations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "It also undermined the legal foundation that supports the FCC’s broadband Lifeline program, the most effective federal program aimed at alleviating the high costs of broadband for poor people.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Moreover, the repeal called into question a number of other important FCC functions, such as ensuring that ISPs protect and promote public safety.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "SCROLL TO CONTINUE WITH CONTENT Our pandemic coverage is free to all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "As is all of our reporting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "But your generosity is crucial to our survival.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Please select a donation method: In October 2019, the U.S. Court of Appeals for the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Circuit upheld portions of the FCC’s Net Neutrality repeal but ordered the agency to seek public comment on three of the decision’s many harms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Specifically, the court directed the FCC to examine how repealing its own authority under Title II might undermine three important public policies that protect people.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "The FCC on Feb. 19 began the process of inviting public comment on those three areas.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "The first issue is whether the agency has sufficient authority to ensure that broadband networks support public safety.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "The second deals with whether the FCC has the power to ensure that broadband is deployed efficiently across the country.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "And the third is whether the FCC has ample authority to support low-income Americans using a wider variety of broadband services, not just phone-company offerings that include voice service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Over the coming months, the public will have the opportunity to comment on these aspects of the 2017 ruling.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Free Press Action will also be filing detailed comments in the proceeding, but our immediate thoughts are this: The people overwhelmingly demanded a free and open internet, and instead got stuck with this mess.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "The FCC not only repealed Net Neutrality, but, as the court has indicated, it put broadband access, affordability and even public safety at risk.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "That the court sent these critical issues back to the FCC for further review demonstrates that Chairman Ajit Pai’s interpretation of his agency’s legal authority rests on very unstable ground.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "The Trump FCC’s overzealous efforts to remove broadband providers from any obligations to protect internet users defies what Congress clearly intended for these critical communications services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Our national goal of achieving universal broadband service faces several roadblocks without the FCC’s Title II authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "The agency will also have difficulty upholding public safety if we don’t restore this crucial legal standard.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "These harms are already playing out.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Feb. 25 marked the comment deadline in the Trump FCC’s ongoing Lifeline proceeding: The agency is once again waging war on the poor and trying to make it harder for poor people to access Lifeline services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "And on Feb. 27 the House Energy and Commerce Committee held a hearing to examine eight bills to improve public-safety communications during natural disasters and other emergencies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Tied up in both of these inquiries is the question of whether the FCC can properly support and protect the American people given its decision to abandon its Title II authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Now more than ever we need the Senate to pass the Save the Internet Act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "The legislation, which the House of Representatives passed last year, would restore Net Neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "It would also reinstate the FCC’s authority to protect broadband customers and ensure that broadband is accessible and affordable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "We also need states to step up to protect their constituents’ internet rights: Already four states have passed pro-Net Neutrality laws, and five more have issued executive orders saying they won’t do business with any company that fails to adhere to open-internet principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "And we need a president who will fight for Title II Net Neutrality and appoint FCC officials who are committed to the same.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "The stakes for ensuring that people have reliable access to broadband are higher than this administration will ever admit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "is co-CEO of Free Press Action.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Follow her on Twitter: @JGo4Justice Our work is licensed under a Creative Commons Attribution-Share Alike 3.0 License.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Feel free to republish and share widely.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Our pandemic coverage is free to all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "As is all of our reporting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "Since the coronavirus pandemic broke out, traffic to the Common Dreams website has gone through the roof— at times overwhelming and crashing our servers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "Common Dreams is a news outlet for everyone and that’s why we have never made our readers pay for the news and never will.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "But if you can, please support our essential reporting today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "Please select a donation method: More in: , , , FCC , , US Senate , (Click to see more comments or to join the conversation) Common Dreams is providing the independent, nonprofit news needed to get through this crisis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "DONATE NOW 64% Please Help.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "We have $22,000 left to raise.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "Today's Views The Killer-in-Chief Get our best delivered to your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "In the first of many more planned, unfathomable moves, the military has performed obscenely expensive, deeply pointless flyovers over COVID-ravaged New York in what was billed as \"a touching display of American resolve.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "Residents pleading for masks, tests and a living wage were \" overwhelmingly uninspired\" by the shiny planes roaring over a still-9/11 traumatized city - \"My God..the virus..it has planes now!\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "- especially as they flew over hospitals putting duct tape on their ventilators.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "To ignite change for the common good.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "Common Dreams has been providing breaking news & views for the progressive community since 1997.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "We are independent, non-profit, advertising-free and 100% reader supported.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "Portland, ME 04112-0443 USA via Email: 207.775.0488 Common Dreams brings you the news that matters.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "Sign up for Newsletter Support our common dreams.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "$15 $27 $50 $100 $250 Common Dreams is a small nonprofit with a big mission.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "Every day of the week, we publish the most important breaking news & views for the progressive community.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "To remain an independent news source, we do not advertise, sell subscriptions or accept corporate contributions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "Instead, we rely on readers like you, to provide the \"people power\" that fuels our work.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "Please help keep Common Dreams alive by making a contribution.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "- Craig Brown, Co-founder -- Join the small group of generous readers who donate, keeping Common Dreams free for millions of people each year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "Every donation—large or small—helps us bring you the news that matters.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "-- Join the small group of generous readers who donate, keeping Common Dreams free for millions of people each year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "Every donation—large or small—helps us bring you the news that matters.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "PLEASE GIVE NOW PLEASE GIVE NOW Progressive independent media doesn’t exist without support from its readers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "There’s no way around it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "Just the people who believe in this mission and our work.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "If you believe the survival of independent media is vital to do the kind of watchdog journalism that a healthy democracy requires, please support non-profit Common Dreams today: Choose an amount $10 $27 $50 $100 $250 $ Donate this amount monthly",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

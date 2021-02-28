@@ -1,0 +1,681 @@
+{
+    "document_id": -1,
+    "url": "https://www.vox.com/2019/4/10/18302186/net-neutrality-house-bill-senate",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Ella Nilsen",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:31:57.576538+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to main content Vox homepage Log in or sign up Site search Vox main menu ✕ Millions of readers rely on Vox’s free explanatory journalism to understand and navigate the coronavirus crisis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Support our work with a contribution now.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Why the Senate is blocking a new net neutrality bill, a year after trying to save it. The House just passed a bill to bring back net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "McConnell says it’s “dead on arrival” in the Senate.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Senate Minority Leader Chuck Schumer and House Speaker Nancy Pelosi at a net neutrality press conference at the Capitol Building on May 16, 2018, in Washington, DC.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The US House of Representatives just passed a bill to bring Obama-era net neutrality rules back to the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "This time, they want to make these regulations law so the Federal Communications Commission can’t overturn them easily.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "On Wednesday, the House passed the Save the Internet Act of 2019 on a vote of 232-190.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The bill is now headed to the Senate, where Republican leaders have already said it’s destined to fail.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Net neutrality regulations ensured that internet service providers like Verizon and Comcast had to treat all customers and websites equally.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "As Vox’s Aja Romano explained , these rules had a simple underlying principle: They treated internet access “as a public service that everyone has a right to use, not a privilege.” But FCC Chair Ajit Pai, an Obama-appointed commissioner whom President Trump made the leader of the regulatory body that governs the internet, scrapped the rules in December 2017.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The bill passed Wednesday is the latest attempt by House Democrats to bring back the Obama-era rules, but as is the case with most bills passed by the House this year, there are two huge roadblocks standing in the way: the Senate and President Trump.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Trump has said he will veto the bill should it make it to his desk.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Senate Majority Leader Mitch McConnell called the bill “dead on arrival in the Senate” and will likely decline to bring the legislation up for a vote as a result.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Senate Commerce Committee Chair Roger Wicker (R-MS) told Vox he plans to block Democrats’ bill but said he’d be open to a bipartisan plan in the future.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "There’s actually precedent here for Republicans and Democrats agreeing on the need for a free and fair internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "The Republican-controlled Senate narrowly passed a bill last year to restore the net neutrality rules after Trump’s FCC scrapped them.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The House, which was under Republican control at the time, didn’t bring the bill to the floor.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The situation in the Senate is slightly different in 2019.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "McConnell has shown little appetite to fight Trump on anything the president opposes outright, including ending a government shutdown over the border wall.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "And given that Republicans picked up Senate seats in the 2018 election, the three GOP senators who voted for net neutrality — Susan Collins (ME), Lisa Murkowski (AK), and John Kennedy (LA) — would have to be joined by at least one more of their Republican colleagues to pass a net neutrality bill.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Even though public support for restoring net neutrality rules is overwhelming ( including among Republican voters ), due to conditions in the Senate and Trump’s veto threat, net neutrality is still dead and doesn’t appear headed for resurrection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The bill Democrats passed in the House, the Save the Internet Act of 2019, is just three pages long.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "It’s fairly simple — it would undo the FCC’s 2018 repeal of net neutrality rules and codify the rules into law, making it difficult for a future FCC chair to undo them.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "“Today, nobody is enforcing any rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "There’s no cop on the beat,” Rep. Mike Doyle (D-PA), the bill’s main sponsor, told Next Pittsburgh .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "“Chairman Ajit Pai, when he repealed the open internet order, basically just abdicated the FCC’s authority to regulate the ISPs.” The fight over net neutrality is, at its core, a fight over whether the internet should be treated as a public utility and how much access users should have to it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Romano wrote : Classifying ISPs as utility companies under Title II meant they had to treat the internet like every other utility — that is, just like gas, water, or phone service — and that they couldn’t cut off service at will or control how much of it any one person received based on how much that person paid for it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "The idea was that the internet should be a public service that everyone has a right to use, not a privilege, and that regulating ISPs like utilities would prevent them from hijacking or monopolize that access.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "In other words, under the Obama-era net neutrality rules, major providers couldn’t block access to certain websites.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "They also couldn’t slow down broadband speeds for certain websites or bundle websites or apps for a certain fee (like how some companies currently bundle cable packages).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "The repeal of the rules under Pai (a former Verizon lawyer) undid all that.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Those in favor of net neutrality rules being overturned argued that too much regulation was stifling competition; those who wanted to keep them argued the rules were a way to keep a small handful of corporate internet service providers from having too much power to raise prices on customers whenever they wanted, and control access to websites and browsing speeds.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Doyle, the chair of the Subcommittee on Communications and Technology within the House Committee on Energy and Commerce, said he believes internet access is a right for all and that his bill ensures no content or websites will be given priority.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "He also said the bill boosts investment into rural broadband programs and programs that provide internet access to low-income people.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "“We want that gatekeeper to be neutral,” Doyle told Next Pittsburgh.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "“Not advantaging someone’s content over someone else’s, and not letting some consumers get through quicker than others.” “We believe strongly that access to the internet should be neutral access and one group or another shouldn’t be given preference or shut out in any sense,” he said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "“It’s going to pass the House, and I hope the Senate will take it up.” Some Republicans were in favor of net neutrality but not the Democrats’ plan. The Senate was once leading the charge on net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "But that’s no longer the case.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "In the wake of the FCC repealing net neutrality in 2017, three Republicans — Collins, Murkowski, and Kennedy — sided with Senate Democrats to formally disapprove of the rules changes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Using the Congressional Review Act, which lets Congress reverse any federal regulation with a simple majority vote, senators hoped to overturn the FCC’s changes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "The Senate passed its bill, but it stalled in the Republican-controlled House.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Now that Democrats control the House, it’s the Senate that’s stalling.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "When you bring up net neutrality to some Republicans senators, they say they don’t believe getting rid of it harmed competition or slowed internet speeds.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "“Did the internet die last year?” Sen. Cory Gardner (R-CO) asked Vox incredulously.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "And while Republicans might be willing to tackle net neutrality in the future, they won’t entertain the House bill.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "“It would be nice to have a bipartisan compromise that makes it clear the internet needs to be open, free from blocking, but also open to innovation and letting small businesses come in as they’ve done in the past and have an opportunity to become successful,” Wicker said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "He added that he’s open to bringing up a bipartisan net neutrality bill in the future, possibly later this year.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "“We’ll take the issue up in a thoughtful manner,” he said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "“I really think the internet is prospering like it wasn’t two years ago.” Li Zhou contributed to this report.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "The new Michael Flynn documents aren’t the bombshell Trump is making them out to be Many world leaders have seen double-digit polling surges amid coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Trump isn’t one of them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "My PTSD can be a weight.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "But in this pandemic, it feels like a superpower.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "How to get the coronavirus unemployment benefits, explained Mitch McConnell’s shameless pursuit of power, explained 30 million Americans have lost their jobs in 6 weeks Where the coronavirus is hitting rural America hard Covid-19 is running rampant through some workplaces, including factories and farms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Russia’s coronavirus outbreak is getting bad.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Putin says the worst is yet to come.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "The crisis continues to be a massive challenge for the Russian dictator.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "Quarantine frugality is different from traditional thriftiness After decades of materialism, Americans are experimenting with thriftiness.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "Mitch McConnell is gaslighting Democrats (again) He is framing necessary stimulus measures as concessions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "Democrats should call his bluff.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "Its death rate suggests it hasn’t.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Sweden’s coronavirus death toll is worse than America’s but better than New York City’s.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "Sign up for the  newsletter  Get our newsletter in your inbox twice a week.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "(required) By signing up, you agree to our and European users agree to the data transfer policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "For more newsletters, check out our newsletters page .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "Mitch McConnell’s shameless pursuit of power, explained Do not sell my info Licensing FAQ Advertise with us Share this story",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

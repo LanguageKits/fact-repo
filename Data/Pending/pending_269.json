@@ -1,0 +1,911 @@
+{
+    "document_id": -1,
+    "url": "https://www.cnbc.com/2020/02/28/democratic-presidential-candidates-on-big-tech-issues.html?fbclid=IwAR2gun-r-CTSvreMLExus5UYbiJRaqWi237tSTEGNOP0y9n-HPk7JN0ZClE",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "lauren Feiner",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:51:46.364776+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Voters from 14 states and one U.S. territory will decide which Democratic candidate to support for the presidential nomination on Super Tuesday.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Besides some of the top issues like healthcare and gun policy, some voters may be weighing candidates stances on technology.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "These are the candidates' stances on key tech issues like breaking up Big Tech, online privacy regulation and net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Voters from the 14 states and one U.S. territory hosting primaries and caucuses on Super Tuesday have plenty of issues to consider in choosing a presidential nominee.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Besides top issues like healthcare and gun policy, some voters may be weighing the Democratic candidates' stances on technology.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Americans have grown increasingly concerned about the power Big Tech companies like Facebook, Google, Amazon, Apple and Microsoft  and wield over their personal information and future job prospects.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "A found that attitudes toward tech companies soured in the last half of the decade .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Between 2015 and 2019, the percentage of adult U.S. respondents who said tech companies have a positive effect on the way things are going in the country declined from 71% to 50%,.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Among the Democratic candidates, Massachusetts Sen. Elizabeth Warren has made the biggest and earliest splash with her views on the tech industry, releasing her plan to \"break up Big Tech\" in March.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "But Warren is not the only candidate to have weighed in on tech issues, which extend well beyond antitrust.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Here's what voters should know about the stances of the top-polling Democratic presidential candidates on the key tech issues: said at a Washington Post event last year that he would \"absolutely\" try to break up Facebook, Google and Amazon.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Sanders is perhaps only second to Warren in his readiness to declare support for a breakup.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "said that as a candidate for office, he doesn't feel it's appropriate to dictate what companies should be broken up, according to his interview with the .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "But he would empower the Federal Trade Commission to better assess and handle anticompetitive behavior by tech firms, he said at a CNN town hall in April.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "said we should \"be worrying about the concentration of power\" in an interview with .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The tech industry experienced relatively positive treatment under the Obama administration, but Biden told the editorial board, \"There are places where [Former President Barack Obama] and I have disagreed.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "was the first out of the gate with her proposal to break up Big Tech.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Since then, she's maintained a persistent drumbeat on the topic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Warren has pledged to turn down large donations from Big Tech executives to shirk any questions of influence, though it's not entirely clear what her campaign counts as its threshold.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "VIDEO 0:55 00:55 Let's enforce antitrust laws: Elizabeth Warren , the top Democrat on the Senate Antitrust Subcommittee, said \"this consolidation issue is the most underrated discussed issue of our time,\" in her interview with the .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Klobuchar said strong antitrust enforcement involves looking back at past mergers like that of Facebook and Instagram.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Last year, Klobuchar introduced legislation to update antitrust enforcement, including by shifting the burden onto companies to prove that very large mergers won't hurt competition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": ", a billionaire tech and media mogul himself, told the in January that Warren and Sanders don't \"know what they're talking about\" when it comes to breaking up the big tech companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "He said he is open to more narrow forms of enforcement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Digital privacy told , \"Americans have the right to their own data and that there should be strict penalties for companies who are negligent in protecting that data.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "He added that there should be oversight of the collection and sale of consumer data, particularly by Big Tech companies like Facebook.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "said in a podcast interview that he believes Americans should have a \"right to be forgotten,\" similar to that granted to citizens of the European Union .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Buttigeg told journalist Kara Swisher on the podcast, \"we need to have some level of relationship to the value that is created in our name.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "A U.S. version of the \"right to be forgotten\" would likely raise serious First Amendment issues, but Buttigieg argued tech companies are already making decisions around speech \"because the policy world didn't figure it out.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "told the Times Editorial Board, \"we should be setting standards not unlike the Europeans are doing relative to privacy,\" while speaking about a variety of tech issues.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "The EU's flagship privacy policy, the gave citizens more control over their data, including the right to find out why a company is storing their data and choose to transfer it to another provider.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "VIDEO 28:05 28:05 The full interview with Democratic presidential candidate Joe Biden has proposed legislation that would allow executives of companies with more than $1 billion in annual revenue to be held criminally liable in cases where they are found to have acted negligently and violated civil law impacting the personal data of 1% of a state or American population.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "has signed on a key Democratic privacy bill in the Senate that would allow for states to continue to issue and enforce their own privacy laws and give individuals the right to bring their own lawsuits against companies they feel violated their rights.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "has indicated a preference for consistency in federal digital privacy legislation, seeming to align with conservatives who want a federal law that preempts state law, according to an interview with .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Encryption and backdoors told he opposes \"the Trump administration's efforts to compel firms to create so-called 'backdoors' to encrypted technologies — an attack on the First and Fourth Amendments that would ultimately leave everyone less secure.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "He also said, \"Technology cannot shield people from the justice system, especially when it comes to white-collar and other financial crimes.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "told , \"End-to-end encryption should be the norm,\" but that \"we also need to ensure that law enforcement has access to the tools it needs to keep us all safe.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "He advocated for \"heightened legal standards\" for government officials trying to gain access to data with new tools, such as a court order and proof all other options have been exhausted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "VIDEO 13:17 13:17 Pete Buttigieg on taxing the rich and the future of American capitalism hasn't commented much on encryption this election cycle, but he did introduce a counter-terrorism bill in 1991 that would have allowed government officials to obtain data and communications from electronic service providers \"when appropriately authorized by law.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "While the bill did not become law and technology has rapidly evolved in the intervening years, the legislation is reminiscent of Attorney General William Barr's calls for tech companies to build in a way for law enforcement to access encrypted devices and messages with a warrant.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "has said, \"The government can enforce the law and protect our security without trampling on Americans' privacy.Individuals have a Fourth Amendment right against warrantless searches and seizures, and that should not change in the digital era,\" according to her response to Vox's question.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": ", a former prosecutor, expressed an understanding of law enforcement's challenges during the 2016 standoff between and the Federal Bureau of Investigation, which requested help unlocking an iPhone used by a shooter in an attack in San Bernadino, Calif. Klobuchar said in a statement to the MinnPost at the time that \"very real risks have been presented as criminals and terrorists are constantly trying to utilize the latest technologies to evade capture and conviction,\" adding that \"any proposal that would limit data security available to the public could impede efforts to protect American businesses and consumers from cyber-attacks by criminals and foreign governments.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "dug into the tech industry for resisting calls to build a backdoor into encryption for government officials in a 2016 following the public fight between Apple and the FBI over unlocking the San Bernadino shooter's phone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Bloomberg acknowledged encryption's benefits for people living under repressive regimes, but said, \"We can work to undermine repressive regimes in ways that do not compromise our own safety, and we should expect tech leaders to help lead the way.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Section 230 told that Section 230, the law that shields online platforms from legal liability for their users' posts , was drafted \"well before the current era of online communities, expression and technological development.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Sanders said he \"will work with experts and advocates to ensure that these large, profitable corporations are held responsible when dangerous activity occurs on their watch, while protecting the fundamental right of free speech in this country and making sure right-wing groups don't abuse regulation to advance their agenda.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "hasn't made clear his stance on Section 230 but has suggested tech companies should take more responsibility for their role in spreading hate online and should be required to root out misinformation in political ads.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Buttigieg told he would \"identify online platforms and other companies that refuse to take steps to curb use by hate groups.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "has taken the most extreme view of the Democratic candidates when it comes to Section 230, telling the Times editorial board that it \"should be revoked ... For [Facebook CEO Mark] Zuckerberg and other platforms.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Other candidates have not taken such a strong approach on Section 230 likely because it also allows for online platforms to engage in \"good faith\" content moderation to remove the most insidious content from their sites without fearing legal repercussions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "said in a campaign plan that she would \"push for new laws that impose tough civil and criminal penalties for knowingly disseminating this kind of information, which has the explicit purpose of undermining the basic right to vote,\" referring to false information about voting in U.S. elections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "She called on tech platforms to take responsibility for spreading disinformation, asking them to share resources and even open up information about their algorithms and allow users to opt out so they don't need to be subject to amplified material.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "said Section 230 \"is something else that we should definitely look at as we look at how we can create more accountability,\" in an interview at South By Southwest recorded for the podcast.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "But she said, it's not the goal to \"destroy\" tech companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "VIDEO 12:32 12:32 Amy Klobuchar on rebalancing capitalism has said social media companies should be held to similar legal standards as media outlets.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "In an interview with , Bloomberg said, \"Society shouldn't give up the protections that we have from the press's responsibility just because it helps them make more money.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "He stopped short of saying Section 230 should be repealed and said he didn't know which part of the law should be altered.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Net neutrality has been long been a vocal supporter of net neutrality, the concept that broadband providers should not be allowed to block or slow access to websites or require payments to deliver faster speeds.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "When Federal Communications Commission Chairman Ajit Pai ordered net neutrality to be repealed in 2017, Sanders said the decision was \"an egregious attack on our democracy.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "He advocates for reinstating net neutrality in his campaign plan .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "said on Twitter last year he would \"make net neutrality the law of the land.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "Buttigieg was one of 100 mayors to sign the while in office, which required internet providers doing business with those part of the pledge to follow principles of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "has not said much on net neutrality recently, but he has previously positioned himself as a skeptic .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "In 2006, while serving as a Delaware senator on the Judiciary Committee, Biden said it didn't seem necessary to introduce a preemptive law because if discrimination feared by net neutrality advocates did occur, there would be such a dramatic public response that \"the chairman will be required to hold this meeting in this largest room in the Capitol, and there will be lines wandering all the way down to the White House.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "The Obama administration in which he served, however, was a champion of net neutrality .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "has advocated in the Senate to restore net neutrality rules, saying in 2018 that their repeal \"has corporate greed and corruption written all over it.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "In her plan for Warren said she would appoint FCC commissioners who would restore net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "CNBC Explains has publicly supported net neutrality in the Senate, calling the rules \"important protections\" and saying the FCC's vote to eliminate them \"will harm consumers, particularly in rural areas.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "It will limit competition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "And it will hurt small business entrepreneurship and innovation.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "In her \"Plan for the Future of Work and a Changing Economy,\" Klobuchar promises to \"work to codify strong net neutrality principles and make immediate progress in her first 100 days [as president] by using federal contracting requirements to encourage broadband providers to honor net neutrality principles and promote a free and open internet.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "hasn't said much either way about net neutrality at this point in the campaign.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "China and tariffs has said, \"We do need new trade policies that are fair to the working people of this country, not just to the CEOs, but as usual, I think Trump gets it wrong in terms of implementation,\" according to .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "Sanders said on CNN last year he would \"of course\" use tariffs to reach a deal with China, but only \"used in a rational way within the context of a broad, sensible trade policy.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "VIDEO 16:46 16:46 Bernie Sanders on his agenda: 'Let's not make people overly nervous about' socialism said on CNN last year that it's \"a fool's errand to think you will be able to get China to change the fundamentals of their economic model by poking them in the eye with some tariffs.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "In the , Buttigieg shared his concerns with China's advancement in technology, saying, \"China is investing so they could soon be able to run circles around us in artificial intelligence and this president is fixated on the relationship as if all that mattered was the balance on dishwashers...The biggest thing we have to do is invest in our own domestic competitiveness.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "said in a speech last summer that if the U.S. fails to act to counter China, it will \"keep moving and robbing U.S. firms\" of technology and intellectual property.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "He advocated creating \"a united front\" of economic partners who can hold China accountable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "Biden said at the time, \"there's no going back to business as usual on trade with me.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "said in 2018 that U.S. policy toward China had been \"misdirected\" for years and \"Now U.S. policymakers are starting to look more aggressively at pushing China to open up the markets without demanding a hostage price of access to U.S. technology,\" according to .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "In a campaign blog post , Warren said, \"tariffs are an important tool, [but] they are not by themselves a long-term solution to our failed trade agenda and must be part of a broader strategy that this Administration clearly lacks.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "has said it can make sense to use tariffs , but that there needs to be a level of consistency to both the promises and threats made in the process.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "She criticized Trump's tariffs as being too broad and hurting allies in the process during the .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "said at the most recent Democratic debate that \"we have to deal with China, if we're ever going to solve the climate crisis.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "Addressing his past statements that Chinese President Xi Jinping is not a dictator , Bloomberg said \"he does serve at the behest of the Politburo\" but that \"You can negotiate with him.That's exactly what we have to do, make it seem that it's in his interest and in his people's interest to do what we want to do, follow the rules, particularly no stealing of intellectual property; follow the rules in terms of the trade agreements that we have are reciprocal and go equally in both directions.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "Subscribe to CNBC on YouTube.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "We want to hear from you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "CNBC Newsletters Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox, and more info about our products and services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "2020 A Division of NBCUniversal Data is a real-time snapshot *Data is delayed at least 15 minutes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "Global Business and Financial News, Stock Quotes, and Market Data and Analysis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

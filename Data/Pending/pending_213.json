@@ -1,0 +1,381 @@
+{
+    "document_id": -1,
+    "url": "https://www.nbcnews.com/tech/tech-news/democrats-unveil-save-internet-act-restore-net-neutrality-laws-n980051",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Farnoush Amiri",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:31:55.093291+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Watch live: California Gov.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Newsom holds coronavirus briefing NBC News NOW MSNBC TODAY Decision 2020 OPINION Share this — CORONAVIRUS Decision 2020 TV MSNBC NBC NEWS NOW THINK BETTER NIGHTLY FILMS NBC LEFT FIELD ASIAN AMERICA NBC LATINO NBCBLK NBC OUT STAY TUNED SPECIAL FEATURES NEWSLETTERS PODCASTS More from NBC CNBC NBC.COM NBC LEARN NBC Archives COUPONS SMS Democrats unveil 'Save The Internet Act' to restore net neutrality laws \"This is a second chance to right the Trump administration's wrong,\" Senate Minority Leader Chuck Schumer said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Speaker of the House Nancy Pelosi, D-Calif., joined by Senate Minority Leader Chuck Schumer, D-N.Y., announces the \"Save The Internet Act,\" congressional Democrats' plan to reinstate \"net neutrality\" rules that President Donald Trump repealed in 2017, during an event at the Capitol on March 6, 2019.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Get breaking news alerts and special reports.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The news and stories that matter, delivered weekday mornings.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "House and Senate Democrats unveiled legislation Wednesday to establish net neutrality protections, the most significant development yet in a yearslong effort by technologists to prevent companies from using their power to manipulate how users experience the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The \"Save the Internet Act\" is the party's latest attempt to undo the Federal Communications Commission's repeal of Obama-era rules that ensured equal and open access to all websites and services for internet users and content providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "\"This legislation brings the power of the internet to every corner of this country, from rural America and to our cities,\" House Speaker Nancy Pelosi, D-Calif., said during the announcement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "\"A free and open internet is a pillar in creating opportunities.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Schumer on net neutrality law: We can right Trump's wrong March 6, 2019 02:29 FCC Commissioner Jessica Rosenworcel, a vocal advocate for strong net neutrality rules, applauded the proposal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "\"I'll keep raising a ruckus to support net neutrality, and I'm glad so many others are too,\" she said in a statement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The FCC under Chairman Ajit Pai, who was appointed by President Donald Trump, voted 3-2 along party lines in December 2017 to reverse the net neutrality rules .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The rules became officially defunct six months later.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Get breaking news and insider analysis on the rapidly changing world of media and technology right to your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "This site is protected by recaptcha .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Tina Pelkey, a spokeswoman for Pai, said in a statement shortly after the Democrats' announcement, \"The Internet in America today is free and vibrant, and the main thing it needs to be saved from is heavy-handed regulation from the 1930s.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "The new rules have left the policing of how internet service providers handle web traffic to the FTC, which is tasked with making sure internet providers don't engage in \"anti-competitive\" behavior.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "This change in internet regulation was a major victory for big internet service providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Comcast, the parent company of NBC News, celebrated the decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "On the other side, Silicon Valley giants have supported net neutrality rules, arguing that without them internet service providers could become the gatekeepers of information, ultimately hurting consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Here’s the Save The Internet Act of 2019 that nearly every Senate Democrat joined me in introducing today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "3 pages that will restore #NetNeutrality .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Let’s pass it and make the internet free and open again.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "#SaveTheNet pic.twitter.com/BCYtcmcMe3 — Ed Markey (@SenMarkey) March 6, 2019 At the Capitol Hill news conference, Sen. Ed Markey, D-Mass., a sponsor of the new bill, said it is part of a fight for \"free speech.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "\"Another way of saying net neutrality is saying nondiscrimination against the smallest companies, against the smallest voices within our society,\" he said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "\"We are standing and fighting for them here today, and we will not stop till we win.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Republicans have also put forward a net neutrality bill that has been criticized by Democrats and some technologists as a watered-down version of the FCC's regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Former FCC Chairman Tom Wheeler said the dueling legislative efforts now set the stage for a political battle over net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "\"There will now be a debate on the definition of what is meaningful net neutrality,\" Wheeler said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Many states have sought to establish their own net neutrality rules , and 22 of them and Washington, D.C., have sued the FCC over its repeal of the regulations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "In September, shortly after then-California Gov.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Jerry Brown signed a law to restore the state's net neutrality laws , the U.S. Department of Justice filed a federal action to block the law .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Brown agreed to delay the state's enforcement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Pelosi said House Democrats, who won control of the chamber in the November 2018 midterm elections, would work with their colleagues in the Senate to pass the legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "While the legislation could make it through the House, it will have a difficult time passing through the Republican-controlled Senate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "\"This is a second chance to right the Trump administration's wrong,\" Senate Minority Leader Chuck Schumer, D-N.Y., said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Farnoush Amiri writes for NBC News.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

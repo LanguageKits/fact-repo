@@ -1,0 +1,371 @@
+{
+    "document_id": -1,
+    "url": "https://skillcrush.com/blog/why-does-net-neutrality-matter/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Lauren Lang",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:51:09.946050+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "skillcrush Tech 101 WordPress Tech 101 WordPress COVID-19 RESPONSE    We’re Offering , , HTML & CSS , Learn WordPress , , Tech 101 Share this Make a plan for learning the tech skills you need to land a new job with this 60+ page FREE ebook!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "At around midday on Thursday, Skillcrush HQ (or technically as we’re a remote company, our chat app) was on fire.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "WordPress TA Maren Vernon had posted a link where we could watch the proceedings as the FCC voted on whether net neutrality would live or die.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "As the votes came in, 3-2 in favor of repealing the regulations , the Skillcrush team responded in kind—with offended and exasperated GIFs, and a ton of fury.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "(Think Tyra Banks with laser eyes, a despondent Stimpy unable to get out of bed, and—of course—lots of therapeutic corgi butts to ease our sorrows.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The corgis only sort of helped.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Net neutrality is an issue that stands to affect just about anyone with an internet connection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Thanks to the FCC, the mangled regulations now allow service providers to prioritize certain content by charging fees or blocking or slowing loading times on the websites they choose.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "And make no mistake—this is targeted at you —at taking away your access and your voice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Imagine having Comcast as your cable company, as many of us do.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Comcast holds a 30 percent ownership stake in Hulu.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "There is nothing stopping Comcast from allowing Hulu to stream just fine, but deliberately slowing streaming when you visit Netflix, HBOGo, or Amazon Prime.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "And the only way those other companies could avoid this would be paying Comcast’s ransom and passing the buck onto the rest of us as service packages.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "All of this is problematic enough, but it’s especially distressing when we think of access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "That is exactly what is poised to happen now—and the effects of making swaths of the internet (whatever corporations want, essentially) only available to certain economic classes is unconscionable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "women and people of color of all genders are disproportionately screwed over by the FCC’s decision because “nationwide [they] are using the power of the Internet to organize, share stories, and build businesses in droves.” They cite opportunity afforded by online marketplaces like Etsy, for example, or important social movements that women began online such as the Women’s March, Black Lives Matter, or the #MeToo initiative against sexual harassment and violence.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "“Internet openness has been a key part of modern economic and social opportunity,” Gillibrand and Rosenworcel argue, and they’re right: the internet has provided marginalized people who have tired of discrimination and lesser opportunity in traditional work environments and a patriarchal society with a forum for their voices and a market for their skills.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Simply put: This is an attack on your right to agency, to information, and to power.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "2017 has been evidence to the fact that powerful things happen when marginalized have a voice, and that deep injustices stand to occur when they don’t.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Personally, I do not consent to have one more conduit for my voice taken from me.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "And if you’re reading this—as long as you have the ability to read this—I don’t think you do, either.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "In fact, this decision by the FCC seeks to undermine everything that Skillcrush as a company represents, and everything that I stand for as a person deeply committed to empowering women in tech.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "So here’s my plan: I will continue to work proudly to educate women and minorities in the marketable skills that they need to pursue high-paying and fulfilling careers in tech.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "I will continue to advocate for independent business owners and freelancers who earn their livelihood online, many of whom have been Skillcrush students.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "We see firsthand how lives are transformed when women are encouraged and afforded the same opportunity in technology as everyone else.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "I have and will continue to petition Congress to overturn the FCC decision , and I invite you to do the same.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "By adding more and more voices to our call for freedom of access and opportunity, we can increase our collective impact.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "I will contact my state Attorney General and ask her to join the growing number of states who are suing the FCC to defend an open internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Every day here at Skillcrush, we make a commitment to strengthening women and minority voices—as they pursue the well-paying careers that they deserve, leverage the internet to live life on their own terms, speak truth to power about women’s place in tech and the economy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Making that opportunity available to you is the mission that we are united behind, and the mission that, as always, we welcome you to join with us.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "We believe, now more than ever, that tech is for everyone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Make a plan for learning the tech skills you need to land a new job with this 60+ page FREE ebook!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Sign up to get the most recent tech news, tips and career advice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "FREE WordPress Development Check out the FAQs , or email us at hello@skillcrush.com .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Take our free, 3-minute quiz to find out.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Learn how to code & how to use your skills to get a new job in this FREE, 60+ page ebook!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,841 @@
+{
+    "document_id": -1,
+    "url": "https://fair.org/home/the-public-is-clearly-on-the-side-of-net-neutrality/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "JANINE JACKSON",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:31:07.755351+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "HOME ABOUT DONATE COUNTERSPIN RADIO EXTRA!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "NEWSLETTER FAIR STUDIES ISSUES / TOPICS TAKE ACTION STORE FAIRNESS & ACCURACY IN REPORTING Challenging media bias since 1986.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "NEWSLETTER FAIR Studies ISSUES/TOPICS TAKE ACTION STORE HOME ABOUT DONATE COUNTERSPIN RADIO EXTRA!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "NEWSLETTER FAIR STUDIES ISSUES / TOPICS TAKE ACTION STORE FAIRNESS & ACCURACY IN REPORTING HOME ABOUT DONATE COUNTERSPIN RADIO EXTRA!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "NEWSLETTER FAIR STUDIES ISSUES / TOPICS TAKE ACTION STORE FAIR FAIR is the national progressive media watchdog group, challenging corporate media bias, spin and misinformation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Challenging media bias since 1986 HOME ABOUT DONATE COUNTERSPIN RADIO EXTRA!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "NEWSLETTER FAIR STUDIES ISSUES / TOPICS TAKE ACTION STORE CounterSpin Radio About CounterSpin CounterSpin Radio About CounterSpin October 11, 2019 Janine Jackson interviewed Free Press’s Craig Aaron about the net neutrality setback for the October 4, 2019, episode of CounterSpin .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "This is a lightly edited transcript.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "A federal appeals court has ruled that it was OK for the FCC, over the overwhelming, openly stated will of millions of people, to classify internet service providers as “information services”—rather than what we understand them to be, “telecommunications services”—and thus allow them to avert rules about open and nondiscriminatory access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "It’s a big loss, but it doesn’t sound like the fight is over, so much as maybe changing locale.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Joining us now to catch us up is Craig Aaron, president of the group ; he joins us by phone from Washington, DC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Welcome back to CounterSpin : Thanks so much for having me back.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "JJ: It would have been great for the court to push back against this Republican-led FCC ruling , which listeners will know went against the desires and demands of the vast majority of the public who commented.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The agency went through all manner of shenanigans trying to distort that public comment, and then just ignored it; but it also went against common sense, and our knowledge about the role that the internet plays in our lives today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "So the ruling stinks, I guess, is the first thing to say.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "CA: I’m certainly very disappointed in the outcome.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "But you can look at all 186 pages of this ruling .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "What it all essentially boils down to is, the court said, “This is up to the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "They’re the expert agency, and we defer .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "And in this case, we defer, no matter how misguided, ideologically motivated or devoid of facts the FCC’s approach was; it’s ultimately up to them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The Supreme Court precedent backs them up.” This was the high bar for challengers to clear, and the judges, while questioning how much the internet has changed, while going out of their way to talk about a number of areas where the FCC really lacked evidence or strong arguments, ultimately said, “You’re the expert agency.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "This Court are not the experts and we defer to you,” which, somewhat ironically, and not very satisfying, was the same reason that the previous FCC prevailed in making strong net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "And when the industry challenged, they said, “Nope, it’s up to the agency.” So here we are again.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "And, of course, that means a future FCC could step in to restore real net neutrality, and actually get this right.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "JJ: Yeah, and it really makes it a conversation about, “What space are we having this fight in and who’s in charge of it?” It was interesting; usually, industry and regulatory enablers like Ajit Pai say, “These public interest obligations are so old and dusty, and everything’s different now.” But in this case, the court said, “This ruling from 2005, this , that just ties our hands.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "That was the way it was interpreted before, and so we have to look at it that way again this time as well.” Craig Aaron: “This FCC… just simply, clearly ignored the way the internet works, in order to favor the biggest phone and cable companies.” CA: That’s certainly true.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "It it can be a constantly moving time frame on “What do we actually do?” And, of course, we’re disappointed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "And we challenge these rules because this FCC so clearly ignored the evidence; they so clearly ignored the public will.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "They just simply, clearly ignored the way the internet works, in order to favor the biggest phone and cable companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "But that doesn’t mean there aren’t silver linings here.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "And one thing the court did do is they rejected the FCC’s claims that they could overrule state legislation out of hand, that they could say the states had no place here; the courts did not agree.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "And so they’ve opened the door; a number of states, four states already, including California, have passed strong net neutrality laws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "And now they’re going to have a chance to defend those laws on an individual basis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "And there’s an opening to say, “Hey, if the federal government has abdicated the responsibility to protect the free and open internet, the states can step in.” And so this is a fight that’s going to move to the states.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "And this is also a fight that’s going to move to Congress, because this really pushes Congress to act to restore what the FCC has taken away.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The House of Representatives passed overwhelmingly this year a bill called the that would restore the 2015 FCC rules, clearly protect net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "The Senate could vote on that; it’s sitting right in front of them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Well, Mitch McConnell’s still there, so I don’t know.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "It’s going to take a lot of public pressure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "But whether it’s this Congress or the next Congress, they have a chance to still get this right.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "The fight does continue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "There are new openings.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "The FCC, in a number of areas, got things sent back to them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "The courts noted another couple of areas where they barely scraped by.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "So this was not an overwhelming victory for the FCC, but it does leave their terrible decision in place.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "And we’re going to have to fight really hard to undo that in the years ahead, and in whoever’s in power in 2021.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "( 10/2/19 ) JJ: Let me just ask you quickly about the states.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Former FCC chair Tom Wheeler just had this op-ed in the in which he said, “Internet service providers should be quaking in their boots.” And the reason is, now they’re going to have to deal state by state with requirements about access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "California already says, “No, net neutrality is going to be the law in our state.” So it seems, and it’s just what you’re saying: We have to keep our eyes on both things.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "We want states to go forward, right, even as we push for Congress to do something that would that would obviate the need for that, maybe.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "CA: Yeah, I think that’s absolutely right.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Because, again, when the FCC, when the referee who’s supposed to be in the game, says, “Well, we don’t see anything anymore,” someone’s going to step in.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "And California already has.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Obviously, if you’re an internet company, an internet service provider, you have to pay attention to what California is doing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Obviously, if we were to have a bunch of different rules in a bunch of different places, that gets very complicated very quickly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "But this, unfortunately, is a result of what the FCC decided to do.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "So I think you will see the companies be very nervous about that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "I think you will see them try to push fake compromises through Congress, bad legislation written by them, tilting the scales in their favor, and that’s going to be another thing we’re going to have to fight against.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "But why I’m confident, why I’m more determined than discouraged, is because the public is clearly on the side of net neutrality, clearly on the side of the free and open Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "And 99.7% of the comments that went into the FCC that were original, that weren’t cut-and-pasted, or weren’t made up, as the case may be—there’s a lot of fraud , unfortunately, in that docket—99% of those individual comments said they supported net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "That reflects the will of the public.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "The hundreds of protests that have taken place in the last few years on this issue show where the public is, and I think the politicians and policymakers will catch up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Unfortunately, on this decision, it’s a little bit more of an uphill climb than it should be.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "JJ: We’ve been speaking with Craig Aaron, president of Free Press; find them online at FreePress.net .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "Craig Aaron, thank you so much for joining us this week on CounterSpin .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "CA: Thank you for the time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "Filed under: FCC , Janine Jackson is FAIR’s program director and producer/host of FAIR’s syndicated weekly radio show CounterSpin.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "She contributes frequently to FAIR’s newsletter Extra!, and co-edited The FAIR Reader: An Extra!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "Review of Press and Politics in the ’90s (Westview Press).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "She has appeared on ABC‘s Nightline and CNN Headline News, among other outlets, and has testified to the Senate Communications Subcommittee on budget reauthorization for the Corporation for Public Broadcasting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "Her articles have appeared in various publications, including In These Times and the UAW’s Solidarity, and in books including Civil Rights Since 1787 (New York University Press) and Stop the Next War Now: Effective Responses to Violence and Terrorism (New World Library).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "Jackson is a graduate of Sarah Lawrence College and has an M.A.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "in sociology from the New School for Social Research.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "potshot October 17, 2019 at 8:53 am Consistently first-rate talk radio Janine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "CounterSpin CounterSpin Radio About CounterSpin CounterSpin What’s FAIR FAIR is the national progressive media watchdog group, challenging corporate media bias, spin and misinformation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "We work to invigorate the First Amendment by advocating for greater diversity in the press and by scrutinizing media practices that marginalize public interest, minority and dissenting viewpoints.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "We expose neglected news stories and defend working journalists when they are muzzled.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "As a progressive group, we believe that structural reform is ultimately needed to break up the dominant media conglomerates, establish independent public broadcasting and promote strong non-profit sources of information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "124 W. 30th Street, Suite 201 New York, NY 10001 Tel: 212-633-6700 Email directory We rely on your support to keep running.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "CounterSpin This work is licensed under a .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "If you are human, leave this field blank.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "Sign up to receive all of FAIR’s articles of media criticism and news analysis, sent directly to your email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "Or sign up to receive our Weekly Update on Friday, with links to all our latest work.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

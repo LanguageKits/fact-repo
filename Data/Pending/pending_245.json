@@ -1,0 +1,621 @@
+{
+    "document_id": -1,
+    "url": "https://americanlibrariesmagazine.org/blogs/the-scoop/2019-mozilla-net-neutrality-updates/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Ellen Satterwhite ",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:50:32.545726+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to main content Search for: COVID-19 #eBooksForAll PLA 2020 Inside ALA AL Direct JobLIST What the future holds in Mozilla case .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "February 4, 2019 Screenshot of the Differentiation Detector, a net neutrality app created by David Choffnes and researchers at Northeastern University.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "On February 1, a three-judge panel of the US Court of Appeals for the D.C.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Circuit heard oral arguments about whether the Federal Communications Commission (FCC) was arbitrary and capricious in reversing its 2015 order, which included rules against blocking, throttling, or paid prioritization of internet access.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "In the case— Mozilla et al v. Federal Communications Commission (FCC)— consumer groups and some companies are trying to restore the net neutrality protections policy that is needed to keep the internet open to all users.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The American Library Association (ALA), which filed an amicus brief in 2018 with other groups seeking to defend net neutrality in asserts net neutrality is essential for a library to meet its public mission of increasing access to information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "In 2015, the FCC adopted strong net neutrality policies to require all internet traffic to be treated equally.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "But the agency did an about-face and eliminated those policies in 2017.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "ALA has been on the front lines of the net neutrality battle with the FCC, Congress, and the federal courts for more than a decade, working in coalition with other library and higher education organizations as well as broader coalitions of net neutrality advocates .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The future of the open internet Advocates first turned to Congress to restore the authority of the FCC using the Congressional Review Act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The Senate passed a resolution of disapproval of the FCC’s decision in May 2018, and more than 180 House members signed on to a resolution to signal their own disapproval of the FCC’s actions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "But time has run out on those resolutions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Some state lawmakers have also argued they have an obligation to protect consumers with net neutrality rules and that local governments can approve or deny requests by telecommunications providers to operate in their states.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Less than six months after the 2017 FCC vote, 36 states had proposed or passed a resolution, bill, or executive order supporting net neutrality protections.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "But whether these state laws are enforceable is an open question.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "At the same time, the internet moves on.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "For the most part, internet service providers (ISPs) are treading carefully while legislation is pending.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "But instances of misbehavior have concerned net neutrality advocates.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "In 2018, David Choffnes, assistant professor of computer and information science at Northeastern University in Boston, and his fellow researchers developed an app to measure if ISPs regularly throttle streaming services like YouTube and Netflix.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Nearly every major wireless provider specifically throttles video, even when the network is perfectly capable of handling the load.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "In a statement last fall , Choffnes pointed out, “There’s no evidence that any of these policies are only happening during network overload.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "They’re throttling video traffic even when the network doesn’t need to.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "It happens 24/7, and in every region where we have tests.” Verizon, the largest mobile wireless carrier in the US, was the biggest offender on Choffnes’s app, with more than 11,000 instances of throttling between January and May 2018.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "AT&T, the second largest carrier, had almost 8,400 instances of throttling.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Sprint was found to be throttling traffic from Skype .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "While we do not know how the FCC would have responded to these incidents under strong net neutrality rules, the 2015 rules made it less likely that companies would engage in this kind of behavior in the first place.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Those rules also had expedited procedures for dealing with incidents where an ISP may be violating net neutrality principles—critical for institutions like libraries and consumers, neither of which have the resources for a drawn-out process.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "The 116th Congress has signaled it will take up the issue of net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "The House Communications Subcommittee plans to hold its first net neutrality hearing February 7.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Members of Congress who campaigned on net neutrality and won election or reelection in 2018 already seem interested in legislation that would provide a more definitive resolution to the issue, though no drafts exist.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "If we see legislation on net neutrality in this new Congress, ALA and its allies believe that any legislation must put in place a strong legal standard and provide the enforceable net neutrality protections outlined in the 2015 order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "But first, the courts There was no groundbreaking news at the February 1 hearing; oral arguments are primarily an opportunity for the judges to ask questions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "ALA and its allies argued in the amicus filing that the FCC’s actions to undo strong net neutrality rules will “imperil the internet’s continued operation as a reliable platform for research, learning, and information sharing and that the FCC’s decision should be reversed as arbitrary and capricious.” The court is expected to rule this summer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "ELLEN SATTERWHITE is a fellow of ALA’s Public Policy and Advocacy Office and vice president with the Glen Echo Group in Washington, D.C. net neutrality RELATED POSTS: A coast-to-coast roundup of efforts to restore the open internet There's still time to make your voice heard 20m has taken some of ’s most popular stories and rapped them over in mashups so perfect it’s a wonder it hasn’t been done a million times before.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Check out his rap of the tongue-twisting .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "If you’ve ever tried to read this book out loud, you know how challenging it is not to flub , especially the second half.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "To rap it like Tanks does is an incredibly impressive—and enjoyable —feat.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Check out Tank’s YouTube channel for all his Seuss raps.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "!’ It suddenly seemed like a thing that couldn’t possibly be real .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "I’ve always loved libraries (heck, I wrote a novel about a librarian , which is obviously my secret fantasy job) but it took my kid’s observation to make me realize that I miss libraries so, so much.” 2h is offering a new but old-fashioned way to connect with patrons during the current building closure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Librarians have started a letter-writing campaign to reach those who may be unable to gather virtually with others.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "“We wanted to give people who may be feeling isolated a little something to brighten their day.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Who doesn’t love getting a nice letter in the mail?” said branch manager at the Library staff will answer up to 100 letters or related emails before May 20 with a friendly response and, if requested, a small piece of art.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Community members of all ages can participate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "2h Kristen Hare writes: “ Since 2016, the top of the local publication in read, ‘A free weekly production of the ’ And for 48 issues, one librarian did most of the work.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "But shortly after of natural causes last December, members of Weare’s writing group wondered how they could honor their friend.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "The library, they found out, had no plans to keep up Sullivan’s passion project.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "So six residents of Weare took on the job of chronicling life in a town without news.” 2h Jon Porter writes: “You can now use your Sonos speaker to listen to free audiobooks from your local library, thanks to a new integration with OverDrive’s Libby app.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "After downloading the Libby app, you’ll be prompted to register with a valid library card.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Then, the app can be connected to a Sonos system and used to play any available audiobooks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "syncs across devices, so you’ll be able to pick up where you left off if you’ve been listening elsewhere.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Libby isn’t the only source of audiobooks on Sonos (we’re looking at you ), but unlike other services, it’s available completely free.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "The downside is that your choice of audiobooks will be limited by what your local library has available.” 3h has announced the winners of the honoring the best in mystery fiction, nonfiction, and television published or produced in 2019.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "The awards were presented via a live presentation on Twitter ( @EdgarAwards ).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "The winning speeches can be found on the MWA YouTube channel .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "by Elly Griffiths was the winner for Best Novel, while by Axton Betz-Hamilton won the award for Best Fact Crime.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Catfishing on CatNet by Naomi Kritzer won in the Best Young Adult category, and 4h ALA has created a on the to develop a multiyear strategic plan in the coming year to increase participation by libraries in efforts to achieve these 17 goals.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "The SDGs, adopted by all UN members, including the US, are a call to action to end poverty, protect the planet, and improve the lives and prospects of everyone, everywhere.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "IFLA has asked library associations around the world to join in a global effort to highlight how libraries contribute to the SDGs during the COVID-19 crisis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "This char t highlights some of those contributions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "AL Live RSS ALA Home JobLIST ALA News ALA Store 1.800.545.2433",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

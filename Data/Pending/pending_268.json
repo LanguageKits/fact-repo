@@ -1,0 +1,301 @@
+{
+    "document_id": -1,
+    "url": "https://www.theverge.com/2020/3/31/21200992/fcc-coronavirus-net-neutrality-networks-att-comcast-carriers?fbclid=IwAR1iiLvn4488SD6VptA9PeY80qXzALNJPQFXNn1hjzUGqoBIPmzEIBpwTFM",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Makena Kelly",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:51:42.842215+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Filed under: Self-isolation has stressed networks, and no one knows if the FCC can step in 15  comments Reversing net neutrality could hinder coronavirus response @kellymakena Mar 31, 2020, 9:45am EDT  Share this story Share this on Facebook Share this on Twitter All sharing options All sharing options for: Self-isolation has stressed networks, and no one knows if the FCC can step in As the social distancing efforts push everything from school to socializing into video chat, networks have seen huge surges in traffic — and new anxieties over how digital networks will stand up under the strain.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "So far, both carriers and the Federal Communications Commission insist that the country’s networks are capable of bearing the strain, particularly given the voluntary throttling instituted by many of the most bandwidth-heavy services .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "But recent deregulatory efforts have left the FCC with ambiguous authority over those networks, making it uncertain whether the commission will be able to intervene if federal action is needed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "In a call with reporters Monday, senior FCC officials were optimistic about how the nation’s networks were holding up, saying carriers were mitigating the network stress effectively.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "“America’s Internet infrastructure is strong and resilient,” Republican Commissioner Brendan Carr wrote in a blog post last week .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "“The data show that the recent surges in Internet traffic are well within the capacity of U.S. networks.” “We may not have seen peak, post-coronavirus demand yet” Over the last few weeks, telecommunications companies like AT&T and have reported dramatic increases in usage.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "AT&T’s core traffic was up 21 percent month over month, and Comcast said Monday that voice and video calls have skyrocketed 212 percent amid the pandemic .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Together with that surge, a number of video streaming services have volunteered to limit their bandwidth consumption.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Just over the last few days, YouTube, Netflix, and Facebook have reduced their streaming qualities across the globe to help mitigate network congestion, with YouTube limiting videos videos to standard definition (480p) by default in the US and Europe.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "So far, that entire traffic surge has voluntary basis by both networks and services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Still, Carr noted that “we may not have seen peak, post-coronavirus demand yet.” If networks start to feel that stress, it’s not clear how much authority the FCC has to respond.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The confusion around authority is due in part to the FCC’s net neutrality reversal in 2017.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "the FCC officially voted to rollback net neutrality rules , paving the way for large telecommunications carriers like AT&T and Verizon to block and throttle internet traffic and offer fast lanes for certain sites and services for an additional fee.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "In doing so, the Commission had to remove broadband’s Title II designation, stripping the agency of much of its authority over the internet as a utility.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "According to Carr, the Ajit Pai FCC has “created a regulatory environment that enabled Internet providers to invest heavily in their networks” in ways that have kept them reliable throughout the crisis.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "“Without Title II authority, all they really do is ask and engage in public-private partnerships,” Chris Lewis, the president and CEO of Public Knowledge told .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "But if usage continues to grow, declassifying broadband as a regulated utility could make it more difficult for the FCC to identify weak points in networks and ensure carriers services live up to what they advertise.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "“We would expect that if [the FCC] had Title II authority, they could require a level of data collection around the functioning of the network that would provide lessons learned about how networks are being strained during this emergency,” Lewis said .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "In a call with reporters Monday, an FCC official said that the agency was encouraging public reporting on network management data, but had no plans to conduct those reports themselves.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The FCC has faced criticism over its limited data collection efforts before.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Just this month, Congress approved a new bill aimed at making the agency’s broadband coverage maps more accurate.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "In order to craft its maps, the FCC receives data prepared by the carriers that have often depicted exaggerated coverage in areas that don’t receive service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Much of the action carriers have taken in light of the coronavirus pandemic has been voluntary.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Responding to the crisis, the Federal Communications Commission announced its Keep Americans Connected Initiative earlier this month.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Major carriers like AT&T, Comcast, and Verizon have all signed on to this voluntary measure, pledging to waive late fees, open up their Wi-Fi hotspots, and refuse to terminate service for customers and small businesses unable to pay their bills as a result of the pandemic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "“I am confident that we will emerge from this as a stronger and more prosperous nation than ever before,” Carr wrote Friday.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "“It will take time.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "In the meanwhile, our Internet infrastructure will play a key role in this country’s comeback.” Coronavirus disrupts the world: updates on the pandemic It’s impossible to count everyone with COVID-19 Self-isolation has stressed networks, and no one knows if the FCC can step in Genetic analysis of the coronavirus gives scientists clues about how it’s spreading View all 425 stories  You can save almost $400 on the Samsung Galaxy Note 10 Plus The 256GB version costs $740 for Verge readers Save $40 on SteelSeries’ Arctis 1 Wireless headset and much more at Best Buy Stock up on PC accessories and components You can save 50 percent on Star Wars Jedi: Fallen Order and the nine-film collection in 4K May 4th celebrations are already kicking off Sign up for the  newsletter  A newsletter about computers (required) By signing up, you agree to our and European users agree to the data transfer policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Loading comments... Do not sell my info Licensing FAQ Advertise with us Share this story",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,281 @@
+{
+    "document_id": -1,
+    "url": "https://www.medianama.com/2020/03/223-european-union-net-neutrality-coronavirus/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Aroon Deep ",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:30:17.096956+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "POLICY Internet shutdowns VIDEOS .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Buy our Reports EU regulator reminds telcos to not breach Net Neutrality during COVID-19 pandemic » BEREC , , (   @AroonDeep aroon@medianama.com ) March 20, 2020 reminded telcos not to undermine Net Neutrality by throttling “equivalent classes of traffic” on the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "This comes as more and more people work from home and students take classes via video calls the EU due to the COVID-19 pandemic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "“The European Commission and BEREC, with the support of national regulatory authorities (NRAs) or competent authorities, are setting up a special reporting mechanism to ensure regular monitoring of the Internet traffic situation in each Member State to be able to respond swiftly to capacity issues,” BEREC and the Commission said in their joint statement .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Congestion shouldn’t lead to discrimination “Reasonable Traffic Management” as defined in the EU law, does not clearly emphasise that traffic management in times of congestion should be as application-agnostic as possible.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "“That is a problem,” Stanford law professor Barbara van Schewick had told BEREC in a filing in 2016.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "In its statement, BEREC seemed to warn ISPs that they should not rely on this ambiguity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "“Pursuant to the Regulation, operators are authorised to apply exceptional traffic management measures, inter alia, to prevent impending network congestion and to mitigate the effects of exceptional or temporary network congestion, always under the condition that equivalent categories of traffic are treated equally [all emphases original],” they said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "“The increase in Internet traffic has not led to a general network congestion so far,” statement said , but it reminded telcos that EU’s Net Neutrality regulation “prohibits operators from blocking, slowing down or prioritising traffic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Traffic management measures are authorised if they are reasonable, meaning that the measures shall be transparent, non-discriminatory, proportionate and based on objectively technical differences of traffic (Article 3(3)).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Such measures cannot monitor specific content and cannot be maintained longer than necessary.” In the last few hours, Netflix has committed to reduce its streaming bitrate in the region, while YouTube said it would play videos on Standard Definition by default.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "BEREC also said that internet users need to use the web in a way that “reduces data consumption”, by switching to lower video quality, for example.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "What to do when facing congestion A section from the statement on what telcos can do when faced with exceptional amounts of load on their networks makes for interesting reading: [Times of network congestion] being an exception to the general principle of the Regulation on Open Internet, this provision is to be interpreted restrictively.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "In case of impending network congestion, operators should take into account the following considerations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Operators need to objectively assess that the levels of traffic are very high compared to a similar reference period, and that absent the envisaged measures users would be negatively affected by the congestion.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "An exceptional congestion should be understood as referring to situations which — even when applying the highest standards of professional diligence in network management — result in unpredictable and unavoidable situations of congestion in mobile or fixed networks (e.g.possibly caused by multiple technical failures, unexpected changes in routing of traffic not under the operator’s control, or large increases in network traffic linked to the current pandemic crisis or other emergency situations beyond the control of providers of Internet access services).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "When implementing exceptional traffic management measures, operators should consider proportionate solutions to the problem observed that would guarantee access to Internet to all users while being effective to manage congestion that might be caused by peak traffic, be limited in time to the strict necessary and ensure that equivalent categories of traffic are treated equally.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The European Commission and BEREC call on operators to closely cooperate with national regulatory authorities (NRAs) or competent authorities and to inform them timely on the measures taken in order to ensure the necessary transparency for individuals and businesses and that NRAs and competent authorities can efficiently and effectively perform their monitoring tasks.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "(All emphases ours.)",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "» BEREC , , I cover the digital content ecosystem and telecom for MediaNama.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Kerala HC fines petition ₹50,000 for asking for home delivery of alcohol amid COVID-19 pandemic: Report YouTube launches Learn@Home for students stuck at home Spotify has even more of an advantage during the pandemic than Netflix.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Here’s why.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Recent 3D printing developments for law and society https://www.youtube.com/watch?v=c1PhWR1-Urs BSNL CMD PK Purwar takes additional charge of MTNL April 16, 2020 If more subscribers should get extension, pay telcos from USO Fund: COAI April 10, 2020 Opensignal report: Airtel leads most wireless quality categories in India April 7, 2020 TAIPA chief asks Power Ministry to ensure 45-day grace period to pay electricity bills April 13, 2020 US agencies recommend ban on China Telecom in the country April 10, 2020 Internet traffic sees dip, surge during PM Modi’s 9pm 9 minute April 6, 2020 Telecom infra companies cite financial difficulties, ask BSNL, MTNL to pay dues on ‘urgent’ basis April 11, 2020 Telcos urge DoT to allow online KYC for new connections April 9, 2020 COAI: Telcos don’t need additional spectrum, can deal with bandwidth surge already April 1, 2020 ABOUT MEDIANAMA MediaNama is the premier source of information and analysis on Digital and Telecom businesses in India.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "about MediaNama, here .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Daily newsletter Please enter all required fields Correct invalid entries All news.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "× Privacy and Cookies: This site uses cookies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "By continuing to use this website, you agree to their use.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,1301 @@
+{
+    "document_id": -1,
+    "url": "https://epic.org/privacy/netneutrality/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Epic",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:39:52.422467+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "APA Comments EPIC Publications EPIC in the News EPIC Alert EPIC Commentaries EPIC Blog EPIC Bookstore About EPIC About EPIC EPIC Board and Staff EPIC Testimonials Contact EPIC Support EPIC .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "EPIC and the FCC .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Enforcement Jurisdiction and the FTC .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "FCC Chairman Pai has announced upcoming enforcement actions against wireless carriers that disclosed subscribers' location data.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Last year Members of Congress called an emergency briefing with the FCC and urged the agency to investigate companies that were selling subscribers' location data.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "EPIC has long advocated for protection of location data.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "EPIC pursued a lawsuit against a mobile app company that led to greater protection of users' location data.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "EPIC also successfully petitioned the FCC to safeguard sensitive data collected by phone companies.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "And EPIC filed a amicus brief in Carpenter v. US .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The Supreme Court held in that case that the Fourth Amendment protects cell site location information.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "EPIC maintains detailed webpages on location privacy .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "comments on an FCC proposed rule , EPIC said that the agency should not track the Internet use of Lifeline subscribers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Lifeline is a federal program that provides broadband service to economically disadvantaged Americans.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The FCC is proposing that Lifeline subscribers install apps to track their data usage and that companies retain detailed records about Internet use by Lifeline subscribers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "EPIC said: \"Americans should not be required to sacrifice their privacy to access the Internet.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "EPIC led a campaign and petition opposing the FCC's requirement that telephone carriers retain detailed records of American telephone customers(Jan. 28, 2020).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "TRACED Act establishes penalties for certain robocalls and requires voice service provide to develop call authentication technologies.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The FCC will develop rules to limit unwanted calls or texts from a caller using an unauthenticated number.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "EPIC has long advocated for stronger regulations surrounding robocalls.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "EPIC provided expert analysis to Congress, submitted numerous comments to the FCC, and filed multiple amicus briefs in appellate courts emphasizing the need to limit robocalls.(Jan. 2, 2020)",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Prior to an FCC oversight hearing , EPIC sent a statement to the Senate Commerce Committee outlining priorities for the agency: ending the data retention regulation and protecting location data.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "In 2015, EPIC petitioned the FCC to repeal the data retention regulation, which requires telephone companies to keep all telephone customer records for 18 months.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Every comment received by the FCC favored the EPIC petition, yet the agency has failed to withdraw the regulation. (12, 2019)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "EPIC has long worked to ensure that telephone users are protected from invasive practices through agency comments and amicus briefs in cases such as ACA International and .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "EPIC filed comments with the Federal Communications Commission again urging the agency to repeal a regulation that requires the bulk retention of calling records of American telephone customers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "EPIC and a coalition of civil rights organizations, technical experts and legal scholars first signed a petition for repeal of the FCC regulation three years ago.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "When the FCC docketed the petition for public comment, every comment received by the agency favored the EPIC petition to end the data retention regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "In comments to the agency last year, EPIC again urged the FCC to drop the requirement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "In response to an agency proposal to extend the rule , EPIC explained that \"the regulation is unduly burdensome, ineffectual, and threatens privacy and security.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "EPIC also pointed to recent cases in Europe prohibiting the mass retention of phone records.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "\"The United States has fallen behind other advanced democracies around the world\" explained EPIC to the FCC.(13, 2019)",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "The FCC published a final rule on robocalls that establishes a single database for reassigned phone numbers, sets a minimum period of 45 days before a disconnected number may be reassigned to a new subscriber, and adopts a limited safe harbor from liability for any caller that relies upon inaccurate information in the database.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "EPIC submitted comments for this rulemaking, recommending that the FCC (1) require phone providers to proactively block calls from numbers that are unassigned, unallocated, or invalid; (2) prohibit spoofing if there is an intent to defraud or cause harm; and (3) encourage the use of call authentication technology that safeguards caller anonymity.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "EPIC has long advocated for robust telephone privacy protections .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "EPIC filed an amicus brief in 2015 that strengthened consumer protections for robocalls. (29, 2019) ",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "EPIC has sent a statement to the Senate Commerce Committee for a hearing on the Federal Communications Commission.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "EPIC urged the Committee to push the FCC to protect online privacy.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "EPIC also asked the Committee to press the FCC to repeal a regulation that requires the retention of telephone customer records for 18 months.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "EPIC filed the petition urging the repeal of this mandate more than two years ago.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Every comment received by the FCC favored the EPIC petition.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "EPIC has submitted multiple comments to the FCC to strengthen online privacy and has recommended an industry neutral and comprehensive privacy framework.(Aug. 15, 2018) ",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "EPIC has sent a letter to the Federal Communications Commission urging the FCC to act immediately on a submitted by EPIC and a coalition of civil rights organizations, technical experts and legal scholars exactly three years ago.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "The Petition called for an end to the FCC rule requiring the mass retention of phone records, known as the “data retention mandate.” EPIC explained in the Petition that the rule was “unduly burdensome and ineffectual and posed an ongoing threat to the privacy and security of American consumers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "The U.S. Supreme Court recently declared that cell phone location records are protected under the Fourth Amendment in. (Aug. 2, 2018)",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "EPIC wrote in the letter that “as we anticipated in the original Petition, the retention of cell phone data implicates constitutional interests.” All of the comments received by the FCC on this topic favored an end to the mandate.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "EPIC has sent a statement to the House Commerce Committee for a hearing on the Federal Communications Commission.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "EPIC urged the Committee to push the FCC to develop a comprehensive plan for online privacy.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "EPIC also asked the Committee to press the nominees to repeal a FCC regulation that requires the retention of telephone customer records for 18 months.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "EPIC filed a petition urging the repeal of this mandate more than two years ago and the FCC recently docketed the petition for public comment.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Every comment received by the FCC favored the EPIC petition to end the data retention mandate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "EPIC has submitted multiple comments to the FCC for strong online privacy protections.(Jul. 24, 2018)",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": " EPIC Urges Congress to Focus on FCC and Privacy: EPIC has sent a statement to the House Commerce Committee for a hearing on the Federal Communications Commission.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "EPIC urged the Committee to affirm the FCC's role in protecting online privacy.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "EPIC also asked the Committee to press the nominees to repeal a FCC regulation that requires the retention of telephone customer records for 18 months.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "EPIC filed a petition urging the repeal of this mandate more than two years ago and the FCC recently docketed the petition for public comment.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Every comment received by the FCC favored the EPIC petition to end the data retention mandate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "EPIC has submitted multiple comments to the FCC for strong online privacy protections.(27, 2017) ",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "EPIC and the FCC EPIC is a leading privacy advocate before the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "In response to EPIC's 2005 petition , the FCC issued a rulemaking strengthening privacy protections for consumers’ telephone records .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "Circuit upheld the rulemaking, establishing support for opt-in privacy safeguards.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "In 2010, EPIC wrote to the FCC urging the Commission to investigate Google’s “Street View” vehicle collection practices.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "The FCC undertook an investigation and in 2012 issued an interim report and fined Google $25,000, finding that the company had obstructed the agency’s investigation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "EPIC also filed a FOIA request for the agency’s report, which Google finally released unredacted .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "EPIC participated in the Commission’s 2013 rulemaking regarding the privacy of stored data on mobile devices.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "EPIC filed comments with the FCC urging the Commission to require mobile carriers to implement fair information practices and to adopt techniques for encryption.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "The FCC ruled that telecommunications carriers must follow the safeguards for Consumer Proprietary Network Information for information stored on mobile devices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "Most recently, EPIC further urged the FCC to investigate Verizon's disclosure of customer record information to the NSA and to determine whether AT&T; violated the Communications Act when it sold private consumer call detail information to the Drug Enforcement Administration and Central Intelligence Agency.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "In conjunction with these action letters, EPIC joined a 2013 petition to the Federal Communications Commission asking the FCC to rule that the sale of consumer phone records to the government is a violation of the federal Communications Act.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "The petition is currently pending before the Commission.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "Net neutrality stands for the principle that broadband providers - often referred to as \"ISPs,\" or Internet service providers - should give equal treatment to Internet communications and data flowing over their networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "The FCC has recently approved an extension of net neutrality in the 2015 Open Internet Order.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "The is a rule that reclassifies internet service providers as \"telecommunications services\" under the Telecommunications Act of 1996.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "This allows the FCC to regulate certain aspects of ISP behavior.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "Before the 2015 Open Internet Order, internet service providers were not classified as \"common carriers.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "A \"common carrier\" is a company that provides services to the general public and is responsible for the quality and delivery of those services.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "For example, gas pipelines, electric companies, railroads, and \"telecommunications services\" (like phone companies) are all \"common carriers.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "This is an important classification, because the government regulates common carriers under different laws and authorities than private companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "In 2010, while ISPs were not yet classified as telecommunications services, the FCC promulgated a set of net neutrality rules using its authority under Section 706 of the Telecommunications Act.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "(Section 706 mandates the FCC to encourage the deployment of advanced telecommunications services and to take action if necessary to accelerate deployment.)",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "The FCC's 2010 Order prohibited internet service providers from blocking content, engaging in discriminatory practices such as slowing down or speeding up content of certain end users and content providers, and required ISPs to transparently disclosure network management practices.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "Circuit ruled in 2010 that the FCC could not regulate ISPs as though they were telecommunications services.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "However, the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "Circuit upheld the FCC’s general authority to promulgate open Internet rules with its Section 706 authority.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "In response to the D.C. Circuit’s ruling, the FCC announced a new notice of proposed rulemaking regarding open Internet rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "The Commission recently passed its new Open Internet Order by a vote of 3-2.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "Under the new Open Internet Order, internet service providers are no longer classified as \"information services\" under Title I of the Telecommunications Act.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "Instead, they are classified as common carriers - and specifically, as telecommunications services - and can be regulated under Title II of the Telecommunications Act.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "This means that the rules that apply to telecommunications services under Title II will now also apply to internet service providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "Several of the Title II rules - which now apply to ISPs - contain provisions about privacy.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "These provisions did not apply to ISPs before the 2015 Open Internet Order, but now they do apply.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "Under the Communications Act of 1934, the FCC can \"forbear,\" or choose not to apply, any rules in Title II that are \"no longer in the public interest.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "In the 2015 Open Internet Order, the FCC made clear that it will forbear most of the provisions of Title II.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "It will NOT forbear (that is, it WILL apply) sections 201, 202, 206, 207, 208, 209, 216, 217, 222, 224, 225, 254, and 255.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "Two of these in particular - Sections 201 and 222 - will have a significant impact on consumer privacy.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "Enforcement Jurisdiction and the FTC Prior to the Open Internet Order, the Federal Trade Commission was the primary agency that brought enforcement actions against internet companies that violated consumer privacy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "However, Section 5(2)(a) of the FTC Act prohibits the FTC from pursuing actions against “common carriers subject to the Acts to regulate commerce.” The Open Internet Order’s reclassification of broadband Internet access service as a “telecommunications service” makes broadband providers common carriers - at least in their capacity as internet service providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "Section 201 The FCC will enforce Section 201 against internet service providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "Section 201(b) of Title II provides that “[a]ll charges, practices, classifications and regulations for and in connection with such communication service, shall be just and reasonable, and any such charge, practice, classification, or regulation that is unjust or unreasonable is declared to be unlawful.” Section 201’s \"just and reasonable standard\" is much like the FTC’s Section 5 \"deceptive and unfair\" standard.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "The FCC in the past has stated that its Section 201 authority is functionally equivalent to the FTC’s Section 5 authority.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "The FCC may pursue broadband providers for unreasonable data security practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": "The agency can use Section 201 to ensure that broadband providers take just and reasonable means to protect consumers’ personal data.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "In 2014, the FCC brought its first data security action, finding that two companies’ failure to protect consumers’ personal data by either encryption or password - “even the most basic and readily available technologies and security features” - constitutes an unjust and unreasonable practice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "Section 222 Under the Open Internet Order, the FCC will also enforce the consumer privacy provision of Title II, Section 222.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": "This section aims to protect consumers’ personal information collected by carriers, as a result of the customer-carrier relationship.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "Under this section, carriers must “protect the confidentiality of [consumers’] proprietary information” from unauthorized use and unlawful disclosure.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 105,
+            "sentence": "Congress distinguishes between individually identifiable information and aggregate information, “according the category of customer proprietary network information (CPNI) the greatest level of protection.” CPNI is defined in this section as “information that relates to the quantity, technical configuration, type, destination, location, and amount of use of a telecommunications service subscribed to by any customer of a telecommunications carrier, and that is made available to the carrier by the customer solely by virtue of the carrier-customer relationship.” In 1998 the FCC issued rules implementing Section 222’s statutory obligations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 106,
+            "sentence": "In 2007, in response to a petition by EPIC , the FCC issued additional rules regarding CPNI compliance .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 107,
+            "sentence": "(However, the Open Internet Order forbears these rules, as they mostly relate to voice and telephone-specific data.)",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 108,
+            "sentence": "The FTC will conduct a rulemaking to determine how Section 222 and CPNI will apply to broadband Internet access service providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 109,
+            "sentence": "Pending that rulemaking, it is still uncertain how much customer data Section 222 covers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 110,
+            "sentence": "This Section could potentially cover all personally identifiable customer data, such as web-browsing history and geo-location data, that is stored on a device or that a broadband service provider tracks as a consequence of the customer-carrier relationship.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 111,
+            "sentence": "The language of the Open Internet Order suggests that the FCC is looking to set meaningful privacy and security baselines that broadband providers must follow.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 112,
+            "sentence": "Although the specifics as to what customer data will be covered and to what extent are not yet known, the scope of the provision as applied to broadband providers seems appropriately tailored to the full extent of sensitive information broadband providers collect, track, and retain solely incident to their role as an Internet access provider: “As broadband Internet access service users access and distribute information online, the information is sent through their broadband provider.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 113,
+            "sentence": "Broadband providers serve as a necessary conduit for information passing between an Internet user and Internet sites or other Internet users, and are in a position to obtain vast amounts of personal and proprietary information about their customers.” Section 222(a) provides that carriers protect the confidentiality of consumers’ “proprietary information.” While proprietary information is left undefined in the statute, the FCC recently interpreted proprietary information as “broadly encompass[ing] all types of information that should not be exposed widely to the public, whether because that information is sensitive for economic reasons or for reasons of privacy.” The FCC further determined that “the scope of ‘proprietary information’ protected by Section 222(a) is broader than the statutorily defined term ‘customer proprietary network information’ (CPNI),” including “privileged information, trade secrets, and personally identifiable information (PII).” The FCC cited without adopting the National Institute of Standards and Technology (NIST) definition of PII, finding it to be “informative,” and also clarified that “[i]n general, PII is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context.” Section 222(c)(1): Use and Disclosure of CPNI Under this subsection carriers may not use, disclose, or allow access to consumers’ personally identifiable CPNI without the express consent of the customer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 114,
+            "sentence": "Carriers may use CPNI for in-house marketing of other communications services, as well as disclose such information to its agents and affiliates for such purpose, only after providing each customer notice and opportunity to opt-out of having their personal information being used for marketing purposes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 115,
+            "sentence": "Furthermore, carriers may not sell or disclose CPNI to venture partners or third parties without a customer’s opt-in consent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 116,
+            "sentence": "Customer data used in the aggregate and not personally identifiable is not subject to these restrictions on use, disclosure, and access.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 117,
+            "sentence": "The FCC's 2010 transparency rule requires broadband providers to “publicly disclose accurate information regarding the network management practices, performance, and commercial terms” of their broadband service so that consumers may make informed decisions and get what they pay for with no last minute surprises regarding price, speed, and data privacy and security practices.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 118,
+            "sentence": "The Open Internet Order enhances this rule.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 119,
+            "sentence": "Enhancements include disclosure of packet-loss and more just in-time notifications.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 120,
+            "sentence": "The FCC will give safe harbor to those broadband providers who voluntarily adopt disclosure formats that are standalone and easy to ready, “similar to a nutrition label.” Thus, under the 2015 Open Internet Order, the FCC can use its Section 201 authority to hold liable a provider that makes inaccurate or deceptive representations in connection with the transparency disclosure requirements.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 121,
+            "sentence": "The Open Internet Order mandates compliance with federal surveillance statutes and.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 122,
+            "sentence": "Although the applicability of these statutes to broadband Internet providers is not new, the Order’s surveillance compliance mandate is at odds with its focus on customer privacy and data security.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 123,
+            "sentence": "While the Order increases the level of privacy and data security protections broadband providers must afford their customers, the Order still requires broadband providers to comply with federal surveillance statutes that weaken the privacy and security of broadband provider networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 124,
+            "sentence": "CALEA is particularly troublesome, as it requires telecommunications carriers to construct their network in such a way that allows the government a backdoor into the network, for surveillance purposes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 125,
+            "sentence": "These backdoors create heightened network security vulnerabilities, allowing access not just to the government but also hackers and criminals .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 126,
+            "sentence": "In re TerraCom, Inc. and YourTel America, Inc. (2014) (Section 201, 222(a), data security) (2014) (Section 222(c)) In the Matter of CenturyLink, Inc. FOIA to FCC on President Trump - Chairman Pai Meeting (March 21, 2017) Production - Scheduling E-mails (June 6, 2017) Open Internet Order of 2015, 80 Fed.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 127,
+            "sentence": "FCC Declaratory Ruling, Section 222 (2013) FCC 2007 CPNI Order EPIC 2005 2002 CPNI order CPNI enforcement actions FTC Act, Section 5(a)(2) NCTA v. FCC - Concerning Privacy of Customer Proprietary Network Information (CPNI) EPIC: FCC v. Google Street View , 2003 EPIC: FCC v. AT&T; Share this page: Subscribe to the EPIC Alert The EPIC Alert is a biweekly newsletter highlighting emerging privacy issues.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 128,
+            "sentence": "EPIC Alert archive » Washington, DC 20036 202.483.1140 info[at]epic[dot]org About EPIC About EPIC EPIC Board and Staff EPIC Bookstore EPIC Testimonials EPIC 2013 Annual Report Contact EPIC EPIC in the News EPIC Alert EPIC Commentaries EPIC Blog EPIC's Work APA Comments EPIC Publications Thepublicvoice.org foia.rocks privacycoalition.org csisac.org Drones and UAVs GDPR Right to be Forgotten 1519 New Hampshire Avenue NW Washington, DC 20036 More info EPIC's Work APA Comments EPIC Publications EPIC in the News EPIC Alert EPIC Commentaries EPIC Blog Thepublicvoice.org foia.rocks privacycoalition.org csisac.org FOIA Documents EPIC FOIA Notes Drones and UAVs GDPR Right to be Forgotten About EPIC About EPIC EPIC Board and Staff EPIC Bookstore EPIC Testimonials EPIC 2013 Annual Report Contact EPIC EPIC Bookstore Support EPIC",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

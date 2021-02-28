@@ -1,0 +1,691 @@
+{
+    "document_id": -1,
+    "url": "https://www.pcgamer.com/the-net-neutrality-fight-isnt-over-even-after-the-repeal/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "T.J. Hafer",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:41:31.176815+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to main content PC Gamer THE GLOBAL AUTHORITY ON PC GAMES Please deactivate your ad blocker in order to see our subscription offer Meet the team Fallout 76 Best FPS PC Gamer is supported by its audience.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "When you buy through links on our site, we may earn an affiliate commission.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Learn more What you need to know about net neutrality in 2019 02 January 2019 The FCC repealed guidelines protecting net neutrality in June 2018, but the fight continues in court and in Congress.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "repealed rules protecting net neutrality .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "These rules prevented private internet service providers from engaging in such practices as speeding up or slowing down traffic to specific websites, blocking access to law-abiding websites, or offering faster speeds to sites or users who pay them for the privilege.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "For example, an ISP like Comcast or Time Warner couldn't force you to pay an extra fee to stream Netflix in full HD like some cellular carriers already do.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "They also couldn't block entire sites for basic plans and force you to pay for a higher-priced package to access them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "If you had a 100 megabit per second plan, the ISPs couldn’t have a say in how you used those 100 megabits so long as you weren’t breaking the law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Since the FCC did away with those protections, we haven't seen a dramatic shift in how ISPs operate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "But that doesn't mean everything is sitting still.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Acitivists are still arguing in favor of net neutrality, states are taking matters into their own hands, and some internet companies are making moves that may have been blocked under net neutrality protections.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Here's what you need to know going into 2019.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Post-neutrality America so far The honest answer is that we don’t know exactly how ISPs have changed their practices, because it’s very difficult to reliably determine if content is being prioritized or throttled.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "ISPs currently aren’t required to disclose that kind of information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Some research has suggested that cellular providers are regularly singling out and throttling video traffic .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Here in the US, we haven’t seen a rollout of tiered pricing for internet plans, but Portugal has .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Over there, you can be charged an extra monthly fee for video streaming, social media, and even email access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "And if it could happen there, it could happen here.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The idea that looser rules will mean more options for consumers is dubious.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "FCC chairman Ajit Pai and critics of net neutrality claim that it stifles innovation, reduces investment in the internet, and disproportionately harms smaller ISPs.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "In the world they claim to want, everyone would have many different ISP choices to shop around among, with each having full freedom over what kind of service they sell.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "In theory, this would discourage ISPs from nickel-and-diming us or blocking and throttling content because they would be in danger of losing customers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "What they’re actually proposing, though, is giving anyone who owns or wants to start an ISP the ability to engage in consumer-unfriendly practices like throttling and tiered packages—getting more money out of you for the same or worse access than you have right now—to make more money for their shareholders.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "It’s a case of being allowed to pick your poison and hoping competing poisoners will try to woo you with less potent poisons, rather than saying you can’t poison people at all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "And as for whether or not we should take Comcast at its word that it won't throttle or block sites: protesting loudly against a rule you say you don’t plan to break is kind of an odd look.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "The idea that looser rules will mean more options for consumers is dubious, too, as many ISPs already have local monopolies or oligopolies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Where I live in Denver area, I have a choice between two ISPs and only one that offers the speeds I need to stream and upload video for my job.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "So if that one ISP decided to start charging me extra for tiered service, I would have little choice but to pay up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Less visible, but even more important, is the protections on your data privacy that were lost with net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "In 2017, the US government repealed rules established by the FCC in 2016, which limited what data ISPs could collect about users browsing habits.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "ISPs argued that those rules were unnecessarily restrictive, and put them at a competitive disadvantage with data-gathering companies like Google and Facebook.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "But that argument intentionally ignores the vast difference between services like Facebook and internet providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "You can choose not to use Facebook or opt out of Google's data collection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "If you want o use the internet at all, you essentially have to accept that your ISP will be harvesting data on how you browse.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "For most reading this, the internet is a necessity of everyday professional and personal life.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Imagine streamers, YouTubers, or anyone who runs an internet business having no choice but to cough up extra cash every month to Comcast—it's just less money for them, more for a huge corporation that can exploit their needs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "The rules are gone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Some big ISPs are at least still paying lip service to the idea of net neutrality, but they are under no legal compulsion to continue to support this stance.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "We haven’t seen anything wild in terms of tiered pricing plans yet, but it’s very difficult to tell how faithfully any ISP is keeping its promises about prioritization and throttling.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Some states are fighting to enact their own net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "California passed strong net neutrality protections in October and the federal Department of Justice promptly sued, stating \"Under the Constitution, states do not regulate interstate commerce—the federal government does.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "California later agreed to hold off on enforcing the law until a separate lawsuit against the FCC's net neutrality appeal is settled in court.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "If that lawsuit is a success, the California laws may even prove to be irrelevant.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "The FCC is a part of the executive branch of the US government.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "But they don’t make laws—that’s the legislative branch, aka Congress.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "And while they have some leeway to interpret laws, their interpretations are always open to being overturned by the judicial branch—the courts, including the Supreme Court.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "So while we suffered a major loss in the fight for net neutrality when the FCC revoked protections, there are still battles ongoing in the legislature and the courts that could overturn the decision.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "A vote in the Senate of 48 yea to 47 nea with five abstaining would pass a simple majority.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "The current lawsuit could lead to a ruling that the federal order itself was illegal, as many net neutrality advocates are trying to prove, causing the FCC’s intervention to backfire.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Slate’s April Glaser pointed out last year that Pai’s rules “ aren’t on solid legal footing already filed a suit — supported by 22 other US attorneys general representing over 160 million Americans—to reverse the FCC order.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Arguments in the court case begin in February .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "On the legislative side, overturning the FCC order would only require a simple majority in Congress.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "That means more votes in favor than against in both the Senate and the House of Representatives, disregarding any abstentions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "This is easier to achieve than an absolute majority—half the total number of seats, plus one—normally required to pass legislation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "A vote in the Senate of 48 yea to 47 nea with five abstaining would pass a simple majority, even though an absolute majority of 51 was not achieved.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "This is significant in that swing votes only need to be convinced not to vote against net neutrality, rather than to actively vote for it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "We'll see how the newly Democratic-led House of Representatives changes net neutrality's position in Congress.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "What you can do Net neutrality protections are beneficial to just about everyone who isn’t looking to make money as a shareholder or corporate officer in a big ISP.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "It’s hard to tell if or when ISPs will act on their new freedoms, but they have a strong financial incentive to do so, and most face little meaningful competition that would rein them in.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "While the fight for net neutrality is now mostly in the hands of the courts and Congress, it's important that you stay educated on the issue; there will always be future opportunities to make your voice heard, by contacting a representative or filing an opinion with the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "There are also organizations like the Electronic Frontier Foundation that fight to support net neutrality, and benefit from volunteers or donations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "For more on net neutrality and why it matters to us, see our article from 2017 about what net neutrality means for PC gaming .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "See comments C&C Remastered is looking good, and comes with a treasure trove of rediscovered FMV Fallout 76's new robot loves communism a bit too much for some players Sign up to get the best content of the week, and great gaming deals, as picked by the editors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "No spam, we promise.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "You can unsubscribe at any time and we'll never share your details without your permission.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "1 The best wireless gaming keyboard in 2020 2 The best 4K monitor for gaming for 2020 3 The best microphone for streaming, gaming, and podcasting 4 The best RAM for gaming in 2020 5 The best uninterruptible power supply (UPS) for PC gaming in 2020 1 Streets of Rage 4 review 2 MSI GF65 THIN 9SEXR gaming laptop review 3 SnowRunner review 4 5 PC Gamer is part of Future US Inc, an international media group and leading digital publisher.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "Visit our corporate site .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "Terms and conditions Privacy policy Cookies policy Advertise with us",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

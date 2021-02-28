@@ -1,0 +1,531 @@
+{
+    "document_id": -1,
+    "url": "https://finance.yahoo.com/news/net-neutrality-fcc-184307416.html",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Rob Pegoraro",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:41:11.226484+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "The FCC said repealing net-neutrality rules would help consumers: It hasn’t June 12, 2019 FILE - In this Dec. 14, 2017, file photo, Federal Communications Commission Chairman Ajit Pai arrives for an FCC meeting on net neutrality, in Washington.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Once President Donald Trump took office, net neutrality became one of his first targets as part of broader government deregulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The FCC chairman he appointed, Pai, made rollback a top priority.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "One year ago, a Republican-controlled Federal Communications Commission finished scrapping the strict net neutrality regulations that banned internet providers from blocking or slowing legal content , or even charging for faster delivery.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "This new regime promised a different bargain: We’d get more and better broadband in return for giving ISPs the freedom to muscle around sites for profit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "FCC chairman Ajit Pai repeatedly emphasized that eliminating the rules would help smaller ISPs in particular bring competition to the market.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "“They told us that these rules prevented them from extending their service because they had to spend money on lawyers and accountants,” he said in a June 2018 statement .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "A year later, the bargain looks unfulfilled.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Evidence remains scant of ISPs saving money from this regulatory rollback, or working to give consumers faster or better broadband options.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "But they also don’t seem to be using their new power, much less abusing it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "On Monday, the industry group USTelecom said it estimated broadband investment had increased from $72 billion in 2017 to $75 billion in 2018 .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "But its data also shows individual telco firms pulling back.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Figures USTelecom posted in February , for example, show Verizon cutting its investment by 3.4% from 2017 to 2018.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "And the 3.9% increase shown for AT&T ( ) vanishes if you subtract the $1.2 billion the firm spent in 2018 on the government-backed FirstNet emergency-responder network.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "And last week, AT&T Communications CEO John Donovan told attendees at an investor conference that the firm would slow its fiber build-out .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Two small ISPs championed by Pai said they were improving speeds, not expanding coverage.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Chad Cleveland, general manager for in Laurens, Iowa—a firm Pai cited as a net-neutrality victim , said Laurens Municipal “had already built out to all of the citizens of Laurens before this all took place,” but was now considering a fiber-to-home upgrade.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "“We’ve focused on increasing the throughput capabilities,” said Derek McNaught, network engineer at Parsons, Kans.-based .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "He added that his firm didn’t want to barge into territory other small wireless ISPs serve.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The FCC’s latest broadband-deployment report does show an increase in connectivity across the U.S. —but that’s based on vague and out-of-date information provided by ISPs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "And outside broadband-mapping work by USTelecom and Microsoft ( MSFT ) are making its defects increasingly obvious .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "On Wednesday, Pai announced that the FCC would vote in August to require more precise data from providers .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Cleveland said he’d feared the possible risks of the old rules’ backstop clause barring “unjust and unreasonable” practices but added that he backs a ban on blocking, throttling and paid prioritization.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "“I don’t have a cost estimate for what I saved,” he said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Killing net neutrality hasn't given customers more options for their broadband.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Claude Aiken, president of the wireless-ISP group WISPA , said it was more a matter of “potentially increased compliance costs” than actual expenses.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "He and Ted Hearn, president of the small-cable-providers group ACA Connects , said banks were less willing to loan to smaller ISPs after the 2015 rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "“It looks different from a bank’s perspective if you are in a lightly versus heavily regulated industry,” Aiken agreed.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Matt Larsen, CEO of Gering, Neb.-based VistaBeam , said the 2017 rules actually cost him.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "“All of those required disclosures costs us over $10K in legal fees to put together because we wanted to do it right,” he explained via email.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "He’s since found that pricey prose duplicated at another ISP’s site.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "The worst didn’t happen On the other hand, we haven’t seen telco execs indulge their dreams of surcharging sites .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Story continues app-based study by researchers at Northeastern University, the University of Massachusetts at Amherst, and Stony Brook University confirmed no persistent throttling beyond wireless carriers limiting streaming-video resolution.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "And they were already doing that under the old rules, which exempted video from data caps .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "That study originally detected Sprint ( ) throttling Skype, but in an email, lead principal investigator David Choffnes said the company stopped the practice in October.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Choffnes said his group’s tests “generally do not detect throttling” among wired providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "The FCC, meanwhile, knows of no paid-prioritization deals struck by ISPs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "You can see if yours would sign one at the disclosure statement it’s required to post.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Comcast ( CMCSA ), for instance, renounces paid prioritization in its disclosure .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "But these statements may not reside at your provider’s site.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "They can send them to the FCC —where they lurk in its electronic-comment-filing system under docket number 18-142 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "To spare you from reading all 53 filings made via this opaque form of transparency, none attest to plans for blocking, throttling or paid prioritization.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Privacy by the wayside Gigi Sohn, a net-neutrality advocate who served as counselor to , Pai’s predecessor as FCC chairman, called throttling and paid prioritization “one half of the picture.” She pointed to privacy issues, as seen in the discovery that all four wireless carriers—Yahoo Finance’s corporate parent Verizon ( VZ ) among them—had sold location data to third-party brokers .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "The Obama-administration FCC had approved privacy regulations grounded in the old net-neutrality rules, but Republicans in Congress rushed to cancel them in early 2017 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "“It’s a lack of oversight that’s the most egregious part,” Sohn said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "“I doubt anybody’s minding the store.” The Federal Trade Commission is now supposed to step in when ISPs violate their stated policies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "But the long-overworked FTC increasingly has its hands full investigating Facebook ( FB ) and other tech giants.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Killing net-neutrality rules hasn’t destroyed the internet as we know it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "But if their most-evident upside has been making bankers more comfortable loaning to ISPs, celebrating this as “restoring internet freedom” as Pai does is a bit much.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "at rob@robpegoraro.com; follow him on Twitter at @robpegoraro .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Your list is empty.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Detention of undocumented immigrants 'explodes' under Trump: report AFP Few new restrictions as Georgia's shelter-at-home order ends A masked Pence beta-tests presidential travel for America’s reopening Pelosi defends Biden as he faces calls to address sexual assault accusation Health officials propose paying Americans $50 a day to self-isolate Why some U.S. billionaires are profiting amid coronavirus Coronavirus expert: 'We've not encountered a virus quite like this' Fed expands scope of loan program to Main Street Digital ad market is avoiding coronavirus disaster, say tech giants Tesla CEO Elon Musk lambasts 'fascist' coronavirus stay-in-place orders Senator Sherrod Brown calls Trump's coronavirus response 'incompetent' and 'immoral' Save $300 on the Roomba i7+ vacuum robot at Best Buy Raising Cane's CEO: We're not going to hurry back and reopen stores Why tech sector is prepared to overcome coronavirus LabCorp slapped with shareholder suit over data breaches TechCrunch Workers prepare to strike May 1, amid strained pandemic working conditions TechCrunch Stock market news live updates: Stocks fall after jobless claims report The new taxes coming to finance all that stimulus spending Joe Biden is ‘right man for the top’ amid coronavirus crisis: ex-Obama official This hedge fund is surging despite coronavirus volatility Assesing how the government has handled the COVID-19 outbreak Warren Buffett: Apple CEO Tim Cook tried to teach me how to use iPhone Neiman Marcus to reportedly file for bankruptcy Kellogg CEO: 'People are eating more of our cereal' Earnings Recap: Tech stocks jump after posting strong quarter Starbucks extends COVID-19 benefits through the end of May, sees 'new phase' for opening store Markets fall on poor retail sales numbers, bank earnings",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

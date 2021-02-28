@@ -1,0 +1,421 @@
+{
+    "document_id": -1,
+    "url": "http://www.videtteonline.com/viewpoint/letter-to-the-editor-treatment-is-the-only-hope-to-end-covid-19/article_5dd54902-fc52-11ea-871a-7f7e099b0fcf.html",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:49:13.005855+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "You have permission to edit this article.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Saved items Letters to the Editor CONTACT US .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Saved items LinkedIn YouTube RSS iOS App Download our new app: iTunes or 42° Normal, IL (61790) Partly cloudy skies this morning will become overcast during the afternoon.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Winds light and variable..",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Winds SE at 10 to 15 mph.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Chance of rain 70%.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Rainfall near a quarter of an inch.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Updated: November 23, 2020 @ 11:33 am Toggle navigation Letters to the Editor MVC Weekly 1 of 2 GETTY IMAGES WhatsApp SMS LETTER TO THE EDITOR WhatsApp SMS Letter to the Editor: Treatment is the only hope to end COVID-19 Gregg Brown, ISU alum Mar 30, 2020 Mar 30, 2020 Sep 25, 2020 0 WhatsApp SMS +1 LETTER TO THE EDITOR GETTY IMAGES WhatsApp SMS We have masked ourselves.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "We have distanced ourselves.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "We have locked down our economies and cut ourselves off from the way we normally live.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "As a result, we are suffering from the economic and psychological damages brought on by the unprecedented steps that have been imposed on us.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "And it is all because supposedly there is no ordinary treatment for the infections caused by the coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "If there is a treatment, we don't need a lockdown.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "I believe there is an ordinary treatment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Dr. Simone Gold has emerged as a spokesperson for a group calling itself America's Frontline Doctors.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "She is saying that she has successfully treated her patients with a combination of hydroxychloroquine and a zinc supplement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "The way it works is that this cheap medicine helps human cells take up zinc so that the immune system can recover from the coronavirus infection.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Hydroxychloroquine has been an approved and non-controversial medicine for over 60 years.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "But now Dr. Gold and other doctors are having their reputations attacked and smeared for advocating its use.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Apparently, there are powerful forces committed to herding us down this dark path.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "You can hear her testimony online.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Do yourself a favor and listen to what she has to say.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Two key websites are www.thegoldopinion.com and www.americasfrontlinedoctorsummit.com .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "ISU alum WhatsApp SMS +1 LETTER TO THE EDITOR Www.americasfrontlinedoctorsummit.com Www.goldopinion.com × Add an entry as [smile] [beam] [wink] [sad] [cool] [innocent] [rolleyes] [whistling] [lol] [huh] [tongue] [love] [sleeping] [yawn] [unsure] [angry] [blink] [crying] [ohmy] [scared] [sleep] [sneaky] [tongue_smile] [thumbdown] [thumbup] [censored] [happybirthday] [ban] [spam] [offtopic] [batman] [ninja] [pirate] [alien] Add entry × Your entry has been submitted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "× × × There was a problem reporting this.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "× Watch the guestbook.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Stop watching this guestbook.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Watch this discussion Get an email notification whenever someone signs the guestbook.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Notifications from this guestbook will end.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Start watching Stop watching (0) entries Sign the guestbook.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Please avoid obscene, vulgar, lewd, racist or sexually-oriented language.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "PLEASE TURN OFF YOUR CAPS LOCK.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Threats of harming another person will not be tolerated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Don't knowingly lie about anyone or anything.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "No racism, sexism or any sort of -ism that is degrading to another person.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Use the 'Report' link on each comment to let us know of abusive posts.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "We'd love to hear eyewitness accounts, the history behind an article.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Add an entry Watch the guestbook.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Stop watching this guestbook.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "You voted: Family dinner  Staying at home  Seeing family with dinner  Virtual gathering  ​ ​ Today's events videtteonline.com Normal, IL 61790-0890  309-438-7685 vidette@ilstu.edu LinkedIn YouTube RSS iOS App videtteonline.com , Locust and University Normal, IL .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Powered by from TownNews.com .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "document_id": -1,
+    "url": "https://healingoracle.ch/2020/03/17/the-best-ways-to-prevent-and-treat-co-vid19-corona-virus/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:58:46.434548+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "You don't have permission to access this resource.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Additionally, a 403 Forbidden error was encountered while trying to use an ErrorDocument to handle the request.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

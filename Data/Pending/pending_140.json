@@ -1,0 +1,2191 @@
+{
+    "document_id": -1,
+    "url": "https://www.digitaltrends.com/web/net-neutrality-timeline/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Malarie Gokey",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:43:23.951635+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": " FCC Net neutrality timeline: Read all the new rules in full detail     March 12, 2015  Net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Don’t roll your eyes, this is IMPORTANT.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "President Obama has weighed in on it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The FCC finally passed new rules for it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Senators and congressmen continue to debate it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Netflix is all for it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Since it was first announced, the FCC’s plan has been met with widespread criticism and has dragged the issue of Net neutrality, or the idea of an open Internet, to a mainstream audience once again.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Over the past few weeks (or years), you’ve probably heard a lot about this issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "If you’re not sure what it really means, don’t feel too bad.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "It’s a topic that inspires debate so intense that some of the simplest details have been obscured and whitewashed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "We’re here to catch you up on everything you need to know.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Updated on 03-12-2015 by Malarie Gokey: Added news the FCC has made the full text laying out the new Net neutrality rules public.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Go straight to the for all the information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "To get a basic definition, we turn to Columbia University law professor Tim Wu, who is credited with coining the term.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "“Network neutrality is best defined as a network design principle.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The idea is that a maximally useful public information network aspires to treat all content, sites, and platforms equally.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "This allows the network to carry every form of information and support every kind of application.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The principle suggests that information networks are often more valuable when they are less specialized — when they are a platform for multiple uses, present and future,” Wu wrote on his website .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "“A useful way to understand this principle is to look at other networks, like the electric grid, which are implicitly built on a neutrality theory.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The general purpose and neutral nature of the electric grid is one of the things that make it extremely useful.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The electric grid does not care if you plug in a toaster, an iron, or a computer.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Consequently it has survived and supported giant waves of innovation in the appliance market.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The electric grid worked for the radios of the 1930s works for the flat screen TVs of the 2000s.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "For that reason the electric grid is a model of a neutral, innovation-driving network.” During 2014 in particular, as politicians have become involved, the issue is thornier than ever.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Here’s a timeline of the Net neutrality debate; we start and end with the current crisis, but also reach all the way back to the roots of the issue in 1996.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "2015: The FCC passed new Net neutrality rules on February 26 March 12: FCC makes new rules publicly available The FCC has gotten a lot of flack for not revealing the full text of the new Net neutrality rules immediately, but now the agency has published the rules for all to see.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "The document clears up many burning questions about which parts of Title II will apply to broadband Internet, among other things.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Apparently, the FCC will use very few of the rules from Title II, as around 700 of them have been declared inapplicable.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "“This includes no unbundling of last-mile facilities, no tariffing, no rate regulation, and no cost accounting rules, which results in a carefully tailored application of only those Title II provisions found to directly further the public interest in an open Internet and more, better, and open broadband,” the document reads.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "The rules also emphasize that a “light touch” will be used, and the FCC will not meddle unless the openness of the Internet is clearly endangered.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "We will provide a full breakdown of the text soon, but for now, you can read the entire document on the FCC’s website.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "February 26: FCC passes Net neutrality rules and reclassifies broadband The FCC finally passed chairman Tom Wheeler’s proposal to reclassify broadband under Title II and other Net neutrality rules in a 3-2 vote.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Both of the agencies’ Democratic Commissioners Jessica Rosenworcel and Mignon Clyburn voted with Wheeler to pass the rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "“Today, the Commission — once and for all — enacts strong, sustainable rules, grounded in multiple sources of legal authority, to ensure that Americans reap the economic, social, and civic benefits of an Open Internet today and into the future,” The FCC said in a press release .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "“These new rules are guided by three principles: America’s broadband networks must be fast, fair and open — principles shared by the overwhelming majority of the nearly 4 million commenters who participated in the FCC’s Open Internet proceeding.” While the chairman and supporters of an open Internet celebrated the ruling, the two Republican Commissioners notably opposed the idea, citing concerns for free market competition and over regulation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Commissioner Ajit Pai even accused the FCC of making an “about-face” on the issue just because President Obama told it to do so.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "For more coverage on the ruling and what it means for you, ISPs, and mobile carriers, check out our companion piece .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "February 4: FCC Chairman Tom Wheeler officially proposes Title II reclassification Just days after it was reported that the FCC would finally propose a new solution to the Net neutrality debate, FCC Chairman Tom Wheeler wrote an op-ed piece on declaring that he has issued a proposal that would reclassify broadband under Title II, so the FCC can ensure that the Internet stays free and open to all, regardless of how deep their pockets are.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "“These enforceable, bright-line rules will ban paid prioritization, and the blocking and throttling of lawful content and services,” Wheeler wrote .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "“I propose to fully apply — for the first time ever — those bright-line rules to mobile broadband.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "My proposal assures the rights of Internet users to go where they want, when they want, and the rights of innovators to introduce new products without asking anyone’s permission.” Although broadband will now be regulated as a utility under Title II, Wheeler promised that there will be “no rate regulation, no tariffs, no last-mile unbundling.” In the piece, Wheeler explained why he believes an open and free Internet is essential to future innovations with a very personal story.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "The FCC chairman revealed that back in the early days of the Internet, his startup company perished, while its competitor, AOL thrived — all because of the open nature of the Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Wheeler added that had the Internet been more closed off, a startup like AOL would never have existed, let alone survived.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "In the end, the chairman concluded that strong rules are needed to keep the Internet open to innovators big and small.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "“The Internet must be fast, fair and open,” Wheeler wrote.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "“That is the message I’ve heard from consumers and innovators across this nation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "That is the principle that has enabled the internet to become an unprecedented platform for innovation and human expression.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "And that is the lesson I learned heading a tech startup at the dawn of the internet age.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "The proposal I present to the commission will ensure the Internet remains open, now and in the future, for all Americans.” February 2: FCC expected to reclassify broadband under Title II FCC Chairman Tom Wheeler is expected to reclassify broadband under Title II sometime this week, reports the .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Wheeler’s proposal will most likely declare high-speed Internet a telecommunications service instead of an information service, but will not reclassify the service as a utility in the strictest sense of the term.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "For example, the FCC will not interfere in pricing or interfere with Internet Service Providers’ decisions too heavily.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "The proposal is, however, expected to forbid Internet fast lanes, paid prioritization, and other violations of the Net neutrality concept.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Wheeler may also include wireless data services in the new rules, so as to ensure that no content is blocked along those channels either.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Regardless of the level of strictness the FCC proposes, ISPs and other anti-Net neutrality companies will likely appeal the decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "January 16: Republicans propose bill to preempt FCC decision Republican chairmen of the Senate and House commerce committees, John Thune and Fred Upton, issued a bill that would include some of the Net neutrality proposals the White House and FCC has put forth, while stripping the FCC of all decision-making authority.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "The bill would forbid the blocking or throttling of specific websites, except under special circumstances, including “emergency communications or law enforcement, public safety, or national security authorities.” In other words, the government and or private corporations would be able to justify paid prioritization of websites upon occasion.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "The bill does not, however, reclassify Internet as a utility, or adopt the most progress recommendations set forth by legislators, tech companies, and the FCC alike.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "In addition, the bill would remove the FCC from the decision-making process entirely, and the agency would simply act as a law enforcer, subject to Congress’ and the Senate’s authority.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "The FCC would also be unable to cite authority from Section 706 for new Net neutrality rules, including most of the ones Wheeler has proposed, the most important of which is reclassification of broadband as a utility.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "The Republicans are seeking the support of Democrats for the bill, so as to preempt the FCC’s decision and prevent the reclassification of broadband under Title II.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "However, President Obama is opposed to such a bill, and the White House stated that legislative action is unnecessary and the decision should lay in the FCC’s hands.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "“In terms of legislation, we don’t believe it’s necessary given that the FCC has the authorities that it needs under Title II,” a White House official told .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "“However, we always remain open to working with anyone who shares the president’s goal of fully preserving a free and open Internet now and into the future.” Meanwhile, the FCC agreed that Chairman Tom Wheeler needs to act fast, if he doesn’t want to see the House and Senate act before his agency does.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "January 15: Sprint will support FCC decision — even if it reclassifies Broadband under Title II In a letter to the FCC, Sprint stated that it will support the FCC’s decision on Net neutrality, even if the organization reclassifies Internet as a utility under Title II.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "“So long as the FCC continues to allow wireless carriers to manage our networks and differentiate our products, Sprint will continue to invest in data networks regardless of whether they are regulated by Title II, Section 706, or some other light touch regulatory regime,” the carrier wrote.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "Sprint is the first carrier to declare support for the controversial proposal.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "AT&T and Verizon have openly threatened the FCC with a lawsuit, if broadband is reclassified.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "January 7: FCC Chairman hints at Title II reclassification vote on February 26 During the 2015 (CES) in Las Vegas, CEA President Gary Shapiro sat down with FCC Chairman Tom Wheeler to chat about Net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "For the first time, Wheeler hinted the FCC will propose Title II reclassification of Internet as a utility.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "Although he discussed many of the benefits of Title II reclassification, Wheeler also stated that paid prioritization still makes sense in some cases.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "He also denied rumors that he and the president are at odds over Net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "“When the president came out … there was an effort made to say Wheeler and the president are pulling in opposite directions on this,” Wheeler said, according to the .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "“But that wasn’t exactly the reality because we’re both pulling in the same directions, which is no blocking, no throttling of applications, and transparency about how we get there.” Wheeler did not discuss any of the specifics for his plan for the future of the Internet, he did set a date for the vote.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "“We’re going to circulate it to the commissioners on February 5th and vote on it February 26th,” Wheeler announced.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "2014: The FCC attacks Net neutrality April 23: FCC issues Internet fast lane proposal Recently, the concept of treating Internet content equally has been challenged.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "This erupted in April when the Federal Communications Commission (FCC) issued a proposal that would let broadband companies provide Internet “fast lanes” for large corporations that can afford to pay a higher fee.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "This meant smaller companies that cannot afford preferential treatment in terms of content delivery speeds would have to compete at a disadvantage.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "Most of the blame has been directed at FCC Chairman Tom Wheeler, a former cable and telecoms lobbyist.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "May 7-8: Tech companies condemn FCC proposal In the three weeks after the proposals were publicized, the draft met with widespread condemnation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "A coalition of more than 100 tech companies, led by Google, Microsoft, and Facebook, called the rules “a grave threat to the Internet.” Minnesota Senator Al Franken said that the FCC’s proposed pay-to-play system silences the voices of citizens while amplifying that of corporate entities.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "Even Republican Senators, who tend to support free-market legislation that benefits big businesses, have joined in on condemning the FCC, calling its proposals “politically corrosive.” Most of the blame has been directed at FCC Chairman Tom Wheeler, a former cable and telecoms lobbyist with ties to the companies that would benefit most from his proposals.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "The negative response has created cracks in his leadership and the FCC’s commitment to the draft.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "In early May, two FCC commissioners called for a delay on the May 15 vote for the proposed rules, but Wheeler rejected the suggestions.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "A spokesperson for the FCC said that Wheeler believed that the process would allow people to see the proposal.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "May 12: FCC Chairman reconsiders Wheeler has started to shown signs of softening his stance, although his concessions will likely prove insufficient.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "According to the Wall Street Journal, he offered assurances that broadband companies would not be allowed to divide Internet traffic into fast and slow lanes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "He also revived the possibility of classifying ISPs (Internet Service Providers) as public utilities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "The FCC may change its mind a lot nowadays, but reclassification is starting to look more likely.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "In a live chat session on , FCC Senior Counsel for External Affairs Gigi Sohn said that the agency is seeking input on whether to use Title II of the Communications Act or Section 706 of the Telecommunications Act to enforce Net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "The FCC can use Title II of the Communications Act to regulate broadband providers under “common carrier” rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "Section 706, on the other hand, would give the FCC the power to regulate ISPs on a case-by-case basis.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "May 30: Republicans oppose common carrier classification for ISPs Republicans were opposed to turning the ISPs into common carriers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "“The growth of the Internet and the rapid adoption of mobile technology have been great American success stories, made possible by a light regulatory touch for the entire online ecosystem.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "This approach has freed Internet innovators and users at the edge, the core, and the last mile to offer services, to build networks, and to buy and sell products based on market demand; no government permission has been necessary,” said Senate Republicans.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "“Imposing common carrier-style regulation upon any part of the Internet would be a dangerous rejection of this successful policy course, potentially impeding the development and adoption of new Internet technologies and services, and threatening future investment in next-generation broadband infrastructure.” The FCC’s new proposal says that it will have the power to grant ISPs the ability to give preferential (extra fast) treatment to interested companies wishing for faster delivery of their services.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "The danger with this is that it will essentially let Internet providers like Comcast double dip, and charge both customers for Internet, and also big companies like Netflix for access to those customers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "In time, this could also lead to an Internet that is divided into companies that can afford to pay for fast data delivery, and companies that can’t.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "If such a world existed in the last 10 years, a startup like Netflix may not have been able to create its dominant service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "YouTube could never have challenged services like Google Video either, as Sen. Al Franken has pointed out.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "FCC Chairman Tom Wheeler has indicated that he’s open to classifying ISPs as “common carriers,” which could force them to keep their networks neutral to all data, and open them up to competing services, resulting in more choices for Internet service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": "Naturally, ISPs don’t want to do this because it could mean less profit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "June 4-11: John Oliver, Internet commenters, and the FCC The FCC opened up the issue of Net neutrality to comments on its website.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "Comedian John Oliver then went on a rant about the importance of preserving Net neutrality and encouraged Internet commenters to unite in criticism of the FCC and Internet fast lanes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": "As a result, millions of people commented on the FCC’s website, which crashed under the burden.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "The FCC later denied that Oliver’s rant caused the shut down.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 105,
+            "sentence": "June 17: Democrats push to kill fast lane proposal Democrats in the Senate move to prevent the FCC from creating Internet fast lanes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 106,
+            "sentence": "The bill fails in the Republican-controlled House of Representatives.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 107,
+            "sentence": "July 14: Tech companies tell FCC to protect Net neutrality , Yelp, Expedia, Airbnb, and others sent a document to the FCC regarding Net neutrality on the comments page.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 108,
+            "sentence": "The tech heavyweights and other smaller members threw their support behind Net neutrality and urged the FCC to protect the open Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 109,
+            "sentence": "July 16: Netflix speaks out in favor of the open Internet Just a few days after the Internet Association asked the FCC to support Net neutrality, Netflix issued a document explaining how Internet fast lanes have already damaged its business, deprived customers of reliable service, and increased the abusive power of ISPs.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 110,
+            "sentence": "July 18: More than 1 million people comment on FCC’s website More than one million people sent comments to the FCC on its website and many more sent emails to the organization before the July 18 deadline.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 111,
+            "sentence": "The vast majority of commenters support an open Internet and called upon the FCC to enforce Net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 112,
+            "sentence": "A few broad themes popped up in the comments, including the idea that ISPs are corrupt, the government doesn’t care, fast lanes will kill innovation, and above all, the FCC must protect the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 113,
+            "sentence": "You can read some of the best comments in our article.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 114,
+            "sentence": "August 6: Obama stands against Internet fast lanes President Barack Obama took a more assertive stance on the issue of Net neutrality, essentially saying that his administration does not support Internet fast lanes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 115,
+            "sentence": "“One of the issues around Net neutrality is whether you are creating different rates or charges for different content providers,” Obama explained.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 116,
+            "sentence": "“That’s the big controversy here.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 117,
+            "sentence": "So you have big, wealthy media companies who might be willing to pay more and also charge more for spectrum, more bandwidth on the Internet so they can stream movies faster.” August 11: FCC opens up discussion in round table events The FCC announced that it will host a series of round table events in September and October to discuss the issue of Net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 118,
+            "sentence": "All of the events will be livestreamed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 119,
+            "sentence": "September 9: House Minority Leader Nancy Pelosi writes FCC in support of Net neutrality wrote a letter to FCC Chairman Tom Wheeler, in which she stated that broadband should be reclassified under Title II of the Communications Act and treated as a utility.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 120,
+            "sentence": "She added that she does not support Internet fast lanes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 121,
+            "sentence": "Innovators & consumers deserve robust Net neutrality protection & an open Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 122,
+            "sentence": "My letter to @TomWheelerFCC @FCC : http://t.co/eNIWE4tb7A — Nancy Pelosi (@NancyPelosi) September 8, 2014 “I remain concerned … that the Federal Communications Commission may act in a way that would permit broadband providers to discriminate against the content consumers and innovators create and enjoy,” Pelosi wrote in the letter.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 123,
+            "sentence": "“Innovators prefer bright-line rules and worry the proposed rules would force them into commercial arrangements that require payment of tolls in cash or equity to get their ideas on the internet.” September 15: FCC says it has received 3 million comments, holds first round table event On the last day of public comments for the FCC’s net neutrality proposal, the commission announced that it has received 3 million comments.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 124,
+            "sentence": "The last official comment count was 1.48 million.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 125,
+            "sentence": "Now that the comment window has closed, the FCC will have to wade through all the comments, weigh its decision, and take action.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 126,
+            "sentence": "It’s unknown how long it will take before the FCC passes judgement on the issue of net neutrality, as no deadline is set.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 127,
+            "sentence": "The FCC also held its first round table event to discuss the subject of net neutrality around 2:30 p.m. EST.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 128,
+            "sentence": "Those interested can watch it live here and comment via emails addressed to roundtables@fcc.gov or tweets with the hashtag #FCCRoundtables.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 129,
+            "sentence": "October 13: Obama reiterates his support for Net neutrality During a town hall meeting in Los Angeles on October 9, Obama again expressed his support for net neutrality and stated that he opposes the paid prioritization model, which would create Internet fast lanes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 130,
+            "sentence": "“On Net neutrality, I made a commitment very early on that I am unequivocally committed to net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 131,
+            "sentence": "I think … it’s what has unleashed the power of the Internet, and we don’t want to lose that or clog up the pipes,” Obama said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 132,
+            "sentence": "“I know one of the things that people are most concerned about is paid prioritization, the notion that somehow some folks can pay a little more money and get better service, more exclusive access to customers through the Internet,” he added.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 133,
+            "sentence": "“That’s something I’m opposed [to].",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 134,
+            "sentence": "I was opposed to it when I ran.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 135,
+            "sentence": "I continue to be opposed to it now.” Obama continued, saying that while he can’t tell FCC chairman Tom Wheeler what to do, Wheeler knows his position.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 136,
+            "sentence": "“What I’ve been clear about, what the White House has been clear about, is that we expect whatever final rules to emerge to make sure that we’re not creating two or three or four tiers of Internet,” he concluded.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 137,
+            "sentence": "“That ends up being a big priority of mine.” November 10: Obama declares support for reclassification of Internet as a utility After months of quibbling over semantics, Obama officially declared his support for Net neutrality in a statement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 138,
+            "sentence": "He threw his support behind the proposal that would reclassify broadband as a utility and place its regulation under Title II.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 139,
+            "sentence": "As such Internet Service Providers wouldn’t have any control over the speed, quality, or direction in which Internet connectivity flows.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 140,
+            "sentence": "“To put these protections in place, I’m asking the FCC to reclassifying Internet service under Title II of a law known as the Telecommunications Act,” Obama said in a statement .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 141,
+            "sentence": "“In plain English, I’m asking (the FCC) to recognize that for most Americans, the Internet has become an essential part of everyday communication and everyday life.” It’s time to keep the internet open and free.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 142,
+            "sentence": "Read President Obama’s plan → http://t.co/3y3YLQD6MB #NetNeutrality pic.twitter.com/ifCoS1ty8j November 10, 2014 Obama stated that the FCC should create a new set of rules to protect Net neutrality and to ensure that Internet service is fair and equal for all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 143,
+            "sentence": "To ensure this is the case, Obama proposed the following rules (the text below is quoted from Obama’s statement): No blocking: If a consumer requests access to a website or service, and the content is legal, your ISP should not be permitted to block it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 144,
+            "sentence": "That way, every player — not just those commercially affiliated with an ISP — gets a fair shot at your business.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 145,
+            "sentence": "No throttling: Nor should ISPs be able to intentionally slow down some content or speed up others — through a process often called “throttling” — based on the type of service or your ISP’s preferences.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 146,
+            "sentence": "Increased transparency: The connection between consumers and ISPs — the so-called “last mile” — is not the only place some sites might get special treatment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 147,
+            "sentence": "So, I am also asking the FCC to make full use of the transparency authorities the court recently upheld, and if necessary to apply Net neutrality rules to points of interconnection between the ISP and the rest of the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 148,
+            "sentence": "No paid prioritization: Simply put: No service should be stuck in a “slow lane” because it does not pay a fee.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 149,
+            "sentence": "That kind of gatekeeping would undermine the level playing field essential to the Internet’s growth.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 150,
+            "sentence": "So, as I have before, I am asking for an explicit ban on paid prioritization and any other restriction that has a similar effect.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 151,
+            "sentence": "The president also referred to the outpouring of support for an open Internet from the American public as justification for his position on the issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 152,
+            "sentence": "He did warn that he has no control over the FCC, and as such, his recommendations are mere suggestions.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 153,
+            "sentence": "Still, presidential support for the reclassification of Internet as a utility may have an effect when combined with overwhelming demand from consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 154,
+            "sentence": "“The FCC is an independent agency, and ultimately the decision is their’s alone,” Obama added.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 155,
+            "sentence": "“But the public has already commented nearly 4 million times asking that consumers — not the cable company — get to decide which sites they use.” Shortly after, FCC chairman to Obama’s statement, calling it “an important and welcome addition to the record of the Open Internet proceeding.” He added that he and the President share similar views on Net neutrality and the FCC will consider Obama’s point of view.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 156,
+            "sentence": "Wheeler mentioned his own proposal of a hybrid solution, too, but claimed the FCC needs more time to weigh its options due to legal concerns.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 157,
+            "sentence": "“We found we would need more time to examine these to ensure that whatever approach is taken, it can withstand any legal challenges it may face,” he said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 158,
+            "sentence": "“For instance, whether in the context of a hybrid or reclassification approach, Title II brings with it policy issues that run the gamut from privacy to universal service to the ability of federal agencies to protect consumers, as well as legal issues ranging from the ability of Title II to cover mobile services to the concept of applying forbearance on services under Title II.” Meanwhile, those who oppose Obama’s decision to support the reclassification of broadband came out in full force.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 159,
+            "sentence": "Republican Senator Ted Cruz promptly compared Obama’s plan for the Internet to Obamacare.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 160,
+            "sentence": "It’s worth noting that Cruz accepted money from Comcast — one of the ISPs that opposes reclassifying broadband — fairly recently.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 161,
+            "sentence": "“Net Neutrality” is Obamacare for the Internet; the Internet should not operate at the speed of government.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 162,
+            "sentence": "November 10, 2014 seconded Cruz’s opinion and claimed that Obama’s “endorsement of 1930’s era Title II classification would lead to unprecedented government interference in the Internet and would hurt consumers and innovation.” The organization also warned that the move will kill jobs and hurt innovation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 163,
+            "sentence": "Verizon Wireless, which supplies both broadband and mobile Internet said Obama’s plan was “a radical reversal of course that would in and of itself threaten great harm to the Internet.” In contrast, consumer interest groups hailed Obama’s statement as a win for Net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 164,
+            "sentence": "“Today the Obama administration expanded its leadership to promote an open Internet by supporting the strongest tools to prevent blocking or throttling of Internet traffic, and by also supporting the strongest tools to deter fast lanes and prioritized traffic on the public’s most essential communications platform of the 21st century,” said Gene Kimmelman, president of Public Knowledge.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 165,
+            "sentence": "November 11: FCC Chairman “visibly frustrated” after Obama’s announcement The day after Obama’s declaration of full support for Net neutrality, FCC Chairman Wheeler met with executives from Google, Yahoo, Etsy, and others to again discuss the issue.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 166,
+            "sentence": "According to four different people who attended the meeting and later spoke to the Washington Post , Wheeler appeared “visibly frustrated,” and said point blank that he can’t follow Obama’s recommendations to the letter, but will instead pursue a compromise.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 167,
+            "sentence": "“What you want is what everyone wants: an open Internet that doesn’t affect your business,” Wheeler reportedly said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 168,
+            "sentence": "“What I’ve got to figure out is how to split the baby.” In the past Wheeler has proposed a hybrid approach to the issue and it seems that he still considers Internet fast lanes an option.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 169,
+            "sentence": "Most advocates for an open Internet agree that Wheeler’s approach gives too much power to ISPs and could result in the unequal treatment of some websites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 170,
+            "sentence": "December 11: Intel, IBM, Qualcomm, and others write letter against Net neutrality Although many big-name tech companies support Net neutrality and the proposal of reclassifying broadband as a utility, there are some other big players in the industry that don’t support the idea.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 171,
+            "sentence": "Recently, 60 tech companies, including Intel, IBM, Qualcomm, Cisco, and many others signed a letter against the proposal put forth by open Internet advocates.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 172,
+            "sentence": "The companies argue that investments in Internet technology will decrease dramatically if broadband is reclassified under Title II.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 173,
+            "sentence": "“For almost twenty years, national leadership, on a bipartisan basis, has nurtured the broadband Internet with a wise, effective, and restrained policy approach that supported the free flow of data, services, and ideas online while creating a climate that supported private investment in broadband networks,” the l etter reads .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 174,
+            "sentence": "“Title II is going to lead to a slowdown, if not a hold, in broadband build out, because if you don’t know that you can recover on your investment, you won’t make it.” The letter concludes with a veiled threat that if investments in the tech sector slow because the FCC reclassifies broadband, the U.S. could be headed toward another recession, or even depression.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 175,
+            "sentence": "Although this may sound like fear mongering, the companies claim it’s a fact.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 176,
+            "sentence": "Meanwhile, Netflix, Google, Facebook, and other tech companies who support Net neutrality seem to believe that the exact opposite is true.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 177,
+            "sentence": "In the past, advocates of reclassification have stated that Internet fast lanes would stifle innovation and hurt investments in new companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 178,
+            "sentence": "1996: The origins of the debate Net neutrality debates have experienced a revival over the past few weeks, but it’s actually an old issue, one that has existed since the formative years of the Web itself.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 179,
+            "sentence": "During the ’90s, the FCC regulated ISPs as “common carriers” under the Communications Act of 1934.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 180,
+            "sentence": "This meant that ISPs were considered as private entities that provided a public service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 181,
+            "sentence": "In 1996, Congress passed the Telecommunications Act, which re-classified what types of services were considered “common carriers.” 2002: ISPs become “information services” and FCC loses its regulatory power In 2002, the FCC issued a ruling classifying ISPs as “information services.” This meant that broadband providers were no longer under FCC regulation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 182,
+            "sentence": "In 2014, the FCC-broadband providers shuffle has gone full circle.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 183,
+            "sentence": "With Wheeler’s new proposed rules, he has raised the possibility of reclassifying ISPs as common carriers, perhaps as a way of making sure that smaller companies won’t be relegated to the Internet slow lane.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 184,
+            "sentence": "2005: ISP blocks Vonage The first documented case of a service provider discriminating against a certain type of Internet traffic came in January 2005, when North Carolina broadband company Madison River blocked the services of VoIP company Vonage.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 185,
+            "sentence": "The clinical term for Madison River’s transgression is “port blocking.” In this case, Madison River was said to have blocked VoIP traffic to prevent phone subscribers from switching to VoIP.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 186,
+            "sentence": "Another VoIP carrier, Nuvio, also reported port blocking from at least one broadband operator.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 187,
+            "sentence": "In the end, Madison River was fined $15,000.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 188,
+            "sentence": "It also signed a consent decree with the FCC that prohibited it from blocking VoIP for 30 months.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 189,
+            "sentence": "Aside from Madison River, Vonage also said that it had identified other smaller broadband providers that blocked its services.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 190,
+            "sentence": "2006: “Net neutrality” enters the lexicon Former Alaska Republican Ted Stevens is credited with bringing the topic of Net neutrality into politics.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 191,
+            "sentence": "He did so in spite of not having even a basic knowledge of what the Internet is.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 192,
+            "sentence": "During a 2006 Senate speech, Stevens described how “an Internet was sent by my staff” and arrived days later.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 193,
+            "sentence": "“Because it got tangled up with all these things they’ve got going on the Internet commercially,” he said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 194,
+            "sentence": "Protesters hold a rally in front of the FCC headquarters in Washington D.C. on May 15, 2014.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 195,
+            "sentence": "During the same year, Congress introduced one of the first laws that aimed to preserve Net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 196,
+            "sentence": "The Internet Freedom and Non-Discrimination Act of 2006 was meant to overhaul the 1996 Telecommunications Act.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 197,
+            "sentence": "The bill failed, it was approved by the House Judiciary Committee but was never taken up by Congress.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 198,
+            "sentence": "To this day, the 1996 Telecommunications Act, is still the prevailing policy for regulating TV and wireless communications.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 199,
+            "sentence": "2007: Comcast blocks file sharing applications A 2007 Associated Press report accused Comcast of blocking file sharing applications on its network.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 200,
+            "sentence": "According to the Electronic Frontier Foundation, the broadband provider used TCP RST packets to interfere with connections.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 201,
+            "sentence": "This method was said to be the same technique used by the Chinese government in censoring Web traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 202,
+            "sentence": "The next year, the FCC voted 3-2 to punish Comcast, marking the first time that the agency has asserted its authority in policing Internet traffic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 203,
+            "sentence": "The company wasn’t fined, but it was directed to stop blocking Web traffic and submit a plan for managing its network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 204,
+            "sentence": "2009-Jan 2014: Legal battles The FCC’s punishment of Comcast set off a long legal battle.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 205,
+            "sentence": "In 2009, Comcast sued the FCC, questioning its authority in regulating network neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 206,
+            "sentence": "In April the following year, a court ruled in favor of Comcast, which weakened the FCC’s authority in regulating broadband providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 207,
+            "sentence": "Later in the year, the FCC adopted new Net neutrality rules .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 208,
+            "sentence": "The guidelines allowed broadband providers to regulate congestion over their connections, which critics warned could lead to usage-based pricing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 209,
+            "sentence": "Google and Verizon also put forward a “joint policy proposal” for Net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 210,
+            "sentence": "The agency’s legal battles continued on in FCC vs. Verizon.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 211,
+            "sentence": "The FCC also lost that case, when an appeals court in Washington ruled that the the agency overreached in prohibiting providers from discriminating against some types of Internet traffic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 212,
+            "sentence": "The decision stuck down the agency’s Open Internet rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 213,
+            "sentence": "Wheeler said that his agency will not challenge the ruling, and will instead propose a new set of rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 214,
+            "sentence": "Which brings us to today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 215,
+            "sentence": "This site lets them Skype with a scientist     April 14, 2020 YouTube DIY tool makes it easy for small businesses to create short ads     April 15, 2020 Get the most out of GoToMeeting with these tips and tricks     April 15, 2020 Upgrade your lifestyle Digital Trends helps readers keep tabs on the fast-paced world of tech with all the latest news, fun product reviews, insightful editorials, and one-of-a-kind sneak peeks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 216,
+            "sentence": "Digital Trends may earn a commission when you buy through links on our site.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 217,
+            "sentence": "LinkedIn YouTube RSS Home Download PC games DT Español",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,851 @@
+{
+    "document_id": -1,
+    "url": "https://www.theverge.com/2019/10/4/20898779/fcc-net-neutrality-court-of-appeals-decision-ruling",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": " Nilay Patel",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:43:12.296547+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "The court allowed the FCC to kill net neutrality because washing machines can’t make phone calls It’s been a hard week for net neutrality supporters, as the Trump Federal Communication Commission’s decision to strip neutrality rules from the internet was upheld by the Court of Appeals for the DC Circuit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "It was a fairly narrow win for the FCC, as the court said it was required to defer to the agency’s judgment, and bound by the precedent set in a controversial 2005 case called NCTA v. Brand X (or just for short).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "And the court said the FCC cannot block states like California from writing their own net neutrality laws, so that’s where the fight moves next .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "But what really and truly stands out about the DC Circuit’s decision in this case: net neutrality at the federal level has turned into a legal quagmire with almost no relationship to the real issues regular people face in the market for internet access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Most people don’t think so — the polls say net neutrality is a popular idea with Americans across party lines .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "But because the fight has been going on for so long, and the rules have been imposed and taken away so many times under different legal theories, the actual court case and legal issues are a million miles away from the very simple policy question.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Instead, the legal side of net neutrality has become an exercise in lawyers making fine-grained arguments about whether washing machines can make phone calls, whether consumers with a single broadband provider still experience the benefits of competition, and whether or not federal regulations can override state law if the federal regulations don’t actually exist.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "“Is it good if AT&T can throttle Fox News while streaming CNN for free” never actually comes up, even though that is the fundamental policy question.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "It’s deeply frustrating.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "But it’s also revealing, because it makes it abundantly clear that net neutrality needs to get away from lawyers and judges and be written into the actual law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "And since the court ruled that individual states could pass their own net neutrality laws, it seems like that’s exactly what’s going to happen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "But let’s go through it — you can download a copy here to follow along.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Still fighting the ghost of Antonin Scalia The last 40 years of net neutrality history have mostly been a fight over whether the internet is an “information service” (like old-school “walled garden” AOL or Prodigy, regulated under Title I) or a common carrier “telecommunications service” (like landline telephones, regulated under Title II).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The major precedent here is the 2005 decision: the Supreme Court ruled 6-3 that broadband internet was an “information service.” is also notable because it features a stinging dissent from the late ultraconsertive justice Antonin Scalia , who believed it was blindingly obvious that internet access was a telecommunications service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "is the shadow over the entire net neutrality debate, and it seems clear that the DC Circuit feels bound by that precedent but thinks it ought to be revisited.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Regardless of the legal history, it really does seems obvious to most people that broadband internet access is a telecommunications service that should be neutral.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "In this case, Ajit Pai and the FCC made the argument that broadband is actually an “information service” because access is paired with… DNS and caching services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "That’s DNS, as in the domain name lookup servers that translate domain names to IP addresses, and caching services that host copies of data closer to your location to speed up your access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Not email, not some wacky AOL chat room.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "And because that argument worked in the 2005 case, the court in 2019 was obligated to say the FCC could use the same argument again.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "We hold that classifying broadband Internet access as an “information service” based on the functionalities of DNS and caching is “‘a reasonable policy choice for the [Commission] to make...",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "This contention — that ISPs offering DNS and caching are enough to turn straight broadband internet access into an “information service” — immediately forces the court into lengthy digressions and metaphors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "I have no idea what this means.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "While DNS is “invisible” in the sense that it is “under the hood,” so to speak, it remains “essential to providing Internet access for the ordinary consumer.” Using a certain “configuration” tool or protocol might, say, make Internet traffic a bit faster or slower in the way that a metro’s use of varying rail technologies might influence train speeds.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "But an absence of DNS would be something different altogether, hobbling ordinary users in navigating the Web, akin to a total absence of signage in a metro.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Signage, unlike DNS, is of course quite apparent, but their user-centered purposes are alike for all practical purposes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Of course, you can always just use a different DNS service than the one your ISP gives you, ruining this already-dumb metaphor entirely, but the court doesn’t really think about that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "And here’s the court saying that even though encrypted internet traffic (you know, like all HTTPS traffic) does not flow through ISP caching servers, it doesn’t matter, because, um, the FCC says so.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "The Commission found (without contradiction in the record) that caching “enables and enhances consumers’ access to and use of information online.” In particular, “[t]he record reflects that without caching, broadband Internet access service would be a significantly inferior experience for the consumer, particularly for customers in remote areas, requiring additional time and network capacity for retrieval of information from the Internet.” That is so, the Commission maintains, even though encrypted traffic does not use caching, because “truly pervasive encryption on the Internet is still a long way off and many sites still do not encrypt.” So even though there’s a widespread industry push towards HTTPS encryption — 73 percent of all internet traffic is now encrypted — the simple presence of ISP caching servers means that broadband is an “information service.” That doesn’t make much sense, since an ISP simply providing DNS servers (which you do not have to use) and caching (which is irrelevant to any HTTPS connection) is obviously not enough to turn your broadband connection into the equivalent of Prodigy in 1998.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "The court addresses this argument, saying that DNS and caching were deemed to be information services in , and it’s not going to overturn that precedent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "It just does so using a metaphor about, um, weaving sweaters with golden thread:   The idea seems to be that ISPs now offer fewer “walled garden” services of the kind consumers mostly care about than they did in the era of the 2002 Cable Modem Order and Brand X, so that basing an “information service” designation on DNS and caching alone is currently as dubious as saying that a few golden threads interwoven in an ordinary sweater turn the sweater into a golden garment… But the Supreme Court has never imposed or even hinted at such a quantitative standard to determine whether inextricably intertwined functionalities can justify an “information service” classification.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "No reasonable person would think so, but that’s Ajit Pai’s argument, and he’s got the decision in his back pocket, so he won.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Again, this is a legal victory, not a logical one.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Landlines and washing machines The court next addresses whether mobile broadband is a “commercial mobile service,” which is the wireless version of a telecommunications service, or a “private mobile service,” which is the analogue to an information service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "I will spare you the details of the long, long discussion that follows, except to say the state of telecom law in 2019 is such that the court winds up making its decision based on the fact that smart washing machines cannot make phone calls.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "You think I’m joking.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "The proliferation of “smart” devices with IP addresses, such as “servers, thermostats, washing machines, and scores of other devices in the Internet of Things,” threatened such a definition with a new complication.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "If those devices were part of the public switched network, it might yield the dubious upshot that mobile voice would no longer be a commercial mobile service because its subscribers could not interconnect with “all” endpoints on the network, “such as IP-enabled televisions, washing machines, and thermostats, and other smart devices” incapable of voice communications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "The entire mobile broadband argument is about whether mobile devices can connect to phone numbers!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "If you thought that was nonsensical, just try to figure out what on earth this chunk of words about VoIP means:   The proliferation of VoIP and prevalence of its use are orthogonal to the Commission’s point about the relationship between mobile broadband and VoIP .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Whether VoIP applications are used by many users or few, and whether they are preinstalled or acquired on an ad hoc basis, the question is whether VoIP functionalities are part of the service at issue here—mobile broadband service—or constitute other services that mobile broadband allows users to access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "I just want to reiterate that the fundamental question here is “should mobile broadband providers be able to block and throttle internet traffic” and somehow the court has been sidetracked into nonsensical arguments about whether the availability of VoIP services that connect to the phone system determines the answer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Oh but we’re not done — let’s go ahead and enter a linguistics debate about the definitions of “applications” and “services.” None of the parties identifies (and we have not found) either a set of regulatory definitions purporting to draw lines between “applications” and “services,” or a set of generally accepted linguistic practices drawing such a line or generally governing when the capability of apps that are usable with a service should be taken to belong to the “capabilities” of the service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "I would love to see AT&T send this language out to a customer irritated that CNN streams for free on their data plan but Fox News does not.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "The court then tries to make this upside-down nonsense clearer by making up a fake conversation that absolutely no human beings would ever have in reality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "If someone tells a friend, “I just got a great new tablet with mobile broadband,” it would hardly be a solecism for the friend to reply, “Great— does your service let me reach you from my landline?” Of course the new tablet owner might reply, “Not now—but it could if I set up a Google Voice number,” but that only shows the linguistic ambiguity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "I have read this rejected spec script for a Verizon commercial over and over, and it just gets funnier and sadder all at once every time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Monopolies: they’re great Moving on, the court addresses the fact that the US broadband market suffers from a lack of competition, and concludes that actually there’s enough competition even for people who only have one choice of broadband provider.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "We are, however, satisfied by the Commission’s other reasons for believing that competition exists in the broadband market.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "The Commission turns to empirical research that supports the claim that the presence of two wireline providers is enough to ensure that meaningful competition exists.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Consumers in areas with fewer than two providers may also reap the benefits of competition; a provider in this area “will tend to treat customers that do not have a competitive choice as if they do” because competitive pressures elsewhere “often have spillover effects across a given corporation.” This is just blindingly, obviously not true — if it were, everyone would love the prices and services they get from the competitive ISP industry in America.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Instead Americans pay more for slower speeds than most other countries.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "I would love to see this judge go tell the millions of people begging for better broadband in rural areas that they are actually “reaping the benefits of competition.” But don’t worry about that lack of competition anyway, the court says: if ISPs do bad things, they’ll shape up because of the damage to their reputations .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Additionally, these providers could face hefty operational and reputational cost from acting badly in uncompetitive areas.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Based on these reasonable findings and our highly deferential standard of review, it was not arbitrary for the Commission to conclude that fixed broadband providers face competitive pressures.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "I just want to be clear that the court is saying AT&T and Verizon and Comcast and Spectrum are caring, smart companies that will do the right thing because they are so worried about their reputations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "That’s a nice idea, but here in the real world everyone hates their ISPs more than ever .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Verizon throttled the connections of firefighters during a wildfire, which is maybe the most obvious way to damage your reputation possible.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "And AT&T is busily gutting HBO through layoffs and talent attrition even as activist investors point out its executives are bad at their jobs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "These companies are behemoths with virtually no competition, and they routinely act like it, because we’re stuck with them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "I won’t make anyone slog through the very technical legal arguments about whether the FCC can override state laws, except to say that the court was not very impressed with the FCC’s argument that it has the implied authority to do so, and was pretty snippy about it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "If Congress wanted Title I to vest the Commission with some form of Dormant-Commerce-Clause-like power to negate States’ statutory (and sovereign) authority just by washing its hands of its own regulatory authority, Congress could have said so.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "The whole opinion wraps up by essentially begging either the states or Congress to write a law, which, frankly, is what should happen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "(And indeed, the House has passed the popular Save the Internet Act, but the Senate won’t take it up, while states across the country have passed their own net neutrality bills .)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "Regulation of broadband Internet has been the subject of protracted litigation, with broadband providers subjected to and then released from common carrier regulation over the previous decade.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "We decline to yet again flick the on-off switch of common-carrier regulation under these circumstances.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "So that’s the main, unsigned opinion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "But I just want to point out that the two signed supplementary opinions are equally bonkers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "For example, Judge Stephen Williams wrote an opinion that concurs in part and dissents in part, but the only thing you really need to know about it is that it starts with a quote from : And be these juggling fiends no more believed, That palter with us in a double sense; That keep the word of promise to our ear, And break it to our hope.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "So says Macbeth, finding that the witches’ assurances were sheer artifice and that his life is collapsing around him.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "The enactors of the 2018 Order, though surely no Macbeths, might nonetheless feel a certain kinship, being told that they acted lawfully in rejecting the heavy hand of Title II for the Internet, but that each of the 50 states is free to impose just that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "And Judge Patricia Millet wrote an opinion that is listed as a concurrence, since she agrees that the court is bound by the decision, but every other part of it is a stinging rebuke of the terrible majority opinion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "But it is also written as dramatically as possible.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "The Commission’s decision to cling to DNS and caching as the acid test for its regulatory classification “cannot bear very much reality.” Today, the typical broadband offering bears little resemblance to its Brand X version.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "The walled garden has been razed and its fields sown with salt.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "That quote in the first sentence is footnoted to T.S.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "Eliot, so don’t worry, this whole thing remains as extra as ever.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "But I think Judge Millet has one thing right: Antonin Scalia had this nailed in 2005, and we’ve been paying for the bad decision ever since.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "Not only does the walled garden lay in ruin, but the roles of DNS and caching themselves have changed dramatically since Brand X was decided.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "And they have done so in ways that strongly favor classifying broadband as a telecommunications service, as Justice Scalia had originally advocated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "The more I read this decision, the more it’s clear that the legal machinations and overwrought decisions based on a single bad precedent are getting farther and farther away from the realities of internet access for regular people.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "This decision might get appealed, and might get overturned, but it’s well past time for net neutrality to leave the world of endless court challenges and legal trivialities, and just become the law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "And at the very least, it appears this ridiculous decision opens the door for states like California to do just that .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "Facebook’s new tool makes it easy to transfer photos and videos to Google Photos Americans are surprisingly open to letting their phones be used for coronavirus tracking Amazon says it’s a victim of Trump admin’s ‘personal vendetta’ after landing on counterfeit list View all stories in Policy Loading comments... Do not sell my info Licensing FAQ Advertise with us Share this story",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "document_id": -1,
+    "url": "https://www.facebook.com/pronetneutrality/?__tn__=kC-R&eid=ARDAIXGA4KvpC4dpe-LhVwEXKPwRo8b2A_dSNlgE_vbMvQrEogyA49sxlFmwzirLnX-Jd89kX4-82PFw&hc_ref=ARRqPQGqkpuJG8wiyjgo_PBiEhmMTYmiO4pCb9cVPzAzg68n4XM-1FJuFulZvyGZ3JM&fref=nf&__xts__[0]=68.ARC7uQrHjk-oMHIk3XSCBiqRfVlLQAmvZORLobz9M0KBuB044OxaNd17J1AELuTq2hk42HWMrHmjrZdS_nwcEz3gS-KE_oF_wADTcbh8EoArDNuCGnSU85rQ_4LX_m3WFPfggQq2EciGjgW2ZOT7W102s2_D6dbpO5glyy5XLqSsLNhPqPwWKzwTOQzIWjVOYH5YYK-PlcsSmaZ9qLycBLDqQSqDczHxa1jiwyenaQR0FzneRe6WlAR5QW450x_1n0kMJf_-9lVnCJNRScNhf90B-1PtsWPN9aRUkjws35Bmx-1FWPCMLNP4CLpUYe9OjtomrYBTmAno0XdByurppaLOTQ",
+    "document_category": "Social Media",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:51:17.724028+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "or 159 people like this 164 people follow this www.battleforthenet.com/july12 · Facebook is showing information to help you better understand the purpose of a Page.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "See actions taken by the people who manage and post content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Page created - February 2, 2014 159 likes LimitlessEdge Cosplay Donkey is a Dog MING triangle-down English (US) · · · · · · · · · April 28 at 12:00 PM · \"Just a few days after exposing the sale of some 500,000 Zoom accounts for sale on the dark web, the research team at Cyble are back with another worrying tale of the vast array of information traded on furtive data markets.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "A “threat actor,” the team reported in a blog, “has dropped an online bomb by dropping the identities of 267 Million Facebook users.” And the price for this data trove—just $540.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Thankfully no passwords were available, but the data included email addresses, names, Facebook IDs, dates of birth and phone numbers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "All of which is a perfect set of data with which to craft a text or email phishing campaign on behalf of Facebook. \"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "https://www.forbes.com/…/facebook-users-beware-hackers-ju…/… The price of your personal data is going down—the risks, though, are not.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "forbes.com The price of your personal data is going down—the risks, though, are not.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The price of your personal data is going down—the risks, though, are not.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "March 27 · Please comment on the FCC's website regarding Net Neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Now, more than ever, should prove how the Internet should be a public utility maintained for all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "https://www.wired.com/…/another-chance-weigh-fcc-net-neutr…/ An appeals court ordered the FCC to seek comments on whether its new regime hurts public safety or low-income consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "wired.com An appeals court ordered the FCC to seek comments on whether its new regime hurts public safety or low-income consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "An appeals court ordered the FCC to seek comments on whether its new regime hurts public safety or low-income consumers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

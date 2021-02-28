@@ -1,0 +1,311 @@
+{
+    "document_id": -1,
+    "url": "https://www.theguardian.com/technology/2015/oct/27/eu-net-neutrality-laws-fatally-undermined-by-loopholes-critics-say",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Alex Hern",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:31:25.299427+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Search with google Make a contribution  US edition  switch to the UK edition  switch to the Australia edition  switch to the International edition  Search jobs  Search jobs  US  Global development  Net neutrality  This article is more than 4 years old EU net neutrality laws fatally undermined by loopholes, critics say  This article is more than 4 years old New rules requiring internet traffic to be treated equally are voted through by MEPs but amendments aimed at closing a series of exemptions are defeated @alexhern  Tue 27 Oct 2015 09.30 EDT Last modified on Tue 21 Feb 2017 12.45 EST The European Parliament in Strasbourg.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The parliament voted to enshrine net neutrality in EU law.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Supporters of net neutrality have accused the of undermining its own net neutrality laws after MEPs voted down amendments aimed at closing loopholes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Net neutrality is the principle that internet service providers should treat all online content equally without blocking or slowing down specific websites on purpose or allowing companies to pay for preferential treatment.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The European parliament voted through new rules intended to enshrine that principle in law, but critics say they are fatally undermined by a number of loopholes which “open the door to an end to net neutrality”.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "An attempt to close those loopholes through amendments failed to gain enough support from MEPs to pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Following the vote, the regulations are immediately in force in all EU member states, but national regulators, who are ultimately responsible for overseeing the implementation of the rules, will not be expected to start enforcement for six months.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Among the exceptions opposed by net neutrality supporters is one which allows providers to offer priority to “specialised services”, providing they still treat the “open” internet equally.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Many had seen the exception as allowing providers to offer an internet fast lane to paying sites, leading to the Italian government to propose removing the exception from the draft regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The final draft, however, limits what services can be given priority to uses like remote surgery, driverless cars and preventing terrorist attacks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The regulation also requires that those specialised services cannot be offered if they restrict bandwidth for normal internet users.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "A different exception is aimed at situations where the limitation is not speed, but data usage.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The EU’s regulations allow “zero rating”, a practice whereby certain sites or applications are not counted against data limits.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "That gives those sites a specific advantage when dealing with users with strict data caps such as those on mobile internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The new regulations allow national regulators to decide whether or not to allow zero rating in their own country.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The most significant example of the practice is Internet.org, Facebook’s platform for spreading net access to the developing world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "The service allows access for free to sites including Facebook and Wikipedia, but its cut-down nature has prompted the web’s inventor, Tim Berners-Lee, to advise people to “just say no” to it .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Other exceptions include an allowance for ISPs to predict periods of peak demand and introduce “reasonable traffic management measures”, and to group some services into traffic “classes”, which can be sped up or slowed down at will.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The European consumer organisation BEUC welcomed the changes but warned that the exceptions would undermine the overall achievement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "“A robust net neutrality law involves protections against undue management of traffic and discriminatory commercial practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "What is essentially saying here is that all internet data is born equal, but some is more equal than others.” It said it applauded the new onus on internet service providers to treat traffic equally, but said safeguards against the impact of ‘specialised services’ are not strong enough.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "“In the end, negotiators also decided not to tackle commercially driven discriminations such as ‘zero rating’, where operators exempt content from data allowances and thereby shepherd users away from competitors’ content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Such exemptions enable the largest telecoms operators and content providers to continue to shape the market to the detriment of consumer choice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Such increasingly common practices must be addressed.” Mike Weston, the chief executive of data science consultancy Profusion, said that: “The EU’s vote opens the door to an end to net neutrality in Europe that could severely damage tech companies and consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "“For most tech companies, an end to net neutrality is potentially a disaster.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "By seeking to ascribe different values to data and, potentially charging accordingly, it will be more expensive for many tech companies to operate.” In the run-up to the vote, an open letter signed by companies including Etsy, Kickstarter and Tumblr expressed concerns with the proliferation of loopholes and exceptions in the legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "The exceptions, it said, “jeopardise the future of the startup innovation and economic growth in the EU.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "They also create barriers for US startups and businesses seeking to enter the EU market”.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "“We believe that the future of the open internet in Europe is at stake and urgent action is warranted.” As part of the same vote, the EU also required mobile carriers across the continent to abolish roaming charges by 2017 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "View more comments  Most popular US  Global development  About us  Contact us  Complaints & corrections  SecureDrop  Work for us  Privacy policy  Cookie policy  Terms & conditions  All topics  All writers  Digital newspaper archive  Advertise with us  Search jobs  Available for everyone, funded by readers  Back to top",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

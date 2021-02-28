@@ -1,0 +1,821 @@
+{
+    "document_id": -1,
+    "url": "https://themindunleashed.com/2020/01/biolab-most-dangerous-pathogens-earth-wuhan-outbreak.html",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:55:25.271977+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "SHOP Connect with us Michael Jordan feels \u201cgreat pride\u201d as he opens new health clinic for uninsured in his hometown More than 5,000 baby seals wash up on Namibia beach in unprecedented die-off The Amazon rainforest is coming dangerously close to permanently converting into dry savannah Hurricane Sally brings massive destruction to Gulf Coast in \u201cepic proportion flooding event\u201d \u201cHundreds of thousands, if not millions\u201d of migratory birds drop dead across New Mexico Otherwise healthy man suddenly dies from overdose of Black Licorice candy Sean Connery, the legendary Scottish actor who defined an era, dies at 90 Downtown Chicago transforms into Gotham City as film crews shoot for \u201cThe Batman\u201d Christopher Walken stars in \u201cPercy\u201d \u2013 a film about farmer who took Monsanto to Supreme Court SHOP 23 million people in China \u201care effectively under quarantine\u201d due to the sudden outbreak of a deadly new virus in Wuhan.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "10 months ago on Jan 23, 2020 ( TMU ) \u2014 As of Thursday afternoon, 23 million people in seven Chinese cities have been placed on quarantine due to the sudden outbreak of a deadly SARS-like virus called 2019-nCoV.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "CNBC's @onlyyoontv breaks down what's happening on the ground in China with the coronavirus spreading on @CNBCTheExchange .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "What cities are closed, how many people are impacted, the precautions they're taking and the huge impact on the Lunar New Year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "pic.twitter.com/YFEHjQP0Cy \u2014 The Exchange (@CNBCTheExchange) January 23, 2020 The illness is said to have originated in a seafood market in Wuhan and quickly spread to other areas of China, then Japan, Thailand, South Korea, and the .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Suspected cases have been reported in Australia and Scotland.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "However, it is possible that there is more to the story as Chinese authorities have been running a censorship campaign to prevent the spread of information about the virus that deviates from official statements.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "https://twitter.com/LiYuan6/status/1219469189129203712 One very strange coincidence in the development of this outbreak is the fact that a new biolab, tasked with studying the most dangerous pathogens on earth, recently began operating in Wuhan\u2014where the illness is said to have originated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Back in 2017, just before experiments at the lab began, the prestigious science journal published an article expressing concerns about pathogens escaping from the new Wuhan lab.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The laboratory is a biosafety level-4 (BSL-4) facility, which is the highest level of biocontainment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "BSL-4 facilities must meet rigid standards for decontaminating the area as well as workers after every experiment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "However, BSL-4 labs remain extremely controversial because critics argue that these measures may not be enough to prevent a virus from escaping.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "According to Richard Ebright, a molecular biologist at Rutgers University in Piscataway, New Jersey, the SARS virus has escaped from high-level containment facilities in Beijing multiple times.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "In May of 2019, less than a year before the outbreak began, the U.S. Centers for Disease Control and Prevention (CDC) issued a press release that gave an overview of the projects that the new lab was currently working on.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The projects included SARS, Ebola, Hemorrhagic fever, Lassa fever, avian influenza A(H5N1), Rift Valley fever, and others.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Scientists have examined the genetic code of the new virus and have found that it is more closely related to SARS than any other human coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "In BSL-4 labs, researchers can tweak or combine deadly viruses to create mutated strains of the original illness.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "A 2013 report in indicated that scientists in China were creating hybrid viruses in labs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "\u201c A team of scientists in China has created hybrid viruses by mixing genes from H5N1 and the H1N1 strain behind the 2009 swine flu pandemic, and showed that some of the hybrids can spread through the air between guinea pigs ,\u201d the article revealed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The results of the hybrid virus experiment were published in the journal .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Such experiments are usually intended to teach scientists more about certain illnesses so they can be treated and prevented better, but other research has involved intentionally making certain viruses even more deadly than they already were.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Regardless of the motivation, exposing people to these pathogens, even in the most secure of settings, can be risky especially considering the fact that contagions have escaped from secure labs in the past.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "TheMindUnleashed.com Don't Miss You may like 14 hours ago on Nov 22, 2020 Justin MacLachlan Scientists in Washington, at Washington State University, discovered and exterminated dozens of Asian giant murder hornets among them, they found around 500 live specimens in various stages of development in their first known nest, officials communicated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "virtual press conference to explain the situation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Scientists made the discovery in late October, inside a tree on a private residence in Whatcom County.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "The agency placed traps in the area in early October after a homeowner reported a specimen, Spichiger said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Four live hornets were caught in the traps which then entomologists attached radio trackers to three of them, and one led them to the nest on October 22nd.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Inside the nest researchers found : 190 total larvae that developed from eggs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "108 pupae, the next stage after larvae.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "They were nearly all queens.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "112 workers, which included 85 workers previously vacuumed out of the nest.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "76 queens, nearly all of them new virgin queens.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "New queens emerge from the nest, mate and then leave to find a place to spend winter and later start a new colony.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "In total that\u2019s more than 500 murder hornets that the team found in the nest which was about 14 inches long and up to 9 inches wide, CBS News reported.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "We failed to post here on Twitter!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Live #AsianGiantHornet caught this week, but our first tracking attempt was not successful.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "More info in our press conference recording: https://t.co/Arnm7IawzM pic.twitter.com/zKqhEo5a31 \u2014 WA St Dept of Agr (@WSDAgov) October 3, 2020 Sven-Erik Spichiger, an entomologist, leading the fight to kill the hornets said: \u201cWe got there just in the nick of time.\u201d Spichiger added that the nest of massive potentially deadly hornets in Washington state likely isn\u2019t the only one in the U.S. \u201cWe do believe there are additional nests,\u201d he said at the virtual conference on Tuesday.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "The researchers say it\u2019s impossible to know if any queens escaped before the first nest was destroyed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Vespa mandarinia or otherwise known as the giant Asian murder hornet is the world\u2019s largest hornet species.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Washington State Department of Agriculture (WSDA) officials posted a video presenting the captured queens crawling inside vials.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Most of the specimens were still alive when the nest was opened, WSDA said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "The Department plans to continue trapping the hornets for at least three years to resolve the problem and determine whether or not the area is infested.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "The hornets pose a serious threat to honeybee populations but are not deadly to most humans unless allergic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "However, the hornets\u2019 stinger is said to be extremely painful if stung, though rarely deadly it can spit venom.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "You can watch the team examining the nest below.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "2 days ago on Nov 21, 2020 A Florida Man has decided to drive his eight-wheeled Chevy monster truck across the ocean.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "That\u2019s right, you read that correctly: he drove his truck across the ocean.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "For the TikTok views.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "And yes, it worked.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "The legendary has long been a favorite for news readers and writers alike, offering an entertaining potpourri of the insane, the impressive, and the grotesque, with stories covering topics including drugs, violence, alligators, and unbelievable feats of human wackiness.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "In the latest chapter of the ongoing saga, one brave Florida Man decided to do what no sane man had ever considered: rather than take his monster truck to the demolition derby, he took it to a South Florida bay and sailed it alongside the yachts instead.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "WhistlinDiesel can best be described as the Johnny Knoxville of American truck culture, or as he describes himself, one who does \u201cbasically everything you\u2019ve ever thought of doing with your truck but you\u2019d never ACTUALLY do \u2026 simply because someone says it\u2019s impossible.\u201d And just like Knoxville and the MTV Jackass gang pushed the concept of extreme, physical challenges beyond the limits of basic common sense, WhistlinDiesel is willing to do anything to go viral and catch some likes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "It\u2019s a winning formula, if a bit unsafe.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "With that in mind, the social media madman took his two-axle Chevy Silverado, filled its eight tires with a ridiculous amount of air, and drove it straight into the Gulf of Mexico between Longboat Key and Bradenton Beach, Florida, without any sort of propeller.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "It wasn\u2019t long before authorities intervened to cut his ludicrous stunt short.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "WhistlinDiesel had just barely driven into the water and smashed the throttle over the bay before he was forced to haul it out of the drink with a boat while completely surrounded by the local sheriff\u2019s department, the Coast Guard, and the Florida Department of Natural Resources \u2013 who were quite likely peeved that someone decided to plunge his diesel truck into a protected body of water.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "The whole ordeal was captured on video and shared to Facebook .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "There\u2019s also a TikTok video showing multiple angles, which has exceeded eight million views.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "post , WhistlinDiesel explained that \u201c10/10 would do again.\u201d In a separate post , he added: \u201cStill can\u2019t believe how smoothly this went.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "This could either end really good or really bad.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "Our original plan was to set up at night in the dark and drive miles offshore to watch the sun rise but looking back we got much better reactions from the public this way.\u201d And good reactions he did receive, as the maniac managed to get tons of press attention and social media clout.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "It still remains unclear whether he faced any charges for the stunt, so it\u2019s safe to say: Mission accomplished!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "2 days ago on Nov 21, 2020 Justin MacLachlan An astrophysicist at the University of Bologna and a neurosurgeon at the University of Verona have claimed that the brain resembles the universe.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "The two Italian researchers came up with the galaxy-brain theory that is out of this world: The structures of the perceptible universe, they say, are astonishingly comparable to the neuronal networks of the human brain.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "University of Bologna astrophysicist Franco Vazza and University of Verona neurosurgeon Alberto Feletti document the extraordinary similarities between the cosmic network of galaxies and the complex web of neurons in the human brain.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "The detailed study was published in the journal showcasing the human brain has roughly 27 orders of magnitude separated in scale, while similarly, the composition of the cosmic web shows comparable levels of complexity and self-organization, according to the researchers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "The brain itself contains an estimated 69 billion neurons, while the visible universe is comprised of at least 100 billion galaxies, strung together like a mesh network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "Even more intriguing both galaxies and neurons only account for about 30 percent of the total masses of the universe and brain.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "Further, both galaxies and neurons arrange themselves like pearls on a long string.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "Beginning from the shared features of the two systems, the two researchers examined a simulation of the network of galaxies in comparison to sections of the cerebral cortex and the cerebellum.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "Their purpose was to inspect how matter variations propagate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "In the case of galaxies, the remaining 70 percent of mass is dark energy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "The equivalent in the human brain, the pair said was water.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "\u201cWe calculated the spectral density of both systems,\u201d Vazza said in a statement about the experiment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "\u201cThis is a technique often employed in cosmology for studying the spatial distribution of galaxies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "Our analysis showed that the distribution of the fluctuation within the cerebellum neuronal network on a scale from 1 micrometer to 0.1 millimeters follows the same progression of the distribution of matter in the cosmic web,\u201d he added, \u201cbut, of course, on a larger scale that goes from 5 million to 500 million light-years.\u201d The amount of interwoven connections originating from each node also were strangely alike sparking further interest to the researchers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "\u201cOnce again, structural parameters have identified unexpected agreement levels,\u201d Feletti said in the statement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "\u201cProbably, the connectivity within the two networks evolves following similar physical principles, despite the striking and obvious difference between the physical powers regulating galaxies and neurons.\u201d The team is anticipating that their preliminary research could lead to new analysis procedures advancing knowledge about both cosmology and neurosurgery.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "Which would enable scientists to better comprehend how these compositions have developed over time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "14 hours ago 2 days ago 2 days ago Help us stick around!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "5 days ago 2 weeks ago 5 days ago 4 days ago DMCA / Removal x x",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

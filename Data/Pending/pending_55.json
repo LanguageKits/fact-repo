@@ -1,0 +1,161 @@
+{
+    "document_id": -1,
+    "url": "https://www.engadget.com/2020-02-07-net-neutrality-us-appeals-court.html",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:39:47.941676+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "  Buyer's Guide  Best of CES  Log in  Sign up  3 related articles British Museum makes over half of its collection viewable online Reddit adds chat rooms for subreddits Deezer tries using AI to find the naughty words in songs The best outdoor speakers  04.19.20  The best universal remote control  04.17.20  The best USB Wi-Fi adapters  04.12.20  How to buy a laptop for your kid (or revive an old one)  04.10.20  Image credit: US appeals court will not rule on repealing net neutrality laws The court will not rehear an October ruling that upheld the FCC's decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": ", @cfisherwrites February 7, 2020  519 ASSOCIATED PRESS  A US appeals court said it will not reconsider an October ruling that upheld the repeal of net neutrality laws, reports.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Tech and advocacy groups, along with 15 states, had requested that the ruling be reconsidered.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The appeals court&apos;s decision marks another win for the Federal Communications Commission (FCC) and allows the repeal of net neutrality laws to stand.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "In 2017, the FCC voted to repeal net neutrality laws , which were put in place in 2015 to prevent internet service providers from using blocking, throttling and paid prioritization.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Internet giants like Amazon, Facebook, Google, Netflix and Twitter sued the FCC as part of the lobbying group.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Several other companies spoke out against the repeal, and 23 attorneys general filed a challenge.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "In April, the Democratic-controlled US House of Representatives voted to reinstate net neutrality protections , but the Republican-controlled Senate would not consider the measure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The US appeals court&apos;s decision means the repeal of net neutrality laws will remain, at least for the time being.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The October ruling did state that the FCC had \"not shown legal authority\" to ban states from implementing their own laws, and it called on the FCC to address other shortcomings in its order, like a need to examine implications for public safety.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "In this article:  appeals court , fcc , gear , internet , net neutrality , net neutrality rules , politics , repeal , ruling All products recommended by Engadget are selected by our editorial team, independent of our parent company.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Some of our stories include affiliate links.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "If you buy something through one of these links, we may earn an affiliate commission.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "519 Intel's flagship 10th-gen desktop CPU has 10 cores, reaches 5.3GHz  'Assassin's Creed Valhalla' arrives this holiday on Xbox Series X and PS5  USB 4 will fully support DisplayPort 2, including 8K HDR monitors  Raspberry Pi's improved camera module supports interchangeable lenses  Microsoft will show off Xbox Series X gameplay next week  From around the web RSS Feed Send us a tip!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "\u7e41\u9ad4\u4e2d\u6587 \u7b80\u4f53\u4e2d\u6587 \u65e5\u672c\u7248 Privacy dashboard",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

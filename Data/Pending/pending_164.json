@@ -1,0 +1,181 @@
+{
+    "document_id": -1,
+    "url": "https://www.multichannel.com/news/fcc-extends-net-neutrality-comment-deadline",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "John Eggerton",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:29:49.300694+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Gives commenters extra 21 days Publish date: Mar 25, 2020 Not a big surprise, but the FCC has provided a 21-day extension for comments on a court's remand of some of its Restoring Internet Freedom order deregulating internet access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The docket has already drawn more comments than any other item over the past 30 days with 8,981, almost eight times the second busiest docket.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "A group of interested stakeholders had cited the coronavirus in asking the FCC two weeks ago to extend the comment deadline on the remand by 30 days to April 29 and May 29.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "In a motion for extension of time, the groups said that \"the staff, officials and line level first responders who possess the knowledge necessary to respond to these questions are preoccupied with preparing for, and conducting, emergency responses to a public safety crisis of unprecedented magnitude brought on by the rapid spread of COVID-19.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The FCC said Wednesday (March 25) that an extension was warranted, but quoting the language of that extension of time petition itself, said \"at the same time, we agree with Requesters that 'the Commission has a duty to conduct its remand proceedings in an expeditious manner,' and we find that this consideration counsels for a shorter extension than the full 30 days requested.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The new dates are April 20 and May 20.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The FCC is seeking comment on the D.C. federal appeals court's direction to the FCC to better explain the impact of its elimination of rules against blocking, throttling and paid prioritization and reclassification of ISP as Title I information services on public safety, the regulation of pole attachments, and its Lifeline broadband/phone subsidy program.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "“We wish to thank the FCC for granting our extension request in the net neutrality proceeding,\" said CEO Chip Pickering.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "\"It is an important conversation for consumers, streamers and main street businesses and we are grateful for the additional time.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "“Today’s extension of the period for public comment about net neutrality is welcome,\" said FCC commissioner Jessica Rosenworcel.\"However, when it comes to collecting public feedback on what the FCC’s net neutrality repeal means when it comes to public safety and low-income consumers, an even longer extension would have been appropriate.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The American public cares about net neutrality and should have every opportunity to let Washington know how important it is for every part of our civic and commercial lives.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "\"The FCC should extend all of its deadlines, to the extent it can, in light of the coronavirus pandemic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Everyone should be focused on what matters the most right now—that is responding to this crisis.” Commissioner Geoffrey Starks said he would have preferred the 30-day extension.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "“The COVID-19 pandemic has reminded us all of the importance of a free and open internet,\" he said.\"Our broadband connections are more critical than ever, and we must pay special attention to protecting the access of the most vulnerable and those on the front lines of the coronavirus response.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "That’s why the Commission’s net neutrality remand proceeding is so important – because it asks the public to comment on how the  agency’s decision affects Lifeline participants and public safety.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Given these  extraordinary times, I wish that we’d granted the full extension sought by the requesters.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Nevertheless, I encourage all Americans who care about an open internet to  make their voices heard.” ",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

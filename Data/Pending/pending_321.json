@@ -1,0 +1,331 @@
+{
+    "document_id": -1,
+    "url": "https://www.computerworld.com/article/2487880/fcc-will-set-new-net-neutrality-rules.html",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:56:20.858215+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Here are the latest Insider stories.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Review: 5 top videoconferencing services put to the test Shadow IT goes home: How to reduce the risk 15 power user tips for Microsoft Teams How to use Todoist for team task management NEW FROM IDG NEW PRO          Windows 10 version 2004: Key enterprise features How to handle Windows 10 updates Microsoft Teams cheat sheet Northwell Health deploys Microsoft Teams as secure messaging tool for clinical staff NEW FROM IDG NEW FROM IDG Subscribe to access expert insight on business technology - in an ad-free environment..",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Check out the latest Insider stories here.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "More from the IDG Network .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "RELATED STORIES     Appeals court strikes down FCC's net neutrality rule SPONSORED BY Sponsored item title goes here as designed White House defers to FCC on net neutrality Republicans protest FCC's net neutrality move, ISPs less concerned Government IT FCC will set new net neutrality rules The agency also has decided it will not ask for further judicial review of the matter .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The U.S. Federal Communications Commission will not seek further judicial review of a January court ruling that struck down the agency's net neutrality regulations, but it does plan to issue a new set of rules covering ISPs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The U.S. Court of Appeals for the District of Columbia Circuit found that the FCC lacks the authority to prohibit broadband providers from selectively blocking or slowing Web traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The FCC will use the agency's existing authority to regulate broadband providers, establishing \"new rules of the road\" to prevent ISPs from charging some companies more for network access, the agency said Wednesday in a media briefing, which was followed by the release of a statement from agency Commissioner Tom Wheeler .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The appeals court \"invited the Commission to act to preserve a free and open Internet,\" the statement said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "\"I intend to accept that invitation by proposing rules that will meet the court's test for preventing improper blocking of and discrimination among Internet traffic, ensuring genuine transparency in how Internet service providers manage traffic, and enhancing competition.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "In its ruling, the court affirmed that the FCC has authority under Section 706 of the Telecommunications Act of 1996 to \"encourage broadband deployment by, among other things, removing barriers to infrastructure deployment, encouraging innovation, and promoting competition.The court, recognized the importance of ensuring that so-called 'edge providers,' those that use the network to deliver goods and services, can reach people who use the Internet,\" the statement said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The FCC in 2010 adopted the Open Internet Order, which prohibited ISPs from blocking services or charging content providers for network access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Verizon challenged the order and prevailed in the appeals court decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The company and other ISPs are now able, because of the ruling, to charge more to content providers, such as video streaming services, whose users consume large quantities of data.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "ISPs have long held that they should have the right to offer such tiered service so that content-heavy sites would have to pay more for network access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "While the court largely overruled the Open Internet Order it also ruled that the FCC has \"general authority\" to regulate how broadband providers deal with network traffic under Section 706.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "\"Recently in Los Angeles, I talked to start-up entrepreneurs who produce video to meet consumers' growing desire for programming,\" Wheeler's statement said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "\"Their companies may succeed or they may fail depending on whether they are truly creative and innovative.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "But they and other innovators cannot be judged on their own merits if they are unfairly prevented from harnessing the full power of the Internet, which would harm the virtuous cycle of innovation that has benefitted consumers, edge providers, and broadband networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "This is why the FCC's exercise of its authority to protect an open Internet is important.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "In the broad plan announced Wednesday the FCC will: -- Propose new rules to \"enforce and enhance the transparency rule,\" requiring network operators to disclose how they manage traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "-- Fulfill the \"no blocking\" goal by considering how, \"consistent with the court opinion,\" the agency can make sure that edge providers are not \"unfairly blocked, explicitly or implicitly, from reaching consumers, as well as ensuring that consumers can continue to access any lawful content and services they choose.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "-- Consider how Section 706 can be used to \"protect and promote\" an open Internet that falls in line with the appeals court decision and its previous affirmation of the agency's order on data roaming.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The FCC will consider establishing an enforceable legal standard to give guidance to edge providers, users and broadband providers, and will evaluate on a case-by-case basis whether the standard is being met.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "It also will seek to identify \"key behaviors by broadband providers that the Commission would view with particular skepticism.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "-- Maintain authority that provides the ability to reclassify Internet access as a telecommunications service under a provision of the Communications Act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "-- Solicit public comment, by opening a docket called \"Protecting and Promoting the Open Internet.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "-- Hold ISPs to their commitment to maintain an open Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "-- Look for ways to enhance competition for Internet access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "The new rules will be proposed by late spring or early summer, but the comment period has already been opened so that input can be gathered as the rules are being considered, the FCC said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Government IT Nancy Weill is managing editor of the IDG News Service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Follow us IDG Careers E-commerce Links Explore the IDG Network descend CIO CSO IDC IDG IDG Connect InfoWorld JavaWorld",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

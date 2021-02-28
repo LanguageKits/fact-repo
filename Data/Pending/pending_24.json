@@ -1,0 +1,161 @@
+{
+    "document_id": -1,
+    "url": "https://www.reuters.com/article/us-usa-internet/u-s-appeals-court-will-not-reconsider-net-neutrality-repeal-ruling-idUSKBN20032K",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "David Shepardson",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:38:22.711841+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Directory of sites TV February 6, 2020 / 11:42 PM / 3 months ago U.S. appeals court will not reconsider net neutrality repeal ruling (Reuters) - A U.S. appeals court said late on Thursday it will not reconsider an October ruling that largely upheld the repeal of landmark net neutrality rules, rejecting requests by 15 U.S. states, and tech and advocacy groups.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "FILE PHOTO - Supporter of Net Neutrality Lance Brown Eyes protests the FCC's recent decision to repeal the program in Los Angeles, California, November 28, 2017.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The Federal Communications Commission in December 2017 reversed Obama-era rules prohibiting internet service providers (ISPs) from blocking or throttling traffic, or offering paid fast lanes, a blow to large tech companies and consumer groups that had championed the level playing field of net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "In orders issued Thursday, the full U.S. Court of Appeals for the District of Columbia declined without comment to rehear the decision, as did the three-judge panel that issued the ruling in October.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "FCC Chairman Ajit Pai, who had proposed and championed the repeal, was pleased with the decision, a spokeswoman for him said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "“The internet has remained free and open, consumers have been protected, speeds have increased, and more and more Americans have gotten access to broadband,” she said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "In petitions filed in December, the Computer & Communications Industry Association, internet trade group INCOMPAS, and various advocacy groups had asked for the rehearing; they were joined by states that had also challenged the decision.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Members of the trade groups include Amazon.com Inc, Microsoft Corp, Facebook Inc and Google parent Alphabet Inc Free Press, among the advocacy groups that sought the rehearing, said it will “keep weighing our legal options.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "And we’ll keep making the case in Congress, in statehouses and in future FCC proceedings about the need to restore the vital nondiscrimination rules.” Firefox browser maker Mozilla, which also fought the net neutrality repeal, said it was considering “next steps.” The appeals court, in its October decision, also ruled the FCC had overstepped its legal authority when it declared that states cannot pass their own net neutrality laws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "It ordered the agency to review some aspects of its 2017 repeal of the rules, including public safety implications and how its decision will impact a government subsidy program for low-income users.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The 2017 FCC 3-2 vote handed internet providers sweeping powers to recast how Americans use the internet, as long as they disclose changes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The new rules took effect in June 2018, but ISPs have yet to change how users access the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "In April, the Democratic-controlled U.S. House of Representatives voted to reinstate net neutrality protections, but the measure was not considered by the Republican-controlled Senate.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "0 : 0 narrow-browser-and-phone medium-browser-and-portrait-tablet landscape-tablet medium-wide-browser wide-browser-and-larger medium-browser-and-landscape-tablet medium-wide-browser-and-larger above-phone portrait-tablet-and-above above-portrait-tablet landscape-tablet-and-above landscape-tablet-and-medium-wide-browser portrait-tablet-and-below landscape-tablet-and-below All quotes delayed a minimum of 15 minutes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "See here for a complete list of exchanges and delays.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

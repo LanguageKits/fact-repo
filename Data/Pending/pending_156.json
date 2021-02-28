@@ -1,0 +1,421 @@
+{
+    "document_id": -1,
+    "url": "http://ny.dailyorange.com/2017/12/massive-tech-companies-fighting-net-neutrality-theyre-not/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Adam Friedman",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:29:28.095289+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "       -->      County businesses suffer financial tolls as coronavirus spreads April 30, 2020 at 12:24 am Gov.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Cuomo condemns political partisanship during coronavirus pandemic April 29, 2020 at 11:21 pm coronavirus Onondaga County reports 3 new deaths from coronavirus April 29, 2020 at 2:28 am coronavirus Central New York to receive guidance on reopening businesses April 29, 2020 at 2:22 am Singer-songwriter King Princess to perform at UU virtual concert April 26, 2020 at 8:01 pm The Syracuse Mask Project provides cloth masks to hospitals, health centers April 26, 2020 at 2:44 pm Students adapt to portfolio showcase cancellations April 26, 2020 at 2:09 pm Old and new traditions mark 150 years of SU history April 26, 2020 at 1:36 pm Men's Basketball Men's Lacrosse Men's Soccer Women's Lacrosse Women's Basketball Men's Lacrosse How Jamie Trimboli’s transformed shot led to 1st team All-American season April 29, 2020 at 11:18 pm Syracuse forward Savannah Rennie selected 13th overall in NWHL draft April 29, 2020 at 9:27 pm SU Athletics What the NCAA’s name, image and likeness news could mean for SU athletes April 29, 2020 at 1:20 pm Men's Lacrosse Stephen Rehfuss to return with extra year of eligibility April 27, 2020 at 12:42 pm Letters to the Editor Immunocompromised students are the most at risk in COVID-19 pandemic April 26, 2020 at 10:22 pm Smart Money: Navigating summer 2020 after a cancelled internship April 26, 2020 at 5:17 pm Editorial Board: The D.O.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Massive tech companies are fighting for net neutrality, but they’re not doing it for you Tech companies like Facebook and Google could afford a world without net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Twitter fights aren’t the only ones happening on the internet anymore, as net providers and web companies spar over escalating tensions surrounding net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "While companies like Comcast and Spectrum fight to increase revenue by charging for faster speeds, others like Google and Netflix have launched public protests to counteract the move.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Google and Netflix are on the right side of history when it comes to raising awareness.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "After all, a world without net neutrality is just a drop in the bucket for their earnings.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "But for small businesses and web companies that don’t have the same star power and public influence, net neutrality isn’t just pinching coins, it means closing shop.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The Federal Communications Commission first introduced net neutrality, which prohibits internet providers from slowing speeds on websites that don’t pay a premium, in 2015.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Without net neutrality, big ticket companies could monopolize the digital sphere, creating fast lanes that will charge both web providers and consumers more money to access big-name servers including Google and Netflix.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Fast lanes would favor access for lucrative companies and people with higher incomes and would also create an unlevel playing field for emerging media companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Michael Gursha, the inaugural entrepreneur-in-residence at the S.I.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Michael Gursha, the inaugural entrepreneur-in-residence at the S.I.Newhouse School of Public Communications at Syracuse University, argued that net neutrality ensures the constitutional rights and freedoms of smaller companies.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "“Net neutrality allows for smaller media companies to have access to the same pipelines and resources as bigger media companies like Time Warner, Netflix and Conde Nast,” Gursha said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "“Without that protection, media startups may have a harder time competing and get their content in front of the right consumers.” Getting rid of net neutrality’s protections would just add another barrier to entry for small media startups that need the internet to turn a profit, including emerging tech companies that call Syracuse's Tech Garden home.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Yet former Verizon employee and current FCC chairman Ajit Pai argued that eliminating net neutrality will allow the free market of the internet to prosper without unnecessary government involvement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Pai’s decision has major backing from internet service providers and web companies that can afford to outbid smaller companies and steal their business.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Providers such as AT&T, Verizon and Comcast have a combined market cap of nearly $600 billion, and Google, Facebook and Netflix roll in at $1.3 trillion.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "An absence of net neutrality would strengthen monopolistic structures like Time Warner, making threats to low-cost internet access more imminent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Spectrum — a subsidiary of Time Warner — is the largest internet provider in Syracuse and could charge users or content providers more to use big-name, high-download sites like Netflix if they want premium service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Massive tech companies like Facebook and Google could easily afford a world without net neutrality, and it could help them cut off any rising competitors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "But they’re still fighting to preserve net neutrality under the guise that they’re “speaking for their users.” These tech giants could absorb a premium, but it would eat into their profits.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "And if they didn’t pay their share and let the costs roll over to everyday users, those who can’t afford higher internet bills could reject those sites entirely.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "It’s a lose-lose situation for Facebook and the people who use it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "It’s not like most of the biggest names in the web industry aren’t already eating up smaller companies — and they don’t need the Pai’s help to do it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Even today, most big names in the web industry can already buy up competitors and use ad power to devastate the music , movie and journalism industries.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "And since, per Wired, Google and Facebook reign as the two largest online ad sellers, they rely on small businesses’ web presence to profit in the first place.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "While the enemy of your enemy is your friend, don’t be fooled into thinking Facebook, Google, Netflix and others are in support of net neutrality in defense of the greater good.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Talk may be cheap, but money will make anyone listen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Adam Friedman is a junior broadcast digital journalism and economics dual major.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "His column appears biweekly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "He can be reached at arfri100@syr.edu and followed on Twitter @friedmanadam5.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Published on December 5, 2017 at 11:49 pm Ad: 300 x 250 The job market won’t be hot forever May 7, 2019 at 11:46 am EdTech investments by private companies should be applauded April 23, 2019 at 9:26 pm ThriveCash could change the way people access money April 10, 2019 at 11:41 pm Video: You Op To Know: Business columnist discusses flaws of plan to break up big tech April 9, 2019 at 5:22 pm Elizabeth Warren’s plan to break up big tech is flawed April 2, 2019 at 11:31 pm @dailyorange for breaking news and more @DOsports Thu Apr 30 17:30:00 +0000 2020 How Jamie Trimboli increased his shooting percentage 23 points in one season, from @CraneAndrew :  bit.ly/2ybU16g @dailyorange Thu Apr 30 16:50:00 +0000 2020 SPONSORED .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Stop by the Syracuse Cooperative Market, Open Daily to the Public from 8 AM - 9 PM!… twitter.com/i/web/status/1… @dailyorange Thu Apr 30 16:38:00 +0000 2020 SPONSORED .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "For a limited time only, the 505 on Walnut is giving a reduced rate for a 4BR, 4BA:… twitter.com/i/web/status/1… @DOsports Thu Apr 30 14:46:51 +0000 2020 RT @DannyEmerman : Class of 2021 DT from Fairport, NY Jaelin Moss has committed to Syracuse.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "He's the fourth commit of the class @DOsports h… @DOsports Thu Apr 30 12:00:00 +0000 2020 “You can't just throw gumballs at the net and hope they go in.” How Jamie Trimboli’s shooting percentage rose from… twitter.com/i/web/status/1… SU to resume on-campus classes in the fall 2020 unless instructed otherwise The university can better serve its students and remedy its financial situation by bringing students back to campus in the fall, Chancellor Kent Syverud said in an episode of the podcast “Swing State.” Read more » coronavirus Coronavirus death toll in Onondaga County increases to 27 The patient was a woman in her late 70s with underlying health conditions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Read more » Students adjust to time zone differences during online instruction Syracuse University students spoke with The Daily Orange about how they handle taking classes online when they live in different time zones.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Some students have to wake up early in the morning, stay up late at night, or both.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Read more » Men's Lacrosse On the line: Syracuse must beat North Carolina for chance at ACC tournament berth April 9, 2014 at 10:39 pm coronavirus SU to consider different scenarios for fall 2020 classes 0 comments Men's Lacrosse Syracuse goalie Drake Porter to return for 5th year 0 comments New York state extends social distancing until May 15 0 comments View menus for Shaughnessy’s and others Advertise with the DO Advertise with the DO Men's Basketball Men's Lacrosse Men's Soccer Women's Lacrosse Women's Basketball Letters to the Editor RSS Feed E-mail Newsletter html text mobile The Daily Orange is Syracuse University’s independent student news organization.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Donating today will help ensure that the paper stays run by its student staff.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "230 Euclid Avenue, Syracuse, NY 13210 315 443 2314 Made in part by Upstatement Boston, MA ·  info@upstatement.com",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

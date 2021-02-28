@@ -1,0 +1,71 @@
+{
+    "document_id": -1,
+    "url": "https://powderedwigsociety.com/cooking-the-covid-books/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:58:27.956461+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Under the circumstances, I believe it is not only possible, but probable, even likely, if a Minnesota doctor\u2019s allegation is true.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The \u201ccircumstances\u201d are payola from Medicare to hospitals and docs for listing patients as COVID-19 patients.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The $64 million question is \u201cwhy would they do that?\u201d Whatever the reason, it has given a great incentive to docs and hospitals to list as many patients as possible as COVID-19 patients, resulting, obviously, in also artificially increasing the number of deaths attributed to COVID-19.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Conscientious docs, including Dr. Scott Jensen of Minnesota, are blowing the whistle on this, reporting that CDC is issuing guidance to docs and hospitals to report any death of a patient that experienced symptoms that could be suspected as COVID (flu-like or respiratory), of which there are many, as COVID deaths.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "html There has been a critical error on your website.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Learn more about debugging in WordPress.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,611 @@
+{
+    "document_id": -1,
+    "url": "https://www.eff.org/deeplinks/2020/03/new-york-state-legislator-introduces-very-bad-net-neutrality-bill",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "ERNESTO FALCON",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:29:47.022139+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to main content HTTPS Everywhere Donate to EFF Donate to EFF Search form Email updates on news, actions, and events in your area.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "In 2018, California established the gold standard of what states should be doing on net neutrality by passing a model law for other states to copy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "So, naturally, that makes the job of any legislator truly interested in protecting net neutrality pretty easy: just copy and paste.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "But that did not happen in New York’s state legislature this week.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "State Senator Kevin Parker, the Senate Telecommunications Chairman, has instead introduced S. 8020; legislation that not only ignores critical net neutrality issues such as zero rating, but it would legalize paid prioritization by Internet Service Providers (ISPs).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Wireless ISPs eager to shape user traffic and give an anti-competitive advantage to their own content offerings engage in zero rating—the practice of exempting content chosen by ISPs from counting toward an account’s data cap.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The Federal Communications Commission in the final days before the repeal effort of net neutrality began taking extraordinary steps to shut down investigations into ISP practices and rescind government findings that the zero-rating practices of AT&T had, in fact, violated the 2015 Open Internet Order.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "When the fight to restore net neutrality came to California, organizations that advocate for the interest of low-income people fought hard to protect low-income users with zero-rating protections in the law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "In hopes of preserving their anti-competitive conduct, AT&T issued phony studies about how zero rating was good for people and then later resorted to robocalling senior citizens about rising phone bills if the state passed net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "But legislators in Sacramento saw through the ruse and enacted these protections.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "But, here’s the thing: zero-rating protections don’t only help low income users, they actually lower everyone’s wireless broadband bills.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "A comprehensive study in the EU that compared wireless broadband bills before and after countries prohibited discriminatory zero-rating practices found that countries with protections like California's had lower bills.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Not only that, Internet competition also improved.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Without these protections, only large tech companies could engage zero-rating negotiations with several ISPs, hurting smaller technology companies that lacked the resources to strike multiple deals.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Paying the ISP to speed up your traffic—and effectively slow down their rivals—was categorically illegal under the 2015 Open Internet Order, and for good reason.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "But S. 8020 would give ISPs the right to engage in paid prioritization as long as the company believes it is good for Internet users.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "But there is no scenario, ever, that would justify allowing an ISP that is already compensated from user subscription fees such as your monthly cable bill, to pad their profits by giving preferential treatment to whichever companies pay them the most.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Paid prioritization not only yields no discernible benefit to Internet users, it also advantages large corporations over small businesses, non-profits, and educational institutions unable to engage in a pay-to-play scheme.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "It’s possible that the senator has bought into the myths ISPs like to share in favor of paid prioritization, such as claims that it is necessary for remote surgery (it isn’t) or that Content Delivery Networks (CDNs) are the same thing as ISPs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "(They aren’t.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "What is true is that far too many Americans are stuck behind monopoly access for their high-speed broadband choices, and that the future is leading towards more monopolization, not less .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Giving companies that sell you an essential service the legal license to distort your Internet experience so they can extract rents from large Internet companies and disadvantage smaller Internet companies has no redeeming value.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Arguably, the biggest lie the large ISPs tell state legislatures is that they do not make enough money to pay for delivering broadband and therefore must charge Internet companies new fees.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "But it’s been nearly a decade since the cost of delivering one hour of HD video declined to less than a penny —a cost that’s continued to drop as network technologies improved.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "In other words, arguments in favor of additional fees are wholly unsupported by fact, and are merely the rent-seeking behavior of monopolists.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "We are disappointed to see these behaviors promoted by S. 8020, and call on the state of New York to back a real net neutrality bill—one that protects consumers and promotes innovation, rather than one that protects the interests of powerful incumbents looking to pad their pockets.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Copy link Email updates on news, actions, events in your area, and more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Anti-spam question: Enter the three-letter abbreviation for : Don't fill out this field (required) Thanks, you're awesome!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Please check your email for a confirmation link.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Oops something is broken right now, please try again later.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "March 10, 2020 The Electronic Frontier Foundation recently joined several California-based ISPs, tech companies, non-profits, and local governments to commend Governor Newsom for adopting a “Broadband for All” vision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "But simply saying “broadband” without a clear eye towards the future risks having government policies adopt infrastructure plans that work in the short run... by .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "December 25, 2019 Earlier this year, EFF noted that the United States is facing a high-speed broadband access crisis .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "For the foreseeable future, it appears that a supermajority of Americans will not have access to fiber to the home.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Instead, it is cable monopolies or nothing at all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Government data indicates that... by , .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "December 21, 2019 Ever since the FCC repealed net neutrality protections in 2017, we’ve been fighting to return as many protections to as many Americans as possible.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "In 2019, the battles in the courts and Congress both kept those committed to a free and open Internet very busy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Mozilla v. FCC by Corynne McSherry , , .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "October 1, 2019 Users, advocates, and service providers have been waiting for months to find out whether an appellate court will bless the Federal Communications Commission’s effort to repeal net neutrality protections, and whether the FCC can simultaneously force the states to follow suit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "The answer: yes, and no.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Bound by its interpretation... by .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "September 4, 2019 We pause this week to celebrate our longtime friend Gene Crick, a digital rights activist and former president of EFF-Austin, who passed away August 14 in Texas at age 73.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Gene was a tireless advocate for free speech, a free, open, and inclusive Internet, and digital rights for everyone in... by , .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "July 29, 2019 When it comes to politics, in-person meetings make a huge difference.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Just a few questions from constituents during town halls can show a representative or senator which issues are resonating with the residents of their district or state.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Even if you’ve never met an elected representative before, showing up IRL... by .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "July 26, 2019 As we head into the August, Congress will be on recess and most of your senators and representatives will be heading back to their home states.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "That means it’ll be easier for you to reach out and talk to them or their staff and ask them to act on important... by .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "June 21, 2019 A.B.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "1366 , legislation by Assemblymember Lorena Gonzalez, which would renew a law that effectively shields a huge part of the telecommunications industry from state and local regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Comcast and AT&T law backed this law, , in... by .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "May 22, 2019 The future of competition in high-speed broadband access looks bleak.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "A vast majority of homes only have their cable monopoly as their choice for speeds in excess of 100 mbps and small ISPs and local governments are carrying the heavy load of deploying fiber networks that surpass gigabit cable networks... by .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "May 15, 2019 American cities across the country face the same problem: major private Internet providers, facing little in the way of competition, refusing to invest and upgrade their networks to all residents.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "But not every city has gone through the trouble to analyze the problem, come up with a solution, and still... Email updates on news, actions, events in your area, and more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Anti-spam question: Enter the three-letter abbreviation for : Don't fill out this field (required) Thanks, you're awesome!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Please check your email for a confirmation link.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "Oops something is broken right now, please try again later.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "Copy link Back to top Follow EFF: twitter facebook instagram youtube flicker rss Copyright (CC BY) JavaScript license information",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

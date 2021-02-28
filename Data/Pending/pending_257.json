@@ -1,0 +1,601 @@
+{
+    "document_id": -1,
+    "url": "https://www.infracore.net/blog/updating-the-whole-net-neutrality-situation",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Paymon Hamidi",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:51:04.932474+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Neutrality in the United States has been a hot-button issue for almost anyone that uses the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "2018 saw the 2005 principles governing the preservation of an open Internet repealed completely, leaving control over the Internet in the hands of huge companies that deliver Internet services to people.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Today, we’ll go back over Net Neutrality and provide an update of what has happened since the Federal Communications Commission repeal of net neutrality laws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Commercially available Internet services have been available since the early 1990s, but as broadband was being implemented, the Internet, and investment in the medium was strong.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "In an attempt to keep control of the Internet distributed among the people that utilize the service, and not massive corporations looking to gain control over it, the Federal Communications Commission (FCC) under chair Kathleen Abernathy adopted neutrality principles “to preserve and promote the vibrant and open character of the Internet as the telecommunications marketplace enters the broadband age” in 2005.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "For seven years, lawmakers attempted to pass bills in Congress that would secure an open future for the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "All of these attempts failed, leaving the future of who would control the Internet up in the air.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The fear was that ISPs, which are typically huge multinational conglomerates, would be able to control bandwidth with cost, as they do with their television services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Internet freedom advocates considered the price discrimination that would arise from “local monopolies enshrined in law” to be at the helm of what has proven to be the most remarkable invention in human history, counterproductive for the establishment of an open and useful construct.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Years of litigation followed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Cases such as Verizon Communications Inc. vs. FCC, which ruled that the FCC had no regulatory power over the Internet because it was, in fact, not actually a utility, and thus, governed under Title I of the Communications Act of 1934.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Immediately after this ruling, the FCC took steps to reclassify Internet delivery services into a public utility, which are governed under Title II of the Act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "In February of 2015, the classifications were officially challenged as voting members agreed that Internet services met the criteria of a utility under Title II of the Communications Act of 1934 and the more recent Telecommunications Act of 1996.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "In April of 2015 “net neutrality” was upheld by officially declaring Internet services as a utility.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The rules officially went into effect the following June.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The “final rule” turned out to be short lived, however.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "In April of 2017, the FCC proposed to repeal the policies that governed net neutrality, and return control to the corporations that invest in and provide broadband services.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The proposed changes were met with heavy consternation, with over 20 million people providing comments during the public discourse phase of the process.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "It was later found that millions of the comments made in support of net neutrality repeal were made fraudulently by foreign actors.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Despite the overwhelming dissention of the mass of people, the FCC repealed the net neutrality policies and followed it with a hefty amount of propaganda material claiming that the decision was “restoring Internet freedom”.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The repeal became official in June of 2018.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Almost immediately after the change was made there have been several lawsuits filed and they seem to keep coming.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "States, advocacy groups, neutrality lobbies, and companies have all started lawsuits against the FCC both for their handling of the situation and for the repeal of net neutrality itself.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "One way to ascertain if it has been a benefit is by looking at the claims the FCC made before dismantling the mandate: Net Neutrality is hindering broadband investment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "In 2018 what is known as the Big Four--Verizon, AT&T, Charter, and Comcast--collectively spent less in broadband projects than they did in 2017.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "It was the first time in three years that investment has dropped.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "It doesn’t make sense for ISPs to throttle Internet traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "The Big Four reportedly slowed internet traffic without telling customers not more than six weeks after the repeal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Sites like YouTube, Netflix, and Amazon Prime were the most targeted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Verizon was especially culpable as it was found to slow data speeds that led to slower EMS response times; a major problem as firefighters were battling massive fires in California.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "The issue isn’t totally devoid of common ground, however.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Almost everyone believes that ISPs shouldn’t be able to flex their muscles, so to speak.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "One way this is happening is that there is a push to restore older FCC mandates that prohibited ISPs to enact anticompetitive and harmful practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Basically, everyone wants a fast, open, and unobstructed Internet, but the disagreement, usually on party lines, is who is responsible for the regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "An extreme majority of people support net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Most people want to return oversight over the Internet to the bureaucracy, as they believe that corporations whose stated purpose is to make profit aren’t the best organizations to manage something as important as access to the Internet, despite being the companies that sell that access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Time will tell who is right.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "If you would like to do something about it, go to https://www.battleforthenet.com/ and sign up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Leave your thoughts in the comments section below.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "LinkedIn ISP About the author  Paymon Hamidi is the CEO of Infracore LLC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "He has over 25 years of executive-level experience in the hi-tech industry.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Author's recent posts More posts from author Wednesday, April 29 2020 Monday, April 27 2020 Friday, April 24 2020 1 on Wednesday, 20 November 2019 10:16     When one is a difficult situation, he should hire a lawyer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "There are many people who need professional services such as those offered by the trust & estate litigation Geyserville CA to solve a legal problem.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Sometimes these cases can be solved amicably, while others are decided in court.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "0 When one is a difficult situation, he should hire a lawyer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "There are many people who need professional services such as those offered by the [url=http://www.villalaw.net/trust-estate-attorney.html]trust & estate litigation Geyserville CA[/url] to solve a legal problem.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Sometimes these cases can be solved amicably, while others are decided in court.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "When one is a difficult situation, he should hire a lawyer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "There are many people who need professional services such as those offered by the [url=http://www.villalaw.net/trust-estate-attorney.html]trust & estate litigation Geyserville CA[/url] to solve a legal problem.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Sometimes these cases can be solved amicably, while others are decided in court.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Thursday, April 30 2020 Subscribe to this blog post          (Please fill in your email address to subscribe to updates from this post.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "IT Blog Tip of the Week Tip of the Week Windows 10 IT Services Business computing VoIP TotoDesk What’s the Point of An IT Assessment 23 March 2020     great work man, you have to post a great post it will help people very much keep it do more for peop...     TotoDesk 14 March 2020     great work man, I would like to congratulate you on this effort Arte Del Gusto.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "TotoDesk 12 March 2020     you have done a great job I hope you will do much batter in the future fusionex.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "NoahAnton 01 March 2020     This is the good head pattern changer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Here is the facebook password reset confirmation email, https...     14 February 2020     It is well-known that a dirty environment is an unhealthy one and makes people sick more often than ...     As the workers that power many businesses are remaining at home, remote solutions have proven to be a significant tool in keeping productivity moving.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "However, with nobody going into the office, monitoring your IT environment is necessary t...",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Learn more about what Infracore can do for your business.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Call us today (858) 509-1970 Suite 380 San Diego, CA 92128 Copyright 2003-2019 Infracore LLC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "the heart of IT.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

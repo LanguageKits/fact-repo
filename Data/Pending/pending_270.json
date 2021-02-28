@@ -1,0 +1,91 @@
+{
+    "document_id": -1,
+    "url": "https://www.facebook.com/pronetneutrality/posts/2057307634299631",
+    "document_category": "Social Media",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:51:48.835690+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "or LimitlessEdge Cosplay April 28 at 12:00 PM \"Just a few days after exposing the sale of some 500,000 Zoom accoun ... ts for sale on the dark web, the research team at Cyble are back with another worrying tale of the vast array of information traded on furtive data markets.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "A \u201cthreat actor,\u201d the team reported in a blog, \u201chas dropped an online bomb by dropping the identities of 267 Million Facebook users.\u201d And the price for this data trove\u2014just $540.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Thankfully no passwords were available, but the data included email addresses, names, Facebook IDs, dates of birth and phone numbers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "All of which is a perfect set of data with which to craft a text or email phishing campaign on behalf of Facebook. \"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "https://www.forbes.com/\u2026/facebook-use\u2026/\u2026 March 27 at 12:00 PM Please comment on the FCC's website regarding Net Neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Now, ... more than ever, should prove how the Internet should be a public utility maintained for all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": ":   https://www.wired.com/\u2026/another-chance\u2026/ March 20 at 12:00 PM \"The so-called EARN IT bill, sponsored by Senators Lindsey Graham (R ... -SC) and Richard Blumenthal (D-CT), will strip Section 230 protections away from any website that doesn\u2019t follow a list of \u201cbest practices,\u201d meaning those sites can be sued into bankruptcy.The \u201cbest practices\u201d list will be created by a government commission, headed by Attorney General Barr, who has made it very clear he would like to ban encryption, and guarantee law enforcement \u201clegal access\u201d to any digital message. \"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The last thing we need....   https://www.eff.org/\u2026/earn-it-bill-gove\u2026 English (US) \u4e2d\u6587(\u7b80\u4f53) \u0627\u0644\u0639\u0631\u0628\u064a\u0629 \ud55c\uad6d\uc5b4 \u0939\u093f\u0928\u094d\u0926\u0940 \u65e5\u672c\u8a9e",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

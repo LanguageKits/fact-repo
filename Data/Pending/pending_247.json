@@ -1,0 +1,511 @@
+{
+    "document_id": -1,
+    "url": "https://www.usatoday.com/story/life/allthemoms/news/2017/12/21/net-neutrality-mommy-blogger-impacts/34921475/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Taylor Seely",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:50:37.849984+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "It's been in the news A LOT lately.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Well, we're going to dig in and break it down.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "And I promise to make it as painless as possible to understand.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "But be warned: To get both sides of the story, it's not a short read.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "It is, however, an important read, particularly for mommies who blog.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "One expert warned that bloggers' abilities to afford their sites and get traffic to their sites could seriously be in jeopardy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "But an opponent to net neutrality thinks the online backlash and hysteria is blown way out of proportion, and he gives his reason as to why you maybe shouldn't be so concerned.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Either way, one thing is certain: This has been a contentious issue since the late 1990s, and neither side shows signs of giving up the fight any time soon.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Understanding the jargon: what is 'net neutrality' Net neutrality refers to the idea that when someone goes online, he or she should have complete, uninhibited access to every website, service and application offered.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "A net neutrality proponent would say no individual or company, particularly the broadband companies that provide consumers with Internet (Cox, Comcast, AT&T;, etc.)",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "should be able to cherry pick which sites load fast or slow (or don't load at all).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The term was coined in 2003 in a paper on broadband discrimination practices by Tim Wu .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "At that time, he was an associate professor at the University of Virginia Law School.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "When people debate \" net neutrality ,\" what they're arguing over is whether they agree or disagree with the federal regulations placed on Internet service providers (ISPs) in 2015. broadband services as a type II telecommunication service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Previously, it was a type I information service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "By reclassifying, the FCC was able to mandate that ISPs could not throttle (slow down) or block certain sites, services, applications, etc.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Last week, the FCC under Chairman Ajit Pai repealed those 2015 actions, making broadband once again a title I information service, free of common-carrier regulations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "When the internet was considered a title I information service, the FCC couldn't legally reprimand an ISP for participating in discriminatory conduct.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "This was decided by a federal appeals court in 2014, when the FCC tried to punish Verizon for violating net neutrality rules, and the court struck it down.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The court told the FCC, however, that it agreed those powers should be within the commission's jurisdiction.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "It just had to reclassify broadband as a telecommunication service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Fast forward to 2015 and finally, the FCC was able to swing the votes to reclassify broadband as a type II telecommunication service, which meant it would now face the common-carrier regulations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Most people think of utilities when they first think of common carriers , like water or electricity, but they also encompass certain services like commercial airlines.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The regulations \"mean that you as a common carrier have to carry everyone’s traffic regardless of whether you like it or not, as long as it’s legal.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Ryan Singel, former editor for told Singel is also the founder of , an online startup, and a fellow at Stanford Law School’s Center for Internet and Society.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "spoke to Singel to get his perspective on the possible impact on bloggers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "He said the regulations exist because these services are often \"central to people's lives\" and crucial \"to exercising key rights.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Also, there typically aren't alternatives.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Think once again about water, electricity and airfare.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Net neutrality advocates, like Singel, are afraid that ISPs will begin: Charging websites to run at a fast speed for customers (to boost revenue) Throttling websites who choose not to pay for the faster service Charging customers for certain services (pay separately for social media, streaming services, news, etc.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Blocking objectionable content/ filtering out opinions with which the company disagrees Singel said people just have to look at what has happened on social-media sites that try to block \"objectionable\" content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "As an example, you may get photos in a breastfeeding story or post that is taken down and blocked because a filter sees it as objectionable, he said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "That could be a threat to mommy blogs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "The concern is that if ISPs begin charging websites to run at comfortable speeds, then those companies will likely eliminate their free service plans and potentially increase the prices of their paid plans.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "So if you're a mommy blogger who uses third-party resources to maintain your site, like Wordpress or Mail Chimp for example, then you could potentially face price hikes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "\"That means the price of running your blog — as you have been before— could get way more expensive, to the point where people could give up on it,\" Singel said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Opponents to net neutrality see the reclassification and consequential common-carrier regulations as superfluous and harmful to business growth.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Kenneth Engelhart, a former adjunct professor at Osgoode Hall Law School, teaching Communications Law, spoke to us and told that most cases of ISPs violating net neutrality rules were instances where the ISP was participating in \"anti-competitive conduct.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "According to Engelhart, that would mean the Federal Trade Commission would handle such issues going forward.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Instances of legitimate net-neutrality violations, he said, practically never happen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "\"The FCC and the FTC have entered into a memorandum of understanding to make sure the FTC continues to prohibit anti-competitive conduct and misleading advertising and privacy violations,\" he said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Regarding business growth, Engelhart said companies don't particularly like to get involved in areas where the government is beginning regulation \"because once regulators get going, they never stop.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Engelhart also said the fear of ISPs blocking or throttling sites is, essentially, ridiculous.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Without sites like Facebook or Netflix, customers would have no reason to go online and would thus cancel their Internet, he argued.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "\"No one has ever really explained the arithmetic of how they’re (ISPs) going to benefit by degrading their own service, because (proponents are) right, they could make some money from some website, but they’re also going to lose some money as they lose customers.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "To this point, as a rebuttal, Singel said that the business structure of an ISP is one that sometimes prioritizes immediate gain over longterm benefit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "For that reason, an ISP might act against its own and its customers' best interests to boost its bottom line.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Please let us know in the comments.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Follow us on Facebook.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "eNewspaper USA TODAY Shop LinkedIn YouTube RSS Thanksgiving.com",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

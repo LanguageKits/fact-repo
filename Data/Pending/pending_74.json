@@ -1,0 +1,1061 @@
+{
+    "document_id": -1,
+    "url": "https://www.wordstream.com/blog/ws/2014/04/18/what-is-net-neutrality",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Dan Shewan",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:40:28.603739+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "  Skip to main content  +1.866.971.0933 855.967.3787 AdWords Grader Main navigation WordStream Advisor Cross-platform software to maximize your online advertising.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Scale your agency with WordStream software Hear what makes us great -- straight from our customers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Analyze & improve your digital marketing -- for free!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Help me turn site visitors into conversions Help me advertise on Facebook Help me with my Google Ads campaigns Help me manage ads across Google Ads, Bing, and Facebook Manage my online advertising for me Help me build and scale my agency WordStream Advisor Software and consulting to help you grow your business Software and consulting to drive success for your clients A trusted guide for your digital marketing journey Tips & tricks to help you get the most out of your online advertising.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Last updated: February 5, 2018  Like practically every topic of discussion on the internet, net neutrality is a subject that people either a) haven’t heard of and couldn’t care less about, or b) are rabidly passionate about and will die to defend (or so it seems in most site comment sections ).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Net neutrality is the concept that internet service providers (ISPs) should allow all types of traffic to travel across their networks without discrimination; that all sites and applications should be treated equally, and not subjected to traffic shaping, bandwidth throttling and other means of control that serve ISPs' commercial interests.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Here are five facts that marketers need to know about net neutrality and why it’s so important: Imagine a world in which internet service providers didn’t just provide their customers with access to the web, but also controlled what pages they could see, what articles they could read, and what videos they could watch.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "This isn’t the bleak world envisioned in George Orwell’s disturbingly prescient “1984” – this is a world without net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "If net neutrality laws are not passed to protect the free and open web, ISPs like Comcast (which was recently named for the second time by The Consumerist) would effectively become arbiters of what you – and your customers – can see, when you can see it, and how much extra you’ll be expected to pony up to see it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Unless neutrality laws are introduced, internet subscription packages could soon look a lot like this: Unless the web remains free and open, the flow of information will no longer be democratic – it will be controlled, repackaged and sold at a premium, the way cable channels are today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Let’s say you run a small business.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "You have a great product, satisfied customers, and you’re ready to grow by getting into paid search.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "You launch a PPC campaign, target high commercial intent keywords, write compelling ads, and have these ads point at highly optimized landing pages .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "…Until your prospective customers click on your ad and their ISP throttles bandwidth to your landing pages because you can’t afford to bribe their ISP enter into a “preferential service agreement.” Your landing pages take forever to load, and your conversion rates plummet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "You’ve wasted time, money and effort – all because your larger competitors can afford sleazy backhanders.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Net neutrality is essential to consumer choice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "If ISPs get to choose which sites are seen and when, millions of businesses – large and small alike – will suffer, and so will consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Unless the web remains free and open, consumers will have one choice – their ISP’s.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Content marketing has enabled businesses of all sizes to provide their customers with highly relevant content tailored to meet specific needs, and the open web has allowed countless bloggers to build huge audiences by sharing content that they’re passionate about.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "This will be impossible if ISPs and large telcos get their way.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The preferential treatment that ISPs could (and would) charge for will tip the scale in favor of huge media companies that can afford to pay for unrestricted access and screw over everyone else.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Nope, nope and nope.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Oh, and forget about video marketing – unless you have bottomless coffers to pay the gatekeepers, it’s not going to happen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Unless the web remains free and open, content marketing as we know it will be finished.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Many of Silicon Valley’s biggest players have humble beginnings.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Internet marketing’s largest (and most profitable) advertising platforms, including Google and Facebook, were highly innovative ideas that the open internet helped grow and propagate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Without net neutrality, these and countless other technological success stories would likely never have materialized (to learn more about how Google got started, check out our list of 26 crazy Google facts ).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "In addition to stifling innovation, the end of net neutrality would limit how marketing channels could evolve over time, limiting advertisers’ reach and making it increasingly difficult for marketers to adapt to changing consumer behavior.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Unless the web remains free and open, true innovation will slow to a crawl, costing businesses and the overall economy billions of dollars, and further tip the balance of power in favor of the ISPs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "For many marketers, net neutrality isn’t even an issue, let alone a problem deserving of real action or support.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "However, the free and open web is already under threat, and has been for years: In 2007, evidence came to light that Comcast was interfering with customers’ use of BitTorrent and other peer-to-peer services – whether for legal purposes or otherwise.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Between 2007 and 2011, Canadian ISP Rogers engaged in discriminatory traffic shaping practices by reducing speeds of all encrypted traffic – including online gaming and other perfectly legal services.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "In January, the U.S. District Court of Appeals for the District of Columbia ruled that the Federal Communications Commission had overstepped its authority in banning ISPs from throttling traffic as part of its proposed – a severe blow to net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "In February, Netflix agreed to pay Comcast an undisclosed sum to ensure that its streaming video content reaches consumers more quickly after months of being throttled – paving the way for similar deals.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "In February – a very bad month for net neutrality – Comcast (the country’s largest cable and internet provider) announced plans it wants to merge with Time Warner Cable (the country’s second-largest).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "This proposed merger would create a towering monopolistic behemoth, the likes of which have never been seen, further consolidating Comcast’s considerable power and severely reducing consumer choice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Make no mistake – the war for information freedom is being waged as we speak.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Unless action is taken, we’re one step closer to a future in which the mighty few control the information of the many.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "It doesn’t matter what type of marketer you are, or what kinds of campaigns you’re running; paid search, SEO, display advertising, social media – it all hinges on preventing the ISPs from becoming the uncontested gatekeepers of our information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "It might seem as though there’s nothing you – the person reading this post – can do.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "However, that’s not the case.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "There are plenty of ways you can make your voice heard, preserve net neutrality, protect your job, and save your clients’ campaigns: Sign a petition against the Comcast/TWC merger Sign the petition for the FCC to Phone or email your Congressional representative to call for strong net neutrality laws Spread the word on your social networks that net neutrality is a Big Deal and will affect everyone online Image credit: ZDNet Search marketers are sometimes accused of being reactionary and waiting to see what everyone else does before taking action.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Don’t let this happen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Without net neutrality, search and internet marketing will be changed forever – and the results won’t be pretty.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "UPDATE - Net Neutrality in 2017 When I originally wrote this post in 2014, the landscape of internet regulation – particularly in the U.S. – was very different.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Attitudes toward net neutrality were generally positive among consumers and advocacy groups, and although we faced stern challenges, there was a palpable sense of optimism that the internet might just remain open.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Since then, we’ve seen a number of measures designed to weaken net neutrality gain widespread support, so I thought it would be worthwhile to update the original post.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "The biggest change in net neutrality since the publication of the original post has been the transition in leadership at the White House and the subsequent changes at the Federal Communications Commission (FCC).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "The FCC’s former chairman, Tom Wheeler, ended his tenure at the agency in January, paving the way for his successor, Ajit Pai, to take the reins.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "A long-time veteran of the telecommunications industry, Pai served in a variety of roles at the FCC between 2007 and 2011 before being formally appointed to the commission as a Republican in 2012 by former President Barack Obama.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "In the past, Pai has said that it is vital for the FCC to keep pace with the rapidly changing technological landscape in which ISPs operate, a position that few could argue against regardless of their political affiliation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "However, Pai’s views on the role of the FCC and its responsibilities to American consumers are problematic, to say the least.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Chairman Pai has long been an outspoken opponent of net neutrality legislation, including measures introduced by his predecessor that forbade internet service providers from throttling certain kinds of internet traffic, restricting access to certain websites, and implementing the kind of paid prioritization we discussed above.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Pai voted and spoke out repeatedly against the Title II reclassification that Wheeler introduced in February 2015, calling the Title II reclassification “heavy handed” and “all about politics.” In addition, Pai seems more concerned by the fact that investment by American ISPs purportedly fell by 5.6% between 2014 and 2016 (a figure that was disputed as inaccurate by the non-profit net neutrality advocacy group Free Press, which claimed investment actually grew during that period), a decline that Pai believes was caused by those heavy handed regulations, than he is about maintaining equality of access to the web.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Of course, that’s before we get to the inconvenient truth that the reason ISPs are reluctant to invest in infrastructure – yet continue to do so anyway – is because actually laying cable is hideously expensive and isn’t nearly as profitable as their “dumb pipes.” Secondly, Pai’s attitude of “if it ain’t broke, don’t fix it” when it comes to ISPs is equally problematic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Pai simultaneously claims that existing regulations are stifling innovation and job creation – a position that has been thoroughly debunked – all the while praising ISPs such as Comcast and Verizon for merely not screwing over their customers, despite the fact that many ISPs have been violating existing net neutrality regulations for years .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Cable and DSL coverage areas by company in Roanoke, VA.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Note how few areas of overlap exist between service providers in this area.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "In short, Chairman Pai believes that the same gigantic ISPs that already purposefully avoid competing with one another to preserve what is essentially a duopoly across huge swathes of the U.S. should be left to their own devices, and that regulations protecting equal access to the internet should be scrapped in favor of corporate profits.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "Speaking at the National Association of Broadcasters conference in Las Vegas, Nevada, on April 25, Pai said that the FCC is poised to vote on the repeal of the Title II reclassification on May 18.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "This vote is what’s known as a Notice of Proposed Rulemaking (NPRM), which means that a final vote on the issue could come later this year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "It also means that Pai will (ostensibly) seek public comment on his proposal to reverse the Title II reclassification that included many net neutrality provisions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Given Chairman Pai’s favorable view of ISPs, we’re likely to see significant increases in paid prioritization in the coming years.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "We’re also likely to see further attempts by ISPs to force companies such as Google and Netflix to pay even more to deliver their services to consumers, despite the fact that they’re already paying them handsomely .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "The impact of paid prioritization and the rise of so-called “zero rating” plans (in which ISPs offer subscribers access to their own streaming media services that do not count toward limited bandwidth plans, unlike those of competitors such as Netflix) could be felt by consumers, advertisers, and small businesses, although the impact is difficult to calculate at this time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "For now, few details have emerged about precisely how Pai plans to protect consumers from paid prioritization and other anti-neutrality measures.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "The FCC has reportedly entertained the notion of allowing ISPs to adhere to a set of standards ensuring equality of access – yet these standards are likely to remain entirely voluntary .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "Equally mysterious is what action the FCC might take if an ISP were to violate these voluntary guidelines by prioritizing its own services over those of a competitor.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "The single most effective thing you can do to protect net neutrality is to let your representatives know that you support an equal, open internet for everyone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "By showing up to town halls and calling your reps. To find a town hall near you, check Battle for the Net .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "This helpful resource has tons of further reading (in case you’re not quite outraged enough), as well as an interactive map of forthcoming town halls across the U.S.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "If you don’t see a town hall near you, there may be an event planned for a future date.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "Signing up for your representative’s email newsletter is a great way to not only learn more about their policy positions and voting record, but also when forthcoming town halls and similar events are taking place.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "If you’d rather call your representatives (which you should do in addition to attending a town hall if you can), find their number(s) at CallGov .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "In addition to providing the direct phone numbers of your elected officials, you’ll also find handy script prompts to help you tell your reps to keep the internet free and open in case you’ve never called your reps before or aren’t quite sure what to say.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "Finally, it’s vital that we all stay informed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "With so much happening, it’s easy to forget about net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "But, at the risk of sounding hyperbolic, the very future of the internet as we know it – our internet – is at stake.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "Follow to stay up to date with the latest news on net neutrality, and consider following or for as-it-happens coverage and in-depth analysis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "Despite nationwide outrage, vigorous congressional opposition, and the urging of some of the nation’s most influential business leaders, Ajit Pai and the FCC have gutted net neutrality regulations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "On December 14, 2017, the FCC’s Republican majority voted to approve Pai’s plan to eviscerate the laws protecting the internet as we know it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "Unless the proposed changes can be stopped, internet service providers will soon be free to throttle customers’ traffic as they see fit, censor sites or even entire domains, and prioritize their own services above those of rival companies and third-party providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "At the heart of the FCC’s plan to basically hand over the keys to America’s internet infrastructure to corporations like Pai’s former employer Verizon is the definition of what constitutes broadband internet access and the question of the government’s role in overseeing it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "Prior to the vote to eliminate the net neutrality laws set forth during the Obama administration, internet infrastructure was regulated as a public utility under what is known as Title II (PDF) , much as phone service is.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "Pai and his lobbyist benefactors argued that internet access should not be governed as a public utility, and the vote effectively stripped the FCC of any regulatory oversight authority over how ISPs behave – which is exactly how companies like Comcast and Verizon want it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "To make matters worse, not only has the FCC gutted its own oversight powers over ISPs, but it has also signaled its intention to preempt state laws concerning state-owned internet utilities , effectively forbidding individual states from attempting to preserve or implement their own net neutrality regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "Immediately after the vote to eliminate the rules was concluded, numerous lawsuits were filed against Pai and the FCC by a range of parties.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "New York Attorney General Eric Schneiderman announced he was filing suit against the FCC just moments after Pai’s victory was made public, and numerous other parties have followed suit, including Washington state Attorney General Bob Ferguson.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "In addition, several cities across the country have begun to explore their options for creating municipally owned internet utilities at the local level.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "In late January, to identify companies that could design, build, and maintain fiber-optic broadband networks across the city.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "However, these measures have been met with fierce resistance from the FCC, which is likely to continue to oppose states’ attempts to protect or introduce municipally owned internet utilities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "Finally, there is one other mechanism that can be used to prevent Pai’s plan from going into effect.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "This process is known as a Congressional Review Act, or CRA, a legislative tool that allows Congress to overturn the decision of a federal agency if it can secure a simple majority vote.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "However, now that the Senate has officially received notice of the FCC’s intentions, Congress has only 60 days to stop the repeal of net neutrality regulations using the CRA mechanism.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "Republicans like to talk about states’ rights when it comes to shrinking government, but they seem much less inclined to do so when states sue the federal government for trampling all over regulations that protect the open internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "It’s too soon to tell whether the lawsuits against the FCC will be successful, but they have proven that opposition to Pai’s plans is both vociferous and widespread.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "Before anything can move forward – in either direction – the lawsuits filed against the FCC will have to be resolved before net neutrality laws can be removed entirely.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "It’s also possible that congressional Democrats will secure enough votes to stop the plan via the CRA mechanism, though the action would still need to clear another challenging hurdle by securing sufficient votes in the House as well as the Senate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "For now, all we can do is wait – and call your representatives to urge them to protect the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "Originally from the U.K., Dan Shewan is a journalist and web content specialist who now lives and writes in New England.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": "Dan’s work has appeared in a wide range of publications in print and online, including The Guardian, The Daily Beast, Pacific Standard magazine, The Independent, McSweeney’s Internet Tendency, and many other outlets.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "Find out if you're making mistakes with Google Ads.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "GET GRADED TODAY   Sign up to get our top tips and tricks weekly!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": "Find out if you're making mistakes with Google Ads.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "GET GRADED TODAY   REQUEST A CALL   About WordStream PPC U Boston, MA 02199 AdWords Help AdWords Tutorials AdWords Remarketing Average AdWords CPC History of AdWords",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

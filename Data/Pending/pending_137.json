@@ -1,0 +1,1531 @@
+{
+    "document_id": -1,
+    "url": "https://www.heritage.org/government-regulation/report/net-neutrality-rules-still-threat-internet-freedom",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "James Gattuso",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:43:16.456588+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "  Skip to main content  open search February 12, 2014 11 min read James Gattuso handles regulatory and telecommunications issues for The Heritage Foundation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "In a significant victory for American consumers, a federal appeals court struck down Federal Communications Commission (FCC) rules regulating broadband Internet service on January 14.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The much-anticipated decision clears the way for more investment, more innovation, and lower costs for Internet users.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "But the political battle over these “network neutrality” rules—which limit differentiation and prioritization of Internet traffic—is far from over.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Legislation to reinstate FCC controls will almost certainly be considered in Congress.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "And, encouraged by supportive language in the circuit court opinion, the FCC may take another shot at the issue itself.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Web users should wish these efforts no success.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Net neutrality rules were a dangerously bad idea when adopted by the FCC in 2010, and the experience of the past three years has only made the dangers clearer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The term “network neutrality” refers to the principle that the owners of broadband networks (such as Verizon and Comcast) that serve end-users should treat all communications travelling over their networks alike.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The concept is based on long-standing practice but had never been enshrined in a governmental rule or regulation.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "In fact, in 2005, the FCC specifically declared that broadband Internet service was not a “telecommunications service,” and thus not subject to common-carrier rules that bar variations in rates and services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Unlike traditional telephone companies and electric utilities, broadband providers would be free to establish their own business models in the marketplace.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "[1] This finding made sense.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Broadband service was, and is, dynamic and growing, with the line between a successful investment and a failure a thin one.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Differentiated offerings, such as discounts and priority-service plans are common in such markets.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "And, the market for broadband is a competitive one, with two or more major players in almost every service area, limiting the prospect for market abuse.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Nevertheless, at the same time that the FCC declared that broadband was not a “telecommunications service,” it adopted a set of “guidelines” articulating neutrality principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Although the FCC’s principles were ostensibly non-binding, in 2008, the agency ordered Comcast to stop alleged violations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "That effort was put to a stop in early 2010 by a federal appeals court, which ruled that the FCC had not demonstrated that it had authority to regulate broadband communications.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "[2] In December 2010, the FCC returned to the issue, adopting formal rules limiting how Internet service providers (ISPs) could handle Internet traffic, and broadening its claim of authority.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "These net neutrality—or, as the FCC called them, “open Internet”—rules banned consumer wireline (DSL [3] and cable modem) broadband providers from “unreasonably discriminat[ing] in transmitting lawful network traffic,” and “block[ing] lawful content, applications, services, or “non-harmful” devices.” Recognizing that wireless broadband service was especially dynamic and innovative, mobile service providers were subjected to slightly less burdensome rules.",
+            "fact": true,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "They were banned only from “block[ing] consumers from accessing lawful websites,” and “applications that compete with the provider’s voice or video telephony services.” [4] Lastly, all providers were required to disclose their network management practices to the public.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The rules did not bar all forms of differentiation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Even the FCC recognized the limits of absolute neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "With increasing demands on the Internet, some steps to manage traffic (such as controlling bandwidth-hogging users) are critical.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "More generally, certain types of prioritization common in other industries—such as selling premium or discount access to certain web content providers—would also benefit users.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "To address such beneficial differentiation, the FCC exempted “reasonable network management.” But exactly what was “reasonable” was left undefined.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "The rules offered only vague and circular guidance, such as: “Reasonable network management shall not constitute unreasonable discrimination.” This, of course, vested vast discretion in the five FCC members, who would determine case-by-case which ISP actions were acceptable and which ones were not.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "[5] As a result, the FCC’s ostensible softening of the rule by exempting “reasonable” management practices actually increased the agency’s power once again.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "The new rules were soon challenged in court by Verizon, claiming that the FCC lacked jurisdiction over broadband service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Last month’s decision was the result of that litigation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "As was the case in 2010, the FCC’s rules were slapped down.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "[6] Specifically, the court found that the regulations imposed on the ISPs were, in effect, common-carrier regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Since the FCC had previously ruled that the broadband service providers were not “telecommunication providers,” the FCC was barred by law from imposing common-carrier regulations on them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "In the wake of the decision, there have been many dire but ill-founded predictions as to what the effects will be.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Craig Aaron of the pro-regulation group Free Press argued that exclusive deals among providers “could become the norm, with AT&T exclusively bringing you Netflix, while Time Warner Cable is the sole source for YouTube.” He sees privacy and choice heading toward the ash heap of history, saying “it won’t be long before your ISP requires you to connect via their list of approved devices and then uses those devices to literally watch you.” To the question “Is this the end of the Internet?” he answers “maybe.” [7] Michael Weinberg of the advocacy group Public Knowledge similarly cites a parade of horribles, including degraded service, higher costs, and less innovation, due to higher fees and restricted choices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "[8] Advocates of regulation, however, have been making such Chicken Little-esqe predictions for years, and they never seem to come true.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "[9] ISPs are more interested in gaining users than driving them away.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "There has, in fact, been only one recorded case where an ISP clearly attempted to block Internet content for its own benefit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "[10] In the vast majority of cases, the imagined outrages of ISPs sabotaging rivals and extracting ruinous fees are just that, imagined.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Certainly, ISPs have the technical ability to block or impede certain services and websites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "But they are hardly unique in that regard.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Many firms, including Google—a longtime supporter of neutrality regulation—have similar abilities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Google, however, does not engage in inappropriate discrimination for the same reason that Verizon and Comcast do not: competition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Blocking websites or impeding disfavored services would quickly send customers packing to another provider.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "A look at the actual disputes that have arisen under net neutrality over the past three years supports this conclusion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "None of the instances where a violation of the rules was alleged involved a dominant provider abusing its market power.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Nor did any involve additional fees; in fact, the most controversial practice involved a shift of fees away from consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "On the other hand, the major controversies involved attempts to game the system, increase costs to consumers, and hinder competitive challenges.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "The disputes included: In November 2010, as the FCC was finalizing its now-void neutrality rules, a dispute broke out between Comcast and Internet “backbone” [11] provider Level 3.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "As is common among such long-haul service providers, the two had long operated under a “peering” arrangement by which the two networks interconnected to allow them to transport traffic from its origin to its destination.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Because the traffic load was about even in both directions, neither side paid a fee to the other.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "This balance changed when Level 3 won a contract to carry content for Netflix, whose online video service was rapidly growing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "At the time of the deal, Netflix accounted for 20 percent of all broadband traffic during peak hours.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "[12] That meant that the amount of traffic that Level 3 sent to Comcast to deliver would balloon to five times the amount going the other way.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "[13] When Comcast asked to be paid for its additional interconnection service, pointing out that the traffic flows were now far from even, Level 3 balked.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Comcast’s fees, it argued, were a form of discrimination, unacceptable under neutrality principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Neutrality restrictions, of course, were never meant to restrict firms in the highly competitive backbone Internet business, so Level 3—pointing to its Netflix business—simply redefined itself as a content provider for Netflix.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "Online petitions were soon circulating, asking the FCC to “Stop Comcast from blocking Netflix.” [14] Level 3 was expertly gaming the still-nascent rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "As Randolph May of the Free State Foundation put it at the time: Level 3, no stranger to Washington’s regulatory playing fields, has converted what heretofore has been an ordinary commercial negotiation over the fees, if any, applicable to peering arrangements between two interconnecting Internet providers into a complaint sounding in—surprise!—net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "[15] In the end, the two firms negotiated a compromise without FCC involvement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "But the case shows how the blurry concept of neutrality can be gamed by players looking for a regulatory advantage in the marketplace.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "In 2012, Apple upgraded its popular Facetime application to enable consumers to use it over mobile phone networks.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "Previously consumers could only use it when accessing the Internet via Wi-Fi connections, and not through wireless telephone links.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "Despite Apple’s move, AT&T continued to limit Facetime usage on its own, only allowing subscribers of its “Mobile Share” unlimited data use plan to use it on the wireless telephone network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "The restriction was necessary, AT&T argued, to protect its subscribers from congestion caused by a suddenly increased traffic load caused by the highly bandwidth intensive Facetime video service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "Critics immediately slammed the decision as illegal blocking of an application in violation of FCC neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "[16] But if AT&T’s aim was to stifle Facetime, it chose an odd way to do it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "The Facetime app was pre-loaded onto AT&T devices when sold, a step hardly designed to impede use.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "[17] Moreover, AT&T itself was selling no product in competition to Facetime, leaving it little motive to block it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "But AT&T and its customers did have a real interest in protecting users from congestion caused by the Facetime application.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "Verizon, AT&T’s main competitor, made a different decision, allowing unconditional Facetime use (and giving consumers a choice).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "Within a year, AT&T had dropped its restrictions as well, also without FCC interference.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "Google, long one of the staunchest supporters of net neutrality rules, has itself been accused of violating those rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "The case involved Google Fiber, a broadband ISP run by Google.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "Under the terms of service issued by Google Fiber, subscribers were not to run “servers” on Google Fiber connections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "Google Fiber, the company explained, was intended as a consumer service, not a business service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "Still, a consumer in Kansas filed a complaint against Google with the FCC, citing the neutrality rules’ ban on blocking “non-harmful devices.” Google Fiber is a new entrant into the ISP marketplace.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "It is a major initiative by Google, intended to challenge the major incumbent broadband providers by creating a new competitor to their networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "The complaint posed an obstacle to this pro-consumer effort.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "But rather than reduce unnecessary barriers to this welcome competition, the FCC’s interference would simply have added another barrier.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "And, given Google’s total lack of market power in this marketplace, there was no plausible benefit for consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "Google’s response to the FCC on the matter argued that the server ban was “reasonable network management,” exempt from regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "The FCC took no further action.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "[18] Google Fiber has since continued to expand, challenging the leading ISPs in a small but growing number of cities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "In January, just weeks before the FCC’s neutrality rule was overturned, AT&T unveiled an innovative pricing plan for wireless services known as “sponsored data.” The idea is simple—participating content providers would pick up any data charges incurred by consumers when using their sites.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "By freeing potential users from the risk of exceeding their data caps and being hit with additional charges, the plan encourages them to spend more time on each site.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "For instance, the ESPN sports network has been trying to build up its online offerings in a bid to create an alternative to traditional cable TV systems in the delivery of sports programs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "[19] One major concern of ESPN strategists is that viewers may balk, not knowing whether watching their favorite teams online would put them over their data cap and end up costing them a fortune in excess use charges.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "Under a sponsored data plan, that risk would be covered by ESPN, not the consumer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "It would be like offering 800 numbers for the web, with content providers paying the cost of connection, but getting more business in return.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "But the idea set off alarm bells in the net neutrality community.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "When ESPN was reported to be considering a similar deal with Verizon last year, pro-regulation groups immediately cried foul, with one posting a commentary titled: “This Is What a Net Neutrality Violation Looks Like.” [20] They were wrong.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "Since it only applies to wireless service, the plan never ran afoul of net neutrality limits.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "Even more important, the proposed system is good for consumers, who pay less for more, and for businesses on the web, who generate more traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "Such arrangements are common and beneficial marketplace tools—especially when new services and technologies are involved.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "Net neutrality advocates still fret that the plan will disadvantage some firms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "According to Free Press policy director Matt Wood: Content and app providers that can’t pay this new toll to reach customers will be at a huge disadvantage, and may never get off the ground in the first place if they can’t afford AT&T’s sponsor fees.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "Letting the carriers charge more or less money to reach certain sites is discriminatory, and it’s not how the Internet is supposed to work.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "[21] But there is no new toll here—websites are merely providing a discount for consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": "Some content providers will be able to match them, others not.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "That is exactly how a marketplace, and the Internet, is supposed to work, and hardly justifies regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "The federal appeals court decision will not end the long-running debate over net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": "To the contrary, it will likely signal a new round of activity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "Proposals are already being introduced in Congress to restore the rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 105,
+            "sentence": "[22] Such legislation will face an uphill fight—in fact, in 2011, the House of Representatives passed legislation to overturn the regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 106,
+            "sentence": "But eventual passage of the legislation cannot be ruled out.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 107,
+            "sentence": "The most likely neutrality battleground, however, is—once again—the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 108,
+            "sentence": "The court’s opinion, in fact, all but invited the FCC to take another shot at imposing net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 109,
+            "sentence": "Despite its rejection of the regulation as written, the court did find that the agency had general power to regulate broadband Internet service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 110,
+            "sentence": "[23] Thus, although the specific rules did not pass muster, other forms of regulation could be upheld.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 111,
+            "sentence": "No doubt with this in mind, Tom Wheeler, the FCC’s chairman, has already stated that the agency will “revisit” the neutrality issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 112,
+            "sentence": "[24] Opponents of FCC neutrality regulation could also take the initiative, with legislation to reverse the court’s ruling on broad regulatory powers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 113,
+            "sentence": "This would also be an uphill fight, but would close a potentially dangerous avenue for new regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 114,
+            "sentence": "Consumers should cheer the recent appeals court decision voiding the FCC’s net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 115,
+            "sentence": "Despite the Chicken Little claims of its supporters, broadband consumers were hurt, not helped by the agency’s restrictions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 116,
+            "sentence": "Rather than guarding against market abuses by dominant firms, the rules have been invoked in attempts to hinder innovation, impede competition, and block consumer price protections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 117,
+            "sentence": "Policymakers in Congress and at the FCC should not restore these unnecessary and harmful regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 118,
+            "sentence": "[1] No.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 119,
+            "sentence": "1941, June 2, 2006, http://www.heritage.org/research/reports/2006/06/broadband-regulation-will-congress-neuter-the-net .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 120,
+            "sentence": "[2] Comcast Corp. v. FCC , 600 F.3d 642 (D.C.Cir., 2010).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 121,
+            "sentence": "[3] DSL stands for digital subscriber line.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 122,
+            "sentence": "[4] [5] No.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 123,
+            "sentence": "3183, March 7, 2011, http://www.heritage.org/research/reports/2011/03/net-neutrality-time-for-congress-to-act .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 124,
+            "sentence": "[6] Verizon v. FCC , No.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 125,
+            "sentence": "11-1355 (slip op., D.C.Cir., Jan. 14, 2014), .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 126,
+            "sentence": "http://www.scribd.com/doc/199616222/DC-Net-Neutrality-ruling (accessed February 3, 2014).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 127,
+            "sentence": "[7] , January 15, 2014, http://www.thedailybeast.com/articles/2014/01/15/does-this-ruling-mean-the-end-of-the-internet-maybe.html (accessed February 4, 2014).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 128,
+            "sentence": "[8] http://abcnews.go.com/Business/major-ways-internet-change-net-neutrality/story?id=21541399 (accessed February 6, 2014).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 129,
+            "sentence": "[9] , October 5, 2009, http://blog.heritage.org/2009/10/05/the-chicken-littles-of-broadband/ .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 130,
+            "sentence": "[10] http://news.cnet.com/Telco-agrees-to-stop-blocking-VoIP-calls/2100-7352_3-5598633.html (accessed February 4, 2014).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 131,
+            "sentence": "[11] A backbone provider offers long-haul, wholesale, data transport between service providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 132,
+            "sentence": "[12] , November 29, 2010, http://www.washingtonpost.com/wp-dyn/content/article/2010/11/29/AR2010112907024.html (accessed February 4, 2014).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 133,
+            "sentence": "[13] http://news.cnet.com/8301-30686_3-20024197-266.html (accessed February 4, 2014).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 134,
+            "sentence": "[14] PC World , November 30, 2010, http://www.pcworld.com/article/212078/article.html (accessed February 4, 2014).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 135,
+            "sentence": "[15] Perspectives from FSF Scholars Vol.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 136,
+            "sentence": "29 (December 5, 2010), http://www.freestatefoundation.org/images/The_FCC_s_Fatal_Conceit.pdf (accessed February 4, 2014).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 137,
+            "sentence": "[16] , September 21, 2012, http://www.informationweek.com/consumer/atandt-blocks-facetime-net-neutrality-complaint-filed/d/d-id/1106448 (accessed February 4, 2014).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 138,
+            "sentence": "[17] http://www.attpublicpolicy.com/fcc/enabling-facetime-over-our-mobile-broadband-network/ (accessed February 2014).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 139,
+            "sentence": "[18] http://www.infoworld.com/d/data-center/no-google-fiber-doesnt-violate-net-neutrality-223828 (accessed February 4, 2014).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 140,
+            "sentence": "[19] , January 27, 2014, http://online.wsj.com/news/articles/SB10001424052702304603704579326781949947414?mg=reno64-wsj&url;=http%3A%2F%2Fonline.wsj.com%2Farticle%2FSB10001424052702304603704579326781949947414.html (accessed February 4, 2014).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 141,
+            "sentence": "[20] http://www.publicknowledge.org/blog/fcc-what-net-neutrality-violation-looks (accessed February 4, 2014).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 142,
+            "sentence": "[21] http://www.freepress.net/press-release/105490/att-sponsored-data-scheme-lose-lose-customers-and-app-makers (accessed February 4, 2014).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 143,
+            "sentence": "[22] http://news.cnet.com/8301-13578_3-57618273-38/new-senate-house-bills-would-restore-net-neutrality/ (accessed February 5, 2014).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 144,
+            "sentence": "[23] Specifically, the court ruled that section 706 of the 1996 Telecommunications Act gave the FCC the necessary powers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 145,
+            "sentence": "This section provides that if the FCC finds that “advanced services” are not being deployed in a “reasonable and timely” manner, the agency must take steps to remove barriers to investment and to promote competition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 146,
+            "sentence": "This conclusion was odd to say the least.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 147,
+            "sentence": "Section 706 was adopted as a deregulatory tool to ensure that government rules do not hinder Internet growth.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 148,
+            "sentence": "Now the language has been turned on its head, authorizing even more regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 149,
+            "sentence": "See James L. Gattuso, “Net Neutrality and the Courts: The FCC’s Shaky Legal Case for Internet Regulation,” Heritage Foundation , February 10, 2011, http://www.heritage.org/research/commentary/2011/02/net-neutrality-and-the-courts-the-fccs-shaky-legal-case-for-internet-regulation .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 150,
+            "sentence": "[24] http://www.bna.com/fcc-chief-says-n17179881531/ (accessed February 4, 2014).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 151,
+            "sentence": "COMMENTARY 3 min read COMMENTARY 2 min read COMMENTARY 2 min read Subscribe to email updates Thank you for signing up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

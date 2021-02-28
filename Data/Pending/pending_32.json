@@ -1,0 +1,1681 @@
+{
+    "document_id": -1,
+    "url": "https://reason.com/2019/10/01/d-c-circuit-upholds-fcc-decision-to-rescind-net-neutrality-but-rejects-fcc-attempt-to-preempt-conflicting-state-law/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Jonathan H Adler",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:38:44.107502+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Search for: You are now logged in.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Create new account Mostly law professors .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Always independent Who we are Volokh.com Archives DMCA In a lengthy opinion, a divided three-judge panel turns away most of the legal challenges to the Federal Communications Commission's \"Restoring Internet Freedom\" Order .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "10.1.2019 2:13 PM Today, a partially divided three-judge panel on the U.S. Court of Appeals for the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Circuit largely rejected challenges to the Federal Communications Commission's 2018 decision to repeal its 2015 \"net neutrality\" decision (aka the \"Open Internet Order\").",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "In a per curiam opinion on behalf of Judges Millett and Wilkins, and Senior Judge Williams, the court concluded that given the broad degree of deference afforded to federal agencies, the FCC's interpretation of its own statutory authority could withstand legal challenge and that the agency was entitled change course.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The FCC did not win across the board, however.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The court rejected a key part of the FCC's order that would have preempted conflicting state and local regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "As a consequence, individual states may attempt to adopt \"net neutrality\" rules of their own.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "In addition, the court remanded a few issues to the FCC for greater examination and explanation, but otherwise left the new order intact.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The per curiam opinion in Mozilla v. FCC begins: In 2018, the Federal Communications Commission adopted an order classifying broadband Internet access service as an information service under Title I of the Communications Act of 1934, as amended by the Telecommunications Act of 1996, Pub.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "L. 104–104, 110 Stat 56 (\"the Act\").",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": ", 33 FCC Rcd.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "311 (2018) (\" 2018 Order \").",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "In so doing, the agency pursued a market-based, \"light-touch\" policy for governing the Internet and departed from its 2015 order that had imposed utility-style regulation under Title II of the Act.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Petitioners––an array of Internet companies, non-profits, state and local governments, and other entities––bring a host of challenges to the 2018 Order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "We find their objections unconvincing for the most part, though we vacate one portion of the 2018 Order and remand for further proceedings on three discrete points.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "2018 Order accomplishes a number of objectives.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "First, and most importantly, it classifies broadband Internet as an \"information service,\" see 2018 Order ¶¶ 26–64, and mobile broadband as a \"private mobile service,\" see id.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Second, relying on Section 257 of the Act (located in Title II but written so as to apply to Titles I through VI), the Commission adopts transparency rules intended to ensure that consumers have adequate data about Internet Service Providers' network practices.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Third, the Commission undertakes a cost-benefit analysis, concluding that the benefits of a market-based, \"light-touch\" regime for Internet governance outweigh those of common carrier regulation under Title II, see id.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "¶¶ 304–323, resting heavily on the combination of the transparency requirements imposed by the Commission under Section 257 with enforcement of existing antitrust and consumer protection laws, see id.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The Commission likewise finds that the burdens of the Title II Order's conduct rules exceed their benefits.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "We uphold the 2018 Order, with two exceptions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "First, the Court concludes that the Commission has not shown legal authority to issue its Preemption Directive, which would have barred states from imposing any rule or requirement that the Commission \"repealed or decided to refrain from imposing\" in the Order or that is \"more stringent\" than the Order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "2018 Order ¶ 195.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "The Court accordingly vacates that portion of the Order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Second, we remand the Order to the agency on three discrete issues: (1) The Order failed to examine the implications of its decisions for public safety; (2) the Order does not sufficiently explain what reclassification will mean for regulation of pole attachments; and (3) the agency did not adequately address Petitioners' concerns about the effects of broadband reclassification on the Lifeline Program.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Both Judges Millett and Wilkins wrote separate concurring opinions stressing that they were obligated to uphold the FCC's judgement under the Supreme Court's decision, but neither seemed particularly happy about it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Senior Judge Williams dissented in part.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "His separate opinion begins: And be these juggling fiends no more believed, That palter with us in a double sense; That keep the word of promise to our ear, And break it to our hope.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "So says Macbeth, finding that the witches' assurances were sheer artifice and that his life is collapsing around him.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "The enactors of the 2018 Order , though surely no Macbeths, might nonetheless feel a certain kinship, being told that they acted lawfully in rejecting the heavy hand of Title II for the Internet, but that each of the 50 states is free to impose just that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "(Many have already enacted such legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "See, e.g., Cal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "on Judiciary, SB 822 Analysis 1 (2018) (explaining that California has expressly \"codif[ied] portions of the recentlyrescinded .rules\").)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "If Internet communications were tidily divided into federal markets and readily severable state markets, this might be no problem.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "But no modern user of the Internet can believe for a second in such tidy isolation; indeed, the Commission here made an uncontested finding that it would be \"impossible\" to maintain the regime it had adopted under Title I in the face of inconsistent state regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "On my colleagues' view, state policy trumps federal; or, more precisely, the most draconian state policy trumps all else.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "\"The Commission may lawfully decide to free the Internet from Title II,\" we say, \"It just can't give its decision any effect in the real world.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "His opinion concludes: My colleagues and I agree that the 1996 Act affords the Commission authority to apply Title II to broadband, or not.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Despite the ample and uncontested findings of the Commission that the absence of preemption will gut the Order by leaving all broadband subject to state regulation in which the most intrusive will prevail, .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "and despite Supreme Court authority inferring preemptive power to protect an agency's regulatory choices, they vacate the preemption directive.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Thus, the Commission can choose to apply Title I and not Title II—but if it does, its choice will be meaningless.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "All together, the opinions are nearly 200 pages.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "As preemption is an issue that divides the current Supreme Court in some unusual ways, it will be interesting to see whether a petition for ceriorari on the preemption question is forthcoming, and whether the Supreme Court believes this question is worthy of review.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "NEXT: FCC Editor's Note: We invite comments and request that they be civil and on-topic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "We do not moderate or assume any responsibility for comments, which are owned by the readers who post them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Comments do not represent the views of Reason.com or Reason Foundation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "We reserve the right to delete any comment for any reason at any time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "anorlunda October.1.2019 at 2:40 pm IANAL.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "I don’t understand.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "I believed that federal law/regulation always preempts state law/regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "If I think of aviation or nuclear, it would be chaos for each state to have its own standards.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "October.1.2019 at 2:55 pm Let me try to explain but I’d encourage anyone with a better explanation to chime in.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "In order of certainty: 1.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "The US Constitution always trumps everything.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "It is the “supreme law of the land”.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "The exact wording and/or the incorporation doctrine tell you whether it applies to the states but if it applies, the Constitution wins.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "State law always trumps county/municipal/local law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "This is because legally, those sub-parts of the state are still part of it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "They have no legal authority except what the State grants them, therefore nothing they do can trump the State law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "One possible exception: If the state constitution grants the locals a power, a mere state law cannot take it away.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "Federal law trumps state law IF AND ONLY IF the federal law says it does.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "Absent a clear statement of preemption, the default assumption is that the feds and the states are “peers”, each entitled to make laws within their own jurisdictions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "Federal regulations can trump state laws but the federal law authorizing the agency to make the regulation also has to give the agency that power.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "jph12 October.1.2019 at 3:20 pm As LawTalkingGuy notes, express preemption is only one form of preemption.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "Similar considerations can apply at the state and local level.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "In some states, some municipalities are established are established as charter cities which are relatively independent of state laws (absent preemption).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "LawTalkingGuy October.1.2019 at 3:06 pm Because we live in a federal system where states and the federal government often legislate and regulate in the same area, the courts try to confine the times preemption exists.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "First, there is express preemption.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "That is Congress (not just an agency) says it wants its statute to preempt state law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "Then there are types of implied preemption where Congress hasn’t expressly stated its intent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "Actual conflict: as in it is impossible to comply with state and federal law simultaneously B.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "Obstacle: Although it is possible to be on the right side of both laws, complying with the state law arguably frustrates the federal purpose.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "Field Preemption: where Congress’s has regulated a particular field so thoroughly it did not intent the state to supplement it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "In the net neutrality case, the question seems to be whether there is some sort of obstacle preemption.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "Despite the strong federal presence in this area, there isn’t field preemption presumably because state and local governments are traditionally responsible for regulating the actual laying of the communications infrastructure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "RestoreWesternHegemony October.2.2019 at 6:11 am And sometimes a state expressly states its intent to occupy the field (as sort of a hybrid).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "October.1.2019 at 3:46 pm We love states experimenting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "Until we don’t.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "We love the federal government forcing consistency.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "Until we don’t.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "I need to know which side I am on for this issue before I start singing holy phrases for one principle or the other.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "bernard11 October.1.2019 at 4:48 pm I need to know which side I am on for this issue before I start singing holy phrases for one principle or the other.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "You, and I, and just about everyone else.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "October.2.2019 at 9:09 am Once I figure out what Net Neutrality is, I am going to have a very strong opinion on it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "jubulent October.1.2019 at 3:59 pm Withholding federal preemption on an issue like drinking age is easy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "There are some federal interstate commerce interests at play, but no hard barriers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "Withholding federal preemption on something like highway standards makes things complicated, but not impossible.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "It only gets complex for people who regularly travel across state lines.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "Federal preemption on something as ambivalent to state borders as the internet is ridiculous and makes different state laws irrelevant.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "Only the most restrictive state laws will control.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "We don’t see this problem with international laws because IP addresses are (reasonably) country-specific.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "October.1.2019 at 4:30 pm I could see this being reasonably applied on the consumer side based on service address.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "While IP addresses are not technically state-specific, IP blocks are, for all practical purposes, confined to a relatively small geographic area, and most are tagged with a state in your ISPs FQDN.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "ailing that, GeoLoc is pretty accurate as well.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "Tier 3 ISPs (those that sell access directly to consumers) would have to comply with the different rules in whatever state they are selling service in, which is something they already do Tier 1/2 ISPs would have a more difficult time complying, as their services are not tied to a specific service address, but it wouldn’t be exceedingly difficult to create routing rules for traffic bound to different states, since as I noted the IP blocks are generally bound to a particular state anyway, the trick will just be identifying what goes what But that is assuming that the states even have authority over traffic outside of their state.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "It could be argued that traffic doesn’t have to comply with a state’s particular regulations until it hits a node physically located within that state.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "In which case the most lenient state laws will largely prevail jubulent October.1.2019 at 6:48 pm that is assuming that the states even have authority over traffic outside of their state I don’t think it is unreasonable to assume states promoting net neutrality will attempt to reach as far as possible.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": "I don’t think it would be too difficult of a constitutional argument to argue that Facebook (a California company) must comply with California law, even when providing services to non-California residents.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "October.2.2019 at 9:15 am The burdens of Net Neutrality regulations are placed on Internet Service Providers (ISPs) not content providers (websites) like Facebook, so Facebook doesn’t have do anything to comply.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "AT&T, Comcast, Time Warner, Centurylink, Level 3, et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": "are the ones that have to comply jubulent October.2.2019 at 9:22 am Content providers could reach agreements with ISPs to prioritize their traffic (which would be a violation of net neutrality rules).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "California could prohibit Facebook from entering into such agreements.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 105,
+            "sentence": "October.2.2019 at 9:57 am They could, but that’s not how the regulations are currently written.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 106,
+            "sentence": "They are written to prevent ISPs from entering into such agreements, not websites But even if they were rewritten a website based in Texas could still enter into such an agreement when serving customers in states with no Net Neutrality laws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 107,
+            "sentence": "The website could also theoretically have its traffic prioritized en route to CA customers, only being deprioritized when the traffic hits a node physically within California.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 108,
+            "sentence": "This is of course assuming any ISP ever decides to attempt prioritizing traffic this way, which consumers have shown they will not stand for (and government has shown its willing and able to regulate) October.2.2019 at 8:46 am We don’t see this problem with international laws because IP addresses are (reasonably) country-specific.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 109,
+            "sentence": "Europe has lawz against Nazi symbols and hate speech, and right to be forgotten.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 110,
+            "sentence": "They force companies like facebook to drop such posts, and are trying to force the issue worldwide, not just within Europe.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 111,
+            "sentence": "This is where the US and the first amendment must fight back, making it the international standard, and not extraterritorial censorship demands.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 112,
+            "sentence": "So, too, with China, who uses a different tactic, being a dictatorship, of hindering market acces to companies that speak wrongly outside of China.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 113,
+            "sentence": "The latter is getti g worse.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 114,
+            "sentence": "I wonder if Hollywood movies shouldn’t now carry disclaimers, “Warning.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 115,
+            "sentence": "This movie is intended to be shown in China, and may have been quietly censored to appease the dictatorship.” jubulent October.2.2019 at 9:30 am A fair point, but I’m not sure how you make an enforceable rule out of this.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 116,
+            "sentence": "Companies are free to censor (for example) Nazi symbols.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 117,
+            "sentence": "Germany is free to require companies doing business in Germany to censor Nazi symbols.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 118,
+            "sentence": "So if a company wants to do business in Germany they will exercise their right to censor Nazi symbols.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 119,
+            "sentence": "The solution (IMO) is not to require companies to display Nazi symbols, the solution is to encourage free speech in countries like Germany (or China); or encourage companies to not cater to the demands of censors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 120,
+            "sentence": "I think it’s the former which means the Commission could start a new NPRM on this issue to undercut state/local regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 121,
+            "sentence": "jph12 October.1.2019 at 5:06 pm From the opinion: “The Commission ignored binding precedent by failing to ground its sweeping Preemption Directive—which goes far beyond conflict preemption—in a lawful source of statutory authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 122,
+            "sentence": "That failure is fatal.” October.1.2019 at 5:11 pm Thanks, JPH.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 123,
+            "sentence": "jph12 October.1.2019 at 5:21 pm Either less sweeping, or with a different justification.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 124,
+            "sentence": "But from my brief skim the court seems to be rejecting the idea that there can be a conflict between the state regulations and the absence of federal regulations, which might make it tough to pull off.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 125,
+            "sentence": "October.2.2019 at 10:45 am So the dormant commerce clause principle goes silently into the night, along with plenary powers and attorney-client privlege recently before it, because it gets in the way of the powerful’s policy goals.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 126,
+            "sentence": "jph12 October.2.2019 at 11:40 am As I said, I only gave it a brief skim so I wouldn’t get too worked up based on my snyopsis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 127,
+            "sentence": "But I’m not sure this is a good fit for the Dormant Commerce Clause (if such a thing even exists).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 128,
+            "sentence": "I thought most of those cases involved states passing laws discriminating against out-of-state companies/people.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 129,
+            "sentence": "I could well be wrong on the technical details (I claim no understanding of how the series of tubes that make up the internet are connected), but in principle I don’t see any reason why a state couldn’t pass net neutrality regulations that applied within its borders regardless of whether it was a foreign or domestic company involved.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 130,
+            "sentence": "I thought those were reserved for “run of the mill”, uncontroversial, i.e., no dissent, opinions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 131,
+            "sentence": "LawTalkingGuy October.1.2019 at 9:33 pm It might be used if a majority of judges only agree so far in terms of a disposition and reasoning.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 132,
+            "sentence": "Each of the majority judges in this case filed a concurrence.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 133,
+            "sentence": "Furman v Georgia famously had a short per curiam explaining why the death penalty was unconstitutional in the cases presented, and then had 5 concurrences and 4 dissents.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 134,
+            "sentence": "Although I don’t remember a Supreme Court decision like that in recent years.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 135,
+            "sentence": "It also might be because an opinion was long or complicated enough that the work was divided up between chambers so no one judge could truly be said to be the “author” of the opinion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 136,
+            "sentence": "It was a highly politically contentious case resulting in a split within the panel.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 137,
+            "sentence": "Surely if any case merited full argument and full consideration, this was it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 138,
+            "sentence": "JHR October.2.2019 at 10:12 am “Per curium” doesn’t mean it was an abbreviated process.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 139,
+            "sentence": "All it means is that no single judge claims authorship of the majority opinion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 140,
+            "sentence": "There are cases decided without argument (rarely in the DC Circuit, usually in other circuits) that are also per curiam, but one doesn’t require the other.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 141,
+            "sentence": "ReaderY October.2.2019 at 3:34 am The issue here is an essentially political one, not a matter of administrative expertise.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 142,
+            "sentence": "The reasons the Obama and Trump administrations disagreed were political, not technical.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 143,
+            "sentence": "Policy questions of an essentially political character ought to be decided by Congress, not by the administrative agencies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 144,
+            "sentence": "Patrick Henry, the 2nd October.2.2019 at 7:58 pm Bingo.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 145,
+            "sentence": "Since Obama’s order was upheld, they must uphold Trump’s.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 146,
+            "sentence": "Which thankfully they did.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 147,
+            "sentence": "This is a win for the free and open Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 148,
+            "sentence": "santamonica811 October.2.2019 at 4:35 am Whenever I was confused in Con Law, my fallback position was, “Dormant Commerce Clause!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 149,
+            "sentence": "!” Didn’t matter if the underlying issue was selling pot, abortions, or gambling .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 150,
+            "sentence": "putting down a paragraph or three on the DCC was always good for a few extra points on exams.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 151,
+            "sentence": "If you squint your eyes and tilt your head exactly the right way, it even kinda sorta applies here.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 152,
+            "sentence": "AustinRoth October.2.2019 at 9:23 am It is good to see the legal doctrine of “what Obama hath done, let no man undo” finally losing favor.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 153,
+            "sentence": "October.4.2019 at 3:24 am Not my subject at all, but my impression from Adler’s post was that the DC Court upheld the Trump-era undoing of the Obama-era imposition of net neutrality….in form only.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 154,
+            "sentence": "ie the effect of the ruling that the feds can get rid of net neutrailty for federal purposes, but can’t pre-empt the States, means that California can reimpose net neutrality, and because technology, California’s regs will in practice apply nationwide.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 155,
+            "sentence": "So this is a win for the let’s regulate it folks, and a loss for the free market folks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 156,
+            "sentence": "The free market folks get a rosette marked first prize, and the let’s regulate it folks get the prize money.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 157,
+            "sentence": "I may be wrong, since it’s not my sport and I don’t understand the rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 158,
+            "sentence": "So I just look at the score.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 159,
+            "sentence": "Two Obama judges on one side and one Reagan judge on the other side.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 160,
+            "sentence": "log in to post comments Comments are closed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 161,
+            "sentence": "4.30.2020 1:20 PM Much of the FBI's Treatment of Mike Flynn Was Business as Usual, and That's the Scandal .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 162,
+            "sentence": "4.30.2020 9:52 AM Anti-porn crusaders get their panties in a twist about a uptick in porn consumption during COVID-19.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 163,
+            "sentence": "4.24.2020 2:20 PM A Home School legal defense group calls it \"a terrible thing and a waste of time.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 164,
+            "sentence": "4.28.2020 4:12 PM In an interview, the freshly-minted presidential candidate talks abortion, the \"spoiler\" charge, and Joe Biden's flip-flopping, while insisting that 2020 is a \"winnable race.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 165,
+            "sentence": "4.29.2020 10:11 AM Lockdown enforcement is becoming more authoritarian.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 166,
+            "sentence": "4.27.2020 1:00 PM The previously independent five-term Michigan congressman joins the L.P. and takes aim at the septuagenarian competition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

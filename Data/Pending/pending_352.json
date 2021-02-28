@@ -1,0 +1,581 @@
+{
+    "document_id": -1,
+    "url": "https://www.naturalnews.com/2019-01-31-san-antonio-prosecutor-says-that-vaccines-do-cause-autism.html",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:50:07.973067+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Hmmm, you are using a Gmail.com email address... Google has declared war on the independent media and has begun blocking emails from NaturalNews from getting to our readers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "We recommend GoodGopher.com as a free, uncensored email receiving service, or ProtonMail.com as a free, encrypted email send and receive service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Continue with my Gmail address... RSS NewsTarget.com Brighteon.com Censored.news Brighteon.social San Antonio prosecutor says that vaccines do cause autism Thursday, January 31, 2019 by: autism , Autism spectrum disorder , , children's health , , MMR vaccine , Nico LaHood , parenting , vaccine injury , vaccines , Bypass censorship by sharing this link: https://www.distributednews.com/315359.html Copy URL ( )  The issue of whether all children should be vaccinated to maintain \u00e2\u0080\u009cherd immunity\u00e2\u0080\u009d is a hotly contested one, with people voicing strong opinions on both sides of the debate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "One of the most contentious of all the issues related to vaccination, however, is whether certain vaccines \u00e2\u0080\u0093 in particular the measles mumps and rubella (MMR) vaccine \u00e2\u0080\u0093 can cause autism.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Some scientists \u00e2\u0080\u0093 particularly those with links to the pharmaceutical industry \u00e2\u0080\u0093 have claimed vehemently that all vaccines are safe and that there is no proven link between vaccination and autism.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Other respected scientists have claimed just as adamantly that there are real dangers to vaccines \u00e2\u0080\u0093 as is confirmed by the manufacturers themselves in vaccine inserts \u00e2\u0080\u0093 and that there are tangible links between vaccines and the development of autism.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "There is certainly a great deal of anecdotal evidence from families who have watched their happy, vibrant, \u00e2\u0080\u009cnormal\u00e2\u0080\u009d children change overnight after receiving a vaccine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "As reported by , one outspoken anti-vaccine voice is that of District Attorney and lead prosecutor for San Antonio, Texas, Nico LaHood, who has sadly had personal experience of the devastating effects vaccines have had on his two children.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "(Related:\u00c2 Scientific voices speak out unequivocally about vaccines and their dangers .)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Thriving and happy\u00e2\u0080\u00a6 until being vaccinated LaHood says that he would feel \u00e2\u0080\u009ccomfortable\u00e2\u0080\u009d presenting a criminal case to a journey on the basis of the strong circumstantial evidence he has personally observed confirming the link between autism and vaccines .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "defines circumstantial evidence as follows: Evidence\u00c2 that tends to prove a fact by proving other events or circumstances which afford a basis for a reasonable inference of the occurrence of the fact at issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "An abundance of such circumstantial evidence is sufficient to prove a case, even where no direct evidence \u00e2\u0080\u0093 like DNA or a fingerprint \u00e2\u0080\u0093 exists.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The huge volume of circumstantial evidence of the link between vaccines and autism is more than enough to prove that vaccines do indeed cause autism.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Thousands of families can attest to the fact that their children were just normal, happy kids before receiving the MMR or some other vaccine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Some can even provide video footage proving the dramatic changes in their children after being vaccinated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "LaHood has seen this type of circumstantial evidence in his own and many other families.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Natural Health 365 reports: LaHood gives an account of the vaccination injuries suffered by both his daughter, Maya, and his son, Michael.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "According to the LaHoods, Maya was a thriving, healthy baby until being vaccinated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "She then developed a skin condition with hives and severe eczema, and sometimes had to be restrained at night to stop her [sic] from scratching until she bled.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Son Michael was healthy, alert and outgoing up until his 18-month vaccination.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Immediately afterwards, he started twitching uncontrollably.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Even more alarming, he stopped making eye contact, along with displaying the slowed motor and language skills associated with\u00c2 autism spectrum disorder.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "LaHood told the producers of the movie , \u00e2\u0080\u009cAt some point during vaccinations you see a different child.\u00e2\u0080\u009d The LaHoods claim that other close friends, including a scientist who works for pharmaceutical manufacturer Merck, and his wife \u2014 who is a nurse, refuse to have their children vaccinated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "He also says that they know other families whose children were happy and thriving until being vaccinated, after which they developed severe health problems and other issues.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "The main issue is the vaccine schedule For many parents and natural health advocates it is not the individual vaccines that concern them but the way in which they are combined, the young age at which they are administered and the CDC\u00e2\u0080\u0099s insane vaccine schedule which calls for dozens of vaccines to be administered to very young children.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "It is not unreasonable to demand that vaccines be safe and free of dangerous additives and adjuvants and that they be administered in a way that will not pose a danger to the most vulnerable members of society: our children.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Sources include: NaturalHealth365.com VaxxedTheMovie.com Previous : Vaccine deep state declares vaccine skepticism to be a \u201cglobal health threat\u201d so that vaccine truth educators can be labeled \u201cdangerous\u201d to society Next : NewsGuard browser plug-in claims to certify \u201creal news\u201d despite biased board of directors with history of deception and lies Get independent news alerts on natural cures, food lab tests, cannabis medicine, science, robotics, drones, privacy and more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Dr. Andrew Wakefield warns about coronavirus vaccines and outrageous legal immunity for vaccine makers in must-see interview Tracking eye movement is better than vocabulary tests for assessing people with severe forms of autism, say researchers Autism expert Kerri Rivera explains mechanism behind chlorine dioxide A mother\u2019s workplace exposure to solvents may increase a child\u2019s risk of autism, caution researchers CDC whistleblower and autism author speak out: Health agencies continue epidemic denial One in every 16 Irish boys has autism: Crisis worse than COVID-19 and nobody cares Scientists find link between autism and processed foods: Preservative found to increase pro-inflammatory neurons Researchers highlight the link between gut health and autism Same NBC News that attacked Covington High School kids now attacking chlorine dioxide, which kills pathogens using OXYGEN Please enable JavaScript to view the comments powered by Disqus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Take Action: Support Natural News by linking to this article from your website Permalink to this article: https://www.naturalnews.com/2019-01-31-san-antonio-prosecutor-says-that-vaccines-do-cause-autism.html Embed article link: (copy HTML code below): <a href=\"https://www.naturalnews.com/2019-01-31-san-antonio-prosecutor-says-that-vaccines-do-cause-autism.html\">San Antonio prosecutor says that vaccines do cause autism</a> Reprinting this article: Non-commercial use OK, cite NaturalNews.com with clickable link.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "- NaturalNews.com The shocking reason why Pfizer\u2019s coronavirus vaccine requires storage at -70C \u2026 because it contains experimental nanotech components that have NEVER been used in vaccines before - NaturalNews.com 5G interactions with bioengineered COVID is no laughing matter - NaturalNews.com Full transcript: Trump team press conference from Nov. 18 \u2013 Rudy Giuliani, Sidney Powell, Jenna Ellis\u2026 fireworks!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "- NaturalNews.com Now it's just getting stupid: AMA declares racism a \"public health threat\" in virtue-signal to leftists - NaturalNews.com Intelligence update: The Great Reset vs. the Great Awakening \u2013 the grand battle taking place right now for the future of America and the free world - NaturalNews.com Pfizer demands \u201cemergency\u201d authorization from FDA for experimental Covid-19 vaccine - NaturalNews.com BOMBSHELL: The 2020 election took place under a Trump-declared \u201cNational Emergency\u201d that set an Election Day trap for the \u201cunauthorized accessing of election and campaign infrastructure\u201d - NaturalNews.com Up to 25,000 mail-in ballots simultaneously requested by nursing home residents in Pennsylvania - NaturalNews.com Patriots, prepare for war \u2013 without multiple favorable judgements for President Trump, Joe Biden is going to be sworn in and leftists want all Conservatives punished and/or dead - NaturalNews.com Tax filings reveal that Biden\u2019s cancer charity spent millions on salaries and zero on research, defrauding the public - NaturalNews.com Courts and Congress will decide this election, not CNN - NaturalNews.com Replacing Mark Esper, Acting Defense Secretary Chris Miller activates special operations forces to report directly to him - NaturalNews.com Trump attorney Sidney Powell declares the Kraken was already RELEASED\u2026 and the results are just beginning to emerge - NaturalNews.com Delingpole: The Great Reset is not a conspiracy theory - NaturalNews.com Trump attorney Sidney Powell declares the Kraken was already RELEASED\u2026 and the results are just beginning to emerge - NaturalNews.com The shocking reason why Pfizer\u2019s coronavirus vaccine requires storage at -70C \u2026 because it contains experimental nanotech components that have NEVER been used in vaccines before - NaturalNews.com BOMBSHELL: The 2020 election took place under a Trump-declared \u201cNational Emergency\u201d that set an Election Day trap for the \u201cunauthorized accessing of election and campaign infrastructure\u201d - NaturalNews.com Plugged-in patriots lay out the epic Trump counterattack that\u2019s going to expose and destroy the criminal Democrat deep state - NaturalNews.com Intelligence update: The Great Reset vs. the Great Awakening \u2013 the grand battle taking place right now for the future of America and the free world - NaturalNews.com All-powerful CDC calls for concentration camps in America, including the invasion of homes and neighborhoods - NaturalNews.com VACCINE DEATH WAVE: UK government posts bid for AI system to process the expected flood of COVID-19 vaccine injuries and side effects described as a \u201cdirect threat to patient life\u201d - NaturalNews.com Dominion executive admits fixing election to ensure \u201cTrump\u2019s not gonna win\u201d - NaturalNews.com Sidney Powell has \u201csmoking gun evidence\u201d to PROVE massive election fraud in the next two weeks - NaturalNews.com Replacing Mark Esper, Acting Defense Secretary Chris Miller activates special operations forces to report directly to him - NaturalNews.com Canadian government publishes bid request for \u201cProgrammable Hydraulic Guillotines\u201d needed \u201cin support of Canada\u2019s response to COVID-19\u201d - NaturalNews.com Replacing Mark Esper, now Acting Defense Secretary Chris Miller activates special operations forces to report directly to him - NaturalNews.com When politicians use the word \u201creimagine,\u201d they are preparing to REAM you - NaturalNews.com Full transcripts of recent Sidney Powell interviews about Dominion software voting systems and massive CRIMINAL election fraud nationwide - NaturalNews.com SCIENCE FAIL: Portuguese court rules PCR tests are unreliable, unlawful \u201cevidence\u201d of alleged Covid-19 infections - NaturalNews.com Observers shocked at Greta Thunberg\u2019s inability to answer a simple question without a script - NaturalNews.com Trump lawyer tweets article suggesting Philadelphia mob boss ready to expose election fraud in exchange for criminal record expungement - NaturalNews.com CAUGHT!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Election data analyzed, producing detailed list of over 500,000 votes SWITCHED from Trump to Biden via voting machine software theft, with heavy fraud focused on swing states - NaturalNews.com BOMBSHELL: The 2020 election took place under a Trump-declared \u201cNational Emergency\u201d that set an Election Day trap for the \u201cunauthorized accessing of election and campaign infrastructure\u201d - NaturalNews.com CAUGHT!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "- NaturalNews.com BREAKING: Researchers claim 100 percent cure rate vs. covid-19 in 100+ patient trial conducted in Ecuador, using intravenous chlorine dioxide - NaturalNews.com CONFIRMED: CoVid-19 coronavirus found to contain unique \u201cgain-of-function\u201d property \u201cfor efficient spreading in the human population\u201d \u2026 exact quote from science paper just published in Antiviral Research - NaturalNews.com BREAKING: U.S.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "- NaturalNews.com Science.NaturalNews.com Conduct powerful scientific research in mere seconds for your book, blog, website article or news report.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "NaturalPedia.com A free online encyclopedia of natural health knowledge from the industry's top authors and writers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "HealingFoodReference.com A free public service to promote health freedom and empower consumers with information about the healing power of foods.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "HerbReference.com A free public service to promote health freedom and empower consumers with information about the healing power of herbs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "SupplementReference.com A free public service to promote health freedom and empower consumers with information about the healing power of supplements.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "NutrientReference.com A free public service to promote health freedom and empower consumers with information about the healing power of nutrients.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "HonestFoodGuide.org This free to download food guide offers genuine nutritional information, not watered-down information designed to boost the sale of milk, beef and grains.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Advertise with NaturalNews... News covering technology, stocks, hackers, and more NaturalNews.com MeWe GAB USA.Life RSS .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "All content posted on this site is commentary or opinion and is protected under Free Speech.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Truth Publishing International, LTD. is not responsible for content written by contributing authors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "The information on this site is provided for educational and entertainment purposes only.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "It is not intended as a substitute for professional advice of any kind.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Truth Publishing assumes no responsibility for the use or misuse of this material.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Your use of this website indicates your agreement to these terms and those published here .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "All trademarks, registered trademarks and servicemarks mentioned on this site are the property of their respective owners.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Find out everything you need to know about clean and healthy living when you sign up for our free email newsletter .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Receive health tips, natural remedies, exclusive in-depth reports on superfoods, toxins, and more \u2013 what the mainstream media doesn't want you to know!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "We respect your privacy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "You may unsubscribe at any time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "\"Big Tech and mainstream media are constantly trying to silence the independent voices that dare to bring you the truth about toxic food ingredients, dangerous medications and the failed, fraudulent science of the profit-driven medical establishment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Email is one of the best ways to make sure you stay informed , without the censorship of the tech giants (Google, Apple, Facebook, Twitter, YouTube, etc.).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Stay informed and you'll even likely learn information that may help save your own life.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Get the world's best natural health newsletter delivered straight to your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "x By continuing to browse our site you agree to our use of cookies and our .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

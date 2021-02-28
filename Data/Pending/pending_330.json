@@ -1,0 +1,411 @@
+{
+    "document_id": -1,
+    "url": "https://www.theverge.com/2017/4/26/15437840/fcc-plans-end-title-ii-net-neutrality",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Jacob Kastrenakes",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:56:45.510529+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "FCC announces plan to reverse Title II net neutrality The Federal Communications Commission is cracking open the net neutrality debate again with a proposal to undo the 2015 rules that implemented net neutrality with Title II classification.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "FCC chairman Ajit Pai called the rules “heavy handed” and said their implementation was “all about politics.” He argued that they hurt investment and said that small internet providers don’t have “the means or the margins” to withstand the regulatory onslaught.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "“Earlier today I shared with my fellow commissioners a proposal to reverse the mistake of Title II and return to the light touch framework that served us so well during the Clinton administration, Bush administration, and first six years of the Obama administration,” Pai said today.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The full net neutrality proposal will be revealed Thursday His proposal will do three things: first, it’ll reclassify internet providers as Title I information services; second, it’ll prevent the FCC from adapting any net neutrality rules to practices that internet providers haven’t thought up yet; and third, it’ll open questions about what to do with several key net neutrality rules — like no blocking or throttling of apps and websites — that were implemented in 2015.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Pai said the full text of his net neutrality proposal would be published tomorrow afternoon.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "It’ll be voted on by the FCC at a meeting on May 18th.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "From there, months of debate will follow as the item is opened up for public comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The commission will then revise its rules based on the feedback it receives before taking a final vote to enact them.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Strong net neutrality rules were passed in 2015 and have been in place for about two years.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Those rules reclassified internet providers as “common carriers” under Title II of the Telecommunications Act, which subject them to tough, utility-style regulation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "While the commission didn’t apply many of the traditional utility restrictions — like pricing regulations — the classification was meant to ensure that internet providers would be subject to careful oversight.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Republicans argue the 2015 net neutrality rules harmed investment and innovation The commission mandated that internet providers follow a few key rules: no blocking of sites and apps, no throttling the speed of sites and apps, and no paid fast lanes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The rules applied to both wired and wireless internet providers and also gave the commission oversight of “interconnect” agreements between internet providers and big content companies like Netflix.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Internet providers have, of course, been unhappy about this, as they’d rather not have the FCC looking over their shoulder and limiting what they’re able to do with their network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "They sued to overturn the rules, but so far the rules have been held up in court.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Republicans have also been unhappy with the rules, and it’s been clear since Trump was elected that they’d take a shot at reversing them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "They view the existing net neutrality rules as heavy handed and believe they limit innovation from internet providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "One issue they’ve pointed to in particular is investment in broadband networks.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "There was a slight dip in investment the year net neutrality rules were passed, and Republicans have pointed to that as evidence that these are damaging policies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "“We’re deeply concerned with your intention to undo the existing legal framework.” During his speech today, Pai claimed Title II classification hurt “low-income, rural, and urban neighborhoods” the most and had the effect of “accelerating the practice of digital redlining,” because these neighborhoods would be the first areas cut when internet providers cut back their spending.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "While network investment is an important metric for the FCC to track — it’s responsible for improving access to broadband — it’s hardly the only metric to track how much impact the rules have had.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "At the end of the day, internet providers are still doing well and have seen their stock prices rise, which suggest investors aren’t as devastated by net neutrality as they let on.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The argument for net neutrality is that the limitations put on internet providers are worth the tradeoff for keeping the internet open.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "If internet providers have the ability to control or influence which websites you visit, that’ll hugely tip the scales in favor of their own services and the services of existing juggernauts that can pay for access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Netflix, for instance, may have struggled if it had to pay internet providers for fast streaming.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Republicans and internet providers continue to argue that they aren’t actually against net neutrality, they’re just against the Title II classification.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "While it’s possible to have net neutrality without Title II — common carrier rules are just a way to go about implementing them — the argument gets a lot less convincing when you actually look at what they’re proposing as an alternative.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Their alternative seems to be net neutrality rules that aren’t backed up by close regulatory oversight.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "That means internet providers have a lot more leeway to skirt the rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Advocates and web companies are already coming out in opposition In his final speech as FCC chairman, Tom Wheeler, who oversaw the passing of the 2015 rules, laid out a basic test by which he said we could tell if a net neutrality proposal offered true net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "A proposal had to offer three things, he said: an agency with full authority to protect consumers, rules that can evolve to fit new devices and networks, and consistent guidelines that make it clear what behavior is and isn’t appropriate.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "“Passing legislation or adopting regulations without these key provisions and calling it net neutrality would be false advertising,” Wheeler said at the time.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Democrats, activists, and web companies are already coming out in opposition to Pai’s plans.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Senator Bill Nelson, ranking member of the Senate Commerce Committee, said in a statement that “depriving the FCC of its ongoing, forward-looking oversight of the broadband industry amounts to a dereliction of duty at a time when guaranteeing an open internet is more critical than ever.” The Internet Association, a group that represents more than 40 top internet companies, including Google, Facebook, and Netflix, said there was no reason to change the rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "“The current FCC net neutrality rules are working and these consumer protections should not be changed,” said the group’s CEO, Michael Beckerman.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "“Consumers pay for access to the entire internet free from blocking, throttling, or paid prioritization.” A group of 800 startups and investors, led by Y Combinator, also released a letter this morning directed to Pai, saying, “We’re deeply concerned with your intention to undo the existing legal framework.” While the ACLU and 170 other advocacy groups wrote Pai last month asking for him to preserve the 2015 rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Pai is well aware that he’s in for a fight, but it’s one he thinks is worth starting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "“Make no mistake about it,” he said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "“This is a fight that we intend to wage, and this is a fight that we are going to win.” You can save almost $400 on the Samsung Galaxy Note 10 Plus The 256GB version costs $740 for Verge readers Save $40 on SteelSeries’ Arctis 1 Wireless headset and much more at Best Buy Stock up on PC accessories and components You can save 50 percent on Star Wars Jedi: Fallen Order and the nine-film collection in 4K May 4th celebrations are already kicking off You can get a copy of Affinity Photo for 50 percent off A one-time purchase gets you excellent photo manipulation tools for the iPad, macOS, or Windows 10 Bose’s latest noise-canceling headphones are $100 off at Best Buy and Amazon Plus, get the lowest price yet on Samsung’s Galaxy Watch and other gadgets Sign up for the  newsletter  A newsletter about computers (required) By signing up, you agree to our and European users agree to the data transfer policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Loading comments... Do not sell my info Licensing FAQ Advertise with us Share this story",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

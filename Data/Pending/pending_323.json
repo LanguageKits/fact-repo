@@ -1,0 +1,591 @@
+{
+    "document_id": -1,
+    "url": "https://arstechnica.com/uncategorized/2007/07/fcc-sets-700mhz-auction-rules-limited-open-access-no-wholesale-requirement/",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:56:26.084199+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to main content Biz & IT RSS Feeds Filter by topic  Biz & IT Front page layout Site theme Black on white White on black Sign in  Comment activity  Sign up or login to join the discussions!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Sign up to comment and more Sign up Uncategorized \u2014  FCC sets 700MHz auction rules: limited open access, no wholesale requirement The FCC today announced its plans for the upcoming 700MHz spectrum auction.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "It \u2026 - Jul 31, 2007 7:32 pm UTC reader comments with 0 posters participating Share this story A soft-spoken Kevin Martin brought two phones to today's FCC open meeting at which the agency presented the rules for its upcoming 700MHz auction.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Both phones were made by Nokia, but the European version allowed access to WiFi networks; the American version did not.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Martin noted that \"people want the ability to buy both\" and announced his intent to make sure that consumers\u2014and not phone companies\u2014were able to choose what devices they purchase and use on wireless networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "\"The public interest,\" Martin said, \"is not what any company wants.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "What eventually came out of the meeting was an interesting mix of policies: a Frontline-style public/private partnership for public safety, a weakened form of \"open access\" for new commercial licensees, and no wholesale requirement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "As Commissioner Michael Copps put it, the FCC needs to set \"ground rules for how some of the most valuable spectrum on earth will be used.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Around 80MHz of high-quality spectrum is being auctioned off early next year, and the FCC has devised two separate plans to deal with those frequencies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The agency wants to create a national broadband network focused on public safety that will bring true interoperability to all public safety agencies around the country.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "But the FCC also wants to spur commercial wireless innovation, especially when it comes to creating a \"third pipe\" for broadband that can provide an alternative to cable/DSL duopoly that prevails in most of the country.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The commissioners first heard from three witnesses, among them Jason Devitt of Skydeck.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Devitt was an eloquent and funny advocate for robust open access, arguing that open access rules will \"unleash a tsunami of innovation in the US.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Devitt lobbied for robust, Google-style open access rules that would turn the spectrum winner into a wholesaler, thus opening the way for any entrepreneur to access wireless spectrum in a way that is currently impossible.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Carterphone-style open access wouldn't be good enough, he said, because its easy to make devices unappealing to users.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "As an example, he noted that GSM operators like AT&T and T-Mobile already allow any non-carrier GSM device to function on their networks, but almost no consumers use such devices because they still have to pay the same price for service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Users who choose AT&T or T-mobile gear receive a subsidized price for their handsets even while paying the same rate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Devitt's testimony, though compelling, had no real effect on the FCC order governing the auction; the rules had been prepared in advance of the meeting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "When the FCC's own staff at last presented the proposals, two separate sets of rules were issued to deal with both public safety and commercial concerns.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Public safety FCC officials adopted rules similar to the ones proposed by .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Under the rules, 20MHz of the valuable 700MHz spectrum are set aside for the creation of a public/private partnership that will eventually roll out a new nationwide broadband network tailored to the requirements of public safety.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "A public safety licensee will oversee the entire network, but the actual building will be done by the commercial licensee.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Because the FCC is offering the commercial licensee extra spectrum adjacent to the public safety block that the licensee can use as it wants.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "In addition, the licensee can use whatever bandwidth is available on the public safety side of the network to offer data services of their own.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Whatever commercial company wins the license will also have a guaranteed \"anchor tenant\" in police and fire departments from across the country.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "In emergencies, public safety gets priority access to the network and can even use the spectrum available on the commercial side of the network if it needs to do so.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "By providing a single set of frequencies and a standard network for public safety departments across the country, the FCC hopes to lower the cost of devices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "The radios used by individual firefighters and police officers, for instance, can cost up to $4,000, according to testimony from Virginia emergency services officials.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "That figure should drop dramatically with a single standard and with a larger pool of buyers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "This isn't the way that everyone on the commission wants it to be.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Commissioner Copps publicly expressed (once again) his view that the only proper way to create such network was to federally fund the entire thing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Such a solution would be incredibly expensive (the federal government would essentially be building out a nationwide wireless network that would be more robust than current cell phone networks), but it would at least guarantee that the government can control the network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "By putting so many rules in place on the auction, the FCC also risks making it unpalatable to bidders.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "If no companies are interested in placing competitive bids, Copps expressed his own desire to scrap the whole thing and go back to the drawing board rather than simply watering down buildout requirements until somebody bites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Once the auction is complete, public safety will have access to 107MHz of total spectrum.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Commercial licenses But for consumers, the most exciting action concerns the commercial block\u201462MHz of spectrum due to be auctioned off in various sizes and regional divisions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "This is where companies like Google hoped to see four conditions applied: open applications, open devices, open services, and open networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Income and telecommunications companies like AT&T and Verizon generally don't want any such restrictions placed on the spectrum.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Neither side got exactly what it wanted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "The FCC has decided to support two of the open access principles\u2014open devices and open applications\u2014but they neglected to open up the underlying networks by requiring the spectrum winner to resell its bandwidth in the wholesale market.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Open access was supported most strongly by the Republican Chairman, Kevin Martin, and by the two Democratic commissioners, Jonathan Adelstein and Michael Copps.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "The other two commissioners, both Republicans, were not enthusiastic about the idea.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Deborah Taylor Tate announced that she was \"very lukewarm on open access,\" and Robert McDowell expressed his own desire that regulation be kept to an absolute minimum.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "According to McDowell, wealthy corporations don't need government regulation in order to do what they want\u2014a clear shot at Google, who is free to bid on the spectrum and offer it at wholesale rates if it chooses to do so.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "As Copps pointed out, though, incumbent businesses are generally willing to pay a \"blocking premium\" in order to keep new players from entering a market, and would no doubt attempt to pay a premium simply to keep a company like Google from doing this.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "The FCC did adopt a set of auction rules, though, designed to prevent some of these problems.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "All bidding in the auction will be anonymous, which makes it more difficult for companies to know which competitor is currently leading in the bidding (unless the companies are colluding , of course).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "So now we know: the rules certainly are a step forward for consumers, but they may or may not prove to unleash the promised wave of innovation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "We'll have to wait and see how the auction develops early next year\u2014who wins, and exactly what they choose to do with the spectrum.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "It's worth noting that the open access rules proposed for the auction will have no effect on existing cellular networks, though if the new network becomes attractive to consumers, it could put pressure on other operators to adopt the same conditions voluntarily.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "reader comments with 0 posters participating Share this story Nate is the deputy editor at Ars Technica, where he oversees long-form feature content and writes about technology law and policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "He is the author of .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "nate@arstechnica.com // @natexanderson You must login or create an account to comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "\u2190 Previous story Next story \u2192 Powered by RSS Feeds Advertise with us Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Sign me up \u2192 CNMN Collection (updated 1/1/20) and (updated 1/1/20) and (effective 8/21/2018).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Ars may earn compensation on sales from links on this site.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Read our affiliate link policy .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Cond\u00e9 Nast.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

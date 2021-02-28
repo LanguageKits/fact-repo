@@ -1,0 +1,431 @@
+{
+    "document_id": -1,
+    "url": "https://www.washingtontimes.com/news/2020/apr/28/covid-19-turning-out-to-be-huge-hoax-perpetrated-b/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:51:56.113220+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "JavaScript is required for full functionality on this website, but scripting is currently disabled.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Please enable JavaScript and reload this page.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Question of the Day Not sure View results more > -  -  Tuesday, April 28, 2020  ANALYSIS/OPINION: When the postmortem is done on the media\u2019s coverage of COVID-19 (and it will be), it will be clear that the virus was no Black Plague \u2014 it\u2019s not even the flu on a bad year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "SARS-CoV-2, which causes COVID-19, has killed 56,749 Americans as of Tuesday.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "That\u2019s not good.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "But it\u2019s not as bad as the 2017-2018 flu season, when 80,000 -plus perished.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "And it\u2019s a long cry from what all the experts were warning about just a few weeks ago: First, they predicted 1.7 million Americans dead; then they redid the models (this time apparently entering a few more \u201cfacts\u201d) and said 100,000-240,000 dead.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "SEE ALSO: Eighty percent of the population has little or nothing to fear from COVID-19  Now, a major model relied on by the White House Coronavirus Task Force predicts about 70,000 dead by the end of August.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "And for that we shut down the U.S.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "As the coronavirus swept across China, then Europe \u2014 then everywhere \u2014 the U.S. media breathlessly reported every terrifying number, almost gleefully.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Their ratings soared, of course, as they scared the hell out of every American, many of whom have stayed home for the last 40 days, emerging only to buy toilet paper, but even then clad in masks and tiptoeing in fear.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "SEE ALSO: Liberal media smears against Liberty University show dire need for impartial reporting  But here are some facts: A recent Stanford University antibody study estimated the fatality rate from the virus is likely 0.1% to 0.2%.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The World Health Organization (WHO) had estimated that the death rate was 20 to 30 times higher and called for isolation policies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "In New York City, the U.S. epicenter of the pandemic, the death rate for people 18 to 45 years old is 0.01%, or 10 per 100,000 in the population.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "People aged 75 and older, though, have a death rate 80 times that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "For children under 18, the rate of death is zero per 100,000.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "That\u2019s zero.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "\u2022 Health and Age More than half of the COVID-19 deaths in Europe occurred in long-term care or nursing-home facilities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "At least one-fifth of the deaths recorded in the U.S. so far have occurred there.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Nearly all the patients hospitalized for the coronavirus in New York City had underlying health conditions, according to a recent study.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "\u201cHealth records from 5,700 patients hospitalized within the Northwell Health system \u2014 which housed the most patients in the country throughout the pandemic \u2014 showed that 94 percent of patients had more than one disease other than COVID-19, according to the Journal of the American Medical Association,\u201d Fox News reported.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The study found 42% of the patients were overweight and 53% had hypertension, and the others suffered from a variety of ailments.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Millions and millions of Americans have already been infected with the virus \u2014 even though the U.S. media continues to report the low numbers provided by Johns Hopkins, which says that 998,000 Americans have contracted the virus as of Tuesday.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "An antibody study was conducted last week in New York City and found that 1 in 5 (21.2%) of residents have already been infected with the coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "There are 8.5 million people in New York City, so that would mean 1.8 million New Yorkers have had the virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "At the time of the study, there were 16,249 deaths in the city attributed to COVID-19, which means the death rate in the city was 0.89% at the time \u2014 far lower than reports in the U.S. media.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Results of antibody survey last week in Los Angeles found as many as 442,000 Los Angeles County residents might have already been infected with the coronavirus by early April, a number far higher than the 8,000 cases confirmed at the time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "The survey suggested that the death rate from the virus could be as low as 0.18% of COVID-19 patients, which means the actual death rate in the city is far lower than reported.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "The Daily Mail reported Monday that \u201ccoronavirus may kill 70 times fewer patients than official UK death figures suggest, studies have shown.\u201d The Mail said a similar fatality rate \u2014 0.19% \u2014 was found in a study of residents in Helsinki, Finland.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "A study, this one by Dr. Justin Silverman, estimates that there were 8.7 million coronavirus infections in the U.S. between March 8 and March 28.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "And as of April 17, 10% of Americans have been infected \u2014 which is roughly 33 million Americans.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "The media has been hyping COVID-19 since Day One, alarming Americans to the point where they voluntarily went along with shutting down the entire economy \u2014 a mistake that will likely reverberate for a decade or more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Even as U.S. states begin to re-open \u2014 based on the data, which shows a far lower fatality rate than reported and a much wider spread of the virus \u2014 the media continue to report on what they deem frightening numbers over the deadly virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "They aren\u2019t, and it isn\u2019t.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "COVID-19 is a bad flu at worst.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "And the media should be held accountable for telling us otherwise before they knew the facts.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "\u2022 Joseph Curl covered the White House and politics for a decade for The Washington Times.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "He can be reached at josephcurl@gmail.com and on Twitter @josephcurl.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Click  here for reprint permission .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Please read  our comment policy before commenting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Dealing with terrorism threat will dominate new administration\u2019s agenda We must do more than resist to preserve freedom for future generations What voters are telling Joe Biden about his Democrats\u2019 radical agenda U.N. using COVID-19 to take over the world Today's Opinion / / Find us on Facebook Find us on Twitter E-edition RSS FAQ All site contents 2020 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Washington, DC 20002 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

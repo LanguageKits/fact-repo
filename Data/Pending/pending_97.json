@@ -1,0 +1,251 @@
+{
+    "document_id": -1,
+    "url": "https://www.technologyreview.com/s/613603/fcc-net-neutrality-internet-access-broadband-policy-ajit-pai/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:41:28.520266+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "  You need to enable JavaScript to view this site.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Sign in Expand menu Expand menu Tech policy Sorry, FCC\u2014killing net neutrality probably didn\u2019t expand internet access FCC chairman Ajit Pai had claimed that rosy broadband numbers showed his deregulation approach was working.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "by archive page May 30, 2019 Choropleth map of the continental US FCC If you believe the US Federal Communications Commission, last June\u2019s end of net neutrality \u2014the system that required internet service providers to treat all data equally\u2014has helped more Americans get broadband access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "But the data behind this claim is highly controversial.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Every year, the FCC releases a report showing the state of broadband access in the US.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "This report is the government\u2019s main source of information for measuring connectivity and helps determine how billions in broadband subsidies are allocated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "When a draft of this year\u2019s report, circulated in February, found large gains in the number of people with broadband, FCC chairman Ajit Pai claimed it showed that \u201c our approach is working .\u201d (Pai has said that net neutrality is bad for consumers because it discourages innovation .)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "After activists spotted errors in the draft , the commission adjusted the numbers, but Pai insisted that \u201cthe new data doesn\u2019t change the report\u2019s fundamental conclusion\u201d: the so-called digital divide is narrowing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Yesterday the FCC released the final report .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "It still shows an increase in broadband access, but it\u2019s doubtful that that is thanks to ending net neutrality, according to broadband expert , a senior fellow at the Technology Policy Institute.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "\u201c[The data] is just moving along in a way that has been consistent since the later years of the Obama administration,\u201d he says.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "(Besides, he adds, the report doesn\u2019t tell us much about the digital divide anyway, because the digital divide is about more than just network access .)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "In any case, there is a longer-running controversy over how the FCC measures connectivity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The agency puts together the report using self-reported data from internet service providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "That data paints a rather rosy view.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "If there is service in one corner of a particular census tract, for example, the report says that all parts of the tract are covered.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "It also uses advertised broadband speeds, which can be very different from the actual speed customers get.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "This means the data provides a starting point, but it \u201crequires a lot of follow-up vetting from policymakers before they make deployment decisions,\u201d says Horrigan.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "\u201cIf they had better data, they could more quickly respond to gaps that they see.\u201d The issue is already highly politicized; the FCC\u2019s vote to end net neutrality was split along party lines, with the two Democratic commissioners opposing it and the three Republicans in favor.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "(The Democrats still contest the data in the latest version of the report.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The politicization is only going to increase as the 2020 presidential race heats up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Democratic senator Amy Klobuchar, for example, has made connectivity a major part of her campaign, rolling out a trillion-dollar infrastructure bill that includes money to connect every household by 2022.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "With three other senators, she\u2019s also a sponsor of the bipartisan , which would require the FCC to use other sources of data for these reports.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Remdesivir seems to shorten covid hospital stays and may save lives Covid-19 has blown apart the myth of Silicon Valley innovation Facebook claims its new chatbot beats Google\u2019s as the best in the world Latest content Load more twitter link opens in a new window facebook link opens in a new window instagram link opens in a new window rss link opens in a new window linkedin link opens in a new window",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

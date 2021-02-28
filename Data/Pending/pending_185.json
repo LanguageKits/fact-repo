@@ -1,0 +1,331 @@
+{
+    "document_id": -1,
+    "url": "https://citiesspeak.org/2019/10/22/net-neutrality-gives-cities-some-flexibility/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Angelina Panettieri",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:30:41.132982+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "CitiesSpeak Elevating the voices and stories of America's city leaders.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "You may have seen headlines that a federal court handed a partial victory to advocates for net neutrality recently.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Net neutrality requires internet service providers to treat all Internet communications the same and not block, speed up or slow down any content.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Net neutrality was federal policy until the Federal Communications Commission’s (FCC) 2018 order striking it down.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The National League of Cities (NLC) and U.S. Conference of Mayors (USCM) both opposed the order when it was issued.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Numerous states and local governments challenged the legality of the order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "In an October decision on Mozilla Corporation v. FCC , the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Circuit upheld most of the FCC’s 2018 order retreating from net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "That means that the federal government will not mandate that internet service providers abide by net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "However, the court struck down the portion of the order preempting states and local governments from adopting their own net neutrality measures.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The technical legal question in the case was whether broadband Internet is a “telecommunications services” under Title II of the Telecommunications Act of 1934 or an “information services” under Title I.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "In the 2018 order, the FCC classified broadband Internet as the latter.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Title II entails common carrier status, while Title I does not.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Notably, Title II “declar[es] .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "unlawful” “any .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "charge, practice, classification or regulation that is unjust or unreasonable.” The D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Circuit held that classifying broadband Internet access as an “information service” is a “‘a reasonable policy choice for the [Commission] to make.’” The court relied on a 2005 Supreme Court decision, , upholding the FCC’s refusal to classify cable broadband as a “telecommunications service.” The D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Circuit likewise upheld the 2018 order’s classification of mobile broadband as a “private” mobile service and not commercial, which is subject to common carrier status.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The states and local governments challenging the order didn’t entirely lose the case.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Circuit described the 2018 order’s Preemption Directive as “invalidat[ing] all state and local laws that the Commission deems to ‘interfere with federal regulatory objectives’ or that involve ‘any aspect of broadband service .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "address[ed]’ in the Order.” The court concluded the Directive exceeded the FCC’s statutory authority.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Circuit also instructed the FCC to “adequately consider” the 2018 order’s impact on public safety, pole-attachment regulation, and the Lifeline Program.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "According to the , seven states—California, Colorado, Maine, New Jersey, Oregon, Vermont and Washington—have enacted legislation or adopted resolutions regarding net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The authority of local governments to enact their own net neutrality policies will depend on state policy and whether or not they are preempted by state government.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "The State and Local Legal Center, NLC and other state and local organizations will continue to monitor this issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "NLC will host a State and Local Legal Center webinar on Friday, December 6 to explain the facts of the case, how it will impact cities, and what avenues are open for local governments to pursue net neutrality for their residents.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": ": Angelina Panettieri is the Principal Associate for Technology and Communication at the National League of Cities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Follow her on twitter at @AngelinainDC .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Lisa Soronen is the executive director of the , which files Supreme Court amicus curiae briefs on behalf of the Big Seven national organizations, including the National League of Cities, representing state and local governments.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "She is a regular contributor to CitiesSpeak.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Share this: Like this: , FCC , federal agency , , internet , net neutrality , NLC , preemption , SCOTUS , Post navigation Previous post Next post To top Powered by WordPress.com .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "%d bloggers like this:",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

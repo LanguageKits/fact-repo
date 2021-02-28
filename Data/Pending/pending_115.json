@@ -1,0 +1,321 @@
+{
+    "document_id": -1,
+    "url": "https://www.adl.org/education/resources/tools-and-strategies/what-is-net-neutrality",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "ADL",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:42:17.314359+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "On December 14, 2017, the Federal Communications Commission (FCC) voted to dismantle net neutrality regulations that were passed in 2015.This action reverses the FCC’s decision during the Obama administration to have stronger control over broadband and to prevent internet service providers (ISPs), such as Comcast, AT&T and Verizon, from controlling what people can access on the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "“Net neutrality” is the principle that ISPs should treat all online content equally without giving preference to particular content.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "In effect, net neutrality requires these providers to offer equal access to all web consumers without charging them for higher-quality, speedier delivery or giving better treatment to certain websites.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "It also forbids these companies from deliberately slowing the content from content providers that may compete with ISPs.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Because the internet is part of everyone’s daily lives and all aspects of the economy, net neutrality ensures that the public decides what content we read, websites we visit, and what services we use online—and not private ISP companies.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The FCC Chairman, Ajit Pai, defended the decision by saying it would eventually help consumers because the ISPs would offer them a wider variety of service options.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "He said, “We are helping consumers and promoting competition.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Broadband providers will have more incentive to build networks, especially to underserved areas.” Pai and others believe that deregulating the network would allow more free market competition to encourage innovation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "In addition, critics of net neutrality argue that because ISPs are responsible for developing and maintaining broadband infrastructure, heavier usage requires more money and energy to maintain it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "These improvements cost money and huge, impactful companies like Amazon and Facebook use the existing structure for free.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "If net neutrality ends, these companies would have to pay their fair share.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Supporters of net neutrality say that consumers will have more difficulty accessing content online and that start-ups will have to pay to reach consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Also, the decision will be felt most by those with less money to spend on internet access because in today’s world, the internet is vital in being able to access important government services (especially during times of crisis), have access to job websites, and engage in the college application process and attend college.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The decision could further deepen the \"digital divide\" between wealthy and low-income communities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Net neutrality helps maintain the equality of the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "In an age when educators increasingly rely on technology in the classroom, the impact will also be felt in schools.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Eliminating net neutrality could affect how educators teach and how students learn by limiting their access to information, apps, websites and videos that support learning.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Schools’ role in “leveling the playing field” for students who don’t have regular access at home could take a step backwards, further worsening opportunity gaps.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Since the FCC made its decision, there have been hundreds of protests across the country and many websites have encouraged users to speak up against the repeal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "A recent public opinion survey revealed that 83% of Americans do not approve of the FCC’s proposed repeal.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Congress has the ability to reverse this decision.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "In fact, several members of Congress who support net neutrality will attempt to use the (CRA) to undo the FCC’s actions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "In addition, consumer advocacy groups and state attorneys general are planning lawsuits to challenge the decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "(See the Additional Resources section for articles and information that address these questions.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Help to organize an educational forum in school to discuss net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Make connections to freedom of speech and how this will impact people’s ability to promote social justice and engage democratically online.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Write a letter to your representative in Congress that expresses your views about net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "You can use this link to find your representative.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "On social media, express your thoughts about net neutrality and respectfully engage with others who either share or don’t share your views.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Keep an open mind and challenge yourself to understand different perspectives.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "ADL Latinx LinkedIn New York, NY 10158-3650 (212) 885-7700 www.adl.org/contact Tax ID/EIN: 13-1818723",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

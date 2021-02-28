@@ -1,0 +1,391 @@
+{
+    "document_id": -1,
+    "url": "https://abcnews.go.com/Technology/net-neutrality/story?id=48596615",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Lindsey Jacobson",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:40:43.660597+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "The internet is currently classified as a public utility.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Net neutrality, or the open internet, is the idea that internet service providers (ISPs) are considered common carriers or public utilities, like electric, water and railroad companies.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Net neutrality rules put in place under the Obama administration are at risk of being overturned.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The Federal Communications Comission will vote Thursday on whether to remove net neutrality rules instituted during the Obama administration, after a proposal by President 's appointed FCC Chairman Ajit Pai, who suggested in May removing the classification for internet service providers (ISPs) as public utilities.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "This could allow ISPs to charge more for consumers to access different websites.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Net neutrality is the principle that ISPs treat all content equally and not give preference to some digital content providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "That means the consumer can load every website, app, video, .gif, etc., equally, regardless of where the content is hosted.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "For example, an ISP may not charge more for sites that stream movies or promote a specific agenda.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "This is also referred to as the open internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "After a request from President Obama after public comments , the FCC voted in February 2015 to classify consumer broadband service as a public utility under Title II Order of the 1934 Communications Act.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Under that law, the FCC adopted no-blocking, no-throttling and no-paid-prioritization rules, according to the notice of proposed rulemaking released by the FCC.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The measure controls how companies provide services to consumers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Under this order, the internet is deemed a common carrier or public utility, so ISPs are regulated.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Other public utilities include electricity and phone service companies.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Supporters of Title II classification say it keeps the internet open and accessible to anyone, regardless of socioeconomic status.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Without the current regulations, they claim ISPs could charge more for access to specific sites and censor content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Without it, consumers would be \"paying more money to their internet companies to get a less diverse, less interesting [internet],\" said Evan Greer, the campaign director at Fight for the Future, a nonprofit group focusing on digital rights.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "\"You can't have real net neutrality because the FCC can't enforce it, and the courts have made this clear,\" said Mark Stanley, the director of communications at Demand Progress, a national grass-roots group that focuses on a number of issues, including internet freedom.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Stanley was referring to the 2014 Verizon v. FCC lawsuit , in which the courts deemed that the FCC did not have authority to enforce portions of the Open Internet Order because ISPs were not considered common carriers, i.e., public utilities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "In 2015 the FCC voted to deem ISPs common carriers and therefore put them under the jurisdiction of a Title II order.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "It's worth noting that Pai previously served as an associate general counsel for from 2001 to 2003, according to his FCC biography.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "On July 12, 2017, supporters of the current regulations organized a day of action.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Stanley and Greer confirmed for ABC News that over 2 million comments were submitted to the FCC during the day of action.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Stanley said this shows that \"only in Washington is this a political issue.We'd like to see the FCC drop their proposal to roll back net neutrality protections.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "\"So much of [the support] came from the small players who really have the most to lose here,\" said Green.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Stanley said they consider as allies smaller ISPs that came out in support of the day of action and the current FCC regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Sonic, a midsize regional ISP, took a stance in support in an effort to \"protect the internet and protect competition.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "\"We take that position because there isn't enough competitive pressure to create a truly fair marketplace in the U.S.,\" Dane Jasper, the CEO of Sonic, told ABC News.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "He explained that most American households only have one or two choices of ISPs, so \"in an environment where you don't have effective competition, I think regulation is necessary [to create a level playing field].\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Large companies like Twitter, and Google also signed on in support of the day of action.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "In an online statement, Twitter said, \"The FCC should abandon its misguided effort to obviate all the work that has been done on behalf of all Internet users.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Opponents of the Title II classification argue that the regulations are unnecessary and hamper job creation and free market competition.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "The Internet & Television Association (NCTA) released a statement supporting an open internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "The group supports net neutrality but believes the regulations passed in 2015 do not promote a free internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "\"We've always been committed to an open internet that gives you the freedom to be in charge of your online experience.And that will not change,\" NCTA said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "AT&T; said it supports an open internet but does not support the current FCC regulations, Verizon directed ABC News to an online statement reiterating its support for an open internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "The company said it does not agree that the best way to achieve an open internet is through utility regulations on ISPs and cited fake news and bad actors as pitfalls.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Dec 11, 8:24 PM Canada to make announcement on assault weapons ban after mass shooting in Nova Scotia 1 hour ago Jared Kushner faces backlash after praising Trump's response to the COVID-19 pandemic 2 hours ago Coronavirus updates: Potential COVID-19 treatment shows 'glimmer of hope' 15 minutes ago Judge sides with Michigan governor in lawsuit over coronavirus shelter-in-place order 4 hours ago 24/7 coverage of breaking news and live events 2020",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

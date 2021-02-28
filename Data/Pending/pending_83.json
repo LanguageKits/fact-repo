@@ -1,0 +1,391 @@
+{
+    "document_id": -1,
+    "url": "https://thehill.com/policy/technology/463805-appeals-court-upholds-net-neutrality-repeal-but-rules-fcc-cant-block-state",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:40:52.971192+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "A federal appeals court on Tuesday delivered a mixed ruling for net neutrality supporters and opponents alike, allowing the Federal Communications Commission's (FCC) 2017 repeal to stand but striking down a key provision blocking states from implementing their own open internet rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The D.C. Circuit Court of Appeals also sent the repeal order back to the FCC, ordering the agency to revise it to take into consideration other issues, like the effect that it will have on public safety, broadband subsidies and the regulation of cable pole attachments.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": " Though the ruling was mixed for both sides of the issue, it's still unclear whether any of the parties involved in the lawsuit plan on appealing the decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The FCC decided to repeal the Obama-era net neutrality rules in 2017, with Republicans on the commission carrying the 3-2 vote along party lines.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The rules classified internet service providers like Comcast and Verizon as common carriers, subjecting them to tougher regulations and oversight, and prohibited them from blocking or discriminating against certain websites.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Republicans and the telecommunications industry had railed against the 2015 rules but were unable to get a court to overturn them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The repeal, which went into effect last year, was a major victory for the industry, but despite their win in court on Tuesday they now face the possibility of having to navigate a slew of differing state laws governing internet providers' handling of web traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Still, FCC Chairman Ajit Pai, a Republican who engineered the repeal, declared Tuesday's ruling a win for his agency.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "\"Today’s decision is a victory for consumers, broadband deployment, and the free and open Internet,\" Pai said in a statement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "\"The court affirmed the FCC’s decision to repeal 1930s utility-style regulation of the Internet imposed by the prior Administration,\" he added.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "\"The court also upheld our robust transparency rule so that consumers can be fully informed about their online options.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The net neutrality repeal was challenged in court last year by a broad coalition of internet-based companies, consumer groups and state attorneys general, who argued that the FCC overstepped its authority in undoing the reclassification and rolling back the conduct rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "\"Our fight to preserve net neutrality as a fundamental digital right is far from over,\" Amy Keating, the chief legal officer for Mozilla, said in a statement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "\"We are encouraged to see the Court free states to enact net neutrality rules that protect consumers.We are considering our next steps in the litigation around the FCC’s 2018 Order, and are grateful to be a part of a broad community pressing for net neutrality protections in courts, states and in Congress.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The three-judge panel on the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Circuit Court of Appeals said on Tuesday that they had found the challengers' arguments to be largely unpersuasive.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "However, the judges delivered a blow to the FCC by ruling it had exceeded its legal authority by seeking to block states from passing their own net neutrality rules, as many did over the past year and a half in a nationwide backlash to the FCC's repeal.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "In repealing the net neutrality order, the FCC also removed internet service providers from its regulatory jurisdiction.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The court ruled that the move meant that the FCC has no right to issue a blanket preemption of state net neutrality laws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "\"The Governmental Petitioners challenge the Preemption Directive on the ground that it exceeds the Commission’s statutory authority,\" the judges wrote in the opinion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "\"They are right.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "That could complicate a legal challenge that the Department of Justice (DOJ) brought against California last year over an expansive net neutrality law the state passed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The DOJ agreed to pause its lawsuit and California held off on enforcing the law while the court challenge to the FCC decision played out.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Still, the court left open one avenue for challenging state net neutrality laws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "\"If the Commission can explain how a state practice actually undermines the 2018 Order, then it can invoke conflict preemption,\" the judges wrote.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "A senior FCC official said on a call with reporters Tuesday that the agency had not decided whether it would appeal the preemption portion of the decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "The fight over net neutrality has raged both in the courts and in Congress.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Earlier this year, House Democrats voted to reinstate the Obama-era rules in a mostly party-line vote.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "But the bill has not been taken up in the Republican Senate and the White House threatened to veto the legislation if it made it to Trump says China 'will do anything they can' to keep him from being reelected Teachers union blasts Trump administration for 'bluster and lies,' and for suggesting schools should 'open soon' Top Trump policy adviser Joe Grogan to leave post MORE 's desk.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Democrats in the upper chamber on Tuesday used the court ruling to urge Senate Majority Leader Mitch McConnell On The Money: US economy contracts at 4.8 percent rate, most since Great Recession .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Powell urges Congress to unleash 'great fiscal power' to defeat coronavirus, repair economy .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "IRS gets coronavirus payments out quickly but imperfectly Feinstein to McConnell: Cancel plan to bring Senate back amid coronavirus pandemic 10 things to know about coronavirus for today MORE (R-Ky.) to allow a vote on net neutrality, even though he has said the bill is dead on arrival.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "“It’s appalling that the Senate Republicans have abandoned our responsibility to protect American consumers and left it up to states to save the internet,\" Senate Minority Leader Pelosi: Democrats will not back business liability protections in CARES Act Senate Dems unveil bill to federalize medical supply chain, boost production Schumer to introduce 'No PR Act' to stop Trump from placing name on stimulus checks MORE (D-N.Y.) said in a statement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "\"By burying in his legislative graveyard the House-passed legislation that preserves net neutrality, Leader McConnell is giving huge cable companies and internet providers a green light to raise prices on middle-class Americans to use the internet,\" he added.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Updated at 3:47 p.m. FCC Mitch McConnell Net neutrality court ruling View the discussion thread.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "HuffPost reporter: 'Jobs that have been lost may not come back' The leading expert on women's brains says they are more likely to get Alzheimer's Trump campaign official says mainstream media can't be trusted with Tara Reade coverage Don't miss a brief.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Sign up for our daily email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "12:30 Report TheHill.com RSS The Hill 1625 K Street, NW Suite 900 Washington DC 20006 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

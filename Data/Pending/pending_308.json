@@ -1,0 +1,521 @@
+{
+    "document_id": -1,
+    "url": "https://www.nytimes.com/2017/02/05/technology/trumps-fcc-quickly-targets-net-neutrality-rules.html?_r=0",
+    "document_category": "Newa Report",
+    "annotators": [],
+    "author": "Cecilia Kang",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:55:23.878727+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "SEARCH Skip to content Skip to site index Today’s Paper .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Ajit Pai, the new chairman of the Federal Communications Commission, has taken a first swipe at net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Feb. 5, 2017 WASHINGTON — In his first days as President Trump’s pick to lead the Federal Communications Commission, has aggressively moved to roll back consumer protection regulations created during the Obama presidency.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Mr. Pai took a first swipe at net neutrality rules designed to ensure equal access to content on the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "He stopped nine companies from providing discounted high-speed internet service to low-income individuals.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "He withdrew an effort to keep prison phone rates down, and he scrapped a proposal to break open the cable box market.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "In total, as the chairman of the F.C.C., Mr. Pai released about a dozen actions in the last week, many buried in the agency’s website and not publicly announced, stunning consumer advocacy groups and telecom analysts.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "They said Mr. Pai’s message was clear: The F.C.C., an independent agency, will mirror the Trump administration’s rapid unwinding of government regulations that businesses fought against during the Obama administration.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "“With these strong-arm tactics, Chairman Pai is showing his true stripes,” said Matt Wood, the policy director at the consumer group Free Press.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "“The public wants an F.C.C. that helps people,” he added.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "that helps people,” he added.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "“Instead, it got one that does favors for the powerful corporations that its chairman used to work for.” Mr. Pai, a former lawyer for Verizon, was elevated by Mr. Trump to the position of chairman after serving as a minority Republican member for the past three years.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Known for being a stickler on conservative interpretations of telecommunications law and the limits of the F.C.C.’s authority, Mr. Pai said he was trying to wipe the slate clean.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "He noted that his predecessor, Tom Wheeler, had rammed through a series of actions right after the presidential election.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Many of those efforts, Mr. Pai argued, went beyond the agency’s legal authority.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "“These last-minute actions, which did not enjoy the support of the majority of commissioners at the time they were taken, should not bind us going forward,” Mr. Pai said in a statement released Friday.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "“Accordingly, they are being revoked.” The efforts portend great changes at the federal agency at the center of the convergence of media, telecommunications and the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The biggest target will be net neutrality, a rule created in 2015 that prevents internet service providers from blocking or discriminating against internet traffic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The rule, which was created alongside a decision to categorize broadband like a utility, was the tech centerpiece of the Obama administration.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "On Friday, the F.C.C. took its first steps to pull back those rules, analysts said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "took its first steps to pull back those rules, analysts said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Mr. Pai closed an investigation into zero-rating practices of the wireless providers T-Mobile, AT&T and Verizon.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Zero-rating is the offering of free streaming and other downloads that do not count against limits on the amount of data a consumer can download.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Under its previous leadership, the F.C.C. said in a report that it saw some evidence that made it concerned.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "said in a report that it saw some evidence that made it concerned.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "But Mr. Pai said after closing the investigations into wireless carriers that zero-rating was popular among consumers, particularly low-income households.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "“The speed of the ruling and the chairman’s tone are very encouraging for internet service providers,” said Paul Gallant, an analyst at Cowen.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "“I think it’s a down payment on net neutrality, with much more to follow.” Last week, Mr. Pai said he disagreed with the move two years ago to declare broadband a utility.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "The reclassification of broadband into a service akin to telephones and electricity provided the legal foundation for net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Mr. Pai said he had not decided how he would approach the overhaul of broadband classification and net neutrality rules, but he faces legal hurdles.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "A federal court upheld the rules last year, and the commission could end up in a lengthy legal battle if he tries to scrap the rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Mr. Pai will have the help of powerful members of Congress who have promised to attack the classification of broadband as a utility-like service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "And he is popular among Republican leaders, including the Senate’s majority leader, Mitch McConnell, who with other members viewed Mr. Pai as a loyal voice of dissent during the Obama years.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Mr. Pai, 44, the child of immigrants from India who settled in Kansas, is a fresh face for the Republican Party.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Congress could introduce legislation that limits the agency’s ability to regulate broadband providers and enforce net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Also under attack are privacy rules for broadband providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "“The agency has strayed from its core mission,” said Marsha Blackburn, a Republican representative from Tennessee who oversees a telecommunications and tech subcommittee.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "She has called for a hearing within two weeks on the F.C.C. agenda under the new administration.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "agenda under the new administration.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Democrats in Congress said they would fight legislation that waters down net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "They said Mr. Pai, described as a straight-A student of telecom law, would be a tough adversary, and they face great opposition from Republicans who have promised to prioritize the overturning of net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "“The key here is that it’s already been tested in the courts and the court upheld this,” said Representative Anna G. Eshoo, Democrat of California.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "“Ajit Pai is intelligent and genial, but he is not on the side of consumers and the public interest.” Most troubling to consumer advocates was the secrecy around Mr. Pai’s early actions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "That included a decision to rescind the permissions of nine broadband providers to participate in a federal subsidy plan for low-income consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "None of the providers currently serve low-income consumers, but Mr. Pai’s comments could foreshadow a shake-up of the Lifeline low-income subsidy program.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "On Monday, the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "On Monday, the F.C.C. is scheduled to appear before a federal judge to defend its push to curb extraordinarily expensive phone call prices from prison.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "But it told a judge a few days ago that Mr. Pai disagreed with many aspects of the case.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Mignon Clyburn, the sole Democrat of the three sitting members of the F.C.C., warned that the actions would directly harm consumers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "“Rather than working to close the digital divide, this action widens the gap,” Ms. Clyburn said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Continue reading the main story 2020 NYTCo Work with us",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

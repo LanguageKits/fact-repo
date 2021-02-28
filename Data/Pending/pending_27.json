@@ -1,0 +1,351 @@
+{
+    "document_id": -1,
+    "url": "https://www.vice.com/en_us/article/kz4g9x/study-proves-the-fccs-core-justification-for-killing-net-neutrality-was-false",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:38:32.651311+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "SKIP TO MAIN CONTENT en TV Election 2020 VICE Magazine The biggest study yet finds Ajit Pai\u2019s repeated claims that net neutrality hurt broadband investment have never been true.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "by Sep 27 2019, 1:25pm A new study has found the FCC\u2019s primary justification for repealing net neutrality was indisputably false.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "For years, big ISPs and Trump FCC boss Ajit Pai have told anyone who\u2019d listen that the FCC\u2019s net neutrality rules, passed in 2015 and repealed last year in a flurry of controversy and alleged fraud , dramatically stifled broadband investment across the United States.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Repeal the rules, Pai declared, and US broadband investment would explode.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "\u201cUnder the heavy-handed regulations adopted by the prior Commission in 2015, network investment declined for two straight years, the first time that had happened outside of a recession in the broadband era,\u201d Pai told Congress last year at an oversight hearing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "\u201cWe now have a regulatory framework in place that is encouraging the private sector to make the investments necessary to bring better, faster, and cheaper broadband to more Americans,\u201d Pai proclaimed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "But a new indicates that Pai\u2019s claims were patently false.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The study took a closer look at the earnings reports and SEC filings of 8,577 unique companies from Q1 2009 through Q3 2018 to conclude that the passage and repeal of the rules had no meaningful impact on broadband investment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Several hundred of these were telecom companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "\u201cThe results of the paper are clear and should be both unsurprising and uncontroversial,\u201d The researchers said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "\u201cThe key finding is there were no impacts on telecommunication industry investment from the net neutrality policy changes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Neither the 2010 or 2015 US net neutrality rule changes had any causal impact on telecommunications investment.\u201d While the study is the biggest yet to do so, it\u2019s not the first to reach this conclusion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Last year a deep analysis of industry financial data from consumer group Free Press found some ISPs actually invested more heavily in their broadband networks while net neutrality rules were active.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Journalists had similarly found no meaningful impact on network investment from net neutrality, something confirmed by the public statements of numerous ISP CEOs .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "While this latest study took a more detailed look at ISP capital expenditures than previous efforts, all have been quick to note there\u2019s a universe of factors that can impact broadband investment that have nothing to do with net neutrality, from natural disasters to a lack of competition in broadband markets.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Many phone companies, for example, have refused to upgrade or even repair their aging DSL lines because they\u2019re now focused on more profitable ventures like wireless advertising.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Given huge swaths of America only have the choice of one ISP to choose from , there\u2019s often little organic pressure for ISPs to put soaring profits back into the network or customer service .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Despite clear evidence disproving the \u201cnet neutrality killed broadband investment\u201d theory, both Pai and the telecom industry have repeatedly made the claim the cornerstone of public relations efforts for years, apparently hoping that repetition would forge reality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Last year, telecom lobbying group US Telecom released a study it claimed showed that broadband investment had spiked dramatically in 2017 thanks to \u201cpositive consumer and innovation policies\u201d and a \u201cpro-growth regulatory approach\u201d at the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The FCC\u2019s net neutrality rules weren\u2019t formally repealed until June of 2018.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Gigi Sohn, a former FCC lawyer who helped craft the FCC\u2019s 2015 rules, told Motherboard she hoped the comprehensive study would finally put an end to the debate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "\"This paper once again validates what the FCC found in 2015 and what net neutrality advocates have said for years\u2014that neither the net neutrality rules nor Title II classification had any impact on ISP investment,\u201d Sohn said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "\u201cNot surprisingly, the ISPs and their friends at the FCC and the Hill keep saying the opposite, despite overwhelming evidence to the contrary,\u201d she added.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "\u201cHopefully this comprehensive study, which studies ISP investment over nearly a decade, will put this matter to rest.\u201d Derek Turner, research director for consumer group Free Press, told Motherboard he doubted that would actually happen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "\u201cWe don\u2019t expect this study to kill the ISPs' zombie lies about net neutrality and investment,\u201d he said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "\u201cThe telecom companies and their defenders in Congress have long operated unmoored from reality, and no smoking gun is going to change that, certainly not one they\u2019ll never bother to read and consider fairly.\u201d The problem for the Pai FCC is that while industry may be ok with the agency playing fast and loose with the facts to the benefit of telecom giants, the courts have not been.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "The FCC has had three different major policy efforts reversed by the courts in as many months for being factually unsound, something that looms large over the net neutrality debate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "23 state attorneys general sued the FCC last year , claiming the agency ignored the public and hard data during its repeal of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "If the courts find the FCC justified its decision using falsified data (a violation of the ) the repeal could be reversed and net neutrality restored.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "A ruling in that case is expected any day now.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "An earlier version of this article noted that the study analyzed 8,577 telecom companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "It studied 8,577 companies total; more than 200 of those were telecom companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "FCC Get a personalized roundup of VICE's best stories in your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Subscribe to VICE Content Funding on VICE 2020 VICE MEDIA LLC",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

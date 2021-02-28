@@ -1,0 +1,101 @@
+{
+    "document_id": -1,
+    "url": "https://www.broadcastingcable.com/news/pressure-ramps-up-on-sen-sinema-over-net-neutrality",
+    "document_category": "Blog/magazine",
+    "annotators": [],
+    "author": "John Eggerton",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:40:19.848496+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Fight for the Future sponsors billboard calling out legislator Publish date: May 1, 2019 Fight for the Future has brought its net neutrality \"shaming\" billboard campaign to the Arizona stomping grounds of Sen. Kyrsten Sinema (D-Ariz.) over her apparent willingness to compromise to get to \"yes\" on compromise net neutrality rule legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Sinema has not followed her Democratic senatorial colleagues in supporting the Save the Internet Act, which would restore rules against blocking, throttling and paid prioritization.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "She also joined with Republican Senator Roger Wicker (R-Ohio), chairman of the Senate Commerce Committee, to form a net neutrality working group which will focus on \"crafting a net neutrality proposal to encourage innovation, boost investment, and close the digital divide.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Republicans and ISPs are on board with rules against blocking, throttling and anticompetitive paid prioritization, but not a return of Title II authority or the general conduct standard.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Those last two are must-haves for many Dems, so the path to a bipartisan bill is certainly uphill, although both sides say they want legislative certainty to end the legal back-and-forth over FCC rules of the past decade-plus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "“Apparently the only people Senator Sinema cares about are telecom lobbyists,” said Fight for the Future deputy director Evan Greer in a statement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The bill just passed the House 232-190 with bipartisan support.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Every other Democrat in the House and Senate supports it.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "terms: Next TV Form working group to try to find bipartisan path forward on legislation NCTA said it is dead end; Public Knowledge calls it critical step Gives Hill 'til Friday to avoid broadband blitz House members also call for legislation, but focus on bill GOP opposes Activists pledge to fight on; dereg fans praise court call Assembly committee, with Democratic support, amends tough measure Said it is time to roll up sleeves and get 'er done Legislative link means one can't pass without the other RSS",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

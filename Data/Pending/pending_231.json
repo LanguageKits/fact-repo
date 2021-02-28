@@ -1,0 +1,461 @@
+{
+    "document_id": -1,
+    "url": "https://chicago.suntimes.com/2019/10/11/20903264/internet-net-neutrality-illinois-legislature-editorial",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:32:44.243970+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to main content Try 1 month for $1 Try 1 month for $1 Site search Chicago Sun-Times main menu FBI Files  Search for a Job  LGBTQ  Sky / WNBA  PolitiFact  Movies and TV  Chicago-pedia  City at the Crossroads  Letters to the Editor  FBI Files  Search for a Job  ✕ LIVE UPDATES  Get the latest news about coronavirus in Illinois × Filed under: It’s your job, Illinois, to save the internet Springfield can’t ignore the peril any longer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Legislators had better get to work.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Oct 11, 2019, 6:01pm CDT  Share this story Share this on Facebook Share this on Twitter All sharing options All sharing options for: It’s your job, Illinois, to save the internet An internet connection panel.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Rich and powerful people are not allowed to honk you off the road or ban you from driving down a public highway.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Yet you will face precisely that danger when using the internet if a handful of Big Tech companies, supported by the Trump administration, are allowed to pick and choose who gets access, largely based on who can pay.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "A bill pending in Springfield, which we support, would protect the current open internet in Illinois.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "It is part of a state-by-state effort to thwart a Federal Communications Commission effort to end “net neutrality” — equal internet access for everybody.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The Illinois General Assembly has been slow to respond to this looming attack on an open internet, viewing it as a federal issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "But a federal appellate court ruling last week sent the message that Illinois and other states no longer can do nothing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The court upheld the FCC’s repeal of regulations designed to protect net neutrality but also ruled that states are free to write their own rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Illinois legislators take heed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "We have grown accustomed to an internet that offers a level playing field.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "We can navigate online as we please, shopping here and reading there.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "A big corporation can set up a website, but so too can a small start-up — for no extra internet service charge and enjoying the same high-speed delivery.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "But the FCC in 2017, in the name of deregulation across government, threw out Obama-era rules prohibiting broadband internet providers, such as Comcast and AT&T, from blocking websites or charging more for higher delivery speeds and certain content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "We know the internet can feel like a circus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "We’re as fed up as anybody with the extremists and the trolls.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "But the internet is also the 21 st century’s primary marketplace of ideas and commerce, and that positive purpose in a free society will be diminished if the big broadband service providers are allowed to monetize who gets access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Five states have enacted legislation to protect so-called “net neutrality.” Twenty-nine other states, including Illinois, are considering legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "bottled up in the House Rules Committee, is fairly narrow in scope.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "It would require that any internet service provider that does business with state agencies honor net neutrality standards.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "It also would require internet service providers to disclose whether they are, more generally, adhering to net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "It’s unlikely the bill, which could be tweaked, will be taken up for consideration in the upcoming veto session.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "But when the Legislature returns in January, we urge lawmakers to dislodge the bill, ignore the pleading of an army of lobbyists, and pass it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "If enough states — especially big ones like California, New Jersey and Illinois — establish net neutrality rules, service providers will have little choice, as a practical matter, but to abide by net neutrality nationwide.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Don’t let the rich and powerful dictate who wins and loses on the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "EDITORIAL: If the feds won’t fight for your internet freedom, every state should What the end of ‘net neutrality’ means for your internet use Send letters to letters@suntimes.com .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Let the hard work begin now for a full and fair election this fall Pandemic’s disorder in the court A foolish lawsuit threatens your hard work to fight COVID-19 The fiction of Mitch McConnell’s ‘blue state bailout’ How do we thank ‘essential workers?’ Vote for a graduated Illinois income tax on Nov. 3 Saying ‘no’ to a rent strike — but ‘yes’ to helping renters hammered by the pandemic Party shut down by cops was held in townhome owned by CFD commander The homeowner and several other firefighters also are in an unrelated online video made as part of the \"Don’t Rush Challenge.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "The inspector general has been asked to look into that video to see if it violated city policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Here’s what will reopen in Illinois Friday under new stay-at-home order The extension of Illinois’ stay-at-home order through the end of May includes some significant changes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Driver ejected, killed in Dan Ryan rollover crash at 95th Street ramp The man veered head-on into a guardrail, overturning his van several times.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Suburban Chicago gynecologist’s mysterious death in Texas ‘was a homicide,’ expert says ‘This certainly smacks of homicide where somebody .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "essentially garroted this gentleman to death and then set a fire to try to disguise that fact,’ Milwaukee medical examiner says.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "After the airing of Episodes 3 and 4 of \"The Last Dance,’’ Perdue, who won four NBA championships (three with the Bulls), has grown tired of former Chicago high school legend Isiah Thomas trying to rewrite the narrative.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Sign up for the  newsletter  Know about breaking news as it happens.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "We follow the stories and update you as they develop.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "(required) By signing up, you agree to our and European users agree to the data transfer policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Lightfoot dances on TikTok to announce citywide graduation ceremony — online, with Oprah The virtual graduation for the class of 2020 will be held in mid-June.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "G League presents a new challenge to college basketball But some would argue that losing a handful of players — even elite ones — won’t hurt college basketball too much.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "This time, Pence wears mask as he tours Indiana plant Vice President Mike Pence donned a face covering Thursday as he toured a General Motors/Ventec ventilator production facility in Indiana after coming under fire for failing to wear one earlier this week in violation of Mayo Clinic policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Chiefs use 5th-year option on QB Patrick Mahomes The team still intends to sign the Super Bowl MVP to a long-term contract.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Downstate health officials see no link between COVID-19 patient’s alleged violation and court ruling Richland County health officials said the woman’s actions were not sparked by the ruling, which only applied to the legislator.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "\"I’ve spoken directly with the patient,\" Micah Drummond, public health nurse told the Chicago Sun-Times.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "For allergy sufferers, a season of worry Forecasters are predicting a brutal spring allergy season for swaths of the U.S. at the same time that COVID-19 cases are rising dramatically.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Do not sell my info",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

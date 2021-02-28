@@ -1,0 +1,81 @@
+{
+    "document_id": -1,
+    "url": "http://www.ronpaulinstitute.org/archives/featured-articles/2020/august/31/cdc-bombshell-only-six-percent-of-covid-deaths-from-only-covid/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:57:37.843025+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "RSS < Older Newer > Written by Daniel McAdams Monday August 31, 2020 Over the weekend the Centers for Disease Control dropped a bombshell report on coronavirus/Covid deaths: of the approximately 165,000 \"Covid deaths\" less than ten thousand died from Covid.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The rest - a vast majority - had on average 2.6 serious additional diseases, with the addition in most cases of extreme advanced age.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Also today: the \"largest protest in German history\" over the weekend, as estimated millions turned out to oppose mandatory masks and lockdowns.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Similar protests took place in London and in Spain.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "In the US...mostly silence.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "When you join the for Peace and Prosperity You are supporting News and analysis like you'll get nowhere else Brave insight on foreign policy and civil liberties A young writer's program and much more!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "833 W. Plantation Drive \u2022 Clute, TX 77531 The Ron Paul Institute for Peace and Prosperity is a special project of the Foundation for Rational Economics and Education, a non-profit established by Ron Paul in 1976.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

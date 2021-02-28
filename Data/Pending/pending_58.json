@@ -1,0 +1,141 @@
+{
+    "document_id": -1,
+    "url": "https://www.broadcastingcable.com/news/pai-defends-mozilla-decision-comment-release",
+    "document_category": "Blog/magazine",
+    "annotators": [],
+    "author": "John Eggerton",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:39:54.735599+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "TV Careers RSS TV Careers TV Careers Says he was delegating to staff, not hiding net neutrality ball Publish date: Mar 11, 2020 FCC chairman Ajit Pai Pushed back hard on Wednesday (March 11) against suggestions by Democratic commissioner Jessica Rosenworcel that he was playing \"hide the ball\" with the way the FCC issues its request for comment on the remand of some of its net neutrality dereg order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "That came at a House Financial Services Subcommittee budget hearing featuring both Pai and Rosenworcel as witnesses.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Rep. Sanford Bishop (D-Ga.), citing a 2010 law requiring federal agencies to communicate in \"plain language\" the public can understand, pointed to the headline on the FCC's request for comment on a federal court's directive to better address the FCC net neutrality deregulation on public safety, the regulation of pole attachments, and its Lifeline broadband/phone subsidy program.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "That headline: \"WCB6 Comment on Discreet Issues Arising from Mozilla Decision.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The court did uphold Pai's elimination of net neutrality rules, but said it had not sufficiently explained its impact on the above.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Bishop said the headline didn't seem to be plain language and he didn't have any idea what the FCC was requesting comment on, while Rosenworcel called it \"hiding the ball\" from the American public.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Pai countered that the language came from career staffers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "He said \"one could always take a shot from the peanut gallery along those lines,\" apparently putting Rosenworcel rather than Bishop in that gallery.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "He suggested that the headline was something that had been delegated.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "He said when you have the responsibility of running an agency, when responding to a remand on particular, discreet issues, \"I rely not on political judgments but on the judgment of our career staff in the office of general counsel and the Wireline Competition Bureau.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "He said it had been drafted to respond to those particular issues that was what they had approved and he wasn't going to second guess them.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Rosenworcel said they were accountable to the public, which had expressed great interest in the issue, and that when a court asked it to revisit some parts of deregulatory decision, \"we put it in legalese.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "terms: Next TV Net neutrality activists vow to keep up fight to restore rules Ask full appeals court to hear panel decision upholding Pai dereg Says he will let Hill know if President contacts FCC over decision Trump attacked Tells senators FCC has never concluded they ran afoul of net neutrality Budget hearing dominated by spectrum auction issue Tells international audience net neutrality deregulation helps facilitate AI Decries threats and harassment over net neutrality position Tells tower crews he is confident transition will meet 2020 deadline, with their help RSS",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

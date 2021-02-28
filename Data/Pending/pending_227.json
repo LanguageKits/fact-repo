@@ -1,0 +1,341 @@
+{
+    "document_id": -1,
+    "url": "https://www.detroitnews.com/story/opinion/editorials/2017/12/02/roll-back-net-neutrality/108247670/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:32:33.928051+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Get the news Let friends in your social network know what you are reading about LinkedIn Our editorial: Roll back net neutrality FCC chairman’s proposal to get rid of Obama-era regulations on internet the right move and will spur innovation Our editorial: Roll back net neutrality FCC chairman’s proposal to get rid of Obama-era regulations on internet the right move and will spur innovation Check out this story on detroitnews.com: https://detne.ws/2BCVRdg A link has been sent to your friend's email address.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "A link has been posted to your Facebook feed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "To find out more about Facebook commenting please read the Conversation Guidelines and FAQs Welcome to our new and improved comments , which are for subscribers only .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "This is a test to see whether we can improve the experience for you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "You do not need a Facebook profile to participate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "You will need to register before adding a comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Typed comments will be lost if you are not logged in.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "It's OK to disagree with someone's ideas, but personal attacks, insults, threats, hate speech, advocating violence and other violations can result in a ban.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "If you see comments in violation of our community guidelines , please report them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "OPINION Our editorial: Roll back net neutrality Published 10:46 p.m.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "ET Dec. 2, 2017  Ajit Pai’s proposal will encourage innovation in the coming years; net neutrality squashes it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "You’d be forgiven for thinking Federal Communications Commission chairman Ajit Pai was trying to eliminate the internet altogether with the outrage over his recent proposal to roll back Obama-era net neutrality regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "But Pai’s move is the right one, and a hopeful sign the internet will continue to operate under a light touch from the government for the foreseeable future.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Net neutrality roughly means that the government — under a warped interpretation of a regulatory framework from the 1930s, “Title II,” originally designed to govern phone companies — should mandate internet service providers (ISPs) treat all content the same, regardless of how much bandwidth certain content requires.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "But internet traffic is already treated equally in the vast majority of cases.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Network management forces ISPs to prioritize content here and there, but this is not a widely abused policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "And trying to pre-empt companies from the temptation to create fast and slow internet lanes is a bad reason to overhaul the regulatory framework that has governed the internet since its inception.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Net neutrality supporters argue that without the regulations internet companies will be able to throttle websites at their discretion and charge more for certain content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Streaming videos from sites like Netflix and YouTube, for example, use much more bandwidth than text only.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "But that’s not happening, and at the end of day it’s about who is going to charge the customer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The current regulatory structure is best suited to allow market forces, not the government, to make that decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The FCC will vote on the decision on Dec. 14.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Pai has reiterated that the Federal Trade Commission will be able to enforce transparency from ISPs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "And the Justice Department will retain the control it has over antitrust issues to ensure an ISP can’t shut down services from other companies that compete with its own.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "With the internet now controlling such large swaths of the functions of government, business and education, not to mention consumer shopping, consumers deserve to be able to find customized packages that best meet their needs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "The FCC will also be able to punish companies that try to deceive consumers on the issue of paid prioritization, the major concern for most consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Broadband network investment has already dropped 5.6 percent in the two years since the FCC’s decision to implement net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Stopping the rule will help turn that around.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "The internet has been the greatest engine for human communication and information, but it’s been able to flourish and improve the quality of life for millions of Americans because the government has largely kept its hands off.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "That’s how it should remain.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "CONNECT TWEET LINKEDIN COMMENT EMAIL MORE Read or Share this story: https://detne.ws/2BCVRdg Share your feedback to help improve our site experience!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Jacques: Backlash grows against Whitmer's excessive order April 15, 2020, 7:59 a.m.  Opinion: Legislature needs to balance Whitmer's virus response April 14, 2020, 10:28 p.m.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Letters: On 'essential' work and the boating ban April 14, 2020, 10:26 p.m.  Opinion: For safe recovery, put workers first April 14, 2020, 10:25 p.m.  Payne: Robots on the rise in the COVID-19 economy April 14, 2020, 8:39 p.m.  April 13, 2020, 11 p.m.  Alerts & RSS TV + Radio octopulse rod-n-real eBooks eEdition PhotoStore Do not sell my data / Cookie policy Cars.com Renvy.com Michigan.com",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

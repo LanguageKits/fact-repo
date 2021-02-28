@@ -1,0 +1,391 @@
+{
+    "document_id": -1,
+    "url": "https://www.reviewjournal.com/opinion/editorial-net-neutrality-will-hinder-service-raise-prices/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:42:58.984089+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "SUBSCRIBE Support local journalism.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "EDITORIAL: Net neutrality will hinder service, raise prices ",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "LAS VEGAS REVIEW-JOURNAL     February 12, 2015 - 12:01 am     The Obama administration believes the Internet needs fixing, and that they’re just the folks to do it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "By regulating it like a Great Depression-era utility, of course.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "President Barack Obama says the Federal Communications Commission needs to “implement the strongest possible rules” so Internet service providers can’t connect customers to some websites — primarily hugely popular ones, such as Google, Netflix and Facebook — more quickly than others.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Last week, FCC Chairman Tom Wheeler gave fellow commissioners copies of proposed “net neutrality” rules that would reclassify the Internet as a public utility.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The regulations, part of the president’s go-it-alone approach to governance, would do an end-around Congress by applying President Franklin Roosevelt’s 1934 Communications Act to the Internet with the same level of control applied to the old Ma Bell monopoly.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Mr. Wheeler, a former telecom lobbyist and one of the president’s leading fundraisers in 2008 and 2012, previously had pushed back on the president’s wishes, preferring more of a “hybrid approach” that would tighten the reins on broadband service providers while giving them plenty of room to enter paid prioritization agreements.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The rules introduced last week, however, are much more aggressive than what Mr. Wheeler proposed early last year and are very much in line with President Obama’s wishes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Sen. Ron Johnson, R-Wis., is chairman of the Homeland Security and Governmental Affairs Committee, one of two congressional committees now investigating whether the White House improperly influenced Mr. Wheeler.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Sen. Johnson sent the FCC chairman a letter asking him to explain his decision, as well as produce communication and meeting documents related to the issue.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Also among those speaking out is Ajit Pai, one of two Republican FCC commissioners.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "When President Obama first floated his ideas on net neutrality, Mr. Pai expressed concern that the president’s plan would needlessly limit broadband investment, reduce competition among Internet service providers, slow the speed and expansion of the World Wide Web and choke off Internet access to rural areas of the country.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "After receiving a copy of Mr. Wheeler’s proposal, Mr. Pai said the plan “marks a monumental shift toward government control of the Internet” that “gives the FCC the power to micromanage virtually every aspect of how the Internet works.” “The plan explicitly opens the door to billions of dollars in new taxes on broadband,” he said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "“These new taxes will mean higher prices for consumers and more hidden fees that they have to pay.” He added that the plan “saddles small, independent businesses and entrepreneurs with heavy-handed regulations that will push them out of the market” and, as a result, “Americans will have fewer broadband choices.” If all this isn’t bad enough, it gets worse: The public isn’t allowed to review the proposed rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Mr. Wheeler has prohibited the disclosure of any of the regulations until after the FCC votes on it later this month.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Americans were promised the most transparent administration in history.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Now the FCC will have to pass the rules so we can find out what’s in them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "We all know how this is going to turn out.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "If not, tell the FCC to back off.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Posted on: , MOST READ 1 Sisolak says he’ll extend stay-at-home order to May 15 2 Nevada casino regulator considering casino capacity limits for reopening 3 Las Vegas firm creates safety shields for use at casino slots, tables 4 Business leaders slam Sisolak on slow reopening plans 5 Man arrested after shots fired at late-night Amazon delivery driver LOCAL NEWS YOUR WAY Sign up for our free daily Morning and Afternoon Update newsletters.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "SIGN UP By signing up you agree to our and .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Unsubscribe at any time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Don't miss the big stories.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Like us on Facebook.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "THE LATEST LETTER: Nevadans are getting restless as weather warms up April 29, 2020 - 9:00 pm April 29, 2020 - 9:00 pm Let’s open state and local recreational areas.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "LETTER: Las Vegas mayor, Nevada governor need to work together April 29, 2020 - 9:00 pm April 29, 2020 - 9:00 pm Let’s not be our own worst enemy in virus fight.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "CARTOON: Joe Biden and sexual assault / RJ April 29, 2020 - 9:00 pm April 29, 2020 - 9:00 pm #MeToo and the liberal media’s political double standard.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "EDITORIAL: Pandemic restrictions and constitutional rights RJ April 29, 2020 - 9:00 pm April 29, 2020 - 9:00 pm Good to know the Justice Deparment is watching.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "JONAH GOLDBERG: Hollywood bows to China: Here’s how to fix that April 29, 2020 - 9:00 pm April 29, 2020 - 9:00 pm Truth in labeling for the movie industry.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "LETTER: Review-Journal’s biases are showing April 28, 2020 - 9:00 pm April 28, 2020 - 9:00 pm Ignoring reality on the environment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "EDITORIAL: Findings on virus, kids relevant to lockdown policies RJ April 28, 2020 - 9:00 pm April 28, 2020 - 9:00 pm Nevada still awaits a plan from Gov.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "VICTOR JOECKS: Here’s how to reopen Nevada safely and end the coronavirus quarantine / RJ April 28, 2020 - 9:00 pm April 28, 2020 - 11:51 pm Gov.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Steve Sisolak has yet to articulate a plan to free Nevada from its coronavirus lockdown.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "LETTER: Nevada unemployment fiasco is unacceptable April 28, 2020 - 9:00 pm April 28, 2020 - 9:00 pm This walled-off, impregnable division of the state needs to be more transparent and offer people something besides deafening silence.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "INFO & EDITIONS e-Edition SOLUTIONS FAQ SUBSCRIPTIONS CONNECTIONS AFFILIATE PUBLICATIONS rj magazine 2019 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Powered by WordPress.com VIP x By continuing to browse or by clicking “I Accept Cookies” you agree to the storing of first-party and third-party cookies on your device.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "By agreeing to the use of cookies on our site, you direct us to disclose your personal information to our third party service providers for the purposes for which we collect your information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

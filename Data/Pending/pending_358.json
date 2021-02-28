@@ -1,0 +1,431 @@
+{
+    "document_id": -1,
+    "url": "https://www.dailywire.com/news/watch-e-r-doctors-urge-a-reopening-lockdown-creating-public-health-crisis-doctors-pressured-to-add-covid-to-death-reports-quarantining-healthy-never-seen-befor",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:50:23.753451+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "\u2022 Apr 26, 2020 DailyWire.com \u2022 Westend61 via Getty images  During a press conference on Wednesday, California emergency room doctors Dan Erickson and Artin Massihi of Accelerated Urgent Care told reporters that nationwide lockdown policies are not an appropriate reaction to what current data shows about the China-originated novel coronavirus but are instead causing measurable public health issues, like spikes in domestic violence, sexual abuse, depression, and spreading fear to non-COVID-19 related would-be patients that are skipping out on vital health care.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "\u201cWe understand microbiology, we understand immunology, and we want strong immune systems,\u201d Dr. Erickson told reporters, rebuffing inconsistent shelter-in-place orders .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "\u201cI don\u2019t want to stay in my home and develop a weak immune system, and then come out and get a disease.\u201d Erickson noted that quarantining the healthy is like nothing he\u2019s seen before.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "\u201cWe decided to keep people at home and isolate them, even though everything we\u2019ve studied about quarantine, typically you quarantine the sick,\u201d he explained.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "\u201cWhen someone has measles you quarantine them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "We\u2019ve never seen the healthy, where you take those without disease and without symptoms and lock them in your home.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "So, some of these things from what we\u2019ve studied from immunology and microbiology aren\u2019t really meshing with what we know as people of scientific minds who read this stuff.\u201d E.R.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "doctors across the nation, from California, to Wisconsin, to New York, said Erickson, are seeing folks avoid critical lifesaving care out of fear.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "\u201cWhen I talk to E.R.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "physicians around the country, what\u2019s happening?\u201d he said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "\u201cWell, because COVID has become the focus, people with heart disease, people with cancer, hypertension, and various things that are critical are choosing not to come in based on fear.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "So what that\u2019s doing is forcing the health care system to focus on COVID and not focus on a myriad of other things that are critical because we don\u2019t have the staff there and the major complaint is fear.\u201d Meanwhile, he claimed, the fatality rate for COVID-19, which he said might be more contagious than the flu, is on-par with flu fatality rates, if not lower.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "\u201cIn Kern County, we\u2019ve tested 5,213 people and we have 340 positive COVID cases.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Well, that\u2019s 6.5 percent of the population.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Which would indicate a widespread viral infection similar to the flu,\u201d the doctor said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "\u201cSo if you look at California, these numbers are from yesterday, we have 33,865 COVID cases out of a total of 280,900 total tested, that\u2019s 12 percent of Californian\u2019s were positive for COVID.\u201d \u201cWell, we have 39.5 million people, if we just take a basic calculation and extrapolate that out, that equates to about 4.7 million cases throughout the state of California.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Which means this thing is widespread, that\u2019s the good news.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "We\u2019ve seen 1,227 deaths in the state of California with a possible \u2026 prevalence of 4.7 million.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "That means you have a 0.03 chance of dying from COVID-19 in the state of California,\u201d he continued, adding, \u201c96% of people in California who get COVID recover.\u201d Dr. Massihi said the initial reaction to apply shelter-in-place two months ago, when all we could rely on was theoretical data, was likely the right call, but now that there is available real data, lockdown orders could create additional harm outside of COVID-19.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Dr. Erickson repeatedly called the initial models, which projected millions of COVID-19 deaths, \u201cwoefully inaccurate.\u201d What they are seeing across the nation, and even in the rest of the world, however, is \u201cmillions of cases, small amount of death,\u201d he reiterated multiple times.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "This holds true even in New York, he argued.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "There are \u201c19,410 deaths out of 19 million people which is a 0.1% chance of dying from COVID-19 in the state of New York, and they have a 92% recovery rate if you are diagnosed with COVID,\u201d Dr. Erickson said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Asked by a reporter if \u201csocial distancing\u201d was key to dropping our deaths relative to model predictions, Dr. Erickson highlighted Sweden and Norway: both Scandinavian countries, Norway with lockdown and Sweden without.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "There is no real difference between their death rates to indicate lockdown is warranted, he argued.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Lockdown orders have resulted in, for one thing, a community spike in child molestation, the doctor noted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "\u201cMolestation is increasing at a severe rate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "We could go over multiple cases of children who have been molested due to angry family members who are intoxicated, who are home who have no paycheck,\u201d he said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "\u201cThese things last a lifetime \u2026 these are things that will follow these people and affect them in a negative fashion for their life and these are secondary effects from COVID.\u201d Spousal abuse, alcoholism, anxiety, depression, and suicide have also spiked in their community, Dr. Erickson said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "\u201cEducation has dropped off, economic collapse, medical industry,\u201d he added, \u201cwe\u2019re all suffering because our staff isn\u2019t here and we have no volume.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "These are all real things that I\u2019m seeing every day.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "I don\u2019t read about this stuff; I\u2019m seeing it in my clinics.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "We have clinics from Fresno to San Diego and these things are spiking in our community.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "These things will affect people for a lifetime, not for a season.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "So let\u2019s let\u2019s make sure we\u2019re clear on that.\u201d Dr. Erickson also noted that doctors across the country have felt pressured to include COVID on death reports.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "\u201cIt\u2019s interesting, when I\u2019m writing up my death report, I\u2019m being pressured to add COVID,\u201d Dr. Erickson said he\u2019s heard doctors tell him.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "I think so.\u201d \u201cSo this is what I\u2019m hearing from physicians I talked to in Wisconsin, New York, and everywhere,\u201d he said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Lockdown measures are wildly inconsistent, favoring big businesses, Dr. Erickson added.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "There\u2019s no science behind that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "As we\u2019ve gone over, that is not science, there\u2019s other factors in play that we don\u2019t have time to go into, but it\u2019s not science.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "I want to make that clear.\u201d WATCH: PART TWO: The Daily Wire, headed by bestselling author and popular podcast host Ben Shapiro, is a leading provider of conservative news, cutting through the mainstream media\u2019s rhetoric to provide readers the most important, relevant, and engaging stories of the day.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Get inside access to The Daily Wire by becoming a subscriber .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Don't miss a beat of our coverage.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

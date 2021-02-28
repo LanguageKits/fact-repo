@@ -1,0 +1,361 @@
+{
+    "document_id": -1,
+    "url": "https://www.rgj.com/story/money/business/2017/11/28/net-neutrality-explained/903771001/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Brandon Cerocke",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:28:51.110076+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "In the next few weeks the FCC will vote on continued existence of net neutrality, the principle that all internet traffic should be treated equally with respect to access and transport speeds.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Net neutrality, explained The concept of net neutrality is not usually an issue for the casual web surfer, as you would expect that whatever you try to access is only limited by the internet speed you are willing to pay for.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Check out this story on rgj.com: https://www.rgj.com/story/money/business/2017/11/28/net-neutrality-explained/903771001/ A link has been sent to your friend's email address.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "A link has been posted to your Facebook feed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "To find out more about Facebook commenting please read the Conversation Guidelines and FAQs Welcome to our new and improved comments , which are for subscribers only .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "This is a test to see whether we can improve the experience for you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "You do not need a Facebook profile to participate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "You will need to register before adding a comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Typed comments will be lost if you are not logged in.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "It's OK to disagree with someone's ideas, but personal attacks, insults, threats, hate speech, advocating violence and other violations can result in a ban.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "If you see comments in violation of our community guidelines , please report them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "CONNECT TWEET LINKEDIN COMMENT EMAIL MORE In the next few weeks the FCC will vote on continued existence of net neutrality, the principle that all internet traffic should be treated equally with respect to access and transport speeds.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "A vote against it could create a situation where consumers might be taken advantage of by internet bandwidth carriers based on the type of websites and web services they access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Internet should not have 'neutrality' regulations: Ron Knecht and Geoffrey Lawrence The concept of net neutrality is not usually an issue for the casual web surfer, as you would expect that whatever you try to access is only limited by the internet speed you are willing to pay for.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Most consumers will buy a product or service, like internet access from an ISP, and if it works as advertised there usually are no concerns.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Today you use your internet service to browse websites and services like Amazon, Hulu, YouTube, etc., without being charged extra for the access, while you might pay for a subscription to the website content, the bandwidth that brings it to your computer is included in fees you pay to your ISP.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "This could all change by next year if the FCC votes to eliminate net neutrality or significantly changes the current open, unregulated nature of internet access later this this year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "AT&T has butted heads with net neutrality rules before, but now the company claims it's joining the movement to save it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The FCC, which is now run by an ex-Verizon lawyer, is leading the charge for the elimination of net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The revocation of the net neutrality principle isn’t necessarily directly targeted at the consumer, but its trickle down will surely affect the pocketbooks and patience of the everyday internet enthusiasts, business owners and the burgeoning internet economy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "At this moment, the principle of net neutrality forces internet carriers to treat all web traffic the same, meaning that the movie you are streaming, the random websites you visit daily and the business cloud services you use are unable to be slowed down, blocked or leveraged for additional monies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Sen. Heller, defend net neutrality: Neeley TMI — an informed argument against net neutrality: Jessica Reeder The game here is to change the playing field and introduce regulations which will allow internet service providers to essentially create traffic lanes (i.e., slow lanes and fast lanes).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "By doing this, internet providers can then charge businesses like Netflix and Amazon a premium to use the fast lane (higher speeds).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "If companies do not pay these new fees they could be dumped into the slow lane, potentially making their services so slow that they will be forced to pay to allow quick access to their content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "For consumers, this means that the costs incurred by some of these businesses may be passed down to us to cover the additional costs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Essentially internet providers can, through these regulations, decide what can be accessed and potentially open the door to internet censorship.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Internet services will likely go up and certain content will cost more to access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "The internet giants like AT&T, Verizon and Comcast are the winners here and their ability to decide who is heard, who is not and what type of places you can visit isn’t the type of internet any of us would ever want.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Their interests are not ours and the very real threat of the elimination of net neutrality could be a massive hit to internet users and businesses across this country.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "The vote by the FCC is scheduled for Dec. 14.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "There are ways you can be heard, but the impact it will have remains to be seen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Reach out to your congressional representatives and sign the petition on freepress.net or savetheinternet.com .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Maybe enough of us can be heard to make a difference.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Brandon Cerocke is the director of sales and marketing for IQ Systems Inc. ",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "RSS Elections 2018 USA TODAY Sports USA TODAY Do not sell my data / Cookie policy Cars.com Reno ReachLocal Thanksgiving.com",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

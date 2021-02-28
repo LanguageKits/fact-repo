@@ -1,0 +1,291 @@
+{
+    "document_id": -1,
+    "url": "https://www.npr.org/sections/thetwo-way/2016/06/14/471286113/u-s-appeals-court-holds-up-net-neutrality-rules-in-full",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Alina Selyukh",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:56:38.635550+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Accessibility links Skip to main content Keyboard shortcuts for audio player NPR Shop Expand/collapse submenu for News Expand/collapse submenu for Arts & Life Expand/collapse submenu for Music Expand/collapse submenu for Shows & Podcasts NPR Shop About NPR The U.S. Court of Appeals for the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Circuit rejected a lawsuit by telecom, cable and wireless industry associations against new rules that expanded federal oversight of Internet service providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "June 14, 2016 10:42 AM ET  The Democratic majority of the Federal Communications Commission voted to approve new \"net neutrality\" rules in February 2015, prompting a court challenge from Internet providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The Democratic majority of the Federal Communications Commission voted to approve new \"net neutrality\" rules in February 2015, prompting a court challenge from Internet providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "A federal appeals court on Tuesday fully upheld the so-called Open Internet rules , regulations backing the principle of net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "It's the idea that phone and cable companies should treat all of the traffic on their networks equally — no blocking or slowing their competitors, and no fast lanes for companies that can pay more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The U.S. Court of Appeals for the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Circuit delivered a slam-dunk victory to the Federal Communications Commission as it rejected the petition filed by telecom, cable and wireless industry associations alongside AT&T;, CenturyLink and several smaller providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The ruling was celebrated as a victory for consumers by various public interest groups and Internet companies that had supported the FCC in the lawsuit.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "However, the telecom industry is expected to continue battling the regulations in Congress and before the nation's higher court: \"We have always expected this issue to be decided by the Supreme Court, and we look forward to participating in that appeal,\" AT&T; General Counsel David McAtee said in a statement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "This is the third time in less than a decade that the FCC has had to defend these principles, using various legal frameworks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "This very court had twice rejected the FCC's rules in lawsuits brought by Internet providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Last year, with President Obama and more than 4 million people weighing in through public comments, the FCC went all in and overhauled the way it regulates broadband Internet by reclassifying it as a more heavily regulated telecommunications service, similar to rules applied to public utilities.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Internet service providers challenged that decision, saying they weren't opposed to the rules themselves but rejected the dramatic expansion of FCC authority over the Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "They argued that the tighter regulations rooted in a 1934 legal statute would stifle innovation and threaten investment by the industry.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The three-judge panel at the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Circuit Court of Appeals, however, ruled that the FCC did have the proper authority to reclassify broadband Internet under the Title II of the Telecommunications Act.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The judges wrote in the opinion: \"The problem in [the previous lawsuit] was not that the Commission had misclassified the service between carriers and edge providers but that the Commission had failed to classify broadband service as a Title II service at all.The Commission overcame this problem in the Order by reclassifying broadband service — and the interconnection arrangements necessary to provide it — as a telecommunications service.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The wireless carriers had also argued that they should remain shielded from anti-blocking and discrimination rules, given the unique shared nature of their networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The court, however, ruled that Open Internet regulations should apply to both wired and wireless Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "What the court's opinion means in practical terms is that the net neutrality rules, which have been on the books for a year, will remain on the books, says , a lawyer at Davis Wright Tremaine.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "\"The only thing that changed is that these rules have been upheld by this court,\" says Karanjia, a former FCC lawyer who was involved in the agency's previous net neutrality court challenge.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "But he says it also means new federal oversight of how Internet providers handle web traffic on their networks.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "That includes a new general conduct rule that allows the FCC to review complaints against ISPs on a case-by-case basis.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Already, the FCC has proposed first-ever privacy rules for Internet service providers, stemming from the new regulatory authority.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "\"Today's ruling ... ensures the internet remains a platform for unparalleled innovation, free expression and economic growth,\" FCC Chairman Tom Wheeler said in a statement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "\"After a decade of debate and legal battles, today's ruling affirms the Commission's ability to enforce the strongest possible internet protections — both on fixed and mobile networks — that will ensure the internet remains open, now and in the future.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Net neutrality FCC About NPR Sponsor NPR NPR Careers NPR Shop NPR Events Visit NPR NPR thanks our sponsors Become an NPR sponsor",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

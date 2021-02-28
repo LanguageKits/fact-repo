@@ -1,0 +1,451 @@
+{
+    "document_id": -1,
+    "url": "https://www.houstonchronicle.com/opinion/editorials/article/Save-net-neutrality-12898949.php",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:32:38.744428+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "The underlying beauty of the internet is that it serves as the ultimate free market.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Everyone competes on a level playing field.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "But without net neutrality, telecoms could start charging businesses at their own discretion and promote some content over others.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Photo: Thatree Charoenpornpimongul, HO / TNS If you’ve ever had to self-censor a curse word or two when looking at your latest internet or cable bill, you’re not alone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Telecoms are among the most loathed institutions in the United States.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Two of the America’s top 20 most-hated companies are telecoms — Comcast and CenturyLink — according to a recent report by 24/7 Wall St .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The bulk of Americans don’t have much choice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Around 40 percent of the country has only one option for broadband internet access.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "That means telecoms have got customers over a barrel.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Just this month, Comcast announced that it would refuse to offer its fastest internet connection speeds to subscribers who won’t also sign up for cable television, essentially forcing Americans to sign up for a service they might not want.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "OPINION: Net neutrality rules are A-OK for now With no competition, there’s nothing to stop telecoms from using their monopoly power to exploit people through higher prices and lower speeds — nothing except for federal regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "That’s why it is imperative that Congress use the Congressional Review Act — the CRA — to save net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "(D-N.Y.) has said he plans to file a discharge petition today, which could force a vote on the matter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "All 49 Senate Democrats along with Republican U.S. Sen. Susan Collins of Maine have said they support restoring net neutrality after the Federal Communications Commission’s regulatory flip-flop last year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "It’ll only take one more Republican to gain a majority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Ted Cruz and John Cornyn, the eyes of Texas are upon you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "RELATED: The internet has already lost its neutrality As we’ve written before, the internet relies on net neutrality to function, and Congress has a duty to put it back in place.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The underlying beauty of the internet is that it serves as the ultimate free market.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Everyone competes on a level playing field.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "But without net neutrality, telecoms could start charging businesses at their own discretion and promote some content over others.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Comcast could prioritize MSNBC.com, which it owns, over Fox News.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Verizon could slow down YouTube and Netflix while keeping fast speeds for its own streaming services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "If telecoms can give preferential treatment to their own products — or the highest bidder — then it becomes difficult for customers to discern quality services from the corporate favorites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Established companies could squash startups before they had an opportunity to compete.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "It also gives a few telecom conglomerates a massive amount of power over your daily life.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "That sort of preferentialism is illegal for pipeline companies and the electric grid.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "In the energy industry, content providers must remain separate from distribution networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "There’s a glass wall between drillers and transportation networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "RELATED: Internet service providers should be less like Enron and more like Kinder Morgan MORE: Why Ajit Pai is wrong about net neutrality In fact, all sorts of networks, from telephones to shipping companies, have to abide by these kinds of rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "It is how the world of commerce functions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Lawyers call it “common carrier.” Net neutrality was supposed to establish similar rules for the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "However, the FCC under President Trump voted to roll back those rules and grant telecoms special treatment, permitting them to implement all sorts of bizarre charging schemes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Because telecoms wanted more money.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Without net neutrality to restrain them, companies like Comcast, AT&T and CenturyLink could essentially turn the digital freeway into a toll road.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "And it’s not as if they’re using that money to improve their connection speeds or invest in research and development.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "If you were wondering what your internet bill pays for, here’s the answer: Comcast is preparing to offer $60 billion in cash to buy Twenty-First Century Fox Inc.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "If the deal goes through, the telecom will not only a own film catalog that stretches from Star Wars and X-Men to Kung-Fu Panda — it’ll also own near-monopolistic control over its distribution.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "And you can bet it’ll use that to squeeze you for every last cent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "It is all part of a pattern in which telecoms buy up content providers, consolidate their corporate holdings, then exploit the lack of competition to charge more for services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Congress has the ability to tie the hands of these unwieldy corporations and force them to treat customers fairly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "That means voting yes on a net neutrality CRA and ensuring that telecoms have to follow the same rules as every other network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Submit a letter to the editor here.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Abbott pushes Friday reopening even as Texas misses benchmarks set by his advisers ‘It’s intimidation’: Texas landlord locks out tenants, despite pandemic and eviction moratoriums Coronavirus live updates: Texas A&M; system plans to reopen in the fall, including football Halliburton closes 2 locations in Texas, lays off 240 in Oklahoma Tilman Fertitta’s plan to ride out the coronavirus pandemic: Trim, borrow and plan for a new reality Opinion: We shouldn’t want to return to normal after COVID-19 Editorial: It's time to stop ignoring worker safety in Texas Opinion: Telemedicine options make health care more accessible Letters: Trump right on immigration ban Opinion: Wayne Christian picks side on capping oil Opinion: AIDS pandemic affected children’s mental health.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "How... Opinion: Why I'm waiting until mid-May to reopen my restaurant Editorial: One thing Texas needs to stay open of the News With oil reeling under pandemic, clean energy looks to capitalize Houston Chronicle earns 12 first-place APME awards Fed opens door for oil company loans John McClain Texans' Brandin Cooks doesn't view himself as DeAndre Hopkins'... A morning of baseball music for area senior citizens Return to e-Edition",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "document_id": -1,
+    "url": "https://www.broadcastingcable.com/news/fftf-pushes-for-net-neutrality-question-in-debates",
+    "document_category": "Blog/magazine",
+    "annotators": [],
+    "author": "John Eggerton",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:40:15.646003+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Said \"Big Cable\" won't ask unless forced to Publish date: Jul 30, 2019 Net neutrality activist Fight for the Future is trying to push CNN to ask a question about \"restoring network neutrality\" in Tuesday and Wednesday nights' Democratic primary debates.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The online campaign suggests that if the question is not asked, it will be because CNN parent AT&T censored the news outlet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "It points out that in the MSNBC-hosted last debate there was no mention of net neutrality, blaming that on the fact that MSNBC is owned by Comcast and \"Big Cable wants to control what you see on the internet, and what’s discussed in politics.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "CNN had not comment on the call for a net neutrality question or the characterization of a decision to ask such a questions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "AT&T and Comcast both oppose net neutrality rules based in Title II common carrier authority, while FFTF argues that is the only authority that fully protects internet openness.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "A D.C. federal appeals court is currently considering a challenge to the FCC's decision to reclassify ISPs out from under Title II authority and eliminate rules against blocking, throttling and paid prioritization.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "ISPS including AT&T and Comcast have said they would accept a return of some rules under FCC authority, just not Title II, and not with a return of the previous \"general conduct standard\" that FFTF also sees as necessary to get at future conduct that does not fall under the bright-line rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Candidates Amy Klobuchar, Elizabeth Warren, Cory Booker and others are already on the record in opposition to the FCC's reclassification under Republican chairman Ajit Pai.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "terms: FFTF CNN Next TV Said they must reverse 'disastrous' repeal Said government shutdown won't delay issue's latest day in court Said it is time to roll up sleeves and get 'er done Ask full appeals court to hear panel decision upholding Pai dereg Said her side, and maybe a few on the other, won't sign on to anything less Gives Hill 'til Friday to avoid broadband blitz Says there are still moderates that can be turned toward Save the Internet Act Said it won't happen again RSS",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

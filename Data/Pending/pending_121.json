@@ -1,0 +1,451 @@
+{
+    "document_id": -1,
+    "url": "https://theintercept.com/2017/12/15/fcc-net-neutrality-public-broadband-seattle/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Zaid Jilani",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:42:32.059380+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Commission’s 3-2 vote to repeal net neutrality rules has many worried that internet service providers will now build the same sort of tiered internet that some other countries have — where individual providers can collude to throttle traffic to certain websites and services in order to shake money from consumers or the companies themselves — or both.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "For instance, in Morocco last year, multiple internet service providers worked together to briefly block voice chat services like WhatsApp and Skype, in what was interpreted by some as an attempt to push consumers to subscribe to their phone subscriptions instead.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "prime mover of the city’s successful bid to enact a $15 an hour minimum wage — has another idea.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "She wants her city to simply build its own broadband network to compete with the private providers, guaranteeing a free flow of unthrottled information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "It may sound radical but it’s not unheard of.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Today, around 185 communities in the United States offer some form of public broadband service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Because these services are controlled by public entities, they are also accountable to the public — a perk that anybody who has tried to get a broadband company on the phone can appreciate.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "(In November, residents of Fort Collins, Colorado, rejected an industry fear-mongering attempt and voted to authorize the creation of a citywide broadband network.)",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "In a Facebook post written Thursday night, Sawant urged the state and city to act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "“ The FCC is doing the bidding of big business like Comcast, not the voters of either party, because public opinion is clear: 76% favor net neutrality, even including 73% of Republican voters,” she wrote.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "“Olympia should urgently pass net neutrality legislation in Washington State, and Seattle must invest in building municipal broadband, so no internet corporation has the power to prioritize making money over our democratic rights.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "” She included this graphic her team made to illustrate the idea: The concept of Seattle having a municipal broadband network was debated during last year’s city council and mayoral elections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Jenny Durkan, who won the mayoral election, argued that setting up such a network would simply be too expensive.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Her opponent Cary Moon was in favor of a municipal system.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "But last month, net neutrality was still alive.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The FCC’s move gives fresh air to the arguments from municipal broadband proponents that city-run systems are the best way to ensure an affordable and free internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Just ask the city of Chattanooga.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The Tennessee municipality’s Electric Power Board invested in and started offering a fiber-optic network to city residents in 2010.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "“We didn’t rate with Comcast because we were a small market,” Ron Littlefield, Chattanooga’s mayor at that time, told Vice Motherboard, about why the city decided to take the step of offering a city-run broadband network to its residents.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "“By virtue of that, we had little say over what service we were receiving.” By 2016, the city was offering 1 gigabit internet service to residents for $70 a month.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The cheap city-run internet acted as a sort of subsidy for small businesses, which started flocking to the city and built a vibrant tech and startup culture.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "“We hired consultants and they came back and told us: Chattanooga didn’t have a bad image, it just had no image.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The Gig has restored our luster and given us a new lever to pull that has tied us to the next century, rather than the steam and smoke of the old century,” Littlefield told Motherboard.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The political peril in pursuing public broadband, noted David Segal, head of Demand Progress, which advocates for an open internet, comes with the potential of giving unwarranted credibility to the arguments made by FCC Chair Ajit Pai, that states, cities, and the Federal Trade Commission are best poised to regulated the situation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "That’s not at all the case, Segal argued, and public broadband is a good thing in itself, but shouldn’t be seen as a substitute for net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "It’s no surprise that the telecommunications industry has responded bitterly toward the success of Chattanooga and similar public broadband systems.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "A number of states — with legislators backed by telecom giants like AT&T — moved to ban cities from establishing their own broadband networks with statewide preemption laws.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "If these laws remind you of the preemption laws that prevent cities from raising the minimum wage, well, don’t be surprised: The American Legislative Exchange Council — a lobbying group that is funded and backed by a variety of corporations who want to influence state policy — promotes both laws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "In the aforementioned Colorado, 31 counties have pushed back , voting to exempt themselves from a state law prohibiting municipal broadband services.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Christopher Mitchell, director of the Community Broadband Networks Initiative at the Institute for Local Self-Reliance, has studied the systems that have popped up all over the country.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "He pointed out to The Intercept that these systems have far greater incentive to maintain net neutrality and that local control has some benefits people may not immediately consider.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "“One of the things that we’ve seen with a hundred examples of municipal broadband is not only do people get the benefit of non-discriminatory access, they typically pay less, they have better access, and if something does go wrong, they get much better customer service,” he told The Intercept.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Top photo: Seattle City Council Member Kshama Sawant speaks at a protest in front of the federal courthouse on Feb. 17, 2017, in Seattle, where an immigration hearing was held.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Consider what the world of media would look like without The Intercept.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "The kind of reporting we do is essential to democracy, but it is not easy, cheap, or profitable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The Intercept is an independent nonprofit news outlet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "We don’t have ads, so we depend on our members — 35,000 and counting — to help us hold the powerful to account.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Joining is simple and doesn’t need to cost a lot: You can become a sustaining member for as little as $3 or $5 a month.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "That’s all it takes to support the journalism you rely on.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Contact the author : [email protected] ​theintercept.com @ZaidJilani — 1:26 p.m.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "The confluence of these crises has placed Brazil in the greatest turmoil and danger since its 1985 redemocratization.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "The workers also expressed concerns that delays in the provision of personal protective equipment like masks and gloves made an outbreak inevitable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "The presumptive Democratic nominee has struggled to deal with allegations of sexual assault by a former staffer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Leave a comment Weekly editor’s picks Breaking stories and exclusives Politics coverage",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

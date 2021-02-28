@@ -1,0 +1,161 @@
+{
+    "document_id": -1,
+    "url": "https://www.theguardian.com/technology/2014/sep/10/internet-slowdown-go-slow-google-youtube-net-neutrality",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:56:08.491159+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "This article is more than 5 years old Technology firms are protesting against an end to net neutrality in the US by simulating a slowdown of their websites and services Wed 10 Sep 2014 07.23 EDT Last modified on Tue 9 Jan 2018 15.58 EST Internet \u201cgo slow\u201d day protests against new net neutrality laws in the US hit today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Photograph: Dominic Lipinski/PA  You might notice that lots of the things you try to do online today seem slow.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "But it is not your internet connection, your router or your computer \u2013 the internet is staging a protest.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "It is protesting about the US legislation due to be brought in by the Federal Communication Commission (FCC) about \u201c net neutrality \u201d \u2013 essentially whether the internet should run at one speed for all companies and services, or should be divided into a fast and a slow lane.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "If the legislation is successfully passed, companies including Google, YouTube, and Amazon will probably have to pay for a higher speed internet connection to continue to stream video and other internet services at the same rate they do now to avoid users being infuriated by slow loading times and stuttering video.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "10 September is \u201cinternet slowdown day\u201d, organised by Battle for the Net with 68 different internet companies and organisations to illustrate what the internet could be like if the laws are passed and the internet is divided into a fast and a slow lane.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The internet isn\u2019t really slowing down.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The companies involved \u2013 which include Twitter, Reddit, Netflix, Vimeo and \u2013 are just simulating, and will place symbols like the spinning pinwheel or other loading-style animations on their site to make it seem like the internet is slowing down.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Almost all the big-name US streaming or image sites are taking part, including Netflix and Vimeo, as are image site Imgur, Tumblr, news sites like Digg and Reddit, plus Firefox browser developer Mozilla and WordPress, which powers some of the biggest blogs on the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Twitter and the crowdfunding site are also taking part.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The majority of the companies are based in the US but also serve users in the UK and around the world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The protest will try to illustrate what the internet could be like with the new US legislation and will lead users to sign a petition to the US Congress to stop the proposed rules from the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "For those who just want rid of the banners, loading screens and simulated slow internet, wait a day and it should all be over.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Of course, your internet might actually be slow today, but rebooting your router normally fixes that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "If the FCC is going to kill net neutrality, it'll have to get through you and me first 16 Jul 2014  16 Jul 2014  If the FCC is going to kill net neutrality, it'll have to get through you and me first Most popular US  Elections 2020  US Politics  About us  Contact us  Complaints & corrections  SecureDrop  Work for us  Privacy policy  Cookie policy  Terms & conditions  All topics  All writers  Digital newspaper archive  Advertise with us  Search jobs  Available for everyone, funded by readers  Back to top",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

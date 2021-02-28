@@ -1,0 +1,431 @@
+{
+    "document_id": -1,
+    "url": "https://mashable.com/2018/06/11/what-does-net-neutrality-repeal-mean/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Diamond Naga Siu",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:41:21.785706+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": " We're using cookies to improve your experience.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Click Here to find out more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Hidden main menu item  LGBTQ Non-profits VPN Best VPN Sign in Follow mashable  RSS Feed  see more > AdChoices Mashable ME Mashable UK It's official, net neutrality is dead.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Here's what that means The net neutrality repeal by the FCC was enacted today  2018-06-11 19:55:03 UTC Net neutrality laws — or the set of regulations that required internet providers to treat all websites equally — were officially repealed today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The rules were originally enacted by the FCC under the Obama administration in 2015, but in December, the FCC voted to repeal the measures.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "That vote officially goes into effect today.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Here's a breakdown of everything you need to know about the rules, and how they could change the internet as you know it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Net neutrality was a set of rules that ensured equal access to all websites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "It prevented internet services providers (such as Verizon and Comcast) from charging more for certain types of content, or giving preferential treatment to certain websites.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The rules specifically prevented things like blocking, throttling, and giving priority to companies who paid more.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "In essence, it meant all websites would be treated equally by service providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "So, for example, it prevented companies from charging you more to access websites like Netflix or YouTube or others that require more bandwidth.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Now that the rules have been repealed, this could change for consumers in the near future.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "These standards, according to net neutrality opponents such as FCC chairman Ajit Pai, prevented innovation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Pai argues it hindered internet providers from experimenting with different business models and took away internet authority from the Federal Trade Commission.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Pai wrote in a column published today that “network investment fell by billions of dollars” after net neutrality was enacted in 2015 under former President Barack Obama, and he argued that the repeal would bring more competition to the industry.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "“The impact was especially harmful for smaller internet service providers who didn't have the means to withstand a regulatory onslaught,” Pai wrote.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "“These providers often serve rural and lower-income areas where better internet access and competition are most desperately needed.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "But they were forced to spend scarce funds on regulatory compliance rather than building out broadband to more Americans.” Internet service providers post-net neutrality are now required to publicly disclose how they prioritize traffic, and some cybersecurity experts believe that the greater transparency will cause increased cyber protection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "“The technology that would allow ISPs to enable a more secure internet would involve those same companies managing internet traffic flow through monitoring movement of packets for its customers,” wrote Shane Tews, a conservative cybersecurity visiting fellow at the American Enterprise Institute, in a blog post .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "“Real-time monitoring would allow malicious traffic to be guided off-line to a contained environment and enable enhanced speed for items that can’t tolerate latency to function efficiently, such as health care devices or autonomous vehicles.”",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Certain types of content can now be blocked by internet service providers without raising any legal issues.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The cost of web access and internet subscriptions could skyrocket .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Access to websites of individuals, small businesses, and generally most sites that do not belong to large corporations could become slower or nonexistent .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "These rumored impacts won’t happen all at once, since internet service providers must first conform to regulations for paid prioritization, but they will probably take place over the next few months.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "But some people, however, won’t experience any change if they access internet in one of the seven states that enacted their own net neutrality directives: Hawaii, Montana, New Jersey, New York, Oregon, Vermont and Washington.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "And other states like California are currently trying to pass legislation as well.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Net neutrality supporters fear that internet service providers could possibly create bundled internet access akin to how cable television is sold.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "That model would restrict internet access by only allowing people with money to use all corners of the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "And even then, they would only be able to access corners that their internet service providers allow.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Net neutrality advocates like Evan Greer, the deputy director of digital rights advocacy group Fight for our Future, says that this change would make the web similar to a monopoly.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "“Starting today, there is nothing legally preventing companies like Comcast, Verizon, and AT&T from arbitrarily censoring entire categories of apps, sites and online services, or charging Internet users expensive new fees to access them,” said Evan Greer, the deputy director of digital rights advocacy group Fight for our Future, in a statement .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "“The web will be dominated by a handful of the largest platforms who can afford pay to play fees, squeezing out independent voices and innovative ideas.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "We’ll lose all the cool, weird, controversial, and unexpected stuff that makes the Internet awesome, and one of the most important tools we have to combat tyranny and expose corruption.” ",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Although the FCC repeal vote happened in December and is only getting enacted now, there is legislation in Congress that wants to undo the repeal — it passed the Senate last month with bipartisan support and is currently 50 votes short of passing the House.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "So activists like Greer are requesting people to call their representatives, since it is one of the last ways net neutrality could get reinstated.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Although it faces slim odds of passing the lower chamber — the Senate bill also encountered unlikely chances of success — pro-net neutrality advocates are still holding out hope.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "And more than 20 attorney generals are waiting for a court date after they filed a lawsuit against the FCC to halt the rollback.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "A Washington federal appeals court will hear their case within the next few months, while the possibility of a separate case hearing in the Supreme Court also looms.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "WATCH: Future of the internet could depend on submarine datacenters internet , ISP , , Facebook mashable  Twitter mashable  Feeds mashable  Pinterest mashable  YouTube mashable  StumbleUpon mashable  LinkedIn mashable  is a global, multi-platform media and entertainment company.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its dedicated and influential audience around the globe.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Mashable, MashBash and Mashable House are among the federally registered trademarks of Ziff Davis, LLC and may not be used by third parties without explicit permission.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

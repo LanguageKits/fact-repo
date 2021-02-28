@@ -1,0 +1,341 @@
+{
+    "document_id": -1,
+    "url": "https://www.phonearena.com/news/white-house-says-net-neutrality-repeal-helps-consumers_id122460",
+    "document_category": "Government",
+    "annotators": [],
+    "author": "Alan Friedman",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:32:11.338646+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "We haven't written much lately about net neutrality, the Obama era rules that treated all streaming content the same.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Companies streaming music or video under net neutrality are not allowed to pay a carrier extra money for a \"faster lane.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "In 2018, Trump-appointed FCC Commissioner Ajit Pai led the repeal of Net Neutrality and while some states were able to legislate its return, for the moment net neutrality remains for all intents and purposes, dead.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "ArsTechnica reported today that President Donald Trump's administration made a rather odd claim.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "A White House report said that killing net neutrality will raise real incomes by more than $50 billion annually.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Using a misleading comparison between net neutrality and older DSL requirements for line-sharing, the administration tried to prove that U.S. consumers were being harmed by net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "In fact, net neutrality actually protected consumers because it stopped ISPs and wireless carriers from blocking certain content and throttling wireless service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The White House report says, \"Before the Trump Administration, another FCC rule adopted in 2015 restricted the vertical pricing arrangements of ISPs—that is, monetary transactions between ISPs and the providers of Internet content such as Netflix and Yahoo.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The 2015 rule also imposed government oversight on communication services, making it difficult for these companies to quickly respond to competition and provide new goods and services on the market.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "These vertical pricing and other restrictions are being removed by the FCC through its 'Restoring Internet Freedom' order, returning to regulating ISPs under Title I of the Communications Act.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Two years ago the FCC, led by Chairman Ajit Pai, repealed the Obama era net neutrality rules In other words, the White House report says that allowing companies like Netflix to pay carriers for faster streaming speeds to consumers will help the streaming content providers offer new goods and services and respond faster to the competition.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "What it doesn't mention is that eventually, companies like Netflix will pass on this extra cost directly to subscribers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Another factor to consider is that the repeal of net neutrality has negatively impacted public safety.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Consider what happened back in 2018 when Verizon throttled the unlimited data plan belonging to the Santa Clara County Central Fire Protection District.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "One essential emergency fire truck, which was in the midst of fighting the wildfires in the area, had its download data speed throttled from peaks of 50Mbps to 30kbps .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "As a result, the fire department was forced to immediately pay more money for a Verizon data plan that couldn't be throttled.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "The White House is also taking credit for the \"quality-adjusted\" decline in the price of wireless service in the states.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "But this was challenged by Derek Turner, research director of consumer-advocacy group Free-Press.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Turner said, \"Though the White House is also claiming credit for the decline in the quality-adjusted price of wireless services, the reality here is that this index showed a steady decline since the end of the Great Recession during the early first Obama term and a very sharp drop at the start of 2017.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "But this drop is not because of industry's feelings about Title II regulation, but because this price index was heavily impacted by the return of unlimited data plans, which T-Mobile and Sprint brought back in Fall of 2016 with AT&T and Verizon following a few months later.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "However, the White House again didn't mention or factor in the data after 2017, showing the rate of declining wireless prices taking a 180 turn, with the pending T-Mobile/Sprint merger heralding an end to the so-called price-war.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "It appears that at the moment, the only way we will see the repeal of net neutrality overturned is when a new administration moves into the White House and shakes up the current composition of the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The Republicans currently own a 3-2 advantage.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "SUBSCRIBE TO OUR NEWSLETTER!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "FEATURED VIDEO Featured stories The Pixel madness continues!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "LG Velvet officially revealed ahead of May 7 announcement 1 2 3 4 Popular stories Here's when T-Mobile might kill off the Sprint brand and what that means for 5G-hungry users In the first Verizon vs T-Mobile vs AT&T; 5G and LTE speeds test for 2020, Ma Bell keeps it up Here are Sprint's Samsung, LG and OnePlus 5G phones that will and won't work on T-Mobile New leaks reveal LG Velvet 5G camera specs, battery size, memory, and more The Pixel madness continues!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Grab a Pixel 3a XL up to $150 off, Pixel 4 up to $350 off at Best Buy Android 11 Developer Preview drops another hint about \"Battery Share\" for the 5G Pixel 5 1 2 3 4 Hot phones OnePlus 8 Pro Apple iPhone SE (2020) 8.9 9.0 LG V60 ThinQ 9.4 Apple iPhone 11 Pro 9.1 9.0 9.1 9.4 9.0 OnePlus 8 8.5 Apple iPhone 11 9.1 View more news Your E-mail: Resend confirmation email Your E-mail: ok All content, features, and design are Copyright 2001-2020 PhoneArena.com.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "PhoneArena may receive a small commission if you purchase through affiliate links on this page.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Reproduction in whole or in part or in any form or medium without written permission is prohibited!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Terms of use CDN services by This copy is for your personal, non-commercial use only.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "You can order presentation-ready copies for distribution to your colleagues, clients or customers at https://www.parsintl.com/phonearena or use the Reprints & Permissions tool that appears at the bottom of each web page.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Visit https://www.parsintl.com/ for samples and additional information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "FCC OKs Cingular's purchase of AT&T; Wireless",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

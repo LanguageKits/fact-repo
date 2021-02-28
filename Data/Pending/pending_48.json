@@ -1,0 +1,1171 @@
+{
+    "document_id": -1,
+    "url": "https://www.theatlantic.com/technology/archive/2014/04/the-best-writing-on-net-neutrality/361237/",
+    "document_category": "Blog/magazine",
+    "annotators": [],
+    "author": "Alexis C Madrigal and Adrienne Lafrance",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:39:30.046469+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "It’s complicated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Adrienne LaFrance April 25, 2014 This week, news broke that the Federal Communications Commission is considering new rules for how the Internet works.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "In short: the FCC would allow network owners (your Verizons, Comcasts, etc.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "to create Internet \"fast lanes\" for companies (Disney, ) that pay them more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "For Internet activists, this directly violated the principle of net neutrality , which has been a hot-button issue in Silicon Valley for a long time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Net neutrality is the idea that any network traffic—movies, web pages, MP3s, pictures—can move from one place (our servers) to any other place (readers' computers phones) without \"discrimination.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Legal scholar , Tim Wu who helped define and popularize the term, laid out what could go wrong under such rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "\"This is what one might call a net-discrimination rule, and, if enacted, it will profoundly change the Internet as a platform for free speech and small-scale innovation,\" Wu wrote .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Internet activists revved up , and FCC chairman Tom Wheeler, who is a former lobbyist for cable and cellular companies , defended the new position.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Wheeler said companies would not be allowed to \"act in a commercially unreasonable manner to harm the Internet, including favoring the traffic from an affiliated entity.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Network owners wouldn't gouge consumers, he promised.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "But this debate isn't just about the specific wording of the possible FCC rules (though those are important).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "People have been talking about the principle of net neutrality, in one way or another, for more than 15 years, since Monica Lewinsky dominated the headlines.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "This idea of net neutrality—this cherished idea, even, among Internet entrepreneurs and activists—has a long history, roughly as long as the commercial world wide web.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "It is, Harvard law professor Lawrence Lessig has argued, what makes the Internet special.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "He used to call the principle e2e, for end to end: \"e2e.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Not b2b, or b2c, or c2b, or b2g, or g2b, but e2e.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The core of the Internet, the core value that defined its power, the core truth that made innovation around it possible, is this e2e,\" Lessig said in a 1999 talk .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "\"The fact – a fact – that the network could not discriminate in the way that AT&T could.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Comcast couldn't privilege its own content over Netflix's or PBS' or Disney's or your blog's.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "He explained: \"The network was stupid; it processed packets blindly,\" he said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "\"It could no more decide what packets were 'competitors' than the post office can determine which letters criticize it.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "This was not just a nice thing, it was the very nature of the Internet .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Without it, the Internet will become, as Tim Wu put it, \"just like everything else in American society: unequal in a way that deeply threatens our long-term prosperity.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "The purity of Lessig's e2e principle does not remain in practice: there is a long tradition of paid commercial arrangements between content owners and network operators .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Content-delivery networks that have already created a \"fast lane\" for most professional sites, albeit independently of the network owners.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "And as Pennsylvania law professor Chris Yoo has long argued (contra Wu), there might be benefits to non-neutral networks .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "If you want a speedy explainer, Vox's Timothy Lee has one for you .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Our contribution is this guide to the development and deployment of the net neutrality idea.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "It contains foundational documents, good arguments, and the best writing we could find about the concept and current dilemma.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "It's probably best, as in most things, to see the neutrality of a network as a spectrum.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "It's never been pure, but that doesn't mean it hasn't been meaningful.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "* * * Here is the report in the this week about the FCC plans .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "The principle that all Internet content should be treated equally as it flows through cables and pipes to consumers looks all but dead.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "The Federal Communications Commission said on Wednesday that it would propose new rules that allow companies like Disney, Google or Netflix to pay Internet service providers like Comcast and Verizon for special, faster lanes to send video and other content to their customers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The proposed changes would affect what is known as net neutrality — the idea that no providers of legal Internet content should face discrimination in providing offerings to consumers, and that users should have equal access to see any legal content they choose.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "And here is FCC Chair Tom Wheeler's response .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "The Notice proposes the reinstatement of the Open Internet concepts adopted by the Commission in 2010 and subsequently remanded by the D.C.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "The Notice does not change the underlying goals of transparency, no blocking of lawful content, and no unreasonable discrimination among users established by the 2010 Rule.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "The Notice does follow the roadmap established by the Court as to how to enforce rules of the road that protect an Open Internet and asks for further comments on the approach.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "This is the Open Internet Order issued by the FCC in 2010 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Startups and small businesses benefit because the Internet’s openness enables anyone connected to the network to reach and do business with anyone else, allowing even the smallest and most remotely located businesses to access national and global markets, and contribute to the economy through e-commerce and online advertising.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Because Internet openness enables widespread innovation and allows all end users and edge providers (rather than just the significantly smaller number of broadband providers) to create and determine the success or failure of content, applications, services, and devices, it maximizes commercial and non-commercial innovations that address key national challenges.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "The current mess results, in part, from a federal court ruling earlier this year, which eviscerated the Open Internet Order .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Given that the Commission has chosen to classify broadband providers in a manner that exempts them from treatment as common carriers, the Communications Act expressly prohibits the Commission from nonetheless regulating them as such.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Because the Commission has failed to establish that the anti-discrimination and anti-blocking rules do not impose per se common carrier obligations, we vacate these portions of the .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "The court held that the FCC could not enforce network neutrality rules under the kind of authority it was claiming, but the judge left some wiggle room .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Verizon succeeded in overturning most of the Open Internet Order, the FCC's net neutrality regulation, when its suit saw the US Court of Appeals for the District of Columbia Circuit strike down major portions of the regulation last month.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "The ruling left the FCC room to operate, though.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "The commission could reinstate its anti-blocking and anti-discrimination rules if it reclassified Internet providers as telecommunications services governed by Title II of the Communications Act, also known as \"common carriers.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Essentially, the ruling suggested that the FCC under previous Chairman Julius Genachowski screwed up the Open Internet Order by imposing common carriage rules on ISPs without declaring ISPs to be common carriers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Ryan Singel, who followed this issue for years at , doesn't think so: The court said the FCC’s attempt to stand in a squishy middle ground has no basis in the law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "This is going to be a long piece, so here’s the tl;dr: 1.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "The FCC’s attempt to create a third way of regulating ISPs and mobile phone carriers was built of twigs-and-twine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Everyone in tech policy circles knew this decision was all-but-inevitable .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "The FCC has a very easy way to make new rules on unassailable legal grounds, but the Obama administration lacks the will to do so because Republicans and Fox News hate it .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "You want your ISPs to act like a utility; Your ISPs have no desire to just be a utility; things will get bad, probably in ways that are hard to detect — like Netflix buffering.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "And yet, regulating ISPs like utilities seems like the only way for the FCC to exercise its net-neutrality regulatory power.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "As I've explained, Section 706 seriously limits the FCC's ability to adopt meaningful network neutrality rules, so \"leaving the reclassification option on the table\" is not enough.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "If the FCC is serious about protecting the Open Internet, it needs to do its due diligence and seriously explore all available options, and that requires asking real questions about reclassification in the upcoming Notice of Proposed Rulemaking.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "The network companies dispute that they are, or should be regulated like, common carriers under Title II.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "This is the National Cable and Telecommunications Association' blog about the topic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "The NCTA's CEO is the former head of the FCC under George W. Bush, Michael Powell .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "In the 1996 Telecom Act, Congress made a distinction between two types of services: “telecommunications services” and “information services.” “Telecommunications services” transmit a user’s information from one designated point to another without changing the form or content of that information.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "For example, a phone call transmits the user’s voice from one point to another without changing the content of the voice message, similar to the way a shipping company would deliver a package that you hand to it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "“Information services,” on the other hand, offer a user the capability to create, store, or process information... Based on the definitions in the 1996 Telecom Act, the FCC classified cable broadband as an “information service” and as a result it is not treated as a common carrier service and is largely exempt from regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "This was to encourage innovation and investment in private infrastructure and preclude unnecessary government intervention.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "It's a concept that developed before and then alongside the telegraph network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "This paper contains an excellent potted history.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "In 1701, an English Court found that \"If a man takes upon him a public employment, he is bound to serve the public as far as the employment extends; and for refusal an action lies, as against a farrier refusing to shoe a horse...Against an innkeeper refusing a guest when he has room...Against a carrier refusing to carry goods when he has convenience, his wagon not being full.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "By 1814, with the coming of the industrial revolution and laissez-faire economics, common callings were generally limited to what we would today call infrastructure services in transportation and communications, together with associated facilities such as inns.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "Common carriage was applied to freight or carriage companies and inland and ocean water carriers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "By common law, common carriers were 1) required to serve upon reasonable demand, any and all who sought out their services; 2) held to a high standard of care for the property entrusted to them; and 3) limited to incidental damages for breach of duty.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "The concept of common carriage crossed the Atlantic and became part of the American legal system.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "Common carriage was broadly applied to railroads and later other transportation as well as communications media.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "In 1901, following many state courts, the U.S. Supreme Court held that at common law-- i.e., even without a specific statute-- a telegraph company is a common carrier and owes a duty of non-discrimination.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "Here in 2014, the legacy of common carriage has become a problem of semantics.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "A decision by the FCC in 2002 to classify companies like Comcast as \"information service providers\" instead of \"telecommunications carriers\" ultimately undermined the agency's efforts to regulate those companies the way a telecommunication carrier would be regulated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "That’s it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "That’s the whole mistake.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "The entire American internet experience is now at risk of turning into a walled garden of corporate control because the FCC chickened out and picked the wrong words in 2002, and the court called them on it twice over.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "You used the wrong words.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "The court even agreed with the FCC’s policy goals — after a bitterly fought lawsuit and thousands of pages of high-priced arguments from Verizon and its supporters, Judge Tatel was convinced that \"broadband providers represent a threat to internet openness and could act in ways that would ultimately inhibit the speed and extent of future broadband deployment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "And yet the way the entire debate is framed is based on this false assumption that network neutrality is something we have—and are about to lose!—when the Internet already isn't really neutral at all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "Content-delivery networks like Akamai cache content geographically closer to users.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "They accomplish the creation of a fast-lane by taking advantage of the architecture of the neutralish network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "It is important to appreciate that the notion that we currently have a ‘‘neutral’’ Internet is simply false.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "Even before we get to access tiering, there is a range of existing strategies that one can pursue to ‘‘prioritise’’ data over other network traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "For example, an IP transit arrangement between a service provider and an operator will typically include service level guarantees, which give the operator a commercial interest in ensuring that those service levels are met.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "Similarly, a service provider may pay an operator directly to host con- tent, thus generally guaranteeing a higher quality of service and reliability.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "Other strategies include utilising intermediary service providers, such as Akamai, who purchase excess bandwidth from local access providers to host content in local caches at various locations around the globe so as to ensure that data requested by customers never has too far to travel.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "All these existing strategies, however, lie towards the ‘‘edge’’ of the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "They flow off the back of what users of the Internet are prepared to invest in their infrastructure and services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "In other words, protecting the kind of Internet that net-neutrality advocates say they want is not really about preventing payment for different tiers of service, but rather about keeping regulators from meddling.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "After all, a tiered-access structure has been built into the architecture of the Internet since 1991.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "The top tier providers built national networks interconnecting with other national networks at CIX and at a handful of other traffic exchanges that around the country.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "Each of these national “Tier 1” providers agreed to peer with each other and pass traffic on behalf of downstream customers that used them for Internet connectivity.27 “Tier 2” providers typically maintained smaller national or super-regional networks and agreed to peer with the major Tier 1 providers and, sometimes, each other.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "Unlike other Tier 1 providers, Tier 2 providers often had to pay to connect and peer with Tier 1 providers.28 Local and regional Internet providers who purchased bandwidth from Tier 1 providers and found themselves a step removed from the “backbone” of the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "Price and service level agreements differentiated the tiers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "Providers with the desire and money to build large national networks or negotiate expensive peering agreements with CIX or Tier 1 providers could receive guarantees about traffic and connectivity unavailable to smaller providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": "The price of Internet service depended on capacity, though with fewer pricing models than today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "In the early 1990s, providers typically paid a flat price per megabit or per physical interface (DS1, DS3, Ethernet, etc.).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "Here, in a 2007 debate between Tim Wu and Christopher Yoo about net neutrality's legal and philosophical bases, Wu explains his thinking.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": "A lot of the difference between Christopher's view and my own stems from how we think the process of innovation occurs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "Christopher, rather like Joseph Schumpeter in his later years, believes that large firms—in this case, network operators—drive telecommunications innovation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 105,
+            "sentence": "As Schumpeter then put it, the \"large-scale establishment\" is \"the most powerful engine of progress and in particular of the long-run expansion of total output.\"'",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 106,
+            "sentence": "Christopher thinks incumbents like AT&T will rarely or perhaps never threaten innovation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 107,
+            "sentence": "Instead he views them as the driving force of the technologies of tomorrow.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 108,
+            "sentence": "I think this view of incumbent behavior has been discredited, and that in general, incumbents, particularly in a monopoly position, have a strong incentive to block market entry and innovative technologies that threaten their existing business model.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 109,
+            "sentence": "It turns out the fight about net neutrality isn't necessarily even about neutrality, at least not in the way it sometimes seems.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 110,
+            "sentence": "Instead, we're sussing out where innovation begins and what government should do to encourage it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 111,
+            "sentence": "We want to hear what you think about this article.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 112,
+            "sentence": "Submit a letter to the editor or write to letters@theatlantic.com.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 113,
+            "sentence": "is a staff writer at and the author of .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 114,
+            "sentence": "Adrienne LaFrance is the executive editor of .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 115,
+            "sentence": "She was previously a senior editor and staff writer at and the editor of TheAtlantic.com.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

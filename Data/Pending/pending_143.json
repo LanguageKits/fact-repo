@@ -1,0 +1,541 @@
+{
+    "document_id": -1,
+    "url": "https://www.denverpost.com/2017/12/08/in-net-neutrality-debate-freedom-of-information-is-under-attack/",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Nikko Lobato ",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:28:53.619406+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Boxing / MMA Sports on TV/Radio Election 2019 SUBSCRIBE NOW GET BREAKING NEWS IN YOUR BROWSER.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "CLICK HERE TO TURN ON NOTIFICATIONS.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Here’s what to do if you’re not sure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "In net neutrality debate, freedom of information is under attack   Share this: Click to share on Facebook (Opens in new window) Click to share on Reddit (Opens in new window) Click to share on Twitter (Opens in new window) Click to print (Opens in new window) Click to email this to a friend (Opens in new window) Click to share on LinkedIn (Opens in new window) Click to share on Pinterest (Opens in new window) Click to share on Tumblr (Opens in new window) Submit to Stumbleupon (Opens in new window) In net neutrality debate, freedom of information is under attack   December 8, 2017 at 12:01 p.m. Sign up for newsletters and alerts your news tips or photos Volatile days ahead for Colorado’s Front Range housing markets   FAQ about new “safer at home” phase of Colorado’s coronavirus response   Colorado retailers can open for curbside pickup Monday, new executive order says as stay-at-home expires   These Colorado counties have extended their stay-at-home orders   Closure of Walmart Supercenter in Aurora followed days of complaints about conditions — and 3 coronavirus deaths   Editorial: Cities and counties should follow Polis’ lead opening the state   Friends and family in this great state of Colorado, we are facing one of the greatest challenges to freedom of our time, and it is all happening under our noses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "On Tuesday, the Federal Communications Commission, led by Commissioner Ajit Pai, will likely vote to roll back Title II net neutrality protections, which have yet to be enshrined in law by Congress.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Net neutrality is a simple concept that exists to protect consumers and businesses that use and operate telecom-based services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Its basic tenet is that no service provider can favor one type of traffic or data over another.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "As it applies to the internet, it means that no internet service provider (ISP) can slow down or speed up data based on what it contains.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "It means that Comcast can’t charge you more to access LinkedIn.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Additionally, a service provider cannot make Netflix pay to get full-speed video to your home.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Without net neutrality, these protections would be gone, and we would be at the mercy of our ISPs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "On its surface this is an economic problem, and one that cuts across partisan lines.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "An ISP could charge extra to access your favorite sites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Or if I started an internet-based business, I might have to pay my ISP extra to reach my customers with an innovative solution.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "As someone who grew up with open access to the web, and now makes a living digitally, both of these ideas are incredibly scary to me.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The internet is one of the greatest inventions in human history.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "It should be treated as a fundamental utility, not as a pay-to-play marketplace.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "This state has benefited economically from the incredible growth of the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Colorado is home to some of the largest technology and internet startups in the country.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Internet-based companies employ tens of thousands in our state alone, and could be devastated by this ruling.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "What is even more striking is the effect this vote could have on our fundamental rights and democracy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Free access to information is so important to this country that it is enshrined in our Constitution.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "With this ruling, corporations would have control over what content we can access on the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "It could be as simple, yet wrong, as Comcast blocking websites with negative comments on their service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Or it could be as sinister as an ISP blocking access to political content, news and writing that it opposes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "If you are a proponent of every American’s right to free speech, this should be frightening to the core.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "No company or corporation should be able to control what information we can consume.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "ISPs like Comcast have said they would never take it this far.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Fortunately, some of our representatives still have our best interests at heart.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "My representative, Diana DeGette, and one of our senators, Michael Bennet, have come out in support of net neutrality protections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "However, our other senator, Cory Gardner (who has received more than $90,000 in campaign donations from the telecom lobby according to data from the National Institute of Money in State Politics), is opposed to them, and agrees with Pai’s plan to end them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Some of your representatives might not support net neutrality, either.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "I urge you to contact your representatives and senators by whatever means possible and call for them to stand in support of our freedom and access to one of the most important pieces of technology in our generation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Ask them to cement net neutrality into law and oppose Pai’s plan.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "You can find more information on your reps and the fight to protect the open internet at www.battleforthenet.com .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Don’t do it just for your pocketbook, do it for our democracy, and the future of our children in an ever-growing technological world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Nikko Lobato is a digital marketing professional.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "He lives in Lakewood.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "To send a letter to the editor about this article, submit online or check out our guidelines for how to submit by email or mail.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Polis: Coloradans have done a great job.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Now comes the hard part.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Opinion   April 29, 2020 at 11:39 a.m. We all need to continue to take this seriously and do right by our fellow Coloradans.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "If we don’t, we’ll have to tighten restrictions again.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Stuck at home has meant rediscovering the pleasure of old friends and family   April 29, 2020 at 7:47 a.m. As businesses were closed and stay-at-home orders went into effect from California to New York to Colorado, a strange and uplifting thing happened: People started reaching out.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Guest commentary: It is time for the Colorado General Assembly to return to work   April 29, 2020 at 7:41 a.m. Part of the genius of the American system of government is the unique role of the legislative branch – the citizen-legislature – to serve not only as the exclusive law-making arm of government, but to act as a check and balance to the executive branch.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "This is an even more critical function during times of unprecedented crisis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Guest commentary: CU Regents right to fight open records ruling on presidential candidates   April 28, 2020 at 8:00 a.m.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "The Board of Regents had to appeal the ruling in the lawsuit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "To not do so would cede the authority not only of this board, but all future boards, to be able to select the best president of CU.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "RSS Today’s Ads Powered by WordPress.com VIP This website uses cookies to improve your experience.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "By continuing to use the site, you accept our and .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "OK Post was not sent - check your email addresses!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Email check failed, please try again    Sorry, your blog cannot share posts by email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

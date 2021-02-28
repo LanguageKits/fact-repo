@@ -1,0 +1,981 @@
+{
+    "document_id": -1,
+    "url": "https://www.brookings.edu/research/net-neutrality-2-0-perspectives-on-fcc-regulation-of-internet-service-providers/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Jessica Harris",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:43:21.343864+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "This week, the Federal Communications Commission (FCC) is scheduled to release a Notice of Proposed Rulemaking titled “Restoring Internet Freedom.” This initiative, proposed by the new FCC Chairman, Ajit Pai, is expected to receive support from Commissioner Michael O’Reilly, also a Republican appointee.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Commissioner Mignon Clyburn, a Democrat is likely to dissent from moving ahead.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Before the partisan noise rises to the level of screeching decibels, it might be useful to provide some much-needed context.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "In a speech last month at the Newseum in Washington, D.C., Chairman Pai previewed his rationale for the withdrawal of common carrier regulation of the internet, which is governed by Title II of the Communications Act of 1934, as amended.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "If enacted by the FCC as a final order after all public comments and replies are filed by mid-August, this change would reverse the detailed rules put in place by the Commission’s under former FCC Chairman Tom Wheeler.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The U.S. Court of Appeals for the District of Columbia Circuit subsequently affirmed those so-called “net neutrality” rules in June of 2016—though opponents of the Title II Order considered that ruling just the first battle in an ongoing judicial war.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "In explaining his approach to internet regulation, Chairman Pai noted that “[w]hether I am in Red America, Purple America, or Blue America…people tell me they want fast, affordable, and reliable internet access.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "They say they want the benefits that come from competition.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "And they tell me that they want to access the content and use the applications, services, and devices of their choice.The question that we must answer at the FCC is what policies will give the American people what they want.”",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": " According to the FCC, the following key proposals will be considered for adoption during the rulemaking proceeding: Reinstating the information service classification of broadband internet access service and returning to the light-touch regulatory framework first established on a bipartisan basis during the Clinton administration; Reinstating the determination that mobile broadband internet access service is not a commercial mobile service and, in conjunction, revisiting the elements of the Title II Order that modified or reinterpreted key terms in section 332 of the Communications Act and its implementing rules; Returning authority to the Federal Trade Commission to police the privacy practices of internet service providers; Eliminating the vague internet conduct standard; Re-evaluating the Commission’s enforcement regime to analyze whether ex ante regulatory intervention in the market is necessary.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The FCC also plans to conduct a cost-benefit analysis as part of this proceeding, and to seek comment on whether to keep, modify, or eliminate the bright-line rules set forth in the Title II Order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The final outcome of this high-profile, high-impact proceeding will not be apparent until sometime late in 2017, at the earliest.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Congress may also become more seriously involved at some point on the legislative front.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "But without a doubt, as Chairman Pai noted in his Newseum speech, a “fierce debate” lies ahead for a number of months at least.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "And if past is prologue, the FCC may well receive an avalanche of comments in response to these proposed changes; the record in the Title II Order shows that over four million comments were filed by interested parties and the general public combined.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "There will be no lack of political discourse, to be sure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Yet before the partisan noise rises to the level of screeching decibels, it might be useful to provide some much-needed context.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "During the past two years, as the original Title II Order proceeding moved ahead, I wrote a series of pieces for Brookings’s TechTank that touch on issues that have as much relevance now as they did when first released.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Published collectively here for the first time, I hope they will be considered in real time by policy advocates of all stripes, along with the FCC itself, as positions are formulated and final new internet service rules are adopted that will have long-term consequences.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "( originally published December 15, 2015 ) As we move into 2016, an unresolved national communications policy dilemma remains: whether the public-switched telephone network and the internet are parallel systems or parts of a larger ubiquitous network environment.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Determining which characterization will be followed has profound consequences for regulatory treatment, as an important recent oral argument in the United States Court of Appeals for the District of Columbia Circuit made clear.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "There, a three-judge panel led a spirited three-hour session focusing on a challenge to the Federal Communication Commission’s February 2015 Open Internet Order, commonly known as its “net neutrality” decision.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Unlike prior FCC orders in this area that the DC Circuit had twice rejected on legal grounds, the challenged order for the first time asserted equal application of the FCC’s net neutrality rules to mobile as well as fixed broadband networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "This expansion of regulatory authority may be permissible under the Telecommunications Act of 1996 if the FCC deems mobile broadband to be a “commercial mobile service.” The FCC argued that its rationale was correct, since it determined mobile broadband was an interconnected service that fit within the commercial mobile service definition that Congress specified in the law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "This argument is not as clear as the FCC contends, however, since the actual language of the statute refers to interconnection with the traditional telephone network, which operates by connecting telephone numbers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Mobile broadband, in contrast, accesses the internet and relies on an entirely different basis for connecting—namely, Internet Protocol (IP) addresses.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "The FCC contended that this statutory construction should be overlooked because the public-switched network of 20 years ago is different than the current network landscape of today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "In a nation that increasingly relies on smartphones as the dominant mode of communication, the FCC asserted that while literally different, the two networks were actually part of the same network environment that permits us to access anyone with a telephone number and anyone with an IP address.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "This thinking leads to the conclusion that under the net neutrality rules, the expectations for both networks should be identical.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "In a nation that increasingly relies on smartphones as the dominant mode of communication, the FCC asserted that while literally different, the two networks were actually part of the same network environment that permits us to access anyone with a telephone number and anyone with an IP address.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "In the oral argument, Judge Sri Srinivasan posed a question to a lawyer representing CTIA-The Wireless Association, which opposes the FCC order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "In effect, he asked whether the Commission’s view of functional equivalency of the telephone networks and the internet made sense at a practical level, with a vivid illustration in mind: “So if I’m walking in my house with an iPad—at one end of the hall I connect to my Wi-Fi, at the other end, my device switches over to my wireless subscription—did Congress really intend these two services to be regulated totally differently even if I can’t tell the difference?” Under this analysis, the FCC’s argument that it should enforce equal net neutrality for both seems intuitively persuasive.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "But Judge David Tatel, who had written the previous net neutrality decision that found the FCC overstepped its regulatory authority, offered a contrasting view to this line of thinking.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Judge Tatel has a smartphone, but unlike many smartphone users, he only relies on it to make calls through the traditional telephone network, using telephone numbers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Since he doesn’t access the internet on his device, he is not connecting to IP addresses at all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The two networks thus are not interconnected, which is the prerequisite that the Telecommunications Act specifies in order to allow the FCC to treat mobile broadband as a regulated commercial service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "These two perspectives crystallize the dilemma that the court confronts as it decides whether mobile broadband should be treated in the same stringent way as fixed broadband, though the FCC has never done so before.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "The Commission argues that as an expert agency with broad delegated authority from Congress, it should be allowed to change its mind over time as new technological developments such as the smartphone take hold, and craft new rules accordingly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "But the other side contends that Congress did not convey this expansive authority in the law, and points to the importance of interconnection and reference to the telephone network in the actual statutory language as powerful support for its position.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Congress may find itself re-emerging as the best source of guidance for the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Legislative action can definitively clarify whether Congress intends for the telephone network and internet to be joined at the hip, or should continue to function in parallel with differing regulatory treatment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Given the emerging dominance of mobile over fixed service, if the FCC can’t regulate both, it may win the battle but lose the war.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Given that a further appeal is likely regardless of which side prevails, including possible review by the U.S. Supreme Court, Congress may find itself re-emerging as the best source of guidance for the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Legislative action can definitively clarify whether Congress intends for the telephone network and internet to be joined at the hip, or should continue to function in parallel with differing regulatory treatment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Voluntary industry agreement promotes competition among mobile networks ( originally published May 26, 2016 ) , provides a useful snapshot of current government thinking on the economic and social benefits of competition, such as economic growth and job creation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Conversely, the report asserted that “[w]hen there is little or no competition, consumers are made worse off if a firm uses its market power to raise prices, lower quality for consumers, or block entry by entrepreneurs.” The CEA also presented three sets of trends that it says are “broadly suggestive” of a decline in competition—increasing industry concentration, increasing profits accruing to a few firms in each industrial sector, and lower levels of firm entry and mobility.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "With this narrative foundation, the report then presents examples where government intervention has preserved and in some cases expanded competition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "According to the CEA, enforcement of the Sherman Antitrust Act, the Clayton Antitrust Act, and the Federal Trade Commission Act by the Department of Justice (DOJ) and the Federal Trade Commission (FTC) represent “front-line defenses against these abuses.” But in extending its analysis into the realm of regulatory policy, as opposed to the narrower focus of antitrust policy, the CEA seems to venture onto much shakier ground.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "For example, it gives the Federal Communications Commission (FCC) too much credit for achieving a pro-competitive outcome in the area of cell phone unlocking.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "These devices historically contained software that locked them into the original network of a mobile phone subscriber.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "If the subscriber chose to take advantage of a competitive marketplace for service by switching networks, he or she would have to purchase a new phone to work on the new network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "The transaction costs of cell phone locking meant that few consumers would readily switch from one mobile network provider to another; the locking of the device to a network locked subscribers into specific companies as well.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Over time, this locking strategy turned out to be an unattractive business model.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "As prices for smartphones declined, many consumers desired to purchase their devices outright rather than sign a two-year contract that penalized premature cancellation in exchange for subsidized devices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "As a result, satisfying consumer preference for unlocked devices became a new norm that the cellular telephone industry was eager to embrace.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "However, no individual mobile network provider would take the lead, since the only way to ensure competition among providers would be for all of them to act together.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "In another context, agreement among competitors might be considered collusion, raising the ire of the DOJ and FTC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "But here, a voluntary agreement by all nationwide mobile service providers to facilitate unblocking was a positive development.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "The FCC supported the work of the industry trade group, CTIA-The Wireless Association, in making this agreement possible, but it was the industry that did most of the heavy lifting .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "Viable private sector alternatives that achieve competitive results comparable to government intervention deserve further analysis by government policymakers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "By elevating the importance of the FCC’s role in this process, the CEA downplayed the potential that voluntary industry agreements can produce pro-competitive outcomes without assertive regulatory policies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "Viable private sector alternatives that achieve competitive results comparable to government intervention deserve further analysis by government policymakers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "The CEA itself should research this as it explores the benefits of competition and recommends the best course of action.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "Tangled up in the legal web of net neutrality (originally published June 21, 2016) It’s still too early to conclude whether last week’s DC Circuit Court opinion was the beginning of the end or the end of the beginning for the legal battle over net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "On June 14, a three-judge panel of the United States Court of Appeals for the District of Columbia Circuit upheld all major parts of the Federal Communication Commission’s , a victory for the FCC, the Obama Administration, and those who strongly pushed for an enforceable net neutrality regime.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "These groups would like nothing more than a universal acceptance of that opinion as settled law—case closed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "Major internet service providers (ISPs) and mobile services networks seem to view this ruling as only the first judicial battle in a much-longer war to come.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "On the other side, major internet service providers (ISPs) and mobile services networks seem to view this ruling as only the first judicial battle in a much longer war to come.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "The ISPs already have agreed to adhere to the FCC’s net neutrality principles (including no website blocking or paid prioritization of websites) as a business practice.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "But they continue to chafe at a new level of common-carrier regulation that the FCC has enacted with judicial approval.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "Mobile carriers object to being lumped into the same category as wire-based ISPs, given the distinct technical differences of mobile wireless and the long-held regulatory freedom accorded to mobile that the FCC has discarded.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "ISPs, mobile carriers, and their allies must now chart a course where further appellate review reverses the current DC Circuit holding.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "This pathway involves persuading all the judges on the DC Circuit to hear an appeal, known as an en banc proceeding.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "If granted, it gives the net neutrality opponents another chance to have a federal appellate court invalidate all or part of the Open Internet Order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "Under such a scenario, it is highly likely that the FCC, in response, would appeal that decision to the Supreme Court.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "Alternatively, the DC Circuit may deny a full rehearing or uphold the decision of the three-judge panel, leaving the Supreme Court as the arbiter of last resort.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "If the plaintiffs foresee an ultimate appeal to the Supreme Court, it will be important for them to at least request an en banc review.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "But Supreme Court review also is discretionary, so the Supreme Court may decide to allow whatever DC Circuit decision is in place to remain.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "If it takes the case, the Supreme Court may not be able to render any actual decision if the vacancy created by Justice Antonin Scalia’s death remains unfilled.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "The likelihood of a 4-4 split raises the separate possibility that the Court would be incapable of rendering its own decision, which would give the DC Circuit the final word.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "Outside of the judiciary, Congress could at any time amend the Communications Act of 1934 to prohibit the enforcement of net neutrality, or it could limit the scope of enforcement by exempting small ISPs or mobile carriers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "However, there seems to be no desire of Congressional Democrats to work with their Republican counterparts on crafting a legislative solution.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "The current FCC, with a 3-2 Democratic split among its commissioners, also is not inclined to work with Congress on any legislative relief, especially since it now holds a favorable DC Circuit opinion in hand.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "Electoral outcomes in November could change legislative prospects or further foreclose them, depending on how many House and Senate seats each party holds in the next Congress.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "Here, the best scenario for opponents of the new status quo would be the election of more Republicans to Congress and Donald Trump to the presidency.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "Unlike President Obama, President Trump might sign legislation modifying net neutrality rather than veto it with no possibility of having that veto overridden.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "President Trump could also appoint a new FCC Chairman, creating a Republican majority that could nullify the DC Circuit’s net neutrality decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "The best scenario for opponents of the new status quo would be the election of more Republicans to Congress and Donald Trump to the presidency.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "But if Hillary Clinton emerges victorious instead, any legislative or FCC reversal becomes highly unlikely, since Secretary Clinton is on record as favoring the net neutrality approach of the current FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "In turn, her election could raise the stakes for a final Supreme Court decision, which could occur two or three years from now if the appellate process runs its course and the Court returns to nine sitting justices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "In short, the complex machinery of our three-pronged federal government likely will continue to hum along with further consideration of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "As the late legal scholar Yogi Berra once noted, “It ain’t over till it’s over.” Note: ACTwireless, a project of CTIA, is a donor to the Brookings Institution.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "The findings, interpretations, and conclusions posted in this piece are solely those of the author and not influenced by any donation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "Viewed as a leading, independent voice in the domestic policymaking sphere, the Governance Studies program at Brookings is dedicated to analyzing policy issues, political institutions and processes, and contemporary governance challenges.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "Our scholarship identifies areas in need of reform and proposes specific solutions to improve governance worldwide, but with a particular emphasis on the United States.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "Find us on Facebook Find us on Twitter Find us on YouTube Listen to our Podcast Subscribe to our RSS 中文 عربي AI    Policy 2020    WashU at Brookings    0 Get daily updates from Brookings  Post was not sent - check your email addresses!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "Email check failed, please try again    Sorry, your blog cannot share posts by email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

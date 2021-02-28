@@ -1,0 +1,2381 @@
+{
+    "document_id": -1,
+    "url": "https://www.techdirt.com/blog/netneutrality/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Karl Bode",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:40:38.346088+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "These are tough times for everyone, us included.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "If you're able to help us continue our reporting, check out our list of ways to support Techdirt » These are tough times for everyone, us included.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "If you're able to help us continue our reporting, check out our list of ways to support Techdirt » from the particularly-bad-arguments dept Tue, Apr 21st 2020 6:23am —  A few weeks ago, a new talking point popped up among telecom policy pundits opposed to net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "They began claiming that the only reason the internet hasn't buckled during the pandemic was thanks to the FCC's controversial and unpopular net neutrality repeal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "That repeal, you'll recall, not only killed net neutrality, but much of the FCC's ability to hold ISPs accountable for pretty much anything , including outright billing fraud .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "But to hear various net neutrality opponents tell it, the repeal is the primary reason the US internet hasn't fallen apart during COVID-19 quarantine:  \"We should thank our lucky stars that Title II net neutrality regulations were repealed by the FCC in 2017.In doing so, the US avoided the fate of much of Europe today, where broadband networks are strained and suffering from a lack of investment and innovation.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Except none of this is true.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "This entire narrative is fantasy -- built almost entirely off of the EU simply asking various streaming companies to throttle certain services in an abundance of caution.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "There remains no evidence that this was due to any serious problems, and, at the same time, there's been no evidence that US networks have measurably outperformed their EU counterparts (indeed, many of the companies that throttled services in the EU did so in the US as well).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Investment at many US ISPs actually dropped post net neutrality repeal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "And there's literally no indication that US networks are somehow \"more robust\" than the EU because the FCC decided to ignore the public and obliterate its own authority at the behest of the telecom lobby.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "It's just not a supportable claim.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "In fact, networks in China and Italy, like here in the States, have (with a few exceptions) held up reasonably well under the massive load of telecommuting and home learning.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Not because of net neutrality policy, but because network engineers are generally good at their jobs .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "While there have been some network problems, they're usually of the \"last mile\" variety in both the EU and US.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "As in, because of limited competition, your ISP never upgraded that \"last mile\" to your house, leaving you stuck on a DSL line from around 2007 that struggles to handle Zoom teleconferencing particularly well.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "The claim that the EU was suffering some kind of exceptional congestion problems appears to have originated among some EU regulators who simply urged Netflix to reduce bandwidth consumption by 25% to pre-emptively help lighten the load.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "There was no supporting public evidence provided of actual harm.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The move was precautionary, and may not have even been necessary.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Somehow this flimsy base was used as the foundation of the claim that because the EU passed some fairly basic and inconsistent net neutrality rules , it suffered more network headaches than the US.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "But if you look at Ookla's data of how networks have held up around the globe, you see that the US appears to have performed at about the same level as other places.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Here's the US:  There's a small dip in mid-March as a lot of the country began to shut down, but no massive problems.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "On that, everyone seems to agree.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "But to hear the various anti-net neutrality folks tell it, the EU was struggling to keep its network up and running.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "But... uh, the data doesn't show that at all:  In Germany, France, and Spain you see that download speeds actually jumped up before eventually doing a small dip as those countries locked down.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "There isn't enough evidence to make a definitive claim, but if we were to argue using the same points raised by critics of net neutrality, Looking at all that, you might even be able to make the argument that EU broadband providers handled this situation better and more quickly than the US.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "None of this has stopped the telecom sector and its allies from embracing this whole flimsy argument anyway.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "In a speech at the Inter American Development Bank last week, FCC boss Ajit Pai made, albeit more subtly, similar claims:  \"In the end, I believe trusting the markets rather than solely relying on mandates resulted in more consumer-friendly policies than we would have achieved with a more heavy-handed government intervention, and I know that we were able to make these changes more quickly.I’d also argue that the general regulatory approach that we have in the United States have applied to the broadband marketplace gave us much stronger infrastructure in the first place, as it gave companies the incentives to invest in resilient, robust networks that could withstand unprecedented consumer demands.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Again though, Pai's not telling the truth.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "US broadband investment didn't magically improve due to the net neutrality repeal, no matter how many times he makes the claim.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "In fact, AT&T; and Comcast dropped overall CAPEX despite massive deregulation and billions in tax cuts .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "There's zero evidence any of this industry ass-kissing made US networks more resilient to a pandemic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "In fact, respected former FCC advisors like Gigi Sohn have argued that gutting FCC authority over ISPs has made it harder than ever to hold them accountable for bad behavior, pandemic or otherwise.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Using a pandemic to justify regulatory capture is grotesque, especially given there's just no evidence to support the claims being made here.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "That didn't stop FCC General Counsel Tom Johnson, who also tweeted out his support for a new Wall Street Journal opinion column (not coincidentally) making most of the same claims:  ✅2017: @FCC rejects utility-style regulation of Internet  ✅2020: Americans stay better connected through telework and stay-at-home challenges during #COVID19 https://t.co/yOfjq2OZlE — Tom Johnson (@TomMJohnsonJr) April 15, 2020 Notice how the telecom industry doesn't even have to publicly make these false claims, because they've got think tankers and government employees now doing it for them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "These arguments are rife with cherry picking and selective reasoning (for example you'll see none of these folks highlighting how EU consumers pay far less for broadband than those in the US, in part because regulators are generally more active when it comes to protecting competition and consumer welfare).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "The Wall Street Journal story also suggests that US networks are more resilient to COVID-19 thanks to killing net neutrality, broadband privacy rules, and other \"heavy handed\" US telecom consumer protections:  \"In Europe, networks have struggled to meet bandwidth demand, leading officials to ask popular services such as Netflix and YouTube to degrade the quality of their streaming video from high definition to standard definition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "U.S. networks have faced fewer problems adjusting to the increase in demand.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Public policy explains the different outcomes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "The European Union has embraced a heavy-handed regulatory scheme designed to allocate access to the existing network, while the U.S. has emphasized private investment to expand network capacity.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "But again, there's no evidence that European networks have fallen apart during the COVID-19 crisis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Or that any differences in performance have anything to do with deregulation or net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Netflix's decision to throttle back its bandwidth usage by 25% was done entirely pro-actively.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "There was no underlying network data provided by regulators to justify the move.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "It was just EU regulators being cautious (perhaps overly so).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "similar steps have been taken here in the States .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "YouTube for example has downgraded video quality to conserve bandwidth.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "So has game platform Steam, which is slowing some game downloads .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "You can't selectively highlight the EU's efforts on this front then ignore the US ones because it supports your flimsy narrative.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Well I guess you can, but you should be laughed at.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "It takes a particular type of person to look at a brutal pandemic and think that it provides a wonderful opportunity to justify one of the most controversial, scandal prone , and fact-averse regulatory policy decisions in modern history.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Using COVID-19 to justify mindless telecom sector coddling sets a new, even lower bar for a sector whose argumentative integrity was already at ankle height.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "It's a distraction from several things the sector would prefer you not pay attention to.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "One being that an estimated 42 million Americans still can't access broadband during a pandemic , and millions more can't afford service because of a lack of competition among regionally power monopolies.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "They'd also really like it if you forgot how the FCC ignored the public , made up a bunch of data , and ignored a whole bunch of fraud to gut oversight of one of the most problematic business sectors in America--leaving consumers and regulators alike on precarious footing in the wake of an historic global crisis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "congestion , covid-19 , eu , fcc , net neutrality , throttling , us 48 Comments from the self-sabotage-is-our-forte dept Thu, Apr 2nd 2020 1:36pm —  It's worth repeating for the folks in the back: the FCC's hugely unpopular , facts-optional and fraud-slathered repeal of net neutrality did a lot more than just kill \"net neutrality.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "It gutted the FCC's already dwindling authority over giant telecom monopolies, shoveling any remaining authority to an FTC that lacks the authority or resources to police the US telecom sector (the whole goal of telecom lobbyists).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "As a result, you've now got ISPs free to engage in problematic behavior (like bullshit fees , or charging people \"rental fees\" for modems they already own ) that the government is incapable and unwilling to address.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "And the government's decision to ignore the public and pander to the telecom lobby has deeper ramifications as well.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "As telecom lawyer and former FCC staffer Gigi Sohn writes in an editorial at The Verge , there has been a multi-decade effort to kill telecom oversight under the (clearly false) claim that the miracle of the free market will somehow magically fix a sector that's been clearly broken for decades:  \"This digital divide did not happen by accident.It is the result of years of scorched-earth deregulation and consolidation pushed by large cable and broadband companies and a government that, despite mountains of evidence to the contrary, believes that somehow the so-called “free market” will take care of the unconnected.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "Of course the telecom Utopia that's promised never actually arrives despite decades of this game of deregulatory theater.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "Deregulated telecom monopolies, too big to fail, fused to the NSA , and constrained by neither government oversight nor competition, just wind up doubling down on the same bad (or worse) behaviors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "There's a segment of telecom policy \"experts\" who enjoy denying this factual reality, but the facts on the ground (more than 50 million Americans lack access to more than one ISP at speeds of 25 Mbps , and US consumers pay some of the highest prices for data in the developed world ) don't lie.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "Deregulation can certainly spawn innovation when you're talking about functioning, competitive markets.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "But U.S. telecom, where a handful of giants dominate most U.S. markets and all but own state and federal lawmakers, has never been that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "That we keep pretending otherwise is a stunning level of denial driven largely by partisan ideology.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "Sohn goes on to note that the FCC's decision to neuter itself at telecom lobbyist behest left the FCC to adequately police the sector during a pandemic:  \"One might think that during a national emergency, the chairman of the FCC wouldn’t have to plead with broadband providers to do what is necessary to ensure that every American is connected.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "But in 2017, at the behest of cable and broadband companies, the Trump FCC abdicated its responsibility to protect consumers and promote competition in the broadband market when it repealed its network neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "Not satisfied with simply eliminating the rules, which prohibited broadband providers from blocking, throttling, and otherwise favoring certain internet content and services, the Trump FCC blithely threw away its legal power to oversee the activities of these companies by reclassifying them as unregulated “information services” rather than regulated “telecommunications services.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "So while certain folks like to make claims like \"the internet didn't implode therefore repealing net neutrality wasn't important,\" that's a simplistic, dumb, or just plain disingenuous way of framing what actually happened.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "This is what actually happened: the FCC ignored the public, ignored rampant fraud , and ignored all hard data to neuter itself at the behest of giant telecom monopolies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "That should never, ever get lost in the partisan bickering over policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "With less authority than ever, the FCC was forced to recently resort to a sort of stage play to try and keep ISPs from ripping off financially-constrained broadband customers during a pandemic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "That included a recent FCC \"Keep Americans Connected Pledge\" that involves ISPs pinky swearing that they won't kick U.S. telecom customers suffering from financial hardships offline during the COVID-19 quarantine for 60 days.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "But while the promise isn't necessarily a bad thing , it's entirely voluntary, and the FCC has no real authority to police ISPs that don't behave.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "It's policy theater, Sohn notes:  \"A voluntary pledge isn’t adequate to ensure that Americans can work, learn, have access to health care, and communicate during this trying time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "Without legal authority over broadband providers, the agency cannot hold any of those companies to their promises — they can simply walk away after 60 days or before.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "Nor can the FCC require broadband providers to take critical steps beyond the pledge, like relaxing data caps, providing low-cost or free connectivity, or other steps that would help those desperately in need during this crisis, if even on a temporary basis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "The Communications Act of 1934 gives the FCC a great deal of flexibility to ensure that the public is protected during a national emergency.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "But when it comes to broadband internet access, this FCC is powerless.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "On the Libertarian end, this neutering of the FCC is usually applauded alongside ample fear mongering that a potent FCC would run amok.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "But decades of U.S. broadband policy has never supported this empty assertion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "For a generation now the U.S. FCC, under both parties, has (with a few exceptions like Wheeler) almost uniformly pandered to the interests of U.S. telecom monopolies, stripping away authority and consumer protections under a steady parade of promises that never materialize.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "For most of us (especially the less affluent), the end result of feckless telecom oversight and ceaseless pandering should be fairly obvious.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "Again, with neither competition (a problem opponents of Sohn's arguments simply ignore or downplay at their convenience) nor regulatory oversight, telecom giants like AT&T and Comcast have been free to charge some of the highest rates in the developed world, engage in clear and repeated billing fraud , deliver some of the worst customer service in history (with no pressure or incentive to fix it), be utterly non-transparent , crush or acquire competitors through mindless consolidation , engage in rampant privacy abuses (again with little or only tepid repercussions), and so much more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "Folks claiming it's the FCC that is running amok or has too much power in this equation are engaged in some potent head-in-the-sand denialism.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "These companies are so powerful they're literally writing state and federal telecom law with an exclusive eye on protecting their revenues from accountability and competition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "That was a problem during the best of times, but it's going to be doubly so as America enters a protracted crisis where broadband connectivity has shifted from \"nice to have\" to utterly essential to survive.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "Pretending the U.S. broadband market isn't broken, and that regulatory capture and rampant corruption didn't play a massive role in that dysfunction, is disingenuous, dangerous folly whose multi-decade tenure as a dominant policy paradigm needs to be put out to pasture.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "broadband , competition , covid-19 , fcc , gigi sohn 13 Comments from the a-little-late dept Mon, Mar 2nd 2020 6:27am —  In its 2005 , the courts changed US telecom oversight forever.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "You might recall that in the early aughts, former FCC boss Michael Powell (now the top lobbyist for the cable industry) engaged in wholesale deregulation of the broadband sector, insisting it would usher forth all manner of intense competition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "Powell had claimed at the time that a new technology known as broadband over powerline (BPL) would come in as a layer of added competition, justifying his decision to free the sector from regulatory oversight.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "Due to interference issues, BPL never worked out , and you may have noticed that Powell's promised deregulation-triggered wave of competition never happened .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "Powell's decision effectively involved classifying cable providers as an \"information service\" instead of a \"telecommunications service,\" thereby freeing it from significant oversight under Title II of the Communications Act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "In telecom, this mindless deregulation is always delivered alongside promises of intense new competition (see net neutrality).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "But with the broadband industry, a sector dominated by a handful of powerful \"too big to fail\" monopolies all but fused to the NSA, it never quite works that way.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "With neither competition nor oversight to keep them in line, regional monopolies like Comcast and AT&T usually just double down on anti-competitive behavior.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "It's a lesson we refuse to learn.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "Regardless, Powell's decision triggered a massive legal fight that began when a company named Brand X Internet sued, because the regulatory shift blocked it from accessing the networks of incumbent cable providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "The battle reached all the way to the Supreme Court, who in a 6-3 decision supported Powell's deregulation of the cable sector.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": "But the ruling had a catch: it didn't lock cable into being classified as an \"information service\" permanently.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "It allowed the FCC to shift the definition back and forth, just as long as it provided some fairly basic justification for the move.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "It's a major reason FCC policy has shifted so sharply back and forth as partisans have jerked the reins from \"yes, we'd like some modest oversight of telecom\" to \"letting the industry do whatever it wants results in Utopia\" policy patty cake.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": "dissent in an unrelated case (pdf, hat tip ) in which he suggested some regret for his original \"Brand X\" ruling:  \"\"Regrettably, Brand X has taken this Court to the precipice of administrative absolutism,\" Thomas wrote.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "\"Under its rule of deference, agencies are free to invent new (purported) interpretations of statutes and then require courts to reject their own prior interpretations.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 105,
+            "sentence": "That's of course what happened with net neutrality, with the 2015 FCC passing some modest net neutrality rules, and the 2017 Ajit Pai FCC then scuttling them on behalf of industry.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 106,
+            "sentence": "So instead of a set of consistent rules, we get whiplash.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 107,
+            "sentence": "Thomas continued:  \"Although I authored Brand X, \"it is never too late to 'surrende[r] former views to a better considered position.'\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 108,
+            "sentence": "Brand X appears to be inconsistent with the Constitution, the Administrative Procedure Act (APA), and traditional tools of statutory interpretation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 109,
+            "sentence": "Because I would revisit Brand X, I respectfully dissent from the denial of certiorari.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 110,
+            "sentence": "Ideally, you'd want federal lawmakers to pass legislation that enshrines some basic net neutrality consumer protections into law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 111,
+            "sentence": "But because Congress has been wholly corrupted by telecom industry campaign cash, that's simply not happening without a major shakeup in the Senate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 112,
+            "sentence": "So while it's nice Thomas may have seen the error of his ways fifteen years on, the epiphany comes far too late to be of actual help to US consumers or the uncompetitive broadband markets Powell's original ruling helped cement.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 113,
+            "sentence": "Meanwhile Michael Powell, who started this entire mess on behalf of the cable sector, is now the top lobbyist for the NCTA, the cable industry's biggest lobbying and policy organization.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 114,
+            "sentence": "The last two years he's been advocating for massive new regulation of Silicon Valley and virtually no oversight whatsoever for telecom.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 115,
+            "sentence": "It's gambit that's paying off handsomely so far, thanks to myopic lawmakers who haven't yet figured out that the problems with \"big tech\" and \"big telecom\" are in many ways one and the same.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 116,
+            "sentence": "And in some ways (thanks in large part to natural monopolies fused to the NSA) the problems with telecom are worse.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 117,
+            "sentence": "brandx , clarence thomas , classification , fcc , internet services , supreme court 11 Comments from the round-and-round-we-go dept Wed, Feb 26th 2020 6:17am —  Last October the DC US Court of Appeals upheld a large chunk of the FCC's controversial net neutrality repeal with a 2-1 vote.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 118,
+            "sentence": "But the ruling wasn't a total win for Ajit Pai's FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 119,
+            "sentence": "The ruling blocked the FCC and broadband industry's attempt to include a provision in the repeal that would have banned US states from being able to protect consumers, noting that when the Trump FCC abdicated its consumer protection authority, it also gave up its right to say what state regulators and lawmakers could or couldn't do.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 120,
+            "sentence": "The courts also forced the FCC to take several parts of the Orwellian-named \"restoring internet freedom order\" (which did nothing of the sort) back to the drawing board.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 121,
+            "sentence": "Specifically, the Ajit Pai FCC was told it spent little to no time considering how its handout to industry impacted minorities, low income communities, and public safety--suggesting it should, you know... do that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 122,
+            "sentence": "Time to speak up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 123,
+            "sentence": "The FCC is asking for public comment on net neutrality matters the court said it got wrong.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 124,
+            "sentence": "This is our shot.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 125,
+            "sentence": "Let's do this.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 126,
+            "sentence": "Jessica Rosenworcel (@JRosenworcel) February 19, 2020 Granted the last time we went through this, and broadband industry linked PR shops flooded the FCC website with comments from fake people, dead people, and the stolen identities of real folks ( including myself )--all to try to create the illusion that pandering to telecom monopolies was ultra popular (note: it's fucking not ).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 127,
+            "sentence": "And since absolutely nobody has been held accountable for any of this, there's nothing to suggest the same stage play won't repeat itself as the Ajit Pai FCC whistles and looks in the opposite direction.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 128,
+            "sentence": "comments , fcc , net neutrality 78 Comments from the credibility-problem dept Thu, Jan 30th 2020 8:56am —  Comcast cut back on network investment in 2019 despite repeated claims that killing net neutrality (and neutering the FCC in general ) would have the exact opposite impact.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 129,
+            "sentence": "With the company's fourth quarter earnings now in the books, it's clear that the company's cable and broadband division overall CAPEX dropped in 2019 by roughly 10.5% .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 130,
+            "sentence": "Comcast reports cable division CAPEX in four categories, and investment dropped in three out of four of them:  \"Comcast reports cable-division capital expenditures in four categories, and its full-year spending dropped in three of them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 131,
+            "sentence": "Comcast spending on line extensions—defined as \"costs associated with entering new service areas... includ[ing] fiber and coaxial extensions\"—dropped from $1.5 billion in 2018 to $1.4 billion in 2019.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 132,
+            "sentence": "Comcast spending on \"scalable infrastructure,\" which provides additional bandwidth and other service improvements, dropped from $2.6 billion to $2 billion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 133,
+            "sentence": "Spending on customer-premises equipment dropped from $2.9 billion to $2.7 billion.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 134,
+            "sentence": "Granted that's the exact opposite of what Comcast lobbyists and Ajit Pai's FCC said would happen when it neutered the FCC at telecom lobbyist behest.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 135,
+            "sentence": "The public was told more times that we could count that the FCC's fairly modest (by international standards) net neutrality rules had all but demolished network investment , despite absolutely no evidence that was actually true.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 136,
+            "sentence": "The industry and its allies at the Trump FCC then insisted network investment would soar post net neutrality repeal, something that pretty clearly isn't happening:  \"Comcast isn't the only major ISP cutting investment, as AT&T; projects that it will reduce capital spending from $23 billion in 2019 to $20 billion in 2020.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 137,
+            "sentence": "Charter Communications said in October that its capital expenditures excluding mobile services would total $7 billion in 2019, down from $8.9 billion in 2018.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 138,
+            "sentence": "Verizon also reported a capital-expenditure decline in the first nine months of 2019.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 139,
+            "sentence": "AT&T; also released its earnings this week (pdf), which showed that AT&T;'s CAPEX has been steadily dropping since 2006, and its fourth quarter CAPEX specifically dropped to $3.9 billion-- the lowest total in nearly a decade :  AT&T; capital spending (network and facility upgrade expenses) dropped to $3.8 billion the lowest level in nearly a decade.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 140,
+            "sentence": "https://t.co/NevlRIePVI pic.twitter.com/sJrFbmaOSw — Scott Moritz (@MoritzDispatch) January 29, 2020 Propped up by a chorus of telecom-linked think tankers and other \"very serious policy voices,\" the Trump administration doled out billions in massive tax cuts and regulatory favors to the nation's biggest telecom companies, and all taxpayers got in return were some empty promises and a significant pile of bullshit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 141,
+            "sentence": "And so far, there's been absolutely no effort, on any front, to hold anybody accountable for any of it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 142,
+            "sentence": "capital expenditure , competition , fcc , net neutrality , network spending at&t; , comcast 16 Comments from the regulatory-capture-is-just-so-hot-right-now dept Thu, Jan 9th 2020 6:18am —  In 2018, you might recall that Ajit Pai had to cancel his CES appearance due to clearly idiotic death threats .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 143,
+            "sentence": "In 2019, Pai had to cancel a scheduled appearance due to the government shutdown .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 144,
+            "sentence": "Fast forward to 2020 and Ajit Pai finally made it back to CES, and he used the opportunity to... make up some nonsense about net neutrality .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 145,
+            "sentence": "In a cozy, unchallenging chat with the CTA's Gary Shapiro, Pai once again trotted out the canard that modest net neutrality rules crushed US broadband sector investment, insisting that his hugely unpopular decision to kill net neutrality has resulted in, by golly, some amazing things for American consumers :  \"Since we made the decision in December 2017, broadband speeds are up 60 percent according to Ookla, infrastructure investment is up, more Americans are getting connected to the internet than ever before.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 146,
+            "sentence": "More fiber was laid in 2019 to homes and businesses in the United States than in any year since they’ve been keeping records, breaking the record we set in 2018.”  But as we've been over repeatedly , there's absolutely no evidence that Pai's net neutrality repeal actually contributed to those improvements, and the claim that net neutrality hurt broadband investment is indisputably false.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 147,
+            "sentence": "It's simply not debatable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 148,
+            "sentence": "SEC filings, earnings reports, numerous investigations -- even the public statements of countless CEOs have shown Pai's not telling the truth:  \"Last September, a massive study reviewed telecom earnings reports and SEC filings between 2009 to 2018 and found absolutely no evidence that the repeal helped spur US broadband network investment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 149,
+            "sentence": "The findings mirrored another major study by consumer group Free Press, which found some ISPs actually invested more while the rules were active.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 150,
+            "sentence": "journalists have come to the same conclusion after digging through industry earnings reports.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 151,
+            "sentence": "Even telecom industry CEOs have admitted repeatedly to investors —who by law they can’t lie to—that the rules had no impact on their broadband investment strategies.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 152,
+            "sentence": "While broadband speeds have increased, there too is zero evidence that killing net neutrality was to thank for it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 153,
+            "sentence": "Some of the bump is thanks to cable operators upgrading to DOCSIS 3.1, something the FCC had nothing to do with.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 154,
+            "sentence": "Some of it is thanks to community broadband fiber builds, something the current FCC actively opposes .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 155,
+            "sentence": "And some of it is thanks to merger conditions affixed to AT&T's 2015 merger with DirecTV by the previous FCC, bringing fiber to 12.5 million homes by an act of regulatory action (ironic given Pai is trying to frame those gains as the product of regulatory restraint).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 156,
+            "sentence": "Pai's clearly been informed that he's wrong on most of these points, but like so many in the post-truth era apparently doesn't care, hopeful that repetition somehow forges reality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 157,
+            "sentence": "Much like he did in 2017 when he celebrated the giant middle finger he'd just given consumers by dancing with a pizzagate conspiracy theorist , Pai took the opportunity at CES to make light of a justifiably pissed public:  “I would like to say that thanks to our efforts, more Americans than ever before, faster than ever before, are able to hate-tweet their favorite FCC chairman.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 158,
+            "sentence": "It's worth repeating that the net neutrality repeal didn't just kill net neutrality, it obliterated the FCC's ability to hold ISPs accountable for all manner of shady bullshit, be it false advertising, location data privacy scandals, or charging consumers rental fees for modems they already own .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 159,
+            "sentence": "That's before you get to the litany of identity theft and fraud that accompanied the repeal itself, something that doesn't get any more hilarious in hindsight.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 160,
+            "sentence": "net neutrality 24 Comments from the round-and-round-we-go dept Tue, Dec 17th 2019 6:24am —  Last October, the U.S. Court of Appeals for the District of Columbia Circuit ruled that the FCC was within its authority when it buckled to telecom providers and eliminated not only the agency's net neutrality rules, but its authority over telecom providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 161,
+            "sentence": "The ruling was a mixed blessing for big ISPs like Comcast and AT&T however, given that while it eliminated the federal guidance, it blocked the FCC from banning states from passing their own consumer protections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 162,
+            "sentence": "As a result, the telecom sector now faces a sometimes discordant patchwork of state protections, a problem of the industry's own making.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 163,
+            "sentence": "Fast forward to late last week, when Mozilla and a coalition of consumer groups petitioned the court to rehear the case.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 164,
+            "sentence": "A press release from Mozilla proclaims the appeal is driven by the belief that the court ruling conflicts with D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 165,
+            "sentence": "Circuit or Supreme Court precedent, and the court failed to seriously contemplate the fact that the repeal itself was built on a foundation of false allegations and bogus data (namely the provably false claim that the repeal was necessary because sector investment was harmed):  \"We explain why we believe the Court can in fact overturn the FCC’s new treatment of broadband service despite some of the deciding judges’ belief that Supreme Court precedent prevents rejection of what they consider a nonsensical outcome.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 166,
+            "sentence": "In addition, we point out that the Court should have done more than simply criticize the FCC’s assertion that existing antitrust and consumer protection laws are sufficient to address concerns about market harm without engaging in further analysis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 167,
+            "sentence": "We also note inconsistencies in how the FCC handled evidence of market harm, and the Court’s upholding of the FCC’s approach nonetheless.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 168,
+            "sentence": "As we've noted a few times now , the repeal of net neutrality did far more than just repeal controversial net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 169,
+            "sentence": "It gutted FCC authority over anti-competitive ISPs, shoveling any remaining authority to an FTC that lacks the resources or authority to seriously hold telecom accountable (the entire reason the industry lobbied so intensely for the repeal in the first place).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 170,
+            "sentence": "That means the FCC is not just AWOL when it comes to things like net neutrality, but from protecting consumers from a rotating crop of anti-consumer behaviors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 171,
+            "sentence": "I recently wrote a lengthy piece explaining why those who proclaim that the \"net neutrality repeal didn't matter because the internet still works\" are only advertising their own ignorance as to the broader impact of the move.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 172,
+            "sentence": "And while states are (for now) free to step in to try and fill the consumer protection void, fewer than half of US States have actually done so, meaning there's currently little to nothing seriously protecting consumers from predatory telecom monopolies across a notable segment of America, precisely as telecom lobbyists and executives intended.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 173,
+            "sentence": "dc circuit , en banc , net neutrality , rehearing mozilla 22 Comments from the nothing-to-see-here dept Thu, Nov 21st 2019 6:49am —  For a couple of years now, AT&T has been trampling net neutrality without much of anybody giving a damn.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 174,
+            "sentence": "Like many ISPs eager to take full advantage of limited US broadband competition, AT&T imposes arbitrary and unnecessary usage caps and overage fees on its broadband lines.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 175,
+            "sentence": "If you're an AT&T broadband customer who uses more than 150 GB (DSL) to 1 terabyte (fiber) monthly, you'll suddenly face having to pay $10 per each additional 50 gigabytes consumed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 176,
+            "sentence": "Again to be clear: there's no technical reason for these limits to exist outside of nickel-and-diming captive customers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 177,
+            "sentence": "While these caps have been in place for a while, a few years ago AT&T began eliminating these restrictions for its broadband customers if you use AT&T's own streaming platforms .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 178,
+            "sentence": "Use Netflix instead, and you'll face a significantly higher broadband bill.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 179,
+            "sentence": "This is by any measure a net neutrality violation because it allows AT&T to use its power as network operator to try and stake out a distinct advantage.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 180,
+            "sentence": "Speaking at Recode's Code Media conference this week, AT&T President John Stankey was asked a bit about the potential for AT&T to abuse its power as newfound owner of both the content and the conduit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 181,
+            "sentence": "His response was fairly stunning :  \"You'd be hard-pressed to point to an instance of anybody's behavior that would suggest that there is any kind of discrimination, favoritism, or anything else going on in how people get to content on the Internet over a broadband connection,\" Stankey said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 182,
+            "sentence": "\"It's a problem that's non-existent.There's absolutely nothing that's occurring.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 183,
+            "sentence": "Again, either Stankey doesn't understand how his own products work, or he's flat out lying.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 184,
+            "sentence": "Hard to tell, since, as is usually the case at such conferences, nobody followed up with any pointed questions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 185,
+            "sentence": "Hell, AT&T pioneered the idea of \"sponsored data,\" which involves letting companies literally buy their way to network favoritism if they had enough cash.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 186,
+            "sentence": "Under AT&T's ideal model, if you pay AT&T enough cash, arbitrary restrictions (like usage caps) won't apply to you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 187,
+            "sentence": "Unsurprisingly, AT&T saw resistance to these kinds of playing-field tilting business models.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 188,
+            "sentence": "In fact, the previous FCC was just gearing up to crack down on this kind of behavior when Trump was elected, Pai was appointed head of the FCC, and all meaningful rules on this front were quickly obliterated at AT&T's request.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 189,
+            "sentence": "As the telecom sector has been known to do in recent months, Stankey then tried to brush aside any telecom monopoly concerns, and suggested those worried about predatory behavior look toward Google and Apple:  \"Stankey would prefer that consumers direct their ire elsewhere.\"I'd be far more concerned over the scale of what's occurring in terms of distribution platforms on mobile OSes, in terms and conditions associated with new product development on that and what that does to squash innovation, than anything to do with how traffic over the Internet is being treated today,\" he said\"  The idea that telecom is an innocent angel and the only real threat to the internet comes from Silicon Valley has been a line the telecom sector has been pushing for a while, in large part because giants like AT&T want to elbow in on Facebook and Google's online ad domination.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 190,
+            "sentence": "Given the fact government is exploring saddling Silicon Valley with new regulations, penalties, and oversight (many justified) while dismantling all meaningful oversight of telecom should give you some insight into how well that gambit has been going.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 191,
+            "sentence": "broadband , competition , data caps , fcc , john stankey , net neutrality , zero rating at&t; 18 Comments from the ill-communication dept Tue, Nov 5th 2019 6:45am —  Why it's almost as if you can't take telecom giants (and their lawyers, consultants, and political allies) seriously.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 192,
+            "sentence": "If you recall, the broadband industry and the Trump FCC repeatedly proclaimed that modest consumer protections like net neutrality had dramatically stifled telecom sector investment, and were we to ease regulatory oversight of giants like AT&T; and Verizon, it would result in a wave of new sector investment the likes of which we'd never seen before.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 193,
+            "sentence": "Ignore the fact that data routinely disproved this claim ; this \"net neutrality stifled investment\" claim was made almost daily by the telecom sector and the wide variety of mouthpieces paid (one way or another) to support them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 194,
+            "sentence": "Funny thing about that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 195,
+            "sentence": "Despite just having received billions in tax breaks and regulatory favors, AT&T;, Comcast, and Charter are all slated to lower their CAPEX and network investment significantly in 2020 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 196,
+            "sentence": "Others 2020 CAPEX projections, like Verizon, were entirely flat.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 197,
+            "sentence": "This static or reduced investment arrives despite the slow but steady deployment of 5G, the accelerated deployment of which was also a big cornerstone of the net neutrality repeal's justification:  \"Comcast and Charter missed 3Q expectations for capex and guided 2019 lower than previously planned,\" wrote the analysts at Nomura's Instinet in a recent note to investors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 198,
+            "sentence": "\"We have lowered our combined 2019 capex forecast for Comcast and Charter from $14.6 billion to $14.2 billion.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 199,
+            "sentence": "And AT&T...surprised; Wall Street analysts with a significantly lower-than-expected capex for 2020.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 200,
+            "sentence": "The operator said it expects to spend around $20 billion on capex next year, which is way down from the $23 billion it expects to spend this year and the $22 billion that most Wall Street analysts had expected AT&T; to spend in 2020.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 201,
+            "sentence": "Fewer jobs, higher prices , and lower investment was not what we were promised.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 202,
+            "sentence": "It's the precise opposite of what the endless parade of telecom-linked think tankers, academics, consultants, and other hired mouthpieces claimed would happen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 203,
+            "sentence": "And it's certainly not what Ajit Pai said would happen when he recently told Congress net neutrality had a disastrous impact on sector investment, despite the fact that biggest study of its kind on the subject ever undertaken just last month showed that net neutrality had no meaningful impact on broadband investment levels whatsoever.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 204,
+            "sentence": "It's simply no longer debatable, and it's fairly telling to see which groups and individuals are still trying to push this line of debunked detritus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 205,
+            "sentence": "Granted this is a con AT&T; has been running on the American public for decades now .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 206,
+            "sentence": "The company will proclaim that immense broadband deployment and employment gains can be made if the government just lobotomizes itself and does whatever AT&T; is demanding at the moment (lower tax rate, fewer regulations, new regulations AT&T; supports, merger approval, etc.).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 207,
+            "sentence": "When the government inevitably follows through, AT&T;'s promises then mysteriously disappear .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 208,
+            "sentence": "And like Lucy and Charlie Brown football, nobody in the US seems particularly interested in learning from the experience.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 209,
+            "sentence": "broadband , capex , investment at&t; , comcast , verizon 61 Comments from the you-built-this dept Wed, Oct 23rd 2019 6:28am —  A common misconception is that the FCC's net neutrality rule just killed net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 210,
+            "sentence": "In reality, the \"Restoring Internet Freedom\" order eliminated most of the FCC's authority over broadband providers, shoveling remaining oversight to an FTC that lacks either the attention span or authority to police giants like AT&T; and Comcast.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 211,
+            "sentence": "The order also attempted to ban states from protecting consumers in the wake of the FCC's apathy to industry issues.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 212,
+            "sentence": "This accountability vacuum was, if you're a slow learner, the entire point of the plan.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 213,
+            "sentence": "But a recent court ruling was a mixed outcome for the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 214,
+            "sentence": "While the court supported much of the FCC's repeal (despite the obvious fraud that occurred), it ruled the FCC lacked the authority to block states from protecting consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 215,
+            "sentence": "As a result, while federal net neutrality protections are gone, a flood of states are now passing their own laws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 216,
+            "sentence": "And despite creating this problem , Ajit Pai and the broadband industry aren't happy about it, angry that their dream of zero meaningful oversight for one of the most broken industries in America wasn't fully realized.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 217,
+            "sentence": "In a softball interview this week at the WSJ Tech Live conference, Pai took some time to whine about the fact that the broadband industry now has to deal with a multitude of often discordant state laws instead of a singular cohesive rule set.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 218,
+            "sentence": "At no point, please notice, does Pai even remotely acknowledge that he himself caused the problem by rushing to dismantle federal rules using bunk data:  \"When you're talking about the choice for a venture capitalist or an entrepreneur to set up shop in the United States where they have to get permission from the federal government or from the state of California, San Francisco, or some other jurisdiction, or whether they should set up shop in country B where there's a uniform, well-established set of regulations that are consistent, I worry that the proposition value for country B will become stronger over time.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 219,
+            "sentence": "Again, Pai created this problem.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 220,
+            "sentence": "Telecom industry lobbyists, using bogus data and fake people , pushed to repeal hugely popular federal net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 221,
+            "sentence": "Those rules, while portrayed as \"draconian\" by Pai and industry, were among the most modest in the world (failing to even address things like usage caps and \" zero rating \").",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 222,
+            "sentence": "Pai and the industry he's pandering to created this problem by killing off modest federal rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 223,
+            "sentence": "Now they're complaining about the fact that there's no cohesive federal framework in place.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 224,
+            "sentence": "The same thing occurred with FCC privacy rules .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 225,
+            "sentence": "And again, the FCC's (read: industry's) goal has been to kill most state and federal oversight of telecom under the false pretense that this will somehow, magically, spur Comcast Corporation to begin caring about customer service and deploying broadband to lower ROI regions of the country.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 226,
+            "sentence": "Pai, a former Verizon lawyer who has yet to stand up to industry on a single issue of substance , tries so very hard to dress this up as some kind of sophisticated ethos:  \"He argued that \"while that federalist system has served us very well\" up to this point in our nation's history, it's time for Congress to consider \"whether or not we can still maintain a multilayer regulatory system.\"He said allowing states and local governments to pass their own laws regulating internet services, which inherently cross state lines, creates market uncertainty.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 227,
+            "sentence": "The market uncertainty was created by regulatory capture and pandering to industry.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 228,
+            "sentence": "Hugely popular, modest and cohesive federal guidelines were in place.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 229,
+            "sentence": "Corruption and blind fealty to industry eliminated them, creating a chaotic state by state approach to market oversight.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 230,
+            "sentence": "There's only really one place the blame for the resulting chaos belongs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 231,
+            "sentence": "ajit pai , fcc , net neutrality , oversight , state laws , state's rights 47 Comments Report this ad .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 232,
+            "sentence": "Explore some core concepts: read all » Report this ad .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 233,
+            "sentence": "06:37 (19) 06:21 (14) 10:50 (63) 09:37 (45) 06:29 (16) 06:23 (27) 09:24 (48) 06:21 (33) 03:23 (16) 06:27 (32) 09:43 (37) 13:33 (21) 06:35 (32) 06:37 (57) 06:45 (44) 06:38 (12) 06:36 (80) 06:49 (25) 09:41 (37) 06:07 (20) 10:43 (37) 12:10 (16) 06:05 (45) 06:13 (32) 06:14 (14) 15:37 (32) 12:05 (31) 06:31 (45) 12:07 (22) 12:06 (17) Report this ad .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 234,
+            "sentence": "This feature is only available to registered users.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 235,
+            "sentence": "or sign in to use it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 236,
+            "sentence": "RSS Brought to you by",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

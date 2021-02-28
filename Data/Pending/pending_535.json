@@ -1,0 +1,631 @@
+{
+    "document_id": -1,
+    "url": "https://www.intellihub.com/300000-may-already-be-infected-with-coronavirus/",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 18:00:09.339663+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "CLOSE OPINION ANALYSIS SHEP’S WORLD POLITICS ACTIVISM ALT-LEFT ANIMAL RIGHTS BUSINESS CORRUPTION DEEP STATE DISCLOSURE ECONOMY GLOBALISM HUMAN RIGHTS LAW & ORDER MONEY SCANDAL OVERWATCH BILDERBERG BLACK OPS CRIME DEPOPULATION DISASTER OCCULT POLICE STATE PROPAGANDA QUARANTINE SPECIAL REPORT TARGETING TERROR WAR MACHINE SCI-TECH DARK PROJECTS DISCOVERY & EXPLORATION SCIENCE SPACE TECHNOLOGY WILDLIFE LIFESTYLE DARK SECRETS ENTERTAINMENT COMEDY DIY PROJECTS FILM GOSSIP HOLLYWOOD MAGAZINE MAINSTREAM MEDIA MUSIC INDUSTRY PODCAST SOCIAL MEDIA SPORTS TALK RADIO VIDEO YOUTUBE FESTIVITY HEALTH ENVIRONMENT WEATHER FOOD & NUTRITION MEDICAL MARIJUANA MENTAL HEALTH PUBLIC HEALTH CRISIS SURVIVAL LGBT RELIGION TRAVEL Monday, November 23, 2020 ABOUT SHEPARD AMBELLAS PRIVACY POLICY CONTACT US DMCA RADIO SHOW PODCAST DONATE OPINION ANALYSIS SHEP’S WORLD Bill Gates briefed CIA on how to lobotomize Christian fundamentalists, religious… It looks like MKUltra is in full effect: Video evidence U.S. military seizes Scytl servers tied to election fraud — Soros… Night of rage: Antifa and BLM position to unleash election night… POLITICS ACTIVISM ALT-LEFT ANIMAL RIGHTS BUSINESS CORRUPTION DEEP STATE DISCLOSURE ECONOMY GLOBALISM HUMAN RIGHTS LAW & ORDER MONEY SCANDAL “Murphy, you are such a dick,” heckler says to governor while… Wall Street admits “civil unrest” may crash markets U.S. military seizes Scytl servers tied to election fraud — Soros… Empirical evidence: Vote switching scam caught on CNN camera OVERWATCH BILDERBERG BLACK OPS CRIME DEPOPULATION DISASTER OCCULT POLICE STATE PROPAGANDA QUARANTINE SPECIAL REPORT TARGETING TERROR WAR MACHINE Bill Gates briefed CIA on how to lobotomize Christian fundamentalists, religious… It looks like MKUltra is in full effect: Video evidence Massive UFO flies over Hawaii: Video Detainment camps being built coast to coast in Canada to detain… SCI-TECH DARK PROJECTS DISCOVERY & EXPLORATION SCIENCE SPACE TECHNOLOGY WILDLIFE Asteroid 2020 VT4 close approach distance breaks world record, near miss Scientists find “hell planet” with lava oceans, supersonic winds, and rain… U.S. Army requests drone tanks for future battle tool Strange debris, rocks, found on ground following meteor airburst over Mexico LIFESTYLE DARK SECRETS ENTERTAINMENT COMEDY DIY PROJECTS FILM GOSSIP HOLLYWOOD MAGAZINE MAINSTREAM MEDIA MUSIC INDUSTRY PODCAST SOCIAL MEDIA SPORTS TALK RADIO VIDEO YOUTUBE FESTIVITY HEALTH ENVIRONMENT WEATHER FOOD & NUTRITION MEDICAL MARIJUANA MENTAL HEALTH PUBLIC HEALTH CRISIS SURVIVAL LGBT RELIGION TRAVEL It looks like MKUltra is in full effect: Video evidence Massive UFO flies over Hawaii: Video Dr. Richard Urso: COVID-19 “was a lie from the very beginning….",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Minutes ago, CNBC reported that the White House has held multiple meetings about the coronavirus led by Deputy National Security Advisor Matt Pottinger.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "NEW: The White House has been convening multiple meetings on #coronavirus in recent days, convened by deputy national security adviser Matt Pottinger.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Readout from an admin official: Consensus that the issue is worsening but the extent to which is unclear.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The consensus: The problem is getting worse, though the true extent is unclear.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Considering that more than 100 people were under observation as recently as yesterday, we wouldn’t be surprised.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "On Tuesday morning, China’s top health officials shared some grim statistics essentially confirming that the novel coronavirus believed to have emerged from a shady food market in Wuhan is on track to confirm some of the more dire projections shared by epidemiologists.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "we reported late yesterday, the death toll in China has soared past 100 while the number of confirmed cases doubled overnight.",
+            "fact": true,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Health officials around the world have confirmed more than 4,500 cases, more than triple the number from Friday.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "All but a few of the deaths recorded so far have been in Wuhan or the surrounding Hubei province, per the SCMP .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Panic has swept across the region as border closures appear to be the overarching theme of Tuesday’s sessions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Even North Korea, which relies on China for 90% of its foreign trade, has closed the border with its patron.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "More than 50 million remain on lockdown in Hubei, and transit restrictions have been imposed by cities and regions around the country.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "An ‘extension’ of the Lunar New Year holiday is threatening GDP growth, as economists try to size up the knock-on potential impact on the global economy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The virus has now spread across China and another 17 countries/autonomous territories globally, according to BBG .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "But the most important announcement made overnight – at least as far as global markets are concerned – was Hong Kong Chief Executive Carrie Lam’s decision to suspend high-speed rail and ferry service, while halving the number of flights between HK and the mainland.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "This news helped send US stock futures higher in early trade, after health experts yesterday urged Lam to use ‘draconian’ measures to curb the spread, for fear of a repeat of the SARS epidemic, which killed some 300 people, according to the BBC .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "“The flow of people between the two places needs to be drastically reduced” amid the outbreak, Ms Lam told China, meanwhile, said it would stop individuals from traveling to Hong Kong to try and curb the virus.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Travel between mainland & #HongKong is to be restricted, but borders will remain open, says Chief Exec.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Carrie Lam, in light of the #WuhanCoronavirus .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "pic.twitter.com/5BzSbRF1iK January 28, 2020 Jiao Yahui, deputy head of the NHC’s medical administration bureau, said during a press conference Tuesday that shortages of medical supplies in Wuhan were still a serious problem.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "CDC has issued new travel recommendations urging people to avoid all non-essential trips.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "But officials remained reluctant to declare a global emergency, instead insisting that this is merely an emergency “in China”.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Of course, after yesterday’s brutal pullback, that’s to be expected.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "The big piece of evidence that the WHO is purportedly looking for is human-to-human transmission outside China.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Zhong Nanshan, a leading expert on SARS and other communicable diseases in China, confirmed human-to-human transmission in at least one case in Wuhan and two cases in Guangdong Province.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Meanwhile, as we noted yesterday , one case of possible human-to-human transmission is being investigated in Canada, while Vietnam and Japan have now each confirmed one cases.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Japan revealed on Tuesday that a bus driver in his 60s, who recently carried passengers from Wuhan, has been found to have the virus.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "During a meeting in Beijing, President Xi told World Health Organization Director-General Tedros Adhanom Ghebreyesus that the safety of the people is his government’s first priority, and that he recognizes the situation is “very serious.” “This was supposed to be a time for rest, but because of the pneumonia outbreak caused by the novel coronavirus, the Chinese people right now are faced with a very serious battle,” Xi said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "“This is something we take very seriously because in our view nothing matters more than people’s safety and health.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "That is why I myself have been personally deploying, planning, and guiding all the efforts related to containment and mitigation of the outbreak.” That’s ironic, considering Beijing’s sluggish response after the first cases were discovered in December.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "After all, Wuhan Mayor Zhou Xianwang on Tuesday spoke out against the deluge of criticism he has faced to accuse Beijing of tying his hands.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "This comes after President Xi and the party tried to scapegoat him and other local party officials for the crisis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "This was supposed to be a time for rest, but because of the pneumonia outbreak caused by the novel coronavirus, the Chinese people right now are faced with a very serious battle,” Chinese President Xi Jinping tells in Beijing.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Speaking at a press briefing in Beijing on Tuesday, Jiao Yahui, deputy head of the NHC’s medical administration bureau, said shortage of medical supplies was a major constraint in China’s efforts to contain the outbreak and treat infected people.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Tens of thousands of patients are under observation in China after displaying one or more symptoms of the virus.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "In the US, roughly 100 people are in isolation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "But former FDA Commissioner Scott Gottlieb told CNBC that China is obscuring the true number of cases – a suspicion that’s widely held among American infectous-disease experts.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "According to some projections, there might be up to 300,000 cases in China , and there are likely dozens of people who have died of pneumonia who in reality died from nCoV – but those deaths will never be recorded.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Although China is “behaving better” than it did during the SARS outbreak, they’re still concealing information from the international community.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "“They’re still not behaving well.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "They’re concealing information, including the spread to health care workers, which we didn’t know until last week” Gottlieb said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "China is already in a “full-blown epidemic.” The US will likely face some limited outbreaks, but Gottlieb said we have the tools to suppress the virus and prevent the same thing from happening in the US.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Jiao said China was sending about 6,000 medical personnel to Hubei from around the country – with more than 4,000 already there and 1,800 more due to arrive by Tuesday evening – to work in Wuhan and seven other cities in the province.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "In Wuhan, more than 10,000 hospital beds have been made available for patients, he said, while another 100,000 are being prepared.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "In Beijing, CNBC’s Eunice Yoon reported that the local government is strongly encouraging the wearing of facemasks in public.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Police guarding Beijing’s public transit are wearing full hazmat suits, and anybody hoping to board a train must be wearing a mask, and must submit to a temperature check via infrared thermometer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "If an individual is found to have a fever, they’re sent to a hospital to be quarantined.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "As Beijing tries to telegraph to the world that it has the situation under control, health experts have raised new questions about the government’s response.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "One infectious disease specialist told the NYT that they were skeptical about the Wuhan quarantine’s ability contain the virus (unsurprising considering that 5 million left the city before the lockdown began).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Beijing and Guangzhou, a port city northwest of Hong Kong, have broken ground on new hospitals, mimicking the speedy construction of not one but two new hospitals in Wuhan to treat patients infected with the virus.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Beijing is also reopening a hospital used to fight the SARS outbreak in 2003, while 6,000 medical staff have been sent to Hubei.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "“At this stage of the outbreak, the things that make the most difference are finding people, diagnosing people, and getting them isolated,” said Dr. Tom Inglesby, an infectious diseases specialist and director of the Johns Hopkins Center for Health Security.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "“If you isolate the city, then my question and my concern is that you’re making it harder in a number of ways to do those things you need to do,” including ferrying critical supplies and ensuring that infected victims receive adequate treatment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "is an all original fast-paced comedy, variety, news show where nearly everything goes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Shepard Ambellas is the founder and editor-in-chief of the popular independent news website Intellihub.com (news and politics).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Bethany Adoni sits shotgun.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "The Shepard Ambellas Show airs LIVE weekdays (Mon-Fri) on the Shepard Ambellas YouTube channel from 5-7 pm Eastern/4C/2P.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "Turn notifications on immediately.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "The show is nationally syndicated on iHeart Radio .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "Wall Street admits “civil unrest” may crash markets Asteroid 2020 VT4 close approach distance breaks world record, near miss It looks like MKUltra is in full effect: Video evidence U.S. military seizes Scytl servers tied to election fraud — Soros and Gates own stock in company, reports claim EDITOR PICKS “Murphy, you are such a dick,” heckler says to governor while... November 23, 2020 Bill Gates briefed CIA on how to lobotomize Christian fundamentalists, religious... November 20, 2020 Asteroid 2020 VT4 close approach distance breaks world record, near miss November 15, 2020 POPULAR POSTS Freelance journalist: ‘Hijacked flight 370 passenger sent photo from hidden iPhone... March 31, 2014 Surgeon who exposed Clinton Foundation corruption in Haiti found dead in... December 12, 2017 Claim: I am a senior Chinese military intelligence officer and I... February 17, 2020 POPULAR CATEGORY NEWS 1915 SHEP'S WORLD 1533 POLITICS 1358 HEALTH 976 POLICE STATE 951 VIDEO 881 OPINION 777 ECONOMY 677 ENVIRONMENT 675 ABOUT US Intellihub is an independent news outlet which covers a variety of topics such as politics, the economy, surveillance, liberal corporate media bias, and much more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "Contact us: newstips@intellihub.com FOLLOW US ABOUT SHEPARD AMBELLAS DMCA PRIVACY POLICY CONTACT US",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,291 @@
+{
+    "document_id": -1,
+    "url": "https://techstartups.com/2020/02/08/coronavirus-may-originated-chinas-wuhan-laboratory-study-chinese-researchers-shows/",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:55:40.454565+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "That\u2019s one of the most asked questions since the virus started about two months ago.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "It is a lingering question everyone is asking about.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "According to a new report from Science Magazine, Wuhan seafood market may not be the source of novel virus that has already claimed the lives of at least 400 people worldwide.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "While all eyes have so far focused on the seafood market in Wuhan, China, as the origin of the outbreak, the magazine pointed to a description of the first clinical cases published in The Lancet on Friday challenges that hypothesis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The Chinese government denied the lab link to coronavirus as questions over the origin of the virus mount.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "According to a study written by a large group of Chinese researchers from several institutions, of the original 40 cases in Wuhan, the epicenter of the outbreak, 14 people who contracted the virus never set foot in the Wuhan wildlife market where Chinese authorities have claimed the virus originated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The study further provides details about the first 41 hospitalized patients who had confirmed infections with what has been dubbed 2019 novel coronavirus (2019-nCoV).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "In the earliest case, the patient became ill on 1 December 2019 and had no reported link to the seafood market, the authors report.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "\u201cThe symptom onset date of the first patient identified was Dec 1, 2019.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "None of his family members developed fever or any respiratory symptoms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "No epidemiological link was found between the first patient and later cases,\u201d the researchers said in the study .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Their data also show that, in total, 13 of the 41 cases had no link to the marketplace.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "\u201cThat\u2019s a big number, 13, with no link,\u201d says Daniel Lucey, an infectious disease specialist at Georgetown University .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "You can read the report in its entirety at Lancet.com Earlier reports from Chinese health authorities and the World Health Organization had said the first patient had onset of symptoms on 8 December 2019\u2014and those reports simply said \u201cmost\u201d cases had links to the seafood market, which was closed on 1 January.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Science Magazine is not alone in commenting on the Lancet study.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Senator Tom Cotton cited the same Lancet study.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "He tweeted the following: \u201cChina claimed\u2014for almost two months\u2014that coronavirus had originated in a Wuhan seafood market.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "That is not the case.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "@TheLancet published a study demonstrating that of the original 40 cases, 14 of them had no contact with the seafood market, including Patient Zero.\u201d Sen. Tom Cotton refused to accept claims China made about the origin of the deadly coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "China claimed\u2014for almost two months\u2014that coronavirus had originated in a Wuhan seafood market.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "That is not the case.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "@TheLancet published a study demonstrating that of the original 40 cases, 14 of them had no contact with the seafood market, including Patient Zero.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "pic.twitter.com/PdgqgHjkGy \u2014 Tom Cotton (@SenTomCotton) January 30, 2020 In a related story, late last month, Federal Agents arrested Dr. Charles Lieber, chair of Harvard University\u2019s Department of Chemistry and Chemical Biology, after lying to the Department of Defense about secret monthly payments of $50,000.00 paid by China and receipt of millions more to help set up a chemical/biological \u201cResearch\u201d laboratory in China, according to a report from the US Department of Justice (DOJ) .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Also arrested were two Chinese \u201cStudents\u201d working as research assistants, one of whom was actually a lieutenant in the Chinese Army, the other captured at Logan Airport as he tried to catch a flight to China \u2013 smuggling 21 vials of \u201cSensitive Biological Samples\u201d according to the FBI.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "According to DOJ, this same research professor had helped set up a lab at the Wuhan University of Technology, the same city that is now a ground zero to the potentially global pandemic coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "\u201cUnbeknownst to Harvard University beginning in 2011, Lieber became a \u201cStrategic Scientist\u201d at Wuhan University of Technology (WUT) in China and was a contractual participant in China\u2019s Thousand Talents Plan from in or about 2012 to 2017,\u201d DOJ said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "0 Over 23,000 scientists and doctors worldwide signed a letter urging governments around the world to end the \u2018devastating\u2019 lockdowns November 20, 2020         Bill Gates warns of \"climatedemic,\" another global crisis that could be worse than the COVID-19.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Estimated that 3 million people could die if climate change is not stopped November 20, 2020         - Advertisement - Italian tech startup BigProfiles scores $1.6M funding to help companies grow their customer base using AI - Advertisement - ICOs - Advertisement - You are reading Coronavirus may have originated from China\u2019s Wuhan laboratory, study from Chinese researchers shows Email address: Leave this field empty if you're human: Press enter/return to begin your search",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

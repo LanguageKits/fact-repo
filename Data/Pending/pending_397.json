@@ -1,0 +1,1541 @@
+{
+    "document_id": -1,
+    "url": "https://vaxxter.com/coronavirus-iv-vitamin-c-selenium/",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:52:23.512077+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Scientific articles exposing vaccine myths and pharma foibles OpEd \u2013 Guests Dr.Tenpenny\u2019s Blog DrT\u2019s Store Happy Hour w DrT TOPICS: ascorbic acid selenium VaxxterAdmin3 04/09/2020 I live in China.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "This year, like every other, people with severely compromised immune systems were and are suffering from pneumonia.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "In early January 2020, in Wuhan, China \u2013 a place with dreadful air quality \u2014hospitals started receiving patients.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "In fact, for most of November, all of December, and most of January, the air quality index (AQI) was so bad that local governments regularly issued standard health warnings due to high levels of particulate matter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "(At my school in Shanghai, if the AQI is over 150, children are cannot play outside.This is based on government advisories.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "And please be aware, far from hiding the problem, government officials in China at the regional and national level, readily provide daily and historical reports of the air quality index , noting particulate matter (PM2.5) and more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Thus we can track data for Wuhan \u2014 and most other large cities and urban areas \u2014 for the past six years.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Unsurprisingly, those diagnosed with severe forms of COVID-19 are the elderly and immunocompromised.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Additionally, people who have a host of pre-existing conditions are at higher risk.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "( NEJM March 30th, 2020 ).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The Boston-based non-profit, Health Effects Institute, says anywhere from 500,000 to 1,250,000 Chinese die due to air pollution alone each year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "(see pages 11-13) .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "But the question this report discusses is, \u201cWhen people have pneumonia or other respiratory difficulties, what are the best treatment protocols?\u201d All across China, not just in Wuhan, but also in other cities that saw pneumonia cases (and note, Chinese medical teams discuss COVID-19 as pneumonia), people are being cured with vitamin C. I am including the details from a public report written in Chinese and published by a medical team Xibei Hospital, affiliated with , in the city of Xi\u2019an, Shaanxi province.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "(To complete the translation I used a combination of programs and resources: Google Translate, Pleco, and Baidu Fanyi).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Given what the doctors in Xi\u2019an knew of reports from Wuhan (which is 500 miles away from Xi\u2019an, in the neighboring province of Hubei), and from seeing pneumonia patients in early February 2020, a team at the Xibei Hospital, devised a protocol centered on the use of intravenous (IV) vitamin C against the Coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "They first treated patients on February 10th.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Critically ill patients received 200 mg of soluble vitamin C per kg body weight, once every 12 hours.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "After the first two treatments, the patient would get 100 mg/kg, every 24 hours, for the next four days.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "(Those presenting with moderate symptoms were given 100 mg/kg on day one).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Arguably, these doses are too low.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Practitioners and researchers like (2014) and (2017), posit that intravenous infusions of vitamin C should be from 50-100g per day, and can be repeated every 3-7 days.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Using the Xibei protocol, a person weighing 70 kg (154 pounds), would receive a total of 28 grams of vitamin C on the first day.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Thereafter, they would receive 7 g per day.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The clinical trial in Wuhan gave similar doses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "On February 14th, 2020, the university hospital started giving pneumonia patients a non-body weight-dependent dose of 12 g of vitamin C every 12 hours for seven days.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Even with their relatively low doses, patients in Xi\u2019an were released after four to eight days of vitamin C. Thus, the protocol, emphasizing the antioxidant, ascorbic acid, has been a clear success.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "The teams in China did not choose to administer vitamin C due to mere guesswork.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "To make the decision, they cited the medical literature and used their knowledge about respiratory diseases and oxidative stress.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": ", at the Zhongnan Hospital, at Wuhan University, justified his decision to use vitamin C, noting: For most viral infections, there is a lack of effective antiviral drugs \u2026 Vitamin C, ascorbic acid, has antioxidant properties.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Clinical studies have shown that vitamin C can effectively prevent [sepsis and related cytokine storms].",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "In addition, vitamin C can [protect the lungs].",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Vitamin C can effectively shorten the duration of (or even prevent) the common cold.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "In a controlled \u2026 trial, 85% of 252 students experienced a reduction in [cold] symptoms, [after receiving] high-dose vitamin C group (1g per hour for 6 hours, followed by 1g every 8 hours).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "According to the Xibei Hospital (2020) report: For patients with severe neonatal pneumonia and critically ill patients, vitamin C treatments should be initiated as soon as possible after admission.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "This is because whether the illness was similiar to infections seen in the past like Keshan disease, SARS, Middle East respiratory syndrome (MERS), or the current new [COVID19] pneumonia, the main cause of death of patients is cardiopulmonary failure caused by increased acute oxidative stress.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "When the virus causes increased oxidative stress in the body and increased capillary permeability, early application of large doses of vitamin C can have a strong antioxidant effect, reduce inflammatory responses, and improve endothelial (heart tissue) function .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "They add: Numerous studies have shown that treatment with doses of vitamin C promote excellent results.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Our past experience in successfully rescuing acute Keshan disease and current studies at home and abroad show that high-dose vitamin C can not only improve viral resistance, but more importantly, can prevent and treat acute lung injury and acute respiratory distress (ARDS).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Dr. Thomas Levy has written many books and has given many lectures on the benefits of vitamin C for curing disease and body detoxification.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Of course, Levy attributes this information great pioneer Frederick Klenner, MD.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Klenner used ascorbic acid and developed protocols with intravenous and intramuscular applications of high dose vitamin C. He was published as early as 1949 \u2014reporting cures of polio, measles, mumps, chickenpox and more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Because I knew of the benefits of high dose vitamin C in early February, I encouraged four ex-pat doctors, working in Wenzhou, China, to give it to their patients.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Wenzhou, a city of over 10 million, was the second Chinese city placed under a complete quarantine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "These doctors ridiculed me and scoffed at the idea that nutrition could provide any relief to coronavirus patients.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "One actually said: \u201cA vaccine is the only solution, as a virus has no effective treatment.\u201d I voiced my objection to that idea, and had plans to use the antiviral drugs \u2014 then being touted by the WHO.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Again, I insisted that antioxidants could save the sick.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "To this, the M.D.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "added: \u201cNutrition is important, but if nutrition is enough, why do governments make hospitals and medical colleges?\u201d Why, indeed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "When I read the press release and protocol from Jiao Tong University Hospital, I wanted to learn more about Keshan disease.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "That rabbit hole only introduced me to more evidence that confirmed how nutrition can cure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Below are some excerpts from the Wikipedia entry on Keshan disease: Keshan disease, named after Keshan County of Heilongjiang province in Northeast China, is a congestive cardiomyopathy caused by a combination of dietary deficiency of selenium and the presence of a mutated [sic] strain of Coxsackievirus [sic] \u2026 Often fatal, the disease afflicts children and women of child-bearing age.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "It is characterized by heart failure and pulmonary edema.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "After reading all the references cited by the Wiki page, I concluded the following about Keshan disease and the state of scientific knowledge: (a) Symptoms of respiratory difficulty and congestive heart disease were found to be prevalent in a wide belt of territory extending from northeast to southwest China (including parts of Shaanxi province.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "( ) ; those areas which are replete with selenium-deficient soils.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "(b) The research holds that disease peaked from 1960\u20131970, when thousands died of the disease.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "And during that decade, China experienced a man-made famine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "hen followed by food shortages, especially in rural parts of China .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "(c) Intentional dietary supplementation with selenium reduced the incidence and harm of disease in China.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "(2003) cited a 1979 report from China.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "The report declared, unequivocally: \u201cPopulations living in areas of China with selenium-rich soils did not develop Keshan disease.\u201d Given their interest, Beck et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "(2003) conducted research into the role of selenium and Keshan disease.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "They concluded: \u201c[Experiments with mice] suggest that together with the deficiency in selenium, an infection with coxsackievirus was required for the development of Keshan disease.\u201d Please appreciate the idea that viruses cause disease is not universally accepted\u2014and arguably wrong for Keshan disease in particular.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Ge and Yang (1979) claimed that Keshan disease was and is not related to any virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "Instead, they note it as seasonal \u2013 coming in the winter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "Ge and Yang (1979) explored the question of a viral cause for Keshan disease but rejected that hypothesis due to a lack of evidence.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "Though most medical practitioners insist that viruses cause disease, recall that in 2005, Peter Doshi discovered that despite c laims that influenza virus kills thousands of Americans every year, for 2001, America had only 18 confirmed flu deaths .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "The lack of evidence for a viral infection causing Keshan disease and the failure to find a flu virus in fatalities attributed to a virus should guide our thinking about COVID-19 today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "Remember, the Chinese doctors in Xi\u2019an treat pneumonia as pneumonia.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "And they lump together different viruses (SARS, MERS, etc.), saying that each causes oxidative stress.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "If disease\u2014all disease\u2014is really about oxidative stress, as Dr. Thomas Levy holds, maybe the type of virus is irrelevant.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "Keep in mind, even though virologists categorize many types of viruses, there are no true species of viruses ( Racaniello 2019 , Lecture #1, minutes 56-57).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "To determine whether selenium deficiency was a specific link to the coxsackievirus, Beck et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "(2003) injected the influenza virus into selenium-deficient mice and mice fed with adequate amounts of selenium.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "As we should expect, the selenium-deficient mice had more severe pathology, more inflammatory distress, and produced more T-cells, antibodies, and hormones when they developed the respiratory infection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "Consider that the viruses associated with pneumonia and other types of respiratory distress are different.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "In human populations, we generally see respiratory ailments with flu-like symptoms, and/or pneumonia, during the winter months.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "Additionally, we see respiratory illness in persons depleted of an essential antioxidant, selenium.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "That is, they are suffering from oxidative stress when exposed to the pathogen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "Going back to Beck et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "(2003), because their investigation into Keshan disease attributed the ailment to both selenium deficiency and a virus [sic], the team wanted to bolster their thesis with a case study.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "They provided some discussion about the relationship between said virus and selenium, in another part of the world\u2014Cuba.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "During a period of severe nutritional deficit in Cuba (1989-1993), doctors found a rash of patients developing optic and peripheral neuropathy (Beck et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "The Cuban doctors discovered that their sick patients had oxidative stress due to selenium deficiency, and 84% had some mutated form of coxsackievirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "And the outbreaks occurred in the winter months when vitamin D3 blood-levels would be lowest (Beck et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "Just putting these few sources together, we know that: people get sick in winter a virus is not essential to the formation of an illness or disease.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "More significantly, neither specific viruses nor any distinct diseases have a link to selenium deficiency.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "Selenium is an antioxidant.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "And when we raise our antioxidant levels and reduce oxidative stress, we can stay infection-free.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "Ergo, the key to beating or avoiding pneumonia, a cold, the flu, or any respiratory ailment, is to consume adequate amounts of selenium and vitamin C. Other important nutrients to take as supplements are vitamins A, E, and K, B-complex, magnesium, and zinc.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "The last time I took a class at a university was spring 2001.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "Since that time, I\u2019ve been enjoying the benefits of my virtual university\u2014the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "Over the last 20 years, I have heard lectures from professors and researchers on radio, podcasts, and YouTube.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "We now have access to millions of peer-reviewed articles, books, and historical accounts.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "I studied the best that our information age can offer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "I learn from Drs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "Viera Scheibner, Gary Null, Sherri Tenpenny, Thomas Levy, Rashid Buttar, Sherry Rogers, Nick Gonzales, Leonard Coldwell, Linus Pauling, Fred Klenner, Toni Bark, William Kelley, and many more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "But I have not just absorbed their information, I have used their work as a jumping-off point to do further research \u2026 and you can too.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "The allopaths either do not know or do not care about nutrition ( just ask Allan Smith ) .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "There is a general awareness of the intellectual laziness of American physicians.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "I have observed this after interactions with Western-trained doctors from South Africa, India, and the Middle East, the arrogance of their ignorance is endemic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": "From my survey of the current news, if you are in America or Europe, all you hear is that the best doctors can offer is hydroxychloroquine, antivirals or a future vaccine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "But from the research, we can see that, instead of their pharmaceutical drugs (which can mask symptoms, but do not cure) , what we all need is selenium-rich food (or whole food supplements) and high doses of vitamin C. There will always be people with viruses and respiratory difficulties.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "They will be suffering from oxidative stress\u2014and that is NOT contagious.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": "The numbers will rise in the winter when there is less sun.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "Less sun lowers vitamin D3 levels and reduces the absorption of phosphorous.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 105,
+            "sentence": "Additionally, people are more likely to eat more starchy foods and get less vitamin C in their diet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 106,
+            "sentence": "This is why we hear of members of Congress , professional athletes in NBA, NHL, and world-class soccer players testing positive for COVID.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 107,
+            "sentence": "These people were not in China, not eating bat soup, and not sharing ventilators with older people in Italian ICU wards.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 108,
+            "sentence": "They did not contract an exogenous virus\u2014their bodies made the virus due to oxidative stress.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 109,
+            "sentence": "In fact, spontaneous endogenous generation of viruses, referred to by some as exosomes, would explain why Beck et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 110,
+            "sentence": "(2003) discovered mutated and more virulent strains of the coxsackievirus in their selenium-depleted mice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 111,
+            "sentence": "They also discovered these strains in human subjects with low selenium.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 112,
+            "sentence": "This also notes why researchers are forever finding new and mutated versions of viruses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 113,
+            "sentence": "Regardless, as Del Bigtree (2020) showed from the European data (minutes 80-90), in the winter of 2018, death rates across Europe were far higher than today\u2014but there was no declaration of an epidemic or pandemic, and there was no global shut down.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 114,
+            "sentence": "This is not a time to accept economic stagnation and the social dislocation that will accompany it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 115,
+            "sentence": "It is not a time to fear that which you cannot see (a virus)\u2014especially given that no medical doctor has ever proven that said viruses cause illness.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 116,
+            "sentence": "(I will present more on the virus theory in future articles).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 117,
+            "sentence": "Get your Vitamin C, selenium, and zinc, wash your hands to prevent bacterial infection and tell your friends to do the same.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 118,
+            "sentence": "Open in new tab        Click here for my translation of the article from the .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 119,
+            "sentence": "Share this article with your friends.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 120,
+            "sentence": "Join our list here or text MVI to 555888 +++++++++++++++++++++++++++++++++++++ John C. Jones received his law degree (2001) and his Ph.D. is in political science (2003) from the University of Iowa.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 121,
+            "sentence": "He has over 15 years of research and writing (both academic and journalistic) in fields of public policy and law, criminal and Constitutional law, and philosophy of science and medicine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 122,
+            "sentence": "His additional areas of expertise and specialized knowledge include applied statistics, etymology, political communications/public relations, litigation, and court procedure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 123,
+            "sentence": "He has a particular interest in the science and history of vaccines.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 124,
+            "sentence": "$ Custom amount - $10 minimum [To make a tax deductible donation, contact us directly ($1000 minimum)] Make this donation every day week month quarter year PayPal * * Make this an anonymous donation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 125,
+            "sentence": "Acceptance of any contribution, gift or grant is at the discretion of the Vaxxter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 126,
+            "sentence": "The Vaxxter will not accept any gift unless it can be used or expended consistently with the educational purpose and mission of the Vaxxter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 127,
+            "sentence": "No irrevocable gift, whether outright or life-income in character, will be accepted if under any reasonable set of circumstances the gift would jeopardize the donor\u2019s financial security.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 128,
+            "sentence": "General donations to Vaxxter are not tax-deductible.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 129,
+            "sentence": "If you are interested in contributing a minimum amount of $5000 or more to our 501C3 donation, please contact us directly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 130,
+            "sentence": "The Vaxxter will only accept donations of cash.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 131,
+            "sentence": "Certain other gifts, real property, personal property, in-kind gifts, non-liquid securities, and contributions whose sources are not transparent or whose use is restricted in some manner, must be reviewed prior to acceptance due to the special obligations raised or liabilities they may pose for Vaxxter and will not be accepted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 132,
+            "sentence": "The Vaxxter will respect anonymous gifts, the Vaxxter will restrict information about the donor to only those staff members with a need to know.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 133,
+            "sentence": "The Vaxxter will not compensate, whether through commissions, finders' fees, or other means, any third party for directing a gift or a donor to the Vaxxter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 134,
+            "sentence": "Terms of donation $25   If you prefer snail mail instead, make donation checks payable to CHOONADI, LLC, owner of Vaxxter.com 7380 Engle Road Middleburgh Hgts, OH 44130 Previous post Next post Become a CostClub Member Vaxxter is a site that promotes alternative health news.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 135,
+            "sentence": "Vaxxter offers well-structured and highly referenced articles of interest on vaccines and pharmaceutical products.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 136,
+            "sentence": "JOIN OUR LIST By joining Vaxxter's email list, you will receive science-based, well-documented, articles 3 to 5 days per week.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 137,
+            "sentence": "You will also receive promotional offers and announcements from our sister site, Courses4Mastery.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 138,
+            "sentence": "We occasionally share affiliate links of interest to educational promotions we believe you'll be interested in.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 139,
+            "sentence": "Email (required) * * * I would like to receive emails from Vaxxter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 140,
+            "sentence": "(You can unsubscribe anytime) Emails are serviced by Constant Contact $ Custom amount - $10 minimum [To make a tax deductible donation, contact us directly ($1000 minimum)] Make this donation every day week month quarter year PayPal * * Make this an anonymous donation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 141,
+            "sentence": "Acceptance of any contribution, gift or grant is at the discretion of the Vaxxter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 142,
+            "sentence": "The Vaxxter will not accept any gift unless it can be used or expended consistently with the educational purpose and mission of the Vaxxter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 143,
+            "sentence": "No irrevocable gift, whether outright or life-income in character, will be accepted if under any reasonable set of circumstances the gift would jeopardize the donor\u2019s financial security.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 144,
+            "sentence": "General donations to Vaxxter are not tax-deductible.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 145,
+            "sentence": "If you are interested in contributing a minimum amount of $5000 or more to our 501C3 donation, please contact us directly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 146,
+            "sentence": "The Vaxxter will only accept donations of cash.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 147,
+            "sentence": "Certain other gifts, real property, personal property, in-kind gifts, non-liquid securities, and contributions whose sources are not transparent or whose use is restricted in some manner, must be reviewed prior to acceptance due to the special obligations raised or liabilities they may pose for Vaxxter and will not be accepted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 148,
+            "sentence": "The Vaxxter will respect anonymous gifts, the Vaxxter will restrict information about the donor to only those staff members with a need to know.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 149,
+            "sentence": "The Vaxxter will not compensate, whether through commissions, finders' fees, or other means, any third party for directing a gift or a donor to the Vaxxter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 150,
+            "sentence": "Terms of donation $25   Search for: Flu shots HPV \u2013 Gardasil_Cervarix Measles \u2013 MMR Pneumonia shot \u2013 Adult smallpox COVID19 HC Politics \u2013 General VAERS OpEd \u2013 Guest Articles John Jones, JD, PhD CDC FDA Anti-depressants CBD-Cannibis homeopathy Hydroxychloroquine (HCQ) Zika virus 5G-WiFi Healthcare workers Side Effects \u2013 vax Copyright 2020 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 151,
+            "sentence": "MH Newsdesk lite by MH Themes Get Dr. Tenpenny's eBook: Join our mailing list and download this FREE eBook by Dr. Tenpenny.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 152,
+            "sentence": "There's never a more poignant time for THIS information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "document_id": -1,
+    "url": "https://martechtoday.com/end-net-neutrality-affect-online-marketing-207663",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Barry Levine ",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:43:26.940015+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "403 Forbidden You don't have permission to access  /end-net-neutrality-affect-online-marketing-207663 on this server.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "If this is your Web site and you're not sure why you're seeing  this message, the permissions on this file may be set  incorrectly: the file should be world-readable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,281 @@
+{
+    "document_id": -1,
+    "url": "https://www.iranhumanrights.org/2017/12/us-repeal-of-net-neutrality-harms-internet-freedom-at-home-and-abroad/",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Iranhumanrights",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:28:59.422300+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "The decision by the US Federal Communications Commission (FCC) to repeal net neutrality rules has given a green light to repressive countries like Iran to continue trampling on internet freedom at home.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Activists based abroad have also lost a powerful ally that could spearhead internet freedom resolutions in international forums.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "(CHRI) and ARTICLE 19 call on the US Congress to uphold internet freedom at home and abroad and vote to overturn the FCC action through the Congressional Review Act (CRA).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "“As the birthplace of the internet and long-standing champion of internet freedom, US policies produce a ripple effect through the rest of the world,” said CHRI’s Executive Director Hadi Ghaemi.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "“The United States should be carrying the torch on net neutrality, not following in the footsteps of autocrats,” said Ghaemi.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Net neutrality is the principle that internet service providers (ISPs) should treat all online data equally and provide the conditions for unfettered user access, without discrimination based on content or source.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "On December 14, 2017, the FCC voted to allow ISPs to block or throttle websites and charge for faster download and upload speeds.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "In these circumstances, online services, applications, and websites can be granted preferential treatment for any number of reasons, be they commercial or ideological.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "“The ending of Net Neutrality in the US could be the beginning of the end of the open, interoperable, free internet,” said ARTICLE19’s Deputy Executive Director Quinn McKew.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "“It is now a question of how much, not if, freedom of expression online will be undermined around the world as a result of this short-sighted decision to enrich the entrenched near-monopolies that control internet access in the United States,” said Mckew.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Senate Minority Leader Chuck Schumer stated on December 15 that he would force a vote through the CRA, but CRA bills require a majority in the House and Senate as well as the president’s signature to overturn legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Therefore, CHRI and Article 19 also urge American supporters of internet freedom to call on their congressional representatives to vote to uphold net neutrality in the US.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Activists in the Islamic Republic already faced a difficult road in advocating for a free internet in Iran before the FCC action; rights advocates as well as social media admins have been hacked , arrested , and sentenced to prison for their online activity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Violations of net neutrality in Iran are part of the Iranian government’s systematic efforts to censor the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Unable to completely block access to censored websites such as YouTube, the government has resorted to providing pricing discounts and higher internet speeds to users who opt to use state-approved domestic versions of the site, like Iran’s Aparat video sharing site, over foreign content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "confronted by an internet freedom activist on this new affront to net freedom on Twitter, Iran’s Minister of Information and Communications Technology Mohammad Javad Azari Jahromi responded with a link to AT&T’s “ ” program, essentially saying: The same thing is happening in the US.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Jahromi’s response revealed that not only is the Iranian government sensitive to accusations that it violates net neutrality principles, but also that American violations of net neutrality are being used by repressive governments to justify their own actions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "For years, rights groups have been urging the Iranian government to adhere to the landmark 2016 resolution at the United Nations Human Rights Council, “The promotion, protection and enjoyment of human rights on the Internet.” At the time, the US was part of the core group that advocated for other countries to sign on to this resolution, which calls for the protection of human rights on the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Now that the US has itself become a violator of net neutrality, not only is the future of the resolution in doubt, but the US can no longer raise its voice in international forums and participate in the international front in favor of internet freedom.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "In a statement opposing her colleagues’ votes to repeal net neutrality rules in the US, FCC Commissioner Mignon Clyburn warned that by the time internet users begin to feel the effects of the FCC’s action, it will be too late to act: “When the current protections are abandoned, and the rules that have been officially in place since 2015 are repealed, we will have a Cheshire cat version of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "We will be in a world where regulatory substance fades to black, and all that is left is a broadband provider’s toothy grin and those oh so comforting words: we have every incentive to do the right thing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "What they will soon have, is every incentive to do their own thing.” However, she added that the agency does not have the final word, and that Americans still have time to unite to oppose the FCC’s decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Americans should seize the opportunity to urge members of Congress to uphold net neutrality—the future of the internet everywhere depends on it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Share : July 16, 2019 July 9, 2019 May 30, 2019 Why is the Iranian Government Aiding the Development of a May 8, 2019 April 29, 2019 April 5, 2019 LATEST NEWS April 30, 2020 April 28, 2020 April 24, 2020 April 23, 2020 April 17, 2020 April 16, 2020 Read more × Get updates on the latest human rights issues in Iran Sign up for CHRI's newsletter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Get the latest Iran updates.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Sign up for our newsletter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "* Website signups (en) 22 Share this 22 shares Send this to a friend Your email Recipient email",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

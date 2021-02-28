@@ -1,0 +1,3731 @@
+{
+    "document_id": -1,
+    "url": "https://yourbasicinfo.blogspot.com/2018/05/net-neutrality.html",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:28:56.020064+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Net neutrality  24, 2018 - Net neutrality is the principle that Internet service providers treat all data on the Internet the same, and not discriminate or charge differently by user, content, website, platform, application, type of attached equipment, or method of communication.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "For instance, under these principles, internet service providers are unable to intentionally block, slow down or charge money for specific websites and online content.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "This is sometimes enforced through government mandate.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The term was coined by Columbia University media law professor Tim Wu in 2003, as an extension of the longstanding concept of a common carrier, which was used to describe the role of telephone systems.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "A widely cited example of a violation of net neutrality principles was the Internet service provider Comcast's secret slowing (\"throttling\") of uploads from peer-to-peer file sharing (P2P) applications by using forged packets.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Comcast did not stop blocking these protocols, like BitTorrent, until the Federal Communications Commission ordered them to stop.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "In another minor example, The Madison River Communications company was fined US$15,000 by the FCC, in 2004, for restricting their customers' access to Vonage, which was rivaling their own services.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "AT&T was also caught limiting access to FaceTime, so only those users who paid for AT&T's new shared data plans could access the application.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "In July 2017, Verizon Wireless was accused of throttling after users noticed that videos played on Netflix and YouTube were slower than usual, though Verizon commented that it was conducting \"network testing\" and that net neutrality rules permit \"reasonable network management practices\".",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Research suggests that a combination of policy instruments will help realize the range of valued political and economic objectives central to the network neutrality debate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Combined with strong public opinion, this has led some governments to regulate broadband Internet services as a public utility, similar to the way electricity, gas, and the water supply are regulated, along with limiting providers and regulating the options those providers can offer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "In the U.S In April 2015, the FCC issued its Open Internet Order, which reclassified Internet access - previously classified as an information service - as a common carrier telecommunications service; i.e. a public utility.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "But on December 14, 2017, the Commission, which was led by Chairman Ajit Pai, voted to partially repeal the 2015 Open Internet Order, classifying Internet access once again as an information service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Definition and related principles Internet neutrality Network neutrality is the principle that all Internet traffic should be treated equally.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Internet traffic includes all of the different messages, files and data sent over the Internet, including, for example, emails, digital audio files, digital video files, etc.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "According to Columbia Law School professor Tim Wu, the best way to explain network neutrality is that a public information network will end up being most useful if all content, websites, and platforms (e.g., mobile devices, video game consoles, etc.) are treated equally.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "A more detailed proposed definition of technical and service network neutrality suggests that service network neutrality is the loyalty to the paradigm that operation of a service at a certain layer is not influenced by any data other than the data interpreted at that layer, and in accordance with the protocol specification for that layer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Under an \"open Internet\" schema, the full resources of the Internet and means to operate on it should be easily accessible to all individuals, companies, and organizations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Applicable concepts include: net neutrality, open standards, transparency, lack of Internet censorship, and low barriers to entry.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The concept of the open Internet is sometimes expressed as an expectation of decentralized technological power, and is seen by some observers as closely related to open-source software, a type of software program whose maker allows users access to the code that runs the program, so that users can improve the software or fix bugs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Proponents of net neutrality see this as an important component of an \"open Internet\", wherein policies such as equal treatment of data and open web standards allow those using the Internet to easily communicate, and conduct business and activities without interference from a third party.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "In contrast, a \"closed Internet\" refers to the opposite situation, wherein established persons, corporations, or governments favour certain uses, restrict access to necessary web standards, artificially degrade some services, or explicitly filter out content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Some countries block certain websites or types of sites, and monitor and/or censor Internet use using Internet police, a specialized type of law enforcement, or secret police.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Dumb pipe The concept of a \"dumb network\", comprising \"dumb pipes\", has been around since at least the early 1990s.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "The term \"dumb network\" refers to a network which is set up but has little or no control or management of the way users make use of the network.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "The term \"dumb pipes\" is analogous to water pipes used in a city water supply system; in theory, these pipes provide a steady supply of water to all users, regardless of the identity of the user or the users' activities with the water.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "In a \"dumb network\", the endpoints are thought to be where the intelligence lies, and as such, proponents argue that the network should leave the management and operation of communications and data transfer to the end users, not a government bureau or Internet company.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "In 2013, the software company MetroTech Net, Inc. (MTN) coined the term \"dumb wave\", which is the 2010s-era application of the \"dumb pipe\" concept to the ubiquitous wireless network.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Experts in the high-technology field will often compare these dumb pipe concept with intelligent networks -also known as smart pipes--and debate which one is best applied to a certain portion of internet policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "These conversations usually refer to these two concepts as being analogous to the concepts of open and closed Internet respectively.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "As such, certain models have been made that aim to outline four layers of the Internet with the understanding of the dumb pipe theory: Content Layer: Contains services such as communication as well as entertainment videos and music.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Applications Layer: Contains services such as e-mail and web browsers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Logical Layer (Also called the Code Layer): Contains various Internet protocols such as TCP/IP and HTTP.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Physical Layer: Consists of the services that provide all others such as cable or wireless connections.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "End-to-end principle The end-to-end principle of network design was first laid out in the 1981 paper End-to-end arguments in system design by Jerome H. Saltzer, David P. Reed, and David D. Clark.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The principle states that, whenever possible, communications protocol operations should be defined to occur at the end-points of a communications system, or as close as possible to the resources being controlled.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "According to the end-to-end principle, protocol features are only justified in the lower layers of a system if they are a performance optimization; hence, TCP retransmission for reliability is still justified, but efforts to improve TCP reliability should stop after peak performance has been reached.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "They argued that reliable systems tend to require end-to-end processing to operate correctly, in addition to any processing in the intermediate system.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "They pointed out that most features in the lowest level of a communications system have costs for all higher-layer clients, even if those clients do not need the features, and are redundant if the clients have to re-implement the features on an end-to-end basis.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "This leads to the model of a minimal dumb network with smart terminals, a completely different model from the previous paradigm of the smart network with dumb terminals.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Because the end-to-end principle is one of the central design principles of the Internet, and because the practical means for implementing data discrimination violate the end-to-end principle, the principle often enters discussions about net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "The end-to-end principle is closely related, and sometimes seen as a direct precursor to the principle of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Traffic shaping Traffic shaping is the control of computer network traffic to optimize or guarantee performance, improve latency (i.e., decrease Internet response times), and/or increase usable bandwidth by delaying \"packets\" that meet certain criteria.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "In practice, traffic shaping is often accomplished by \"throttling\" certain types of data, such as streaming video or P2P file sharing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "More specifically, traffic shaping is any action on a set of packets (often called a stream or a flow) which imposes additional delay on those packets such that they conform to some predetermined constraint (a contract or traffic profile).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Traffic shaping provides a means to control the volume of traffic being sent into a network in a specified period (bandwidth throttling), or the maximum rate at which the traffic is sent (rate limiting), or more complex criteria such as generic cell rate algorithm.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Over-provisioning If the core of a network has more bandwidth than is permitted to enter at the edges, then good quality of service (QoS) can be obtained without policing or throttling.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "For example, landline telephone network employs admission control to limit user demand on the network core by refusing to create a circuit for the requested connection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "During a natural disaster, for example, most users will get a busy signal if they pick up a landline phone, as the phone company prioritizes 9-1-1 and other emergency calls.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Over-provisioning is a form of statistical multiplexing that makes liberal estimates of peak user demand.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Over-provisioning is used in private networks such as WebEx and the Internet 2 Abilene Network, an American university network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "David Isenberg believes that continued over-provisioning will always provide more capacity for less expense than QoS and deep packet inspection technologies.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Device Neutrality is the principle that, in order to ensure freedom of choice and freedom of communication to users, it is not sufficient that network operators do not interfere with their choices and activities, but that also that they must be free to use the applications of their choice and hence remove the applications they don't want.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "It can be defined with the following analogy to Network Neutrality: Network Neutrality: Discrimination of traffic management or pricing with anticompetitive purposes can be pursued by the Antitrust authority but the cases require many years and are very costly, something that favours large companies over small companies and startups.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Under the \"Net Neutrality\" concept, some ex ante principles are codified and a judicial route, far simpler and more direct, is defined, when compared with an antitrust case.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "No, it just means that the eventual management must be the same for everyone, including that of the telecom operator itself, compared to other competing companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "If such a discrimination takes place, it is possible to legally intervene with simpler and quicker legal instruments compared to antitrust cases.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Device neutrality: Discrimination of application installation or pricing with anticompetitive purposes can be pursued by the Antitrust authority but the cases require many years and are very costly, something that favours large companies over small companies and startups.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "Under the \"Device Neutrality\" concept, some ex ante principles are codified and a judicial route, far simpler and more direct, is defined, when compared with an antitrust case.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "No, it just means that the eventual management must be the same for everyone, including that of the platform operator itself, compared to other competing companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "If such a discrimination takes place, it is possible to legally intervene with simpler and quicker legal instruments compared to antitrust cases.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "A bill to enforce Network and Device Neutrality has been introduced in Italy in 2015 by Hon.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "A bill to enforce Network and Device Neutrality has been introduced in Italy in 2015 by Hon.Stefano Quintarelli and was stopped at the final vote at the Senate in 2017, after many successful votes at the Chamber of Deputies and through all Senate committees, thanks to lobbying efforts by some multinational device manufacturers and telecom operators .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "The law has gained formal support at the European Commission by BEUC, the European Consumer Organisation, the Electronic Frontier Foundation and the Hermes Center for Transparency and digital human rights.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "A law with identic principles has been passed in South Korea, similar principles have been proposed in China and the French telecoms regulator ARCEP has called for the introduction of Device Neutrality in Europe.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "By issue Discrimination by protocol Discrimination by protocol is the favouring or blocking information based on aspects of the communications protocol that the computers are using to communicate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "In the US, a complaint was filed with the Federal Communications Commission against the cable provider Comcast alleging they had illegally inhibited users of its high-speed Internet service from using the popular file-sharing software BitTorrent.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "Comcast admitted no wrongdoing in its proposed settlement of up to US$16 dollars per share in December 2009.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "However, a U.S. appeals court ruled in April 2010 that the FCC exceeded its authority when it sanctioned Comcast in 2008 for deliberately preventing some subscribers from using peer-to-peer file-sharing services to download large files.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "However, the FCC spokeswoman Jen Howard responded, \"the court in no way disagreed with the importance of preserving a free and open Internet, nor did it close the door to other methods for achieving this important end [goal]\".",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "Despite the ruling in favour of Comcast, a study by in October 2011 verified that Comcast had virtually stopped its BitTorrent throttling practices.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "Discrimination by IP address During the 1990s, creating a non-neutral Internet was technically infeasible.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "Originally developed to filter harmful malware, the Internet security company NetScreen Technologies released network firewalls in 2003 with so-called deep packet inspection capabilities.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "Deep packet inspection helped make real-time discrimination between different kinds of data possible, and is often used for Internet censorship.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "In a practice called zero-rating, companies will reimburse data use from certain addresses, favoring use of those services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "Examples include Facebook Zero and Google Free Zone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "These zero-rating practices are especially common in the developing world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "Sometimes Internet Service Providers (ISPs) will charge some companies, but not others, for the traffic they cause on the ISP's network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "French telecom operator Orange, complaining that traffic from YouTube and other Google sites consists of roughly 50% of total traffic on the Orange network, made a deal with Google, in which they charge Google for the traffic incurred on the Orange network.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "Some also thought that Orange's rival ISP Free throttled YouTube traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "However, an investigation done by the French telecommunications regulatory body revealed that the network was simply congested during peak hours.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "Aside from the zero-rating method, ISPs will also use certain strategies to reduce costs of pricing plans such as the use of sponsored data.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "In a scenario where a sponsored data plan is used, a third-party will step in and pay for all the content that it (or the carrier or consumer) does not want around.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "This is generally used as a way for ISP's to remove out-of-pocket costs from subscribers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "Favouring private networks Proponents of net neutrality argue that without new regulations, Internet service providers would be able to favor their own private protocols over others.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "ISPs are able to encourage the use of specific services by utilizing private networks to discriminate what data is counted against bandwidth caps.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "For example, Comcast struck a deal with Microsoft that allowed users to stream television through the Xfinity app on their Xbox 360s without it affecting their bandwidth limit.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "However, utilizing other television streaming apps, such as Netflix, HBO Go, and Hulu, counted towards the limit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "Comcast denied that this infringed on net neutrality principles since \"it runs its Xfinity for Xbox service on its own, private Internet protocol network\".",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "One of the methods of favoring certain services over others is known as Border Gateway Protocol(BGP).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "This protocol allows for certain ISP's to monitor and control traffic on the Internet as they see fit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "This way, one ISP could potentially favor the traffic of one service provider on the Internet over a competitor in that market.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "Such ISPs as Cisco and Juniper allow for this protocol to be used on their networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "Peering discrimination There is some disagreement about whether \"peering\" is a net neutrality issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "In the first quarter of 2014, streaming website Netflix reached an arrangement with ISP Comcast to improve the quality of its service to Netflix clients.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "This arrangement was made in response to increasingly slow connection speeds through Comcast over the course of 2013, where average speeds dropped by over 25% of their values a year before to an all-time low.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "After the deal was struck in January 2014, the Netflix speed index recorded a 66% increase in connection.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "Netflix agreed to a similar deal with Verizon in 2014, after Verizon DSL customers' connection speed dropped to less than 1 Mbit/s early in the year.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "Netflix spoke out against this deal with a controversial statement delivered to all Verizon customers experiencing low connection speeds, using the Netflix client.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "This sparked an internal debate between the two companies that led to Verizon's obtaining a cease and desist order on 5 June 2014 that forced Netflix to stop displaying this message.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": "Favouring fast-loading websites Pro-net neutrality arguments have also noted that regulations are also necessary due to research that has shown low-tolerance to slow-loading content providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "In a 2009 research study conducted by Forrester Research, online shoppers expected the web pages they visited to download content instantly.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "When a page fails to load at the expected speed, many of them simply click out.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": "A study found that even a one-second delay could lead to \"11% fewer page views, a 16% decrease in customer satisfaction, and 7% loss in conversions\".",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "Legal aspects Legal enforcement of net neutrality principles takes a variety of forms, from provisions that outlaw anti-competitive blocking and \"throttling\" of Internet services, all the way to legal enforcement that prevents companies from subsidizing Internet use on particular sites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 105,
+            "sentence": "Contrary to popular rhetoric and statements by various individuals involved in the ongoing academic debate, research suggests that a single policy instrument (such as a no-blocking policy or a quality of service tiering policy) cannot achieve the range of valued political and economic objectives central to the debate.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 106,
+            "sentence": "As Bauer and Obar suggest, \"safeguarding multiple goals requires a combination of instruments that will likely involve government and nongovernment measures.Furthermore, promoting goals such as the freedom of speech, political participation, investment, and innovation calls for complementary policies.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 107,
+            "sentence": "By country Governments of countries which comment on net neutrality usually support the concept.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 108,
+            "sentence": "Arguments in favour Proponents of net neutrality regulations include consumer advocates, human rights organizations such as Article 19, online companies and some technology companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 109,
+            "sentence": "Many major Internet application companies are advocates of neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 110,
+            "sentence": "Yahoo!, Vonage, eBay, Amazon, IAC/InterActiveCorp, Microsoft, Reddit, Twitter, Tumblr, Etsy, Daily Kos, Greenpeace, along with many other companies and organizations, have also taken a stance in support of net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 111,
+            "sentence": "Cogent Communications, an international Internet service provider, has made an announcement in favor of certain net neutrality policies.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 112,
+            "sentence": "In 2008, Google published a statement speaking out against letting broadband providers abuse their market power to affect access to competing applications or content.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 113,
+            "sentence": "They further equated the situation to that of the telephony market, where telephone companies are not allowed to control who their customers call or what those customers are allowed to say.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 114,
+            "sentence": "However, Google's support of net neutrality was called into question in 2014.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 115,
+            "sentence": "Several civil rights groups, such as the ACLU, the Electronic Frontier Foundation, Free Press, and Fight for the Future support net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 116,
+            "sentence": "Individuals who support net neutrality include World Wide Web inventor Tim Berners-Lee, Vinton Cerf, Lawrence Lessig, Robert W. McChesney, Steve Wozniak, Susan P. Crawford, Marvin Ammori, Ben Scott, David Reed, and former U.S. President Barack Obama.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 117,
+            "sentence": "On 10 November 2014, Obama recommended that the FCC reclassify broadband Internet service as a telecommunications service in order to preserve net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 118,
+            "sentence": "On 12 November 2014, AT&T stopped build-out of their fiber network until it has \"solid net neutrality rules to follow\".",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 119,
+            "sentence": "On 31 January 2015, AP News reported that the FCC will present the notion of applying (\"with some caveats\") Title II (common carrier) of the Communications Act of 1934 and section 706 of the Telecommunications act of 1996 to the Internet in a vote expected on 26 February 2015.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 120,
+            "sentence": "Control of data Supporters of net neutrality in the United States want to designate cable companies as common carriers, which would require them to allow Internet service providers (ISPs) free access to cable lines, the same model used for dial-up Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 121,
+            "sentence": "They want to ensure that cable companies cannot screen, interrupt or filter Internet content without a court order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 122,
+            "sentence": "Common carrier status would give the FCC the power to enforce net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 123,
+            "sentence": "SaveTheInternet.com accuses cable and telecommunications companies of wanting the role of gatekeepers, being able to control which websites load quickly, load slowly, or do not load at all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 124,
+            "sentence": "According to SaveTheInternet.com these companies want to charge content providers who require guaranteed speedy data delivery - to create advantages for their own search engines, Internet phone services, and streaming video services - and slowing access or blocking access to those of competitors.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 125,
+            "sentence": "Vinton Cerf, a co-inventor of the Internet Protocol and current vice president of Google, argues that the Internet was designed without any authorities controlling access to new content or new services.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 126,
+            "sentence": "He concludes that the principles responsible for making the Internet such a success would be fundamentally undermined were broadband carriers given the ability to affect what people see and do online.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 127,
+            "sentence": "Cerf has also written about the importance of looking at problems like Net Neutrality through a combination of the Internet's layered system and the multistakeholder model that governs it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 128,
+            "sentence": "He shows how challenges can arise that can implicate Net Neutrality in certain infrastructure-based cases, such as when ISPs enter into exclusive arrangements with large building owners, leaving the residents unable to exercise any choice in broadband provider.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 129,
+            "sentence": "Digital rights and freedoms Proponents of net neutrality argue that a neutral net will foster free speech and lead to further democratic participation on the Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 130,
+            "sentence": "Former Senator Al Franken from Minnesota fears that without new regulations, the major Internet Service Providers will use their position of power to stifle people's rights.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 131,
+            "sentence": "He calls net neutrality the \"First Amendment issue of our time\".",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 132,
+            "sentence": "By ensuring that all people and websites have equal access to each other, regardless of their ability to pay, proponents of net neutrality wish to prevent the need to pay for speech and the further centralization of media power.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 133,
+            "sentence": "Lawrence Lessig and Robert W. McChesney argue that net neutrality ensures that the Internet remains a free and open technology, fostering democratic communication.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 134,
+            "sentence": "Lessig and McChesney go on to argue that the monopolization of the Internet would stifle the diversity of independent news sources and the generation of innovative and novel web content.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 135,
+            "sentence": "User intolerance for slow-loading sites Proponents of net neutrality invoke the human psychological process of adaptation where when people get used to something better, they would not ever want to go back to something worse.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 136,
+            "sentence": "In the context of the Internet, the proponents argue that a user who gets used to the \"fast lane\" on the Internet would find the \"slow lane\" intolerable in comparison, greatly disadvantaging any provider who is unable to pay for the \"fast lane\".",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 137,
+            "sentence": "Video providers Netflix and Vimeo in their comments to FCC in favor of net neutrality use the research of S.S. Krishnan and Ramesh Sitaraman that provides the first quantitative evidence of adaptation to speed among online video users.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 138,
+            "sentence": "Their research studied the patience level of millions of Internet video users who waited for a slow-loading video to start playing.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 139,
+            "sentence": "Users who had a faster Internet connectivity, such as fiber-to-the-home, demonstrated less patience and abandoned their videos sooner than similar users with slower Internet connectivity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 140,
+            "sentence": "The results demonstrate how users can get used to faster Internet connectivity, leading to higher expectation of Internet speed, and lower tolerance for any delay that occurs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 141,
+            "sentence": "Author Nicholas Carr and other social commentators have written about the habituation phenomenon by stating that a faster flow of information on the Internet can make people less patient.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 142,
+            "sentence": "Competition and innovation Net neutrality advocates argue that allowing cable companies the right to demand a toll to guarantee quality or premium delivery would create an exploitative business model based on the ISPs position as gatekeepers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 143,
+            "sentence": "Advocates warn that by charging websites for access, network owners may be able to block competitor Web sites and services, as well as refuse access to those unable to pay.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 144,
+            "sentence": "According to Tim Wu, cable companies plan to reserve bandwidth for their own television services, and charge companies a toll for priority service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 145,
+            "sentence": "Proponents of net neutrality argue that allowing for preferential treatment of Internet traffic, or tiered service, would put newer online companies at a disadvantage and slow innovation in online services.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 146,
+            "sentence": "Tim Wu argues that, without network neutrality, the Internet will undergo a transformation from a market ruled by innovation to one ruled by deal-making.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 147,
+            "sentence": "SaveTheInternet.com argues that net neutrality puts everyone on equal terms, which helps drive innovation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 148,
+            "sentence": "They claim it is a preservation of the way the Internet has always operated, where the quality of websites and services determined whether they succeeded or failed, rather than deals with ISPs.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 149,
+            "sentence": "Lawrence Lessig and Robert W. McChesney argue that eliminating net neutrality would lead to the Internet resembling the world of cable TV, so that access to and distribution of content would be managed by a handful of massive, near monopolistic companies, though there are multiple service providers in each region.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 150,
+            "sentence": "These companies would then control what is seen as well as how much it costs to see it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 151,
+            "sentence": "Speedy and secure Internet use for such industries as healthcare, finance, retailing, and gambling could be subject to large fees charged by these companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 152,
+            "sentence": "They further explain that a majority of the great innovators in the history of the Internet started with little capital in their garages, inspired by great ideas.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 153,
+            "sentence": "This was possible because the protections of net neutrality ensured limited control by owners of the networks, maximal competition in this space, and permitted innovators from outside access to the network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 154,
+            "sentence": "Internet content was guaranteed a free and highly competitive space by the existence of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 155,
+            "sentence": "For example, back in 2005 YouTube was just a small startup company.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 156,
+            "sentence": "Due to an absence of Internet fast lanes, YouTube had the ability to grow larger than Google Video.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 157,
+            "sentence": "Tom Wheeler and Senators Ronald Lee Wyden (D-Ore.) and Al Franken (D-Minn.) said, \"Internet service providers treated YouTube's videos the same as they did Google's, and Google couldn't pay the ISPs [internet service providers] to gain an unfair advantage, like a fast lane into consumers' homes,\" they wrote.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 158,
+            "sentence": "\"Well, it turned out that people liked YouTube a lot more than Google Video, so YouTube thrived.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 159,
+            "sentence": "Net neutrality advocates have sponsored legislation claiming that authorizing incumbent network providers to override transport and application layer separation on the Internet would signal the decline of fundamental Internet standards and international consensus authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 160,
+            "sentence": "Further, the legislation asserts that bit-shaping the transport of application data will undermine the transport layer's designed flexibility.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 161,
+            "sentence": "Preventing pseudo-services Alok Bhardwaj, founder of Epic Privacy Browser, argues that any violations to network neutrality, realistically speaking, will not involve genuine investment but rather payoffs for unnecessary and dubious services.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 162,
+            "sentence": "He believes that it is unlikely that new investment will be made to lay special networks for particular websites to reach end-users faster.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 163,
+            "sentence": "Rather, he believes that non-net neutrality will involve leveraging quality of service to extract remuneration from websites that want to avoid being slowed down.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 164,
+            "sentence": "This theory was confirmed in 2014 when Netflix announced it was making payments to Comcast and Verizon to avoid throttling, slower internet speeds for particular services or websites, by those ISPs.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 165,
+            "sentence": "These payments were described by Netflix founder Reed Hastings as \"an arbitrary tax\" and \"arbitrary interconnection tolls\".",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 166,
+            "sentence": "End-to-end principle Some advocates say network neutrality is needed in order to maintain the end-to-end principle.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 167,
+            "sentence": "According to Lawrence Lessig and Robert W. McChesney, all content must be treated the same and must move at the same speed in order for net neutrality to be true.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 168,
+            "sentence": "They say that it is this simple but brilliant end-to-end aspect that has allowed the Internet to act as a powerful force for economic and social good.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 169,
+            "sentence": "Under this principle, a neutral network is a dumb network, merely passing packets regardless of the applications they support.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 170,
+            "sentence": "This point of view was expressed by David S. Isenberg in his paper, \"The Rise of the Stupid Network\".",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 171,
+            "sentence": "He states that the vision of an intelligent network is being replaced by a new network philosophy and architecture in which the network is designed for always-on use, not intermittence and scarcity.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 172,
+            "sentence": "Rather than intelligence being designed into the network itself, the intelligence would be pushed out to the end-user's device; and the network would be designed simply to deliver bits without fancy network routing or smart number translation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 173,
+            "sentence": "The data would be in control, telling the network where it should be sent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 174,
+            "sentence": "End-user devices would then be allowed to behave flexibly, as bits would essentially be free and there would be no assumption that the data is of a single data rate or data type.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 175,
+            "sentence": "Contrary to this idea, the research paper titled End-to-end arguments in system design by Saltzer, Reed, and Clark argues that network intelligence does not relieve end systems of the requirement to check inbound data for errors and to rate-limit the sender, nor for a wholesale removal of intelligence from the network core.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 176,
+            "sentence": " Arguments against Opponents of net neutrality regulations include Internet service providers (ISPs), broadband and telecommunications companies, computer hardware manufacturers, economists and notable technologists.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 177,
+            "sentence": "Many of the major hardware and telecommunications companies specifically oppose the reclassification of broadband as a common carrier under Title II.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 178,
+            "sentence": "Corporate opponents of this measure include Comcast, AT&T, Verizon, IBM, Intel, Cisco, Nokia, Qualcomm, Broadcom, Juniper, D-Link, Wintel, Alcatel-Lucent, Corning, Panasonic, Ericsson, Oracle, Akamai, and others.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 179,
+            "sentence": "The US Telecom and Broadband Association, which represents a diverse array of small and large broadband providers, is also an opponent.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 180,
+            "sentence": "Nobel Memorial Prize-winning economist Gary Becker's paper titled, \"Net Neutrality and Consumer Welfare\", published by the , argues that claims by net neutrality proponents \"do not provide a compelling rationale for regulation\" because there is \"significant and growing competition\" among broadband access providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 181,
+            "sentence": "Google Chairman Eric Schmidt states that, while Google views that similar data types should not be discriminated against, it is okay to discriminate across different data types--a position that both Google and Verizon generally agree on, according to Schmidt.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 182,
+            "sentence": "According to the Journal, when President Barack Obama announced his support for strong net neutrality rules late in 2014, Schmidt told a top White House official the president was making a mistake.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 183,
+            "sentence": "Google once strongly advocated for net-neutrality-like rules prior to 2010, but their support for the rules has since diminished; the company however still remains \"committed\" to net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 184,
+            "sentence": "Several civil rights groups, such as the National Urban League, Jesse Jackson's Rainbow/PUSH, and League of United Latin American Citizens, also oppose Title II net neutrality regulations, who said that the call to regulate broadband Internet service as a utility would harm minority communities by stifling investment in underserved areas.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 185,
+            "sentence": "The Wikimedia Foundation, which runs Wikipedia, told the Washington Post that it has a \"complicated relationship\" with net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 186,
+            "sentence": "The organization partnered with telecommunications companies to provide free access to Wikipedia for people in developing countries, under a program called Wikipedia Zero, without requiring mobile data to access information.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 187,
+            "sentence": "The concept is known as zero rating.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 188,
+            "sentence": "Said Wikimedia Foundation officer Gayle Karen Young, \"Partnering with telecom companies in the near term, it blurs the net neutrality line in those areas.It fulfills our overall mission, though, which is providing free knowledge.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 189,
+            "sentence": "A number of other opponents created , a website created in 2006 to promote arguments against Internet regulation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 190,
+            "sentence": "Principal financial support for the website came from AT&T, and members included BellSouth, Alcatel, Cingular, and Citizens Against Government Waste.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 191,
+            "sentence": "Robert Pepper, a senior managing director, global advanced technology policy, at Cisco Systems, and former FCC chief of policy development, says: \"The supporters of net neutrality regulation believe that more rules are necessary.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 192,
+            "sentence": "In their view, without greater regulation, service providers might parcel out bandwidth or services, creating a bifurcated world in which the wealthy enjoy first-class Internet access, while everyone else is left with slow connections and degraded content.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 193,
+            "sentence": "That scenario, however, is a false paradigm.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 194,
+            "sentence": "Such an all-or-nothing world doesn't exist today, nor will it exist in the future.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 195,
+            "sentence": "Without additional regulation, service providers are likely to continue doing what they are doing.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 196,
+            "sentence": "They will continue to offer a variety of broadband service plans at a variety of price points to suit every type of consumer\".",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 197,
+            "sentence": "Computer scientist Bob Kahn has said net neutrality is a slogan that would freeze innovation in the core of the Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 198,
+            "sentence": "Farber has written and spoken strongly in favor of continued research and development on core Internet protocols.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 199,
+            "sentence": "He joined academic colleagues Michael Katz, Christopher Yoo, and Gerald Faulhaber in an op-ed for the strongly critical of network neutrality, essentially stating that while the Internet is in need of remodeling, congressional action aimed at protecting the best parts of the current Internet could interfere with efforts to build a replacement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 200,
+            "sentence": "Reduction in investment According to a letter to FCC commissioners and key congressional leaders sent by 60 major ISP technology suppliers including IBM, Intel, Qualcomm, and Cisco, Title II regulation of the Internet \"means that instead of billions of broadband investment driving other sectors of the economy forward, any reduction in this spending will stifle growth across the entire economy.This is not idle speculation or fear mongering...Title II is going to lead to a slowdown, if not a hold, in broadband build out, because if you don't know that you can recover on your investment, you won't make it.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 201,
+            "sentence": "According to the Wall Street Journal, in one of Google's few lobbying sessions with FCC officials, the company urged the agency to craft rules that encourage investment in broadband Internet networks--a position that mirrors the argument made by opponents of strong net neutrality rules, such as AT&T and Comcast.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 202,
+            "sentence": "Opponents of net neutrality argue that prioritization of bandwidth is necessary for future innovation on the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 203,
+            "sentence": "Telecommunications providers such as telephone and cable companies, and some technology companies that supply networking gear, argue telecom providers should have the ability to provide preferential treatment in the form of tiered services, for example by giving online companies willing to pay the ability to transfer their data packets faster than other Internet traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 204,
+            "sentence": "The added income from such services could be used to pay for the building of increased broadband access to more consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 205,
+            "sentence": "Opponents say that net neutrality would make it more difficult for Internet service providers (ISPs) and other network operators to recoup their investments in broadband networks.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 206,
+            "sentence": "John Thorne, senior vice president and deputy general counsel of Verizon, a broadband and telecommunications company, has argued that they will have no incentive to make large investments to develop advanced fibre-optic networks if they are prohibited from charging higher preferred access fees to companies that wish to take advantage of the expanded capabilities of such networks.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 207,
+            "sentence": "Thorne and other ISPs have accused Google and Skype of freeloading or free riding for using a network of lines and cables the phone company spent billions of dollars to build.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 208,
+            "sentence": "Marc Andreessen states that \"a pure net neutrality view is difficult to sustain if you also want to have continued investment in broadband networks.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 209,
+            "sentence": "If you're a large telco right now, you spend on the order of $20 billion a year on capex [capital expenditure].",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 210,
+            "sentence": "You need to know how you're going to get a return on that investment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 211,
+            "sentence": "If you have these pure net neutrality rules where you can never charge a company like Netflix anything, you're not ever going to get a return on continued network investment -- which means you'll stop investing in the network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 212,
+            "sentence": "And I would not want to be sitting here 10 or 20 years from now with the same broadband speeds we're getting today.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 213,
+            "sentence": "Proponents of net neutrality regulations say network operators have continued to under-invest in infrastructure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 214,
+            "sentence": "However, according to Copenhagen Economics, U.S. investment in telecom infrastructure is 50 percent higher than in the European Union.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 215,
+            "sentence": "As a share of GDP, the United States' broadband investment rate per GDP trails only the UK and South Korea slightly, but exceeds Japan, Canada, Italy, Germany, and France sizably.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 216,
+            "sentence": "On broadband speed, Akamai reported that the US trails only South Korea and Japan among its major trading partners, and trails only Japan in the G-7 in both average peak connection speed and percentage of the population connection at 10 Mbit/s or higher, but are substantially ahead of most of its other major trading partners.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 217,
+            "sentence": "The White House reported in June 2013 that U.S. connection speeds are \"the fastest compared to other countries with either a similar population or land mass\".",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 218,
+            "sentence": "Akamai's report on \"The State of the Internet\" in the 2nd quarter of 2014 says \"a total of 39 states saw 4K readiness rate more than double over the past year\".",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 219,
+            "sentence": "In other words, as ZDNet reports, those states saw a \"major\" increase in the availability of the 15Mbit/s speed needed for 4K video.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 220,
+            "sentence": "According to the Progressive Policy Institute and ITU data, the United States has the most affordable entry-level prices for fixed broadband in the OECD.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 221,
+            "sentence": "In Indonesia, there is a very high number of Internet connections that are subjected to exclusive deals between the ISP and the building owner, and changing this dynamic could unlock much more consumer choice and higher speeds.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 222,
+            "sentence": "FCC Commissioner Ajit Pai and Federal Election Commission's Lee Goldman wrote in a Politico piece in February 2015, \"Compare Europe, which has long had utility-style regulations, with the United States, which has embraced a light-touch regulatory model.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 223,
+            "sentence": "Broadband speeds in the United States, both wired and wireless, are significantly faster than those in Europe.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 224,
+            "sentence": "Broadband investment in the United States is several multiples that of Europe.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 225,
+            "sentence": "And broadband's reach is much wider in the United States, despite its much lower population density.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 226,
+            "sentence": "VOIP pioneer Jeff Pulver states that the uncertainty of the FCC imposing Title II, which experts said would create regulatory restrictions on using the Internet to transmit a voice call, was the \"single greatest impediment to innovation\" for a decade.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 227,
+            "sentence": "According to Pulver, investors in the companies he helped found, like Vonage, held back investment because they feared the FCC could use Title II to prevent VOIP startups from bypassing telephone networks.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 228,
+            "sentence": "Significant and growing competition, investment A 2010 paper on net neutrality by Nobel Prize economist Gary Becker and his colleagues stated that \"there is significant and growing competition among broadband access providers and that few significant competitive problems have been observed to date, suggesting that there is no compelling competitive rationale for such regulation\".",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 229,
+            "sentence": "Becker and fellow economists Dennis Carlton and Hal Sidler found that \"Between mid-2002 and mid-2008, the number of high-speed broadband access lines in the United States grew from 16 million to nearly 133 million, and the number of residential broadband lines grew from 14 million to nearly 80 million.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 230,
+            "sentence": "Internet traffic roughly tripled between 2007 and 2009.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 231,
+            "sentence": "At the same time, prices for broadband Internet access services have fallen sharply.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 232,
+            "sentence": "The PPI reports that the profit margins of U.S. broadband providers are generally one-sixth to one-eighth of companies that use broadband (such as Apple or Google), contradicting the idea of monopolistic price-gouging by providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 233,
+            "sentence": "When FCC Chairman Tom Wheeler redefined broadband from 4 Mbit/s to 25 Mbit/s (3.125 MB/s) or greater in January 2015, FCC commissioners Ajit Pai and Mike O'Reilly believed the redefinition was to set up the agency's intent to settle the net neutrality fight with new regulations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 234,
+            "sentence": "The commissioners argued that the stricter speed guidelines painted the broadband industry as less competitive, justifying the FCC's moves with Title II net neutrality regulations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 235,
+            "sentence": "A report by the Progressive Policy Institute in June 2014 argues that nearly every American can choose from at least 5-6 broadband Internet service providers, despite claims that there are only a \"small number\" of broadband providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 236,
+            "sentence": "Citing research from the FCC, the Institute wrote that 90 percent of American households have access to at least one wired and one wireless broadband provider at speeds of at least 4 Mbit/s (500 kbyte/s) downstream and 1 Mbit/s (125 kbyte/s) upstream and that nearly 88 percent of Americans can choose from at least two wired providers of broadband disregarding speed (typically choosing between a cable and telco offering).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 237,
+            "sentence": "Further, three of the four national wireless companies report that they offer 4G LTE to 250-300 million Americans, with the fourth (T-Mobile) sitting at 209 million and counting.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 238,
+            "sentence": "Similarly, the FCC reported in June 2008 that 99.8% of ZIP codes in the United States had two or more providers of high speed Internet lines available, and 94.6% of ZIP codes had four or more providers, as reported by University of Chicago economists Gary Becker, Dennis Carlton, and Hal Sider in a 2010 paper.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 239,
+            "sentence": "Deterring competition FCC commissioner Ajit Pai states that the FCC completely brushes away the concerns of smaller competitors who are going to be subject to various taxes, such as state property taxes and general receipts taxes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 240,
+            "sentence": "As a result, according to Pai, that does nothing to create more competition within the market.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 241,
+            "sentence": "According to Pai, the FCC's ruling to impose Title II regulations is opposed by the country's smallest private competitors and many municipal broadband providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 242,
+            "sentence": "In his dissent, Pai noted that 142 wireless ISPs (WISPs) said that FCC's new \"regulatory intrusion into our businesses ... would likely force us to raise prices, delay deployment expansion, or both\".",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 243,
+            "sentence": "He also noted that 24 of the country's smallest ISPs, each with fewer than 1,000 residential broadband customers, wrote to the FCC stating that Title II \"will badly strain our limited resources\" because they \"have no in-house attorneys and no budget line items for outside counsel\".",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 244,
+            "sentence": "Further, another 43 municipal broadband providers told the FCC that Title II \"will trigger consequences beyond the Commission's control and risk serious harm to our ability to fund and deploy broadband without bringing any concrete benefit for consumers or edge providers that the market is not already proving today without the aid of any additional regulation\".",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 245,
+            "sentence": "According to a Wired magazine article by TechFreedom's Berin Szoka, Matthew Starr, and Jon Henke, local governments and public utilities impose the most significant barriers to entry for more cable broadband competition: \"While popular arguments focus on supposed 'monopolists' such as big cable companies, it's government that's really to blame.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 246,
+            "sentence": "The authors state that local governments and their public utilities charge ISPs far more than they actually cost and have the final say on whether an ISP can build a network.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 247,
+            "sentence": "The public officials determine what requirements an ISP must meet to get approval for access to publicly owned \"rights of way\" (which lets them place their wires), thus reducing the number of potential competitors who can profitably deploy Internet service--such as AT&T's U-Verse, Google Fiber, and Verizon FiOS.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 248,
+            "sentence": "Kickbacks may include municipal requirements for ISPs such as building out service where it is not demanded, donating equipment, and delivering free broadband to government buildings.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 249,
+            "sentence": "According to a research article from MIS Quarterly, the authors stated their findings subvert some of the expectations of how ISPs and CPs act regarding Net Neutrality laws.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 250,
+            "sentence": "The paper shows that even if an ISP is under restrictions, it still has the opportunity and the incentive to act as a gatekeeper over CPs by enforcing priority delivery of content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 251,
+            "sentence": "Counterweight to server-side non-neutrality Those in favor of forms of non-neutral tiered Internet access argue that the Internet is already not a level playing field, that large companies achieve a performance advantage over smaller competitors by providing more and better-quality servers and buying high-bandwidth services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 252,
+            "sentence": "Should scrapping of net neutrality regulations precipitate a price drop for lower levels of access, or access to only certain protocols, for instance, such would make Internet usage more adaptable to the needs of those individuals and corporations who specifically seek differentiated tiers of service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 253,
+            "sentence": "Network expert Richard Bennett has written, \"A richly funded Web site, which delivers data faster than its competitors to the front porches of the Internet service providers, wants it delivered the rest of the way on an equal basis.This system, which Google calls broadband neutrality, actually preserves a more fundamental inequality.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 254,
+            "sentence": "Potentially increased taxes FCC commissioner Ajit Pai, who opposed the 2015 Title II reclassification of ISPs, says that the ruling allows new fees and taxes on broadband by subjecting them to the telephone-style taxes under the Universal Service Fund.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 255,
+            "sentence": "Net neutrality proponent Free Press writes, \"the average potential increase in taxes and fees per household would be far less\" than the estimate given by net neutrality opponents, and that if there were to be additional taxes, the tax figure may be around US$4 billion.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 256,
+            "sentence": "Under favorable circumstances, \"the increase would be exactly zero\".",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 257,
+            "sentence": "Meanwhile, the Progressive Policy Institute claims that Title II could trigger taxes and fees up to $11 billion a year.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 258,
+            "sentence": "Financial website did their own assessment and settled on a possible US$6.25 billion tax impact, estimating that the average American household may see their tax bill increase US$67 annually.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 259,
+            "sentence": "FCC spokesperson Kim Hart said that the ruling \"does not raise taxes or fees.However, the opposing commissioner, Ajit Pai, claims that \"the plan explicitly opens the door to billions of dollars in new taxes on broadband ...",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 260,
+            "sentence": "These new taxes will mean higher prices for consumers and more hidden fees that they have to pay.\"Pai explained that, \"One avenue for higher bills is the new taxes and fees that will be applied to broadband.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 261,
+            "sentence": "Here's the background.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 262,
+            "sentence": "If you look at your phone bill, you'll see a 'Universal Service Fee', or something like it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 263,
+            "sentence": "These fees - what most Americans would call taxes - are paid by Americans on their telephone service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 264,
+            "sentence": "They funnel about $9 billion each year through the FCC.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 265,
+            "sentence": "Consumers haven't had to pay these taxes on their broadband bills because broadband has never before been a Title II service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 266,
+            "sentence": "But now it is.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 267,
+            "sentence": "And so the Order explicitly opens the door to billions of dollars in new taxes.\"Unnecessary regulations According to PayPal founder and Facebook investor Peter Thiel in 2011, \"Net neutrality has not been necessary to date.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 268,
+            "sentence": "I don't see any reason why it's suddenly become important, when the Internet has functioned quite well for the past 15 years without it... Government attempts to regulate technology have been extraordinarily counterproductive in the past.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 269,
+            "sentence": "... Government attempts to regulate technology have been extraordinarily counterproductive in the past.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 270,
+            "sentence": "Max Levchin, the other co-founder of PayPal, echoed similar statements, telling CNBC, \"The Internet is not broken, and it got here without government regulation and probably in part because of lack of government regulation.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 271,
+            "sentence": "Opponents of new federal net neutrality policies point to the success of the Internet as a sign that new regulations are not necessary.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 272,
+            "sentence": "They argue that the freedom which websites, ISPs and consumers have had to settle their own disputes and compete through innovation is the reason why the Internet has been such a rapid success.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 273,
+            "sentence": "One of Congress's most outspoken critics of net neutrality regulations is Senator Ted Cruz from Texas, who points out that \"innovation [on the Internet] is happening without having to go to government and say 'Mother, may I?'What happens when the government starts regulating a service as a public utility is it calcifies everything and freezes it in place.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 274,
+            "sentence": "In regulating how the Internet is provided, opponents argue that the government will hinder innovation on the web.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 275,
+            "sentence": "FCC Commissioner Ajit Pai, who was one of the two commissioners who opposed the net neutrality proposal, criticized the FCC's ruling on Internet neutrality, stating that the perceived threats from ISPs to deceive consumers, degrade content, or disfavor the content that they disliked or non-existent: \"The evidence of these continuing threat? There is none; it's all anecdote, hypothesis, and hysteria.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 276,
+            "sentence": "A small ISP in North Carolina allegedly blocked VoIP calls a decade ago.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 277,
+            "sentence": "Comcast capped BitTorrent traffic to ease upload congestion eight years ago.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 278,
+            "sentence": "Apple introduced Facetime over Wi-Fi first, cellular networks later.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 279,
+            "sentence": "Examples this picayune and stale aren't enough to tell a coherent story about net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 280,
+            "sentence": "The bogeyman never had it so easy.\"FCC Commissioner Mike O'Reilly, the other opposing commissioner, also claims that the ruling is a solution to a hypothetical problem, \"Even after enduring three weeks of spin, it is hard for me to believe that the Commission is establishing an entire Title II/net neutrality regime to protect against hypothetical harms.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 281,
+            "sentence": "There is not a shred of evidence that any aspect of this structure is necessary.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 282,
+            "sentence": "Circuit called the prior, scaled-down version a 'prophylactic' approach.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 283,
+            "sentence": "I call it guilt by imagination.\"In a article, FCC Commissioner Pai and Joshua Wright of the Federal Trade Commission argue that \"the Internet isn't broken, and we don't need the president's plan to 'fix' it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 284,
+            "sentence": "The Internet is an unparalleled success story.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 285,
+            "sentence": "It is a free, open and thriving platform.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 286,
+            "sentence": "Inability to make Internet accessible to the poor Opponents argue that net neutrality regulations prevent service providers from providing more affordable Internet access to those who can't afford it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 287,
+            "sentence": "A concept known as \"zero-rating\", ISPs would be unable to provide Internet access for free or at a reduced cost to the poor under net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 288,
+            "sentence": "For example, low-income users who can't afford bandwidth-hogging Internet services such as video streams could be exempted from paying through subsidies or advertising.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 289,
+            "sentence": "However, under the rules, ISPs would not be able to discriminate traffic, thus forcing low-income users to pay for high-bandwidth usage like other users.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 290,
+            "sentence": "The Wikimedia Foundation, which runs Wikipedia, created Wikipedia Zero to provide Wikipedia free-of-charge on mobile phones to low-income users, especially those in developing countries.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 291,
+            "sentence": "However, the practice violates net neutrality rules as traffic would have to be treated equally regardless of the users' ability to pay.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 292,
+            "sentence": "In 2014, Chile banned the practice of internet service providers giving users free access to websites like Wikipedia and Facebook, saying the practice violates net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 293,
+            "sentence": "In 2016, India banned Internet.org's Free Basics application, which provides users in less developed countries with free access to a variety of websites like Wikipedia, BBC, Dictionary.com, health sites, Facebook, ESPN, and weather reports -- ruling that the initiative violated net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 294,
+            "sentence": "Inability to allocate Internet traffic efficiently Net neutrality rules would prevent traffic from being allocated to the most needed users, according to Internet Pioneer David Farber.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 295,
+            "sentence": "Because net neutrality regulations prevent a discrimination of traffic, networks would have to treat critical traffic equally with non-critical traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 296,
+            "sentence": "According to Farber, \"When traffic surges beyond the ability of the network to carry it, something is going to be delayed.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 297,
+            "sentence": "When choosing what gets delayed, it makes sense to allow a network to favor traffic from, say, a patient's heart monitor over traffic delivering a music download.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 298,
+            "sentence": "It also makes sense to allow network operators to restrict traffic that is downright harmful, such as viruses, worms and spam.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 299,
+            "sentence": "Related issues Data discrimination Tim Wu, though a proponent of network neutrality, claims that the current Internet is not neutral as its implementation of best effort generally favors file transfer and other non-time-sensitive traffic over real-time communications.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 300,
+            "sentence": "Generally, a network which blocks some nodes or services for the customers of the network would normally be expected to be less useful to the customers than one that did not.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 301,
+            "sentence": "Therefore, for a network to remain significantly non-neutral requires either that the customers not be concerned about the particular non-neutralities or the customers not have any meaningful choice of providers, otherwise they would presumably switch to another provider with fewer restrictions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 302,
+            "sentence": "While the network neutrality debate continues, network providers often enter into peering arrangements among themselves.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 303,
+            "sentence": "These agreements often stipulate how certain information flows should be treated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 304,
+            "sentence": "In addition, network providers often implement various policies such as blocking of port 25 to prevent insecure systems from serving as spam relays, or other ports commonly used by decentralized music search applications implementing peer-to-peer networking models.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 305,
+            "sentence": "They also present terms of service that often include rules about the use of certain applications as part of their contracts with users.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 306,
+            "sentence": "Most consumer Internet providers implement policies like these.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 307,
+            "sentence": "The MIT Mantid Port Blocking Measurement Project is a measurement effort to characterize Internet port blocking and potentially discriminatory practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 308,
+            "sentence": "However, the effect of peering arrangements among network providers are only local to the peers that enter into the arrangements and cannot affect traffic flow outside their scope.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 309,
+            "sentence": "Jon Peha from Carnegie Mellon University believes it is important to create policies that protect users from harmful traffic discrimination, while allowing beneficial discrimination.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 310,
+            "sentence": "Peha discusses the technologies that enable traffic discrimination, examples of different types of discrimination, and potential impacts of regulation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 311,
+            "sentence": "Google Chairman Eric Schmidt aligns Google's views on data discrimination with Verizon's: \"I want to be clear what we mean by Net neutrality: What we mean is if you have one data type like video, you don't discriminate against one person's video in favor of another.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 312,
+            "sentence": "But it's okay to discriminate across different types.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 313,
+            "sentence": "So you could prioritize voice over video.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 314,
+            "sentence": "And there is general agreement with Verizon and Google on that issue.\"Echoing similar comments by Schmidt, Google's Chief Internet Evangelist and \"father of the Internet\", Vint Cerf, says that \"it's entirely possible that some applications needs far more latency, like games.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 315,
+            "sentence": "Other applications need broadband streaming capability in order to deliver real-time video.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 316,
+            "sentence": "Others don't really care as long as they can get the bits there, like e-mail or file transfers and things like that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 317,
+            "sentence": "But it should not be the case that the supplier of the access to the network mediates this on a competitive basis, but you may still have different kinds of service depending on what the requirements are for the different applications.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 318,
+            "sentence": "Quality of service Internet routers forward packets according to the diverse peering and transport agreements that exist between network operators.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 319,
+            "sentence": "Many networks using Internet protocols now employ quality of service (QoS), and Network Service Providers frequently enter into Service Level Agreements with each other embracing some sort of QoS.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 320,
+            "sentence": "There is no single, uniform method of interconnecting networks using IP, and not all networks that use IP are part of the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 321,
+            "sentence": "IPTV networks are isolated from the Internet, and are therefore not covered by network neutrality agreements.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 322,
+            "sentence": "The IP datagram includes a 3-bit wide Precedence field and a larger DiffServ Code Point (DSCP) that are used to request a level of service, consistent with the notion that protocols in a layered architecture offer services through Service Access Points.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 323,
+            "sentence": "This field is sometimes ignored, especially if it requests a level of service outside the originating network's contract with the receiving network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 324,
+            "sentence": "It is commonly used in private networks, especially those including Wi-Fi networks where priority is enforced.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 325,
+            "sentence": "While there are several ways of communicating service levels across Internet connections, such as SIP, RSVP, IEEE 802.11e, and MPLS, the most common scheme combines SIP and DSCP.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 326,
+            "sentence": "Router manufacturers now sell routers that have logic enabling them to route traffic for various Classes of Service at \"wire-speed\".",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 327,
+            "sentence": "Quality of service is sometimes taken as a measurement through certain tools to test a user's connection quality, such as Network Diagnostic Tools (NDT) and services on speedtest.net.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 328,
+            "sentence": "These tools are known to be used by National Regulatory Authorities (NRAs), who use these QoS measurements as a way of detecting Net Neutrality violations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 329,
+            "sentence": "However, there are very few examples of such measurements being used in any significant way by NRAs, or in network policy for that matter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 330,
+            "sentence": "Often, these tools are used not because they fail at recording the results they are meant to record, but because said measurements are inflexible and difficult to exploit for any significant purpose.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 331,
+            "sentence": "According to Ioannis Koukoutsidis, the problems with the current tools used to measure QoS stem from a lack of a standard detection methodology, a need to be able to detect various methods in which an ISP might violate Net Neutrality, and the inability to test an average measurement for a specific population of users.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 332,
+            "sentence": "With the emergence of multimedia, VoIP, IPTV, and other applications that benefit from low latency, various attempts to address the inability of some private networks to limit latency have arisen, including the proposition of offering tiered service levels that would shape Internet transmissions at the network layer based on application type.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 333,
+            "sentence": "These efforts are ongoing, and are starting to yield results as wholesale Internet transport providers begin to amend service agreements to include service levels.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 334,
+            "sentence": "Advocates of net neutrality have proposed several methods to implement a net neutral Internet that includes a notion of quality-of-service: An approach offered by Tim Berners-Lee allows discrimination between different tiers, while enforcing strict neutrality of data sent at each tier: \"If I pay to connect to the Net with a given quality of service, and you pay to connect to the net with the same or higher quality of service, then you and I can communicate across the net, with that quality and quantity of service.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 335,
+            "sentence": "\"[We] each pay to connect to the Net, but no one can pay for exclusive access to me.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 336,
+            "sentence": "United States lawmakers have introduced bills that would now allow quality of service discrimination for certain services as long as no special fee is charged for higher-quality service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 337,
+            "sentence": "Founder of Epic Privacy Browser, Alok Bhardwaj, has argued that net neutrality preservation through legislation is consistent with implementing quality of service protocols.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 338,
+            "sentence": "He argues legislation should ban the charging of fees for any quality of service, which would both allow networks to implement quality of service as well as remove any incentive to abuse net neutrality ideas.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 339,
+            "sentence": "He argues that since implementing quality of service does not require any additional costs versus a non-QoS network, there is no reason implementing quality of service should entail any additional fees.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 340,
+            "sentence": "However, the core network hardware needed (with large number of queues, etc.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 341,
+            "sentence": "However, the core network hardware needed (with large number of queues, etc.) and the cost of designing and maintaining a QoS network are both much higher than for a non-QoS network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 342,
+            "sentence": "There are also some discrepancies in how wireless networks affect the implementation of net neutrality policy, some of which are noted in the studies of Christopher Yoo.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 343,
+            "sentence": "In one research article, he claimed that \"...bad handoffs, local congestion, and the physics of wave propagation make wireless *broadband networks* significantly less reliable than fixed broadband networks.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 344,
+            "sentence": "Pricing models Broadband Internet access has most often been sold to users based on Excess Information Rate or maximum available bandwidth.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 345,
+            "sentence": "If Internet service providers (ISPs) can provide varying levels of service to websites at various prices, this may be a way to manage the costs of unused capacity by selling surplus bandwidth (or \"leverage price discrimination to recoup costs of 'consumer surplus ' \").",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 346,
+            "sentence": "However, purchasers of connectivity on the basis of Committed Information Rate or guaranteed bandwidth capacity must expect the capacity they purchase in order to meet their communications requirements.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 347,
+            "sentence": "Various studies have sought to provide network providers the necessary formulas for adequately pricing such a tiered service for their customer base.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 348,
+            "sentence": "But while network neutrality is primarily focused on protocol based provisioning, most of the pricing models are based on bandwidth restrictions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 349,
+            "sentence": "On July 12, 2017, an event called the Day of Action was held to advocate for net neutrality in the United States in response to Ajit Pai's plans to remove government policies that upheld net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 350,
+            "sentence": "Several websites participated in this event, including ones such as Amazon, Netflix, Google, and several other just as well-known websites.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 351,
+            "sentence": "The gathering was called \"the largest online protest in history\".",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 352,
+            "sentence": "Websites chose many different ways to convey their message.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 353,
+            "sentence": "The founder of the web, Tim Berners-Lee, published a video defending FCC's rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 354,
+            "sentence": "Reddit made a pop-up message that loads slowly to illustrate the effect of removing net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 355,
+            "sentence": "Other websites also put up some less obvious notifications, such as Amazon, who put up a hard to notice link, or Google, who put up policy blog post as opposed to a more obvious message.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 356,
+            "sentence": "A poll conducted by Mozilla showed strong support for net neutrality across political parties.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 357,
+            "sentence": "Out of the approximately 1,000 responses received by the poll, 76% of Americans, 81% of Democrats, and 73% of Republicans, support net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 358,
+            "sentence": "The poll also showed that many Americans do not think that Trump's government can be trusted to protect access to the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 359,
+            "sentence": "Net neutrality supporters had also made several comments on the FCC website opposing plans to remove net neutrality, especially after a segment by John Oliver regarding this topic was aired on his show Last Week Tonight.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 360,
+            "sentence": "However, in response, Ajit Pai selected one particular comment that specifically supported removal of net neutrality policies.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 361,
+            "sentence": "At the end of August, the FCC released more than 13,000 pages of net neutrality complaints filed by consumers, yet it was released one day before the deadline for the public to comment on Ajit Pai's proposal to remove net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 362,
+            "sentence": "It has been implied that the FCC ignored evidence against their proposal in order to remove the protection laws faster.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 363,
+            "sentence": "It has also been noted that nowhere was it mentioned how FCC made any attempt to resolve the complaints made.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 364,
+            "sentence": "Regardless, Ajit Pai's proposal has drawn more than 22 million comments, though a large amount were spam.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 365,
+            "sentence": "However, there were 1.5 million personalized comments, 98.5% of them protesting Ajit Pai's plan.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 366,
+            "sentence": "As of January 2018, Fifty senators endorsed a legislative measure to override the Federal Communications Commission's decision to deregulate the broadband industry.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 367,
+            "sentence": "The tally leaves supporters just one Republican vote shy of the 51 required to pass a Senate resolution of disapproval, in a legislative gambit aimed at restoring the agency's net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 368,
+            "sentence": "The FCC removed net neutrality laws completely on April 29. ",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 369,
+            "sentence": "- comic explaining net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 370,
+            "sentence": "December 15, 2017.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 371,
+            "sentence": "Source of the article : Share this 0 Comments src: showme0-9071.kxcdn.com Hinduism and Buddhism have common origins in the Ganges culture of northern India during the so-called \"sec... Glossary of ballet src: www.balletbeautiful.com Because ballet became formalized in France, a significant part of ballet terminology is in the French language... src: i.ytimg.com Profanity in Mandarin Chinese most commonly involves sexual references and scorn of the object's ancestors, especially ... src: i.ytimg.com Caló (also known as Pachuco ) is an argot or slang of Mexican Spanish that originated during the first half of the 20th ce... Control flow graph src: i.ytimg.com A control flow graph ( CFG ) in computer science is a representation, using graph notation, of all paths that might be tra... ▼ 2018  (1809) (154) (303) (524) (211) (119) (192) (306) ► 2017  (516) (286) (230) Diberdayakan oleh .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

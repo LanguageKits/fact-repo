@@ -1,0 +1,481 @@
+{
+    "document_id": -1,
+    "url": "https://www.nytimes.com/2014/11/11/technology/obama-net-neutrality-fcc.html",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Edward Wyatt",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:56:23.890170+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "SEARCH Skip to content Skip to site index Today’s Paper .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "President Obama outlined his suggestions to maintain an open Internet and urged the Federal Communications Commission to implement “the strongest possible rules” to protect it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "President Obama outlined his suggestions to maintain an open Internet and urged the Federal Communications Commission to implement “the strongest possible rules” to protect it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "WhiteHouse.gov Nov. 10, 2014 WASHINGTON — In his most direct effort yet to influence the debate about the Internet’s future, President Obama said on Monday that a free and open Internet was as critical to Americans’ lives as electricity and telephone service and should be regulated like those utilities to protect consumers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The Federal Communications Commission, Mr. Obama said, needs to adopt the strictest rules possible to prevent broadband companies from blocking or intentionally slowing down legal content and from allowing content providers to pay for a fast lane to reach consumers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "That approach, he said, demands thinking about both wired and wireless broadband service as a public utility.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "“For almost a century, our law has recognized that companies who connect you to the world have special obligations not to exploit the monopoly they enjoy over access into and out of your home or business,” Mr. Obama, who is traveling in Asia, said in a statement and a video on the White House website.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "“It is common sense that the same philosophy should guide any service that is based on the transmission of information — whether a phone call or a packet of data.” The president’s move was widely interpreted as giving political support to Tom Wheeler, the F.C.C.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Mr. Wheeler is close to settling on a plan to protect an open Internet, often known as net neutrality, and Mr. Obama’s statement could push him to adopt a more aggressive approach.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Any set of rules needs three votes from the five-member commission, which now has three Democrats and two Republicans.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The debate may hinge on whether Internet access is considered a necessity, like electricity, or more of an often-costly option, like cable TV.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The proposal was hailed by Internet content companies like Netflix, Democrats in Congress and consumer advocacy groups.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "But the leading providers of Internet access, increasingly dependent on revenue from broadband subscriptions, quickly denounced the proposal.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Republicans and some investment groups also spoke out against the plan, saying the regulation was heavy-handed and would kill online investment and innovation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The F.C.C.’s previous rules for net neutrality were struck down in January by a federal appeals court, leaving the commission in search of new rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "In May, the commission released a proposal that would maintain a light regulatory touch, which Mr. Obama said was not strong enough.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Mr. Wheeler, who was appointed by Mr. Obama, said he agreed with the president that “the Internet must remain an open platform for free expression, innovation and economic growth.” But he stopped short of promising to follow the president’s recommendation, saying more time was needed to consider options and adopt an approach that could “withstand any legal challenges it may face.” ",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Tom Wheeler, chairman of the F.C.C. Efforts to address net neutrality have failed to advance in Congress in the last decade.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "As an independent agency, the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "does not directly answer to the president.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "It answers more to Congress, which controls its budget and the laws under which it operates.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Several efforts to enact net neutrality legislation over the last decade have failed to advance.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "While Mr. Obama has long offered vocal support on the idea of net neutrality, he has been more opaque about how it should be achieved through policy.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "In the last six months, almost four million people have sent comments about net neutrality to the F.C.C., the vast majority of them part of an organized campaign supporting strong rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "And in September, representatives from the websites Etsy, Kickstarter and Vimeo, among others, met with Megan J. Smith, Mr. Obama’s chief technology officer, and other senior officials to ask the president to lean on the F.C.C.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "to impose the stricter rules that would treat broadband as a public utility.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Internet content companies fear that if broadband providers can charge content companies for premium access to customers, start-ups and other small companies will be shut out.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "A week ago, after floating a proposal for a hybrid approach that would classify part of broadband service as a public utility, Mr. Wheeler was warned by his aides that numerous legal issues could thwart his approach.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Last Thursday, Jeffrey D. Zients, the director of the National Economic Council, a White House agency that advises Mr. Obama, informed Mr. Wheeler of the president’s intention to urge tough net neutrality rules, officials said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "By weighing in forcefully now, officials said, the president hopes that his voice will add to the pressure on the F.C.C.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "But broadband companies like Verizon, which successfully challenged the F.C.C.’s last net neutrality rules, said that the president’s plan was unacceptable.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "And companies that make the routers and servers that are used to build the Internet backbone, represented by the Telecommunications Industry Association, said they “strongly urge regulators to refrain from reclassification that will guarantee harm to consumers, the economy and the very technologies we’re trying to protect.” Shares of Comcast and Time Warner Cable, the country’s two largest wired broadband Internet providers, fell about 4 percent on Monday.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Shares of Verizon fell slightly, while AT&T and CenturyLink rose in a market that ended marginally higher.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Shares of Google, Netflix and other content providers advanced.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "The future of protecting an open Internet has been the subject of fierce debate, and potential changes to the rules by the Federal Communications Commission could affect your online experience.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Republican leaders also objected to Mr. Obama’s proposal, including Senator John Thune of South Dakota, who is in line to take over the chairmanship of the Senate Commerce Committee in the Republican-controlled Senate next year.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Mr. Thune said the effort “would turn the Internet into a government-regulated utility and stifle our nation’s dynamic and robust Internet sector with rules written nearly 80 years ago for plain old telephone service” — referring to the Communications Act of 1934, which created the F.C.C.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "to regulate wire and radio communications, including common carriers like telephone service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Specifically, Mr. Obama has proposed reclassifying Internet service — both wired and wireless — as a Title II telecommunications service under the Communications Act.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "That would allow the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "to write rules that would forbid blocking of legal content and discrimination by a broadband company against any provider of content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "But Title II does not by itself ban the ability of a broadband provider to charge a content company for a preferred service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "“You need strong rules, and you probably use some of the other powers of the commission to augment those rules,” said Gene Kimmelman, president of Public Knowledge, a consumer advocacy group.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Title II also carries with it the possibility of regulating rates, but Mr. Obama asked the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "to refrain “from rate regulation and other provisions less relevant to broadband services.” But forbearance from portions of the law are not always easy, because Title II has upward of 1,000 requirements, said Robert M. McDowell, a former F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "“As a legal matter,” Mr. McDowell said, “it would be very difficult for the F.C.C.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "to subject the Internet to common-carrier regulation while at same time forbearing from the vast majority of Title II.” Once the regulation is challenged in court, he said, “That is what makes this whole idea very wobbly.”",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

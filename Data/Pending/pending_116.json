@@ -1,0 +1,251 @@
+{
+    "document_id": -1,
+    "url": "https://www.politico.com/story/2017/11/20/net-neutrality-repeal-fcc-251824",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Margaret Harding Mcgill",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:42:19.397058+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Federal Communications Commission Chairman Ajit Pai will reveal plans to his fellow commissioners on Tuesday to fully dismantle the agency's Obama-era net neutrality regulations, people familiar with the plans said, in a major victory for the telecom industry in the long-running policy debate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The commission will vote on the proposal in December, some seven months after it laid the groundwork for scuttling the rules that require internet service providers like Comcast or AT&T to treat web traffic equally.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "President Donald Trump-appointed Pai’s plan would jettison rules that prohibit internet service providers from blocking or slowing web traffic or creating so-called paid internet fast lanes, the people familiar with the changes said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Pai also will follow through on his plans to scrap the legal foundation that the FCC’s old Democratic majority adopted in 2015 to tighten federal oversight of internet service providers, a move he contends has deterred the industry from investing in broadband networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Internet providers have feared that legal foundation, if left in place, could set the stage for possible government price regulation of internet service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "POLITICO Playbook newsletter Sign up today to receive the #1-rated newsletter in politics By signing up you agree to receive email newsletters or alerts from POLITICO.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "You can unsubscribe at any time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "This site is protected by reCAPTCHA and the Google and apply.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The chairman’s approach, to be voted on at the FCC’s Dec. 14 meeting, would also get rid of the so-called general conduct standard, which gives the FCC authority to police behavior by internet service providers it deems unreasonable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The plan includes transparency rules that would require internet service providers to inform their customers about their practices on issues such as blocking and throttling.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Major internet providers, including Comcast, have publicly said they will not block or throttle web traffic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The FCC will look to another agency, the Federal Trade Commission, to police whether internet service providers are acting in an anti-competitive manner.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "An FCC spokesman declined comment on the plan.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Supporters of the existing rules, including tech giants like Netflix and left-leaning digital activists, say they are necessary to ensuring the internet remains a level playing field.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "But critics, including Pai, have said they are too burdensome and deter investment in broadband networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The agency is expected to approve the rollback at its next meeting given the Republican majority, but the issue is likely to end up in court yet again.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "A federal appeals court upheld the current net neutrality rules in June 2016, siding with the FCC against a challenge from AT&T, USTelecom and other industry trade groups.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "This time, it’s likely to be net neutrality advocates taking the agency to court.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The move could also re-ignite interest in legislation to codify net neutrality rules, which Republican lawmakers and ISPs have pushed for this year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Some FCC watchers believe Pai’s dismantling of the rules could bring Democrats to the table to negotiate a legislative solution to the debate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Pai’s rollback of the net neutrality rules will top his list of deregulatory accomplishments since Trump appointed him chairman in January.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The longtime GOP commissioner has lived up to his promise the agency would take a “weed whacker” to federal regulations, slashing rules on media ownership, business broadband and the transition from copper to fiber services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Sign up for POLITICO Playbook and get the latest news, every morning — in your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Trump’s top domestic policy aide resigns ‘Dirty, filthy cops’: Trump blasts Michael Flynn investigation after new FBI documents released End of Trump’s social distancing policy spurs fears of virus rebound As death toll passes 60,000, Trump’s team searches for an exit strategy Tara Reade allegations rattle Biden’s VP search Jump to sidebar section FAQ POWERJobs RSS Do not sell my info",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

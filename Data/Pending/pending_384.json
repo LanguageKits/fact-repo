@@ -1,0 +1,31 @@
+{
+    "document_id": -1,
+    "url": "https://www.charismamag.com/spirit/supernatural/46196-exclusive-covid-warrior-dr-stella-immanuel-deems-hydroxychloroquine-fight-a-spiritual-battle",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:51:42.351782+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "  Your browser does not support JavaScript!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Please enable JavaScript and reload this page.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

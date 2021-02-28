@@ -1,0 +1,751 @@
+{
+    "document_id": -1,
+    "url": "https://gizmodo.com/how-an-investigation-of-fake-fcc-comments-snared-a-prom-1832788658",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:55:10.499115+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "We come from the future io9 We come from the future io9 may also like Today 11:00AM Today 1:30PM 40 minutes ago Read on Read on I'm Playing Read on Read on This newsletter comes from the future.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "and 2/21/19 12:15PM \u2022 Filed to: FCC 18 3 : Millions of records that the FCC\u2019s top lawyer once fought to hold back from state law enforcement officials now serve as key evidence in a year-long probe into cases of Americans being impersonated during the agency\u2019s latest net neutrality proceeding.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Analysis of the data would lead investigators last fall to consider, as one of many potential sources of fraud, the owner of an influential Washington, D.C., newspaper, whose advocacy business may have served as a pipeline for one of the most notorious of all fake comments.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "In May 2017, dozens of Americans came forward with claims that their identities had been used, without their consent, in a campaign to inundate the Federal Communications Commission with public comments critical of the Obama-era policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Some told reporters that they\u2019d never heard of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Twenty seven signed an open letter to FCC Chairman Ajit Pai demanding a response.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "A year on, each of their names and addresses are still displayed on the federal agency\u2019s website, right above, as the letter puts it, \u201ca political statement that we did not sign onto.\u201d What was most curious, however, is that each of these people had supposedly submitted the very same comment; a veritable word salad of telecom industry talking points.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "In particular, the comment was a rebuke of the Obama administration\u2019s exercise of \u201cunprecedented regulatory power\u201d in pursuit of net neutrality, a policy which it accused of \u201csmothering innovation, damaging the American economy, and obstructing job creation.\u201d Internal FCC logs reviewed by Gizmodo for the first time offer clues as to why the matching comments led investigators in October to the doorstep of CQ Roll Call, a company that, while running an august newsroom in the nation\u2019s capital, is also in the business of helping lobbyists construct digital \u201cgrassroots\u201d campaigns aimed at influencing policymakers, and specifically, those controlling the FCC\u2019s rulemaking process.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "\u201cTo put it simply, there is evidence in the FCC\u2019s files that fraud has occurred.\u201d The logs, obtained in response to a Freedom of Information Act (FOIA) lawsuit, document in exhaustive detail each time an organization such as CQ\u2014the advocacy side of the company\u2014submitted a comment using the FCC\u2019s API system.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "What\u2019s more, they include the IP addresses of the uploaders themselves, as well as timestamps that record, down to the millisecond, precisely when floods of comments came pouring in from any given source.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "While it\u2019s FCC policy to accept and help manually upload spreadsheets containing batches of comments collected by virtually anyone, it also offers access to an API system that give groups like CQ, Fight for the Future, and the Electronic Frontier Foundation the ability to create their own submission pages that feed directly into the agency\u2019s Electronic Comment Filing System (ECFS).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The API, which helped funnel millions of comments to the agency in 2017, is maintained by the General Services Administration (GSA).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Last week, the GSA turned over the API logs in response to a records request from a reporter who had sued it and the FCC to pry them loose.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "On review, they are the same records that the FCC refused to provide the New York attorney general\u2019s office in December 2017, while claiming the state\u2019s chief legal officer had no authority \u201cto investigate a federal agency\u2019s rulemaking process,\u201d or otherwise compel the production of any materials.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "According to a December 2017 letter , the FCC\u2019s general counsel had further argued that releasing the records (and in particular, any IP addresses) would \u201cinvade the personal privacy of legitimate commenters, and be overly burdensome to the agency.\u201d An organization run by a former Trump campaign statewide director is being investigated by the New\u2026 Read more Yet the agency\u2019s efforts at stonewalling proved inevitably futile.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "New York\u2019s Bureau of Internet and Technology would ultimately obtain the API logs\u2014likely, according to the statements of former New York attorney general Eric Schneiderman, from the FCC\u2019s own inspector general, whose work is intentionally segregated from other offices at the agency.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Armed with both legal and technical expertise, the bureau\u2019s investigators would comb the data and eventually produce multiple leads in its investigation of potential state violations, including criminal impersonation under New York law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "\u201cUnprecedented regulatory power\u201d The millions of public comments amassed by the FCC about net neutrality over the summer of 2017 are only one facet of a process known as \u201cnotice and comment\u201d rulemaking.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Under federal law, whenever the FCC intends to set forth new, legally binding rules, it is required to give notice to the public.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "It must then, for no fewer than 30 days, allow the public to comment in response.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "In contrast to the 3.9 million comments received during the debate over the Open Internet Order, which led to the adoption of federal net neutrality rules four years ago, the Trump administration\u2019s effort to repeal those rules, known as the Restoring Internet Freedom Order, brought in over 22 million.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "As of October 2018, investigators in New York had isolated a batch of roughly 9.35 million comments, which they had deemed suspicious and potentially attributed to Americans whose names had been used without their permission.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The investigations into the fake comments largely stem from reports published almost simultaneously on May 10, 2017, by , , and ZDNet , all of which focused on identical comments that were submitted to the FCC several hundred thousand times.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The language used in the comments\u2014which are now suspected of having been uploaded using CQ\u2019s software\u2014was eventually traced back to a conservative nonprofit called the Center for Individual Freedom (CFIF).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "The comment reads in full: \u201cThe unprecedented regulatory power the Obama Administration imposed on the internet is smothering innovation, damaging the American economy and obstructing job creation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "I urge the Federal Communications Commission to end the bureaucratic regulatory overreach of the internet known as Title II and restore the bipartisan light-touch regulatory consensus that enabled the internet to flourish for more than 20 years.\u201d Founded in 1998, CFIF is a reportedly a dark-money group whose early roots lie in defending Big Tobacco, but which supported the repeal of net neutrality more recently and has campaigned aggressively against state laws requiring political groups like itself to disclose the sources of its funding.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Along with CQ, the group is among the 14 entities subpoenaed by the New York attorney general last fall, as first reported by former BuzzFeed reporter Kevin Collier in October.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "As late as last February, CFIF President Jeffrey Mazzella praised the FCC\u2019s rollback of the Title II classification of broadband service underlying net neutrality in the Daily Caller , labeling the policy an \u201cunprecedented power grab by the Obama administration,\u201d which, he claimed, upended \u201ctwo decades of bipartisan consensus for light-touch regulation of the internet sector.\u201d Notably, Mazzella\u2019s article was coauthored with David Williams, president of the Taxpayers Protection Alliance (TPA), another group subpoenaed in New York.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Comments linked to TPA appear to have been submitted by the same individual who aided another group known as Free Our Internet, whose comments were ascribed to Americans who told Gizmodo their identities had been stolen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Attempting to confirm or disprove the alleged link between CQ and CFIF, Gizmodo initiated its own review of the API data logs last week, focusing on comments from dozens of people who claim they were impersonated online.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Emails previously obtained under FOIA, which show conversations between FCC officials and CQ\u2019s chief technology officer, Dan Germain, who now serves as a FiscalNote senior VP overseeing research and development, provided additional context regarding the company\u2019s operations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "The Center for Individual Freedom and FiscalNote, which purchased CQ Roll Call in August 2018, did not respond to multiple requests for comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Germain, however, was interviewed by Gizmodo twice in 2017, and served up various insights into how the company had amassed and delivered \u201cmillions of comments\u201d to the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Analysis of API logs While Germain declined to identify any of CQ\u2019s clients \u201cwithout explicit permission,\u201d timestamps contained in the API logs reveal an unmistakable correlation between the use of CQ\u2019s API key and numerous identical comments containing CFIF\u2019s text about former President Obama\u2019s \u201cunprecedented regulatory power.\u201d APIs are a ubiquitous part of the internet and power user interactions with everything from Google to Grindr.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "To control access to them, APIs are usually given a \u201ckey\u201d system, which produces long, unique strings of characters, not dissimilar to a password.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "This enables system administrators to give explicit access to an individual or company and track how the keys are being used.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "The FCC is the only agency whose public commenting system uses API keys issued by Data.gov, a branch of the General Services Administration.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "The purpose of GSA\u2019s system is to \u201cmake it easier for agencies to release and manage\u201d data while offering a variety of ways to track and analyze its use, according to its website.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "As many as 19 federal agencies rely on the Data.gov API for a variety of purposes, including the FCC, which specifically promotes it as a way to deliver public comments in bulk.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "\u201cSometimes they don\u2019t remember until we read the actual message and then they light up in full support of it!\u201d While some identifying information in the logs is fully or partially redacted, they contain the following data: timestamps of every instance an API submission was made; the IP addresses of every individual who requested API keys; the IP addresses of the servers used by them to submit comments; and standard number codes that indicate whether a comment submission was successful.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "But while the logs detail precisely when comments were submitted and by whom, they do not contain the actual comments themselves, nor the names of the individuals to whom they\u2019re attributed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Nor do the logs, which span roughly 7-months, indicate to which specific FCC docket a comment was submitted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Because of this, the timestamps are pivotal to pairing specific comments with the API keys used to submit them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "By comparing the API logs to comment data that the FCC had already made publicly available, Gizmodo found more than a dozen comments containing CFIF\u2019s boilerplate language that were registered within milliseconds of CQ\u2019s key being used.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "A comment by Cynthia Duby of Desert Hot Springs, California, regarding Obama\u2019s \u201cunprecedented regulatory power,\u201d for example, was registered by the comment system fractions of a second after CQ used its key on May 11, 2017.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "(The timestamp on Duby\u2019s comment reads, \u201c16:33:09.794,\u201d while the Data.gov API logs show CQ submitting a comment at \u201c16:33:09:0.16.\u201d) API data logs show a comment submitted by CQ Roll Call at \u201c2017-05-11T16:33:09.016Z,\u201d milliseconds before Cynthia Duby\u2019s comment about \u201cunprecedented regulatory power\u201d was registered by the FCC comment system.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "The timestamps on the comment data and API data rarely if ever sync perfectly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "The disparity\u2014at most two seconds, but more often much shorter\u2014could be explained by server latency, or the fraction of time that passes after a message is sent but before it\u2019s received by a server.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Duby is one of the 24 people who signed the open letter in May 2017 demanding that her comment be removed by the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Of 14 others who said their names were \u201cused to file comments we did not make,\u201d Gizmodo was able to duplicate the experiment 12 times.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "In each successful case, the comments were received by the FCC while CQ\u2019s API key was in use, with the logs reflecting deviations in the timestamps roughly equivalent to the blink of an eye.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "(For reasons unclear, two of the signatories\u2019 comments could not be located.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Ariehl Kimbrough, another apparent condemnor of \u201cunprecedented regulatory power,\u201d told Gi zm odo in May 2017, that not only had she not submitted the comment bearing her name and address, but that she h ad never even heard the phrase \u201cnet neutrality.\u201d The FCC data shows the comment attributed to Kimbrough was received on May 9, 2017, at 7:31pm.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "As with the signatories of the open letter, the API data shows that a key assigned to CQ Roll Call was, at that very moment, in the process of uploading a batch of comments.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "The timestamps are within one-tenth of a second apart.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Does the Federal Communications Commission believe that more than half a million comments about net Read more In response to an investigation by the Wall Street Journal, whose researchers spoke to some 7,800 people who had claimed their names had been used without consent in various agency dockets, an FCC spokesperson said comments from the general public are \u201cgenerally not substantive, so thus have no impact on a rulemaking.\u201d They added: \u201cWe err on the side of keeping the public record open and do not have the resources to investigate every comment that is filed.\u201d Only when it was politically advantageous did FCC Chairman Ajit Pai speak to the impact of the fake comments on the process.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "In December, while attacking what he called \u201coverheated rhetoric about net neutrality,\u201d the chairman claimed in an FCC memo that as many as \u201chalf-million comments\u201d supporting net neutrality had been \u201csubmitted from Russian e-mail addresses\u201d and that \u201cnearly eight million comments\u201d had been filed using email accounts \u201cassociated with FakeMailGenerator.com.\u201d The FCC did not respond to a request for comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "\u201cMillions of comments\u201d Prior to CQ becoming a subject of interest in an ongoing criminal investigation, Germain explained at length that his company had created a platform specifically to direct comments to the FCC and that it had been operational since at least 2016.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "\u201cBefore we submit these comments (via the API) we remove any bad or questionable submissions,\u201d he told Gizmodo.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "\u201cOn a technical level, a few of the things we do include running the email address through an email validator, eliminate duplicate records with the same email address, and remove multiple submissions from the same IP address.\u201d If CQ found comments that appeared particularly questionable, he said, the company would call the individual and inquire whether they submitted it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "\u201cSometimes they don\u2019t remember until we read the actual message,\u201d he said, \u201cand then they light up in full support of it!\u201d In emails to the FCC dated April 2017, Germain explains that CQ is seeking to deliver \u201cabout 250,000 comments per day,\u201d and that it would need to \u201cset up multiple servers to the API simultaneously to meet the needs\u201d of its clients.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "Whereas many of the groups responsible for uploading millions of comments requested only one or two API keys, logs show that CQ, over a period of several months, requested no fewer than 114.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Registered between April 28 and August 14 that year, the keys linked to the company\u2014by email account or IP address or both\u2014contributed nearly 2.1 million API submissions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "This includes a nearly month-long gap between mid-May and mid-June.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "A query for the CFIF comment about \u201cunprecedented regulatory power\u201d reveals an overlapping gap that aligns with the periods in which CQ Roll Call is shown to have made API post requests.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "Above all, Germain stressed that its advocacy business was entirely separate from its news products.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "\u201cThe newsrooms of both CQ and Roll Call have editorial independence and have no involvement in the creation or management of our advocacy tools,\u201d he said, adding: \u201cThey certainly would not know what our advocacy customers were doing with our tools.\u201d Incidentally, one of Roll Call\u2019s reporters was physically accosted by security officials while trying to ask questions of Republican FCC Commissioner Michael O\u2019Rielly following a May 2017, hearing about the net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "Beyond CQ, 12 additional entities were likewise subpoenaed by the New York attorney general, including Free Our Internet, an organization founded by a former Trump campaign statewide director; and Ethan Eilon, a GOP consultant, whose firm, Conservative Connector, received more than $31 million from the Trump campaign and Republican National Committee during 2016 election.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "With patterns of repetitive text and timestamps consistently formatted across the data, it\u2019s possible that API submissions and FCC comments can be easily matched with a reasonably high degree of confidence.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "If a culprit is eventually found, it will likely be as a result of intense analysis of the API data, aided by the sloppiness of uploaders who left their digital fingerprints all over it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "At an agency with a recent history of covering up minor technical flaws with disproportionately large lies , the attempt by top FCC officials to prevent law enforcement from examining its logs only serves to cast further doubt and suspicion on the agency\u2019s motives, and its future ability to conduct rule-making processes within the spirit of the law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "Saying the agency\u2019s failure to investigate this \u201ccorrupted record\u201d would ultimately undermine its ability to \u201cseek public input in the digital age,\u201d FCC Commissioner Jessica Rosenworcel reached the conclusion more than a year ago that the data so closely guarded by her Republican colleagues would ultimately prove central to solving this mystery.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "\u201cTo put it simply, there is evidence in the FCC\u2019s files that fraud has occurred,\u201d she said, \u201cand the FCC is telling law enforcement and victims of identity theft that it is not going to help.\u201d The New York attorney general\u2019s office declined to comment for this story citing an ongoing investigation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "If you have a tip you\u2019d like to share, email the author at dell@gizmodo.com, or contact us securely with SecureDrop .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

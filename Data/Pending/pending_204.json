@@ -1,0 +1,561 @@
+{
+    "document_id": -1,
+    "url": "https://www.politico.com/news/2019/10/01/fcc-net-neutrality-014801",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Margaret Harding Mcgill",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:31:32.475568+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Court mostly OKs FCC's net neutrality repeal but lets states craft their own rules",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": " A three-judge panel from the D.C.Circuit Court of Appeals mostly affirmed FCC Chairman Ajit Pai's 2017 rollback of the net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "A federal appeals court Tuesday largely upheld the FCC's repeal of the Obama-era net neutrality rules, but knocked down the agency's attempt to bar states from issuing their own net neutrality regulations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "A three-judge panel from the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "A three-judge panel from the D.C. Circuit Court of Appeals mostly affirmed FCC Chairman Ajit Pai's 2017 rollback of the net neutrality rules, which required internet service providers to treat web traffic equally.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The court also ordered the FCC to do more to address the rollback's effect on public safety and other issues.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The opinion is the latest development in a long-running battle over internet service regulations, and is unlikely to be the final word on the issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The coalition of tech companies, states and advocacy groups that challenged Pai's repeal could still seek to have the D.C. Circuit's full complement of judges rehear the case, or to bring it to the Supreme Court — or both.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Circuit's full complement of judges rehear the case, or to bring it to the Supreme Court — or both.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "And the court turning back the FCC's attempt to preemptively override state net neutrality laws removes a major barrier for states like California and Washington that have already passed such measures.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "That could amount to a de facto restoration of the Obama-era rules in large swaths of the country.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Nevertheless, Pai was cheered by the decision, saying on Twitter , \"Today’s D.C. Circuit decision is a big victory for consumers!",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Circuit decision is a big victory for consumers!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The court affirmed the FCC's decision to repeal 1930s utility-style regulation of the Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "A free and open Internet is what we have today.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "A free and open Internet is what we’ll continue to have going forward.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Backed by the biggest players in the cable and telecom industry, Pai has claimed that firm net neutrality regulations chill investment and innovation in broadband.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The parties challenging his repeal argued the rules are necessary to prevent broadband providers from slowing online traffic, blocking websites or creating paid fast lanes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Pai led the agency’s Republican majority in repealing the regulations in a December 2017 vote, over the objections of Democratic commissioners.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Pai argued the rules, which applied regulations originally written for telephone companies to internet service providers, were overly burdensome and could open the door to more and more federal regulation of broadband.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "POLITICO NEWSLETTERS Technology news from Washington and Silicon Valley — weekday mornings, in your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "By signing up you agree to receive email newsletters or alerts from POLITICO.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "You can unsubscribe at any time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "This site is protected by reCAPTCHA and the Google and apply.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "\"When the FCC rolled back net neutrality it was on the wrong side of the American people and the wrong side of history,\" Democratic Commissioner Jessica Rosenworcel said in a statement Tuesday.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "\"Today’s court decision shows that the agency also got it wrong on the law.The agency made a mess when it gave broadband providers the power to block websites, throttle services, and censor online content.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "During oral arguments that spanned nearly five hours in February, appeals court judges Patricia Millett, Robert Wilkins and Stephen Williams grilled attorneys on both sides on a range of issues, including the legal and technical rationale behind the agency’s decision to reclassify broadband as a lightly regulated information service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "The Obama-era FCC had opted to treat it as a telecommunications service, which allows for stricter oversight.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "In addition to the reclassification issue, the judges also questioned the authority the FCC asserted to block states from crafting their own net neutrality protections, the repeal’s potential impact on public safety communications and whether transparency requirements from the repeal order would be effective in preventing anticompetitive or consumer-harming behavior by ISPs.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Those requirements hold that providers have to disclose if they engage in practices like blocking websites or slowing traffic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "The judges ultimately found challengers' arguments \"unconvincing for the most part,\" and upheld the vast majority of the order, including the reclassification.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "But they found the FCC lacked the authority to \"categorically abolish\" state regulations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "\"No matter how desirous of protecting their policy judgments, agency officials cannot invest themselves with power that Congress has not conferred,\" the decision said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "But a senior FCC official who discussed the opinion on a call with reporters said the ruling is not a green light for states to pass net neutrality rules because it leaves open the possibility of the FCC challenging them on a case-by-case basis.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Goldstein & Russell partner Kevin Russell, who argued against the FCC's repeal, said the ruling means the FCC has no authority to override state net neutrality rules \"in advance and across the board.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "\"It did leave open the possibility that the commission will be able to try to argue that some state net neutrality rules are preempted,\" Russell said in a call with reporters.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "\"But they will have to show there’s a conflict between what the state has done and the rules that the commission has enacted, and given that its enacted almost no rules at all, that may be a difficult task.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "The court also ordered the FCC to produce evidence that it's considered the repeal's impact on public safety, telecom companies' access to utility poles and the Lifeline program, which provides telecom subsidies for low-income people.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Any agency proceeding meant to prove that the repeal won't cause harm around those issues could trigger a further lengthy court battle.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "The court noted the lengthy legal battle in explaining why it sent back several issues to the FCC to address, rather than vacating those portions of the order.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "\"Regulation of broadband internet has been the subject of protracted litigation, with broadband providers subjected to and then released from common carrier regulation over the previous decade,\" the opinion said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "\"We decline to yet again flick the on-off switch of common-carrier regulation under these circumstances.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Challengers to the FCC’s repeal included Mozilla, which pushes for open-internet principles and runs the Firefox internet browser; consumer advocacy group Public Knowledge; tech trade association INCOMPAS; and New York, California, Washington and other state and local governments.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Andrew Schwartzman, who represented the Benton Institute for Broadband and Society in challenging the FCC, said the opinion provides a road map to creating rules that will protect consumers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "\"Even on a quick reading, it is clear that the fight over net neutrality is just beginning,\" Schwartzman said in a statement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "\"The FCC can try to fix its mistakes, but the court made it clear that the Commission cannot block states from passing their own net neutrality statutes and issuing executive orders.Those will have to be reviewed case by case.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "The agency’s repeal was supported by a slew of trade groups representing internet service providers, including USTelecom, NCTA — The Internet & Television Association, CTIA — The Wireless Association, the American Cable Association and the Wireless Internet Service Providers Association.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Several of the trade groups called on Congress to enshrine net neutrality protections in law, as did some lawmakers — although there are partisan divides on the details of such legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "\"Today's opinion makes it clearer than ever that Congress needs to come together and craft bipartisan legislation to provide consumers certainty and preserve one national standard for the open, free, and dynamic internet of the future,\" said Rep. Greg Walden, (R-Ore.), ranking member of the House Energy & Commerce Committee.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "\"While we are pleased that the D.C.Circuit upheld the successful light-touch regulations and transparency rule, the continued uncertainty from legal pinball will only worsen consumers' experiences on the internet.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Circuit previously upheld the telecommunications classification and the Obama-era rules in 2016.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "But the FCC has a Supreme Court precedent from 2005 finding it's reasonable to classify internet connections as an information service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "The three judges wrote in individual opinions that they agreed on the broad strokes of the collective ruling, though Williams, appointed by President Ronald Reagan, broke with the other two on striking down the portion of the order that would preempt state net neutrality laws.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "He said the FCC was well within its rights to do so because it would be impossible to enforce differing state laws on the inherently interstate internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": ", FCC , POLITICO WhatsApp FAQ POWERJobs RSS Do not sell my info",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

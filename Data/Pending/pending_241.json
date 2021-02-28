@@ -1,0 +1,31 @@
+{
+    "document_id": -1,
+    "url": "https://www.facebook.com/groups/158510680926354/",
+    "document_category": "Social Media",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:43:17.969657+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Public group Search this group settings Join this group to post and comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "English (US) 中文(简体) العربية 한국어 हिन्दी 日本語",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

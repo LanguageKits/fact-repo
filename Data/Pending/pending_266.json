@@ -1,0 +1,421 @@
+{
+    "document_id": -1,
+    "url": "https://www.washingtonpost.com/opinions/the-us-government-couldnt-shut-down-the-internet-right-think-again/2020/03/06/6074dc86-5fe5-11ea-b014-4fafa866bb81_story.html",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Jessica Rosenworcel",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:51:37.426298+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "A Kashmiri youth connects to social media using a virtual private network (VPN), in Srinagar, Kashmir, India.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "March 8, 2020 at 4:14 PM EDT Jessica Rosenworcel has been a member of the Federal Communications Commission since 2012.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "This article is adapted from her keynote remarks at this year’s State of the Net Conference.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "For many people around the world, this is no longer a theoretical question.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Last year, Internet service was shut off for roughly seven months in India’s Kashmir Valley, affecting 7 million people.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The government of the world’s largest democracy justified the blackout by saying it was necessary to avoid protests and loss of life .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "In Bangladesh, a government-directed shut-off disrupted humanitarian and emergency services in Rohingya refugee camps for more than six week s in 2019. Congo blacked out the Internet for 20 days after last December’s elections, preventing electoral observers from relaying information from rural polling stations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Ethiopian authorities shut down the Internet for three days last June to prevent student cheating on national exams.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "In January, there were outages in Iran during protests over the downing of a Ukrainian plane, following a week-long blackout last year after the price of fuel went up.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "These shutdowns are the new normal in many parts of the world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "According to the Internet research firm Top10VPN, a record 21 countries cut off the Internet 122 times in 2019, costing the global economy as much as $8 billion.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Government officials often claim these Internet blackouts are needed to protect public safety.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "But deployed regularly, they can thwart the democratic process, threaten human rights and batter modern economic life.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "You might think it could never happen here in the United States.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "To understand how, start with the Communications Act of 1934 — which, though it has been amended and updated several times, is essentially an 86-year-old law that is still the framework for U.S. communications policy today.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Section 706 of this law allows the president to shut down or take control of “any facility or station for wire communication” if he proclaims “that there exists a state or threat of war involving the United States.” With respect to wireless communications , suspending service is permitted not only in a “war or a threat of war,” but merely if there is a presidential proclamation of a “state of public peril” or simply a “disaster or other national emergency.” There is no requirement in the law for the president to provide any advance notice to Congress.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "The language here is undeniably broad.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The power it describes is virtually unchecked.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "That’s not surprising, since some of the last changes made to this section of the law were introduced in 1942, shortly after the attack on Pearl Harbor, when Congress was laser-focused on protecting our safety and security.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "These are, of course, different days.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "After all, back in 1942, “wire communication” meant telephone calls or telegrams, and “wireless” meant radio.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "But if you think this language, and what it authorizes, have faded into the dustbin of history, you’re wrong.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Today those terms have generally been accepted as including access to the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "And as recently as 2010, a Senate committee report on protecting cyberspace concluded that section 706 “gives the President the authority to take over wire communications in the United States and, if the President so chooses, shut a network down.” That means if a sitting president wants to shut down the Internet or selectively cut off a social media outlet or other service, all it takes is an opinion from his attorney general that Section 706 gives him the authority to do so.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "That’s alarming.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Because if you believe there are unspoken norms that would prevent a U.S. president from using Section 706 this way, recent history suggests that past practice is no longer the best guide for future behavior.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Norms are now broken all the time in Washington.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "It’s time for a front-to-back assessment of Section 706.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "We need a dialogue about what it means and what it should mean in the digital age.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "We need Congress to consider how this power squares with the Constitution and ask what role there should be for the legislative and judicial branches.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "While we’re at it, the United States should develop a formal policy on government-directed Internet shutdowns, informed by the experience of the State Department, Commerce Department and Federal Communications Commission.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Then we should share this expertise with other countries so that we can work worldwide to keep the Internet open and available.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "We need this discussion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Without having it, our existing law could be contorted to support outages, and we should expect to see government-directed shutdowns happen in many more places — including right here at home.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "The Post’s View: More governments are shutting down the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The harm is far-reaching.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "0 Comments Receive the most important pandemic developments in your inbox every day.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "All stories linked in the newsletter are free to access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "By signing up you agree to our and RSS Terms of Service e-Replica Today's Paper WP BrandStudio washingtonpost.com 2020 RSS Terms of Service ; Subscriber sign in We noticed you’re blocking ads!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Keep supporting great journalism by turning off your ad blocker.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Or purchase a subscription for unlimited access to real news you can count on.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

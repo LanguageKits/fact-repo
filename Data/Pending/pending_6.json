@@ -1,0 +1,341 @@
+{
+    "document_id": -1,
+    "url": "https://www.publicknowledge.org/issues/net-neutrality/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:37:29.781767+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": " On December 14, 2017, the FCC voted to repeal the strong net neutrality rules that were preserving an open, fair, and competitive internet for all users.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Here’s what you can do to help: : Visit our Take Action page to contact your senators , or simply text “Open Internet” to 52886.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Thanks to public pressure, the House of Representatives passed the Save the Internet Act to reverse the repeal, and now the Senate must follow suit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Chairman Pai ignored the will of the public, but members of Congress cannot ignore their constituents without electoral consequences.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": ": Support Public Knowledge’s legal work by contributing online here .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Stay informed : Sign up for our email updates and follow us on and to get continued updates on the progress of this challenge to the FCC decision as it moves forward.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "This fight is far from over, and we are prepared to continue our long-term commitment to defending an open and accessible internet for all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Net neutrality is the principle that individuals should be free to access all content and applications equally, regardless of the source, without Internet Service Providers discriminating against specific online services or websites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "In other words, it is the principle that the company that connects you to the internet does not get to control what you do on the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Without net neutrality rules in place, ISPs like Verizon and Comcast can prevent users from visiting some websites, provide slower speeds for services like Netflix and Hulu, or even redirect users from one website to a competing website.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Net neutrality rules prevent this by requiring ISPs to connect users to all lawful content on the internet equally, without giving preferential treatment to certain sites or services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "In the absence of net neutrality, companies can buy priority access to ISP customers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Larger, wealthier companies like Google or Facebook can pay ISPs to provide faster, more reliable access to their websites than to potential competitors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "This could deter innovative start-up services that are unable to purchase priority access from the ISPs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Also, if ISPs can charge online services to connect to consumers, consumers would ultimately bear these additional costs (for example, on their monthly Netflix bill or in the cost of products from a local online store).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "In January 2014, as a result of a Verizon lawsuit, the D.C. District Court struck down the FCC’s net neutrality rules .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "While the Court made clear that the FCC has authority over internet access generally, it found that the open internet rules specifically were built on a flawed legal foundation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The decision left it open for the FCC to decide what to do next to reestablish net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "In May 2014, the FCC, led by Chairman Tom Wheeler, introduced its proposal for net neutrality rules , which detailed the problems that occur when ISPs get to choose winners and losers online, but still allowed for fast lanes and slow lanes online, and did not go far enough to establish meaningful net neutrality .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The FCC accepted public comments on this proposal, and received a record-breaking 4 million comments calling for reclassifying broadband as a Title II telecommunications service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "This updated classification would allow the FCC to enforce net neutrality and would be in line with the court’s 2014 decision.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "In response, President Obama endorsed Title II for net neutrality in a video in November 2014, and FCC Chairman Tom Wheeler published an op-ed proposing Title II authority, including for the first time mobile broadband protections, in February 2015.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "On February 26th, 2015, in a historic vote , and after an unprecedented outpouring of public support, the FCC voted to pass the Open Internet Order, enacting the strongest net neutrality rules in history.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "By embracing its Title II authority and creating clear, bright line rules against blocking and discrimination, Chairman Wheeler and the FCC earned a reputation as defenders of the Open Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "The decision faced multiple legal challenges from the wireless and cable industries, but the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Circuit Court of Appeals, the same court who originally sent the rules back to the FCC to be reworked in 2014, upheld the FCC’s rules in June 2016 , and denied petitions to reconsider its decision in May 2017 .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Commissioner Ajit Pai was appointed Chairman of the FCC in January 2017.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "In response to his plans to eliminate net neutrality, there was a public outcry in support of net neutrality that was even greater than what the FCC had experienced in 2015.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Despite this, his proposal for repeal in November 2017, and the proposal was passed in December 2017 , overturning the Open Internet Order.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Currently there are: NO rules preventing blocking of website, services, or content online NO rules preventing throttling or slowing down of website or services online NO rules preventing paid prioritization where broadband providers give preferential treatment to some websites and services over others Public Knowledge continues to fight for Title II classification of internet access service, which is the only way to have strong net neutrality rules that allow customers to have a reasonable expectation of consistent, reliable, and nondiscriminatory services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Here are the PK experts on this issue: al@publicknowledge.org bert@publicknowledge.org charlotte@publicknowledge.org (202) 861-0020 x100           President and CEO clewis@publicknowledge.org (202) 861-0020 x116           gkimmelman@publicknowledge.org (202) 861-0020 x117           hfeld@publicknowledge.org (202) 861-0020 x110           jenna@publicknowledge.org john@publicknowledge.org (202) 861-0020 x113           Watch now Watch now Public Knowledge promotes freedom of expression, an open internet, and access to affordable communications tools and creative works.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "We work to shape policy on behalf of the public interest.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "This work is licensed under the Creative Commons Attribution ShareAlike 3.0 License.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

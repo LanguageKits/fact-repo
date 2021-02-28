@@ -1,0 +1,131 @@
+{
+    "document_id": -1,
+    "url": "http://breaking13news.com/bob-barker-tests-positive-coronavirus/",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:49:28.844419+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "breaking13news Bob Barker, former TV host of the famous game show ‘The Price is Right’ tested positive for the coronavirus, according to a statement released by his family on Wednesday evening.",
+            "fact": true,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Barker, 96, was in his Hollywood home under quarantine when his family make the shocking announcement.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The news of the diagnosis came just hours after the announcement that Tom Hanks and his wife Rita Wilson tested positive for the coronavirus, along with the cancellation of NBA games due to a players diagnosis.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Barkers family released this statement: “We are keeping a close eye on Bob in his home under the care of a home hospice nurse.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "He is surrounded by loved ones, alert and understands the gravity of what is happening.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "He is in good spirits and wanted us to send a message to all of his fans that he is not giving up.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "He will fight this virus and win.” Robert William Barker (born December 12, 1923) is a retired American television game show host.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "He is known for hosting CBS’s The Price Is Right from 1972 to 2007, making it the longest-running daytime game show in North American television history.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "He is also known for hosting Truth or Consequences from 1956 to 1974.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "We will keep you updated on this developing story.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Previous post Search for: Trump announces travel ban from Europe amid growing fears of coronavirus Tom Hanks, Rita Wilson say they’ve tested positive for coronavirus NBA suspends season until further notice after player tests positive for coronavirus Copyright 2020 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "MH Newsdesk lite by MH Themes",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

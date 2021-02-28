@@ -1,0 +1,551 @@
+{
+    "document_id": -1,
+    "url": "https://www.consumerreports.org/net-neutrality/the-battle-for-net-neutrality-continues/",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "James K. Willcox",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:31:36.901537+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "The FCC lifted regulations in 2018, but the debate is back ",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "We respect your privacy .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "All email addresses you provide will be used just for sending this story.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Oops, we messed up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Try again later  When you shop through retailer links on our site, we may earn affiliate commissions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "100% of the fees we collect are used to support our nonprofit mission.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Now that a pro-net neutrality bill, the Save the Internet Act of 2019 , has passed the House, the debate will move to the Senate, where it is unlikely to pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Whatever happens with this bill, net neutrality battles will continue to heat up through 2019, a year after net neutrality rules were lifted by the Federal Communications Commission.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "This spring a U.S. District Court is expected to rule on whether the FCC acted properly in repealing the regulations, which were instituted during the Obama administration.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "A number of states are in the process of enacting their own net neutrality protections .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Net neutrality rules were put into place to prevent internet service providers from favoring or penalizing online content for business or other purposes, for instance, by making their own streaming services work better than a rival company’s.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "“This legislation gives consumers exactly what they want and deserve, an internet that is an open marketplace for all, and puts the American people ahead of huge cable companies and internet service providers,” says Jonathan Schwantes, senior policy counsel for Consumer Reports.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "“Today’s vote shows that legislators, unlike the FCC, are listening to consumers and have heard the millions of Americans who support net neutrality.” It’s your internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Let’s keep it that way.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Tell senators to restore net neutrality rules by signing our petition .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The bill, which passed the Democratic-controlled House essentially along party lines, would restore “bright line” rules that were in effect from 2015 to 2018.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Internet service providers would be barred from blocking or throttling lawful content and from negotiating “paid prioritization” deals to create fast lanes for business partners.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "It would also define internet services as utilities similar to phone companies under Title II of the Communications Act.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "That may sound like a technicality, but it’s an important one.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Internet service providers used to be defined as Title II companies, and that designation gave the FCC broad power to regulate them.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "When the FCC rolled back internet protections, it also said that ISPs would no longer be considered Title II companies, sharply reducing the agency’s authority over them.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The companies could be held to account by the Federal Trade Commission, but the FTC doesn’t have the authority to impose net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Most Republicans in Congress oppose the House bill, saying it would give the FCC too much authority and stifle investment.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Over the weekend, House Minority Leader Kevin McCarthy said that Democrats were pushing legislation “that would put Washington in charge of the internet” and could lead to new cable- and telephone-style taxes on internet service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "And on Tuesday, Senate Majority Leader Mitch McConnell told reporters that the Senate wouldn't take up the net neutrality bill, calling it “dead on arrival in the Senate.” Even if the bill passes the Senate, it faces a likely veto by President Trump, who has been skeptical of net neutrality in the past.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "On Monday the Office of Management and Budget issued a statement saying it strongly opposed the Save the Internet Act and would advise the president to veto the bill if it passes the Senate.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "While the new federal net neutrality legislation moves to the Senate, a federal court is deciding whether to restore the old regulations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "A coalition of internet companies, net neutrality advocates, and state attorneys general is suing the FCC, asking a federal court to reverse the repeal of net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "The lawsuit argues that the FCC’s order to repeal net neutrality rules violated a law called the Administrative Procedure Act, which prohibits arbitrary and capricious rule-making.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "The case, called Mozilla Corporation v. FCC, will be decided by the U.S. Court of Appeals for the District of Columbia Circuit.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Oral arguments before the three-judge panel were heard early this year, and a decision is expected in late spring or early summer.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "\"The court could reinstate the 2015 protections in full, uphold the FCC's repeal, or rule more narrowly on parts of the repeal,\" says Ryan Singel, a fellow at Stanford Law School's Center for Internet and Society.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "\"Additionally, the court may decide whether the FCC decision would pre-empt any state laws on net neutrality.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "When it rolled back the regulations, the FCC included a provision barring states from issuing their own net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "The group suing the agency is asking the court to invalidate it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "They argue that states have a right to act in an instance when a federal regulator says it has no power to regulate an industry.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Essentially, they're saying that federal regulations can't pre-empt state rules in a case where there are no federal regulations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Whatever the outcome, the losing parties may petition the Supreme Court to hear the case.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "In the absence of federal rules, dozens of states have proposed their own net neutrality legislation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Last year California passed what many consumer advocates have called the strongest net neutrality rules ever put in place on the federal or state level.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "In addition to prohibiting blocking, throttling, and paid prioritization deals, the California law also bars certain types of “zero rating” programs, where companies exempt their own streaming services from data caps that apply to other providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "“Getting our net neutrality bill passed means we are just a couple of steps away from ensuring all Californians have access to a free and open internet,” State Sen. Scott Wiener, who co-authored the bill, told Consumer Reports during the battle to pass it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "The move triggered a lawsuit from the Justice Department, which argued that the state had enacted “an extreme and illegal state law attempting to frustrate federal policy.” California has agreed to put its net neutrality rules on hold until the federal court case in Washington, D.C., is decided.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "So far, 34 states and the District of Columbia have introduced net neutrality bills and resolutions in the past year.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Five states—California, New Jersey, Oregon, Vermont, and Washington—have enacted legislation or adopted resolutions in favor of net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "In Colorado, a net neutrality act has been approved by the legislature, and the governor is expected to sign it into law this week.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "SHARES  Yes, send me a copy of this email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "We respect your privacy .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "All email addresses you provide will be used just for sending this story.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Oops, we messed up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Try again later  I've been a tech journalist for more years than I'm willing to admit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "My specialties at CR are TVs, streaming media, audio, and TV and broadband services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "In my spare time I build and play guitars and bass, ride motorcycles, and like to sail—hobbies I've not yet figured out how to safely combine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Show comments ( ) commenting powered by Facebook Be the first to comment en Español YouTube",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

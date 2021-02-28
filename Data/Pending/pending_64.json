@@ -1,0 +1,131 @@
+{
+    "document_id": -1,
+    "url": "https://www.broadcastingcable.com/news/klobuchar-would-tie-net-neutrality-to-government-contract-money",
+    "document_category": "Blog/magazine",
+    "annotators": [],
+    "author": "John Eggerton",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:40:07.157790+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Proposal mirrors some state efforts to enforce own net neutrality rules Publish date: Dec 6, 2019 Presidential candidate Sen. Amy Klobuchar (D-Minn.), who has already promised universal access by the midpoint of her first term as President as part of an infrastructure package, has released a bunch more broadband-related proposals, including using government contracts to get ISPs to follow net neutrality rules, at least until new ones were codified.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "That would be a federal-level mirror of some state efforts to tie government contracts to their own net neutrality rules, adopted after the FCC deep-sixed theirs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "That is according to a copy of her just-announced \"Plan for the Future of Work and a Changing Economy.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "It comes the same day fellow candidate Bernie Sanders (D-Vt.) released his broadband plan .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "As part of addressing what she calls \"digital disruption,\" Klobuchar said she would: 1) Codify \"strong\" net neutrality principles and, in the interim (in her first 100 days) , work to codify strong net neutrality principles and make immediate progress in her first 100 days\" use \"federal contracting requirements to encourage broadband providers to honor net neutrality principles and promote a free and open internet.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "2) Push legislation requiring data breach notification 3) Update laws to prevent digital red lining 4) Back legislation similar to the Consumer Online Privacy Rights Act, which Democrats recently introduced.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "5) Boost cybersecurity, including investment, education and cooperation between the public and private sectors.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "In the most recent , Klobuchar is in a four-way tie for eighth place in the race for the Democratic presidential nomination with Tom Steyer, Cory Booker, and Tulsi Gabbard.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Net Neutrality activist group Free Press praised Klobuchar's plans.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "“Senator Klobuchar’s plan, which endorses the recently introduced Consumer Online Privacy Rights Act, supports applying longstanding civil-rights principles to the internet to protect users’ privacy,\" said Free Press Action Policy manager Dana Floberg.\"The senator also calls for new laws to address digital discrimination, like the redlining and racial bias built into platform algorithms.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "We also appreciate Klobuchar’s restatement of her commitment to Net Neutrality, though we would welcome greater specificity on this issue.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "terms: Next TV Calls Trump infrastructure plan a 'mirage' Announces 'major announcement' this weekend back in home state Net neutrality activists vow to keep up fight to restore rules Says recent reports cast doubt on thoroughness Said ISPs, big edge providers would benefit from non-neutral net at expense of public, smaller players Poll found in favor of net neutrality Said she is pleased with state AG efforts to do so Efforts to restore rules run up against FCC pre-emption RSS",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,251 @@
+{
+    "document_id": -1,
+    "url": "https://www.nytimes.com/2014/11/15/opinion/why-the-fcc-should-heed-president-obama-on-internet-regulations.html",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:56:03.277723+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "SEARCH Skip to content Skip to site index Today\u2019s Paper .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "https://nyti.ms/1sOLAi1 Continue reading the main story Nov. 14, 2014 Keeping the Internet free and open, without fast lanes for some and not for others, is being debated in Washington.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Big telecommunications companies and many Republicans in Congress have criticized President Obama\u2019s proposal for strong rules to prevent the creation of fast and slow lanes on the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "They claim this is heavy-handed government regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "But in fact, it is correcting an old mistake.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Mr. Obama says the Federal Communications Commission should reclassify broadband Internet service as a telecommunications service, rather than the lightly regulated information service it is now.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "This would give the commission the authority to prevent broadband providers from slowing the delivery of some web content to favor content from companies that have paid a fee for faster delivery.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The F.C.C., an independent agency, is not obligated to do what Mr. Obama asks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "But the checkered regulatory history shows the soundness of Mr. Obama\u2019s idea.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The agency decided to classify broadband as an information service in 2002 , after debates over how to expand the availability of affordable Internet service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "One option was to require \u201c open access ,\u201d which would have forced cable companies to lease their networks to competing Internet service providers like AOL and EarthLink.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "That would have increased competition and lowered prices, but it could have been done only if the commission had classified broadband as a telecommunications service, over which the agency has more control.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The cable companies, of course, strongly opposed such a move, and the chairman of the commission at the time, Michael Powell, thought it was unnecessary because he believed there would be strong competition from phone and wireless companies that would become ever bigger players in the broadband business.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "He and his colleagues also reasoned that cable modem service was an information service because companies like Comcast offered it with email, web hosting and other services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "In 2005, a 6-to-3 majority of the upheld the commission\u2019s classification decision as a \u201creasonable\u201d interpretation of the Communications Act of 1934.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "But plenty of people criticized that ruling.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "In a scathing dissent , Justice Antonin Scalia wrote that it was \u201cperfectly clear that someone who sells cable-modem service is \u2018offering\u2019 telecommunications.\u201d Many of the assumptions the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "made in 2002 have since proved false.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Cable companies dominate the broadband business and face only limited competition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "And it is clear that consumers need protection from efforts by broadband companies to start charging different rates for different types of Internet traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Even if broadband is reclassified as a telecommunications service, no one is talking about having federal regulators approve consumer rates or requiring companies to lease their networks to competitors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "What Mr. Obama wants is an Internet where service providers handle all content sent and received by consumers equally.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "His approach takes into account what has happened in the past decade, and it levels the playing field for businesses and protects consumer choice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Continue reading the main story 2020 NYTCo Work with us",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

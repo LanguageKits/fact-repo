@@ -1,0 +1,151 @@
+{
+    "document_id": -1,
+    "url": "https://thehill.com/policy/technology/458820-advocacy-groups-ask-2020-democrats-to-pledge-to-restore-net-neutrality",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Harper Neidig",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:40:55.153159+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Advocacy groups ask 2020 Democrats to pledge to restore net neutrality - 08/26/19 11:01 AM EDT A coalition of progressive groups is asking 2020 Democratic candidates to pledge to restore the Obama-era net neutrality rules repealed by the Federal Communications Commission (FCC) during the Trump administration.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The groups launched a site Monday requesting White House hopefuls sign the pledge, which also includes a commitment to forgo campaign contributions from telecom executives and lobbyists.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "“The FCC’s net neutrality repeal ignored the voices of millions from across the political spectrum, in what ended up being one of the biggest and most undemocratic giveaways to the telecom industry we’ve ever seen,” Mark Stanley, a spokesman for the group Demand Progress, said in a statement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "“For too long, phone and cable companies have exerted in an undue influence in Washington, by pushing unpopular policies that harm the American people’s ability to communicate and access crucial services online,” he added.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "“It’s time candidates fight this corrosive influence by refusing contributions from the telecom industry.” In 2017, the GOP majority at the FCC repealed the 2015 net neutrality rules prohibiting internet service providers from blocking or discriminating against certain web traffic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The repeal was challenged and is now awaiting action in a federal appeals court.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "States have also fought back by replacing the federal rules with their own open internet laws.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The House earlier this year passed a measure that would restore those regulations, though Senate Majority Leader Mitch McConnell (R-Ky) pledged that the bill was \"dead on arrival\" in the upper chamber.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Powell urges Congress to unleash 'great fiscal power' to defeat coronavirus, repair economy .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "IRS gets coronavirus payments out quickly but imperfectly Feinstein to McConnell: Cancel plan to bring Senate back amid coronavirus pandemic 10 things to know about coronavirus for today MORE (R-Ky.) pledged that the bill was “dead on arrival” in the upper chamber.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Mitch McConnell Net neutrality 2020 Democrats View the discussion thread.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "HuffPost reporter: 'Jobs that have been lost may not come back' The leading expert on women's brains says they are more likely to get Alzheimer's Trump campaign official says mainstream media can't be trusted with Tara Reade coverage Don't miss a brief.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Sign up for our daily email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "12:30 Report TheHill.com RSS The Hill 1625 K Street, NW Suite 900 Washington DC 20006 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+  "content": {
+    "puppies": [
+      {
+        "name": "Test",
+        "age": 24
+      },
+      {
+        "name": "Foo",
+        "age": 25
+      }
+    ]
+  }
+}

@@ -1,0 +1,311 @@
+{
+    "document_id": -1,
+    "url": "https://www.sfchronicle.com/opinion/openforum/article/Why-you-should-support-net-neutrality-11186622.php",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Dane Jasper",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:41:05.921806+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Why you should support net neutrality May 31, 2017  FCC Chairman Tom Wheeler pushed through net neutrality regulations in 2015 that are in danger of being overturned.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Amid the raucous political debate, there is a critical issue many are overlooking: the threat to net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "First, let me clearly define what I mean by net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "When we use the Internet, we have the expectation we can access any content freely whenever, however we want.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "In short, we expect our Internet traffic to be treated with neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "This basic principle protects our rights to equal access to all legal content and applications on the Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "In the same way we all have equal access to basic utilities like water and electricity, the current rules prohibit Internet service providers from charging content providers more money for faster lanes or slowing down access to companies or content that are not able or willing to pay higher fees.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "This environment has been key to the creation of many of the Internet services that consumers enjoy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "In 2015, former Federal Communications Commission Chairman Tom Wheeler pushed through regulations to protect these guiding principles.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "These rules are precisely what the new FCC chairman is in the process of undoing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "First, the commission undid privacy regulations preventing service providers from selling information about your Internet use to advertisers; now it has moved on to eliminate net neutrality .",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The FCC argues net neutrality hurts innovation and infrastructure investment; many service providers have already proved this theory false.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "They have continued to invest despite the current net neutrality requirement.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Net neutrality is a critical component of the future of the Internet, but the real issue is the lack of fast, affordable Internet in America — directly caused by a lack of adequate competition.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "If consumers had more providers to choose from, the market would solve the issues of privacy protections, network neutrality and much more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "People would not stand for poor privacy practices and content restrictions, usurious prices and poor quality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "They would seek other options, forcing providers to change their practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Here in the Bay Area, many of us — from local companies to city officials — have been fighting for this cause.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "San Francisco Supervisor Mark Farrell and the Board of Supervisors passed an ordinance prohibiting apartment building owners from striking exclusive deals with service providers, blocking their tenants from choosing competitive providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "This was a huge win, as increased competition could only foster better, faster services and lower prices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Unfortunately, this ordinance is being challenged by the , which is urging the FCC to overturn the ruling.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The issue of tenant choice is just one small step in a long journey to bring quality connectivity at fair prices to Bay Area residents and businesses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Prominent Silicon Valley leaders such as , vice president of advocacy at the Mozilla Foundation, and , the leader of Y Combinator, also have been getting involved and urging Washington and companies across the country to take into consideration the implications of undoing net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Spread the word — talk to your friends, family and neighbors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Educate them on the subject and encourage them to take a stand and engage the appropriate government representatives at the federal, state and local level.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "We must band together for the long journey ahead to effect change.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Dane Jasper is the CEO and founder of , an Internet and telecommunications company in Santa Rosa.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Coronavirus live updates: Supervisor wants SF jail closed Bay Area's new shelter-in-place order: Rules relaxed for some outdoor businesses, activities Newsom to order closure of all beaches and state parks, report says CHP identifies SF woman as driver of SUV seen zooming off Highway 1 cliff Coronavirus and seniors: How life will change when Bay Area shelter-in-place restrictions are lifted of the News UCSF team has discovered drugs that block coronavirus, paving way...",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "You’re not alone Editorial: Gov.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Newsom’s caution on reopening California still makes sense Editorial: Bay Area’s stressful coronavirus lockdown still beats the... Return to FAQ CCPA e-edition sfgate.com",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

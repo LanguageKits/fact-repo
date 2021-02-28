@@ -1,0 +1,541 @@
+{
+    "document_id": -1,
+    "url": "https://www.independentsentinel.com/texas-doctor-discusses-what-has-cured-his-cov-patients/",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:59:30.204547+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Password recovery Recover your password your email Sign in Welcome!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Get help Password recovery Recover your password your email A password will be e-mailed to you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "US Politics Bob MacGuffie Bob MacGuffie Terms of use Privacy policy Texas doctor discusses what has cured his COV patients US Texas doctor discusses what has cured his COV patients - July 12, 2020 21 During an interview on ACWT , a Texas doctor described a cure he had used successfully on every COVID patient.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "It is the same as the cures they are using in Japan, Singapore, and Taiwan.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Texas doctor Richard Bartlett has used a combination of medications that he says have worked on all his COVID-19 patients and he has treated many.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "It\u2019s a type of medication that was used in Japan, Singapore, and Taiwan.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Taiwan is a country of 24 million people, all stacked on top of one another, but only 7 people have died to date.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "In Japan, with a population of 121 million people, less than 1000 people have died.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "He is using the same treatment they used with the same success.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Only 12 people died in Singapore.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "He uses a steroid inhaler, budesonide, formerly Pulmicort, used with a nebulizer machine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Along with budesonide, he uses an antibiotic, clarithromycin, and zinc, which interferes with virus multiplication.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The doctor says it\u2019s not necessary to pay $3100 for treatment or take a vaccine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "He says this is a cure and it\u2019s a cure in Taiwan, Singapore, and Japan.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "He can\u2019t understand why we would do what China is doing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "This \u2018cure\u2019 needs to be checked out.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Correction: We cannot attest to the accuracy of the doctor\u2019s statements or whether or not it\u2019s a cure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Newsguard states: \u201c\u2026the World Health Organization told FactCheck.org in August 2020, \u201cthere is no evidence suggesting that inhaled corticosteroid[s] have reduced case fatality rate in Taiwan, Japan, Singapore, and Iceland.\u201d Tsung-Mei Cheng, a health policy research analyst at Princeton University, told Fact Check that she had \u201cnever\u201d heard of such a treatment being used to control fatalities in Taiwan, noting that the country had prepared itself well for future crises after the SARS outbreak in the early 2000s.\u201d https://www.factcheck.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "org/2020/08/asthma-medicine- not-proven-as-covid-19-cure/ PowerInbox Previous article Next article Two police officers murdered in an ambush-style attack in McAllen Texas 21 COMMENTS thevoiceofgodblog July 12, 2020 At 8:04 am Google is working on behalf of the NWO and they do not want individual doctor\u2019s talking about their good work in keeping COVID-19 patient\u2019s from dying.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The more death from this COVID-19, the more power they have in controlling you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "daman July 13, 2020 At 3:42 pm Don\u2019t you mean Joogle July 12, 2020 At 8:41 am \u201cIt\u2019s not necessary to pay $3100 for treatment or take a vaccine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "He says this is a cure and it\u2019s a cure in Taiwan, Singapore, and Japan.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "He can\u2019t understand why we would do what China is doing.\u201d The $3100 is the key to this issue, It\u2019s the greed factor, Follow The Money.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "There are billions to be made and people\u2019s lives to control.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "jack johnson July 13, 2020 At 1:24 am Imagine coming up with a vaccine that because of this fear mongering doesn t require billions to be spent on R&D and 10 billion people buy it at $5000 a pop.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Now you know Fauci and Gate s motivation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "D3F1ANT July 13, 2020 At 8:40 am He\u2019s busy thinking of a way to convince us this effective treatment is all a lie.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "July 12, 2020 At 12:06 pm Some kids aren\u2019t handling this so well.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "https://twitter.com/Ngu_Spesh/status/1281259100450566146 Her question on germs is the sweet innocence of a child.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "And if they did this on purpose\u2013isolate Wuhan from the rest of their country while allowing citizens from Wuhan to travel to Europe\u2013then what are we going to do about it?\u201d I am sure that is what she was thinking:) July 13, 2020 At 10:21 am Answer it in a devastating way\u2026quietly is as effective as in their face\u2026as long as it hurts them ALOT.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "July 13, 2020 At 2:22 am \u2026and demonized in the Main sewer Stream fake Media\u2026 July 15, 2020 At 7:44 pm I\u2019m hoping Trump doesn\u2019t recommend budesonide or they will vilify and malign that too like they did with hydrochloroquine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "(half joking) July 12, 2020 At 9:43 pm this is a Globalist Bio weapon and The Media and politicians and bureaucrats are also helping spread the disease and fear \u2026 Death to The Globalists and their Minions , nothing else will end this Tyranny .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "July 12, 2020 At 10:06 pm The doc mentioned using a prophylactic antibiotic, clarithromycin, which is badly misspelled in this article.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "If you fix that, non medical people will be able to look it up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Yes, they could, because they are 90% political.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Only 10% of the \u2026 [\u2026] oldbat July 13, 2020 At 2:37 pm november.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "it\u2019s all about november TheTruthBurns July 14, 2020 At 1:46 am Once you realize the \u201cDeath Rate\u201d of the Bullshitarona \u201cVirus\u201d is on average 1/1000th of a percent of the population & that those numbers are highly suspect at least probably 50% from some other cause then that tells you that the \u201cVirus\u201d is All about Taking away Your Rights, Controlling You, Forcing You to Vaccinate & Costing You Wasted Time Energy & Money.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "The Entire Planet has become Docile Lemmings waiting for the Planned Extermination of Humans.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "July 14, 2020 At 5:55 pm There\u2019s people who read about The Lancet retracted fake study use by WHO to draw conclusions on Hydroxychloroquine and still don\u2019t believe that WHO can lie to a whole globe.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Surgisphere, with a sci-fiction writer and an porn model as execs, couldn\u2019t provide the data source which gives a bad reputation to Hydroxychloroquine which is in fact a cheap and effective treatment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "The anti inflammatory medicine also is a great weapon for the cytokine storm produced in those people\u2019s bodies, if used in the treatment program.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "July 20, 2020 At 3:40 pm [\u2026] CONTROL The response to Covid-19 mirrors Communist Chinese brainwashing torture techniques.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Texas doctor discusses what has cured his COV patients :It is the same as the cures they are using i\u2026 \u2018Culture of death\u2019: James Dobson warns about killer push by radical left Christian [\u2026] July 22, 2020 At 1:43 pm Not a very scientific analysis, to say the least.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Cancel reply This site uses Akismet to reduce spam.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Learn how your comment data is processed .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "ABOUT US MISSION STATEMENT We report the news the media won't.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "The Sentinel provides news, opinion and commentary, analysis, factual and original content, mostly political, usually right-of-center, for a Conservative, Libertarian, and Republican audience.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "If you click the subcategories, you should find the general information you need to know about us.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Please make special note of the terms of use.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Thank you for taking an interest in our site.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "We welcome information, corrections, news stories and submissions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "We can be reached at sara@independentsentinel.com FOLLOW US We use cookies to ensure that we give you the best experience on our website.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "We do not save any of your information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

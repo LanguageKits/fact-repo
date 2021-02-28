@@ -1,0 +1,381 @@
+{
+    "document_id": -1,
+    "url": "https://www.bbc.com/news/blogs-trending-42353745",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:29:30.389088+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Accessibility links Skip to content BBC Account iPlayer CBBC CBeebies Search the BBC Search the BBC US & Canada UK BBC Trending US net neutrality vote: a brief guide BBC Trending 14 December 2017 Share this with Facebook Share this with Messenger Share this with Twitter Share this with Email Share this with Facebook Share this with WhatsApp Share this with Messenger Share this with Twitter Share this with These are external links and will open in a new window Share this with Email Share this with Facebook Share this with Messenger Share this with Messenger Share this with Twitter Share this with Pinterest WhatsApp Share this with WhatsApp LinkedIn Share this with LinkedIn Copy this link https://www.bbc.com/news/blogs-trending-42353745 Read more about sharing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The US communications regulator has voted to weaken the rules that govern net neutrality in the country.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "It's a decision that has enflamed passions, with many of the biggest names in tech opposing the change.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Net neutrality is the principle that an internet service provider (ISP) should give consumers equal access to all legal content regardless of its source.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "To put it another way, if the networks which form the bedrock of the internet were a motorway, then under net neutrality, there wouldn't be fast lanes for cars and slow lanes for lorries.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Motorists wouldn't be able to pay to use a faster route.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "All data regardless of its size, is on a level playing field.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "In practice what this means is that ISPs - the biggest ones in the US include Comcast, Charter and AT&T - cannot block content, speed up or slow down data from particular websites because they have been paid to do so.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "And they can't give preferential treatment to their own content at the expense of their competitors.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Meme generator Image caption Memes like this one were circulated ahead of protests held earlier in the year  Proponents of net neutrality say it's a matter of fairness, that the previous system limited censorship and ensured that large ISPs couldn't unfairly choke off other content providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "But opponents say it amounted to an undue restriction on business, that regulation stifled investment in new technology, and that net neutrality laws were outdated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "the support of the Obama administration , last revised net neutrality regulations in 2015, after an extensive campaign by activist groups and tech companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Those rules put ISPs in the same category as other telecommunication companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "But President Trump is a vocal critic of the measures, and appointed a net neutrality opponent, former commissioner Ajit Pai , to chair the FCC at the beginning of this year.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Pai has said he fears that internet service providers are not investing in critical infrastructure such as connections to low income or rural households because the net neutrality rules prevent them from making money from their investments.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Image caption Ajit Pai, chairman of the Federal Communications Commission, has been a prominent critic of net neutrality regulations  Under the new rules, broadband providers will be able to give preferential treatment to some services' data and to charge consumers more to access certain content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "But the ISPs will have to publicly disclose these practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "If they fail to do so properly, another regulator - the Federal Trade Commission (FTC) - will have the power to hold them to account.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "One of the most outspoken critics of this system has been British comedian John Oliver, the presenter of Last Week Tonight.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "In May, he asked his audience to post complaints to the FCC's site.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Some reports claimed that so many people did so that the FCC's website crashed because of the influx, but the commission later said the crash was due to a denial of service attack by hackers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "In any event, it did not change Pai's mind or prevent the new rules being passed by three votes to two.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Democrats have vowed to try to overturn the proposal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "New York's attorney general Eric Schneiderman has said he will lead a lawsuit challenging the FCC's decision.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "He has accused the watchdog of failing to investigate possible abuse of the public commenting process.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "He said as many as two million identities, some of dead New Yorkers, were used to post comments to the FCC website.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Other net neutrality supporters have said they plan legal challenges of their own.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Washington's governor has also suggested that his state will take its own steps to protect net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "But Pai has proposed that states be blocked from legislating on the matter at a local level.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "ISPs will be closely watched to see how they take advantage of the new system.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "One of the US' biggest providers, Comcast, has suggested there will not be as big a break with the past as some fear.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "\"Despite repeated distortions and biased information, as well as misguided, inaccurate attacks from detractors, our internet service is not going to change,\" it said in a statement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "You can follow BBC Trending on Twitter @BBCtrending, and find us on Facebook.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "All our stories are at bbc.com/trending.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Subscribe to our podcast  BBC Trending radio Our radio show airs every Saturday on BBC World Service More from the Magazine Answering life’s questions through daily features, quizzes and opinions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "US & Canada US & Canada Home UK UK Home On your mobile On smart speakers Get news alerts Explore the BBC iPlayer CBBC CBeebies About the BBC Contact the BBC The BBC is not responsible for the content of external sites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Read about our approach to external linking.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

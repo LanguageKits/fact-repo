@@ -1,0 +1,161 @@
+{
+    "document_id": -1,
+    "url": "https://www.telecomtv.com/content/net-neutrality/will-2020-see-a-state-by-state-return-to-net-neutrality-in-the-us-37275/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Ian Scales",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:30:29.468300+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Dec 20, 2019 The FCC abdicated net neutrality responsibility in 2017, now New York - and other states - are poised to introduce their own rules New York’s Governor Cuomo says net neutrality is on his legislative agenda in 2020 Tougher protections than those introduced by the Obama FCC are promised New York State governor, Andrew Cuomo, says he’s going to introduce strict Internet neutrality rules as part of his legislative agenda this coming year.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The New York State legislation will outlaw the usual ‘Blocking, Throttling and Paid Prioritization of Online Content’, Cuomo has announced, but it will also wade into the detail of ISP business models by explicitly outlawing so-called ‘Zero-Rating practices’.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "These can be used in conjunction with data caps to “Penalize Consumers for Accessing Content or Applications That Are Not Preferred by Their Internet Provider,” as the announcement frames it, or even to charge ‘upstream’ content providers for access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Back in January 2018, in the wake of the FCC’s 2017 net neutrality roll-back in the US, Cuomo signed an executive order designed to force internet service providers with state contracts to stick to simple net neutrality rules - no blocking, throttling, or otherwise favouring content - or they would lose their state business.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "That requirement will now be codified into law and observers reckon that, taken together with Cuomo’s latest promises, if New York State gets the legislation on the books it will have gone further on net neutrality than the original 2015 rules, initiated by the Obama FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Taken together, these protections exceed the net neutrality standards established by the Federal Communications Commission in 2015, which the Trump administration subsequently repealed in 2017, claims the announcement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "\"A free and open internet is one of the great equalizers — allowing every person the same access to information and helping protect freedom of speech,\" Governor Cuomo said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "\"While the federal administration works to undermine this asset, in New York we are advancing the strongest net neutrality proposal in the nation so big corporations can't control what information we access or stymie smaller competitors.These protections will help ensure an open market for ideas and content across platforms and preserve the unimpeded access to online content the public wants and needs.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The bill will also require internet service providers to disclose their network management practices to the public and they will also be required to annually certify their compliance with New York's net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The Department of Public Service will be empowered to investigate and fine providers who violate these provisions.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "End users of these services would be authorized to hold companies to account through the judicial system as well, as the legislation would allow for a private right of action against any company violating net neutrality provisions.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Net neutrality advocates hope that New York might lead with other states joining in to pass their own net neutrality laws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Not so much Jul 15, 2019 Christchurch terror video chopped off at the DNS Mar 25, 2019 There’s a push for compromise on net neutrality in the US - fat chance!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Mar 21, 2019 EE offers all pay monthly mobile customers six months Amazon Prime Video and MTV Play subscriptions with inclusive mobile data Mar 13, 2019 Stay up to date with the latest industry developments: sign up to receive TelecomTV's top news and videos plus exclusive subscriber-only content direct to your inbox – including our daily news briefing and weekly wrap.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Highlights of our content from across TelecomTV today 11:51 Metaswitch announces its access gateway function for wireline/5G convergence 3:58 HPE is helping customers manage the complexities of hybrid cloud infrastructure 5:39 HPE and Nutanix partnership for enterprise services 8:26 The benefits of HPE GreenLake ”as a service” model to channel partners TelecomTV is produced by the team at Decisive Media TelecomTV Tracker TelecomTV Perspectives DSP Leaders [email protected] +44 (0) 207 448 1070",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,461 @@
+{
+    "document_id": -1,
+    "url": "https://techpolicycorner.org/net-neutrality-v-title-ii-explained-3ad8d576a50a",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": " Robert Winterton",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:29:04.481725+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "The Internet is once again ablaze with stories about net neutrality, following a that aired last week.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Somewhat of a blast from the past, net neutrality was last a big issue in 2015.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "That’s when then-FCC Chairman, Tom Wheeler, implemented “Title II” on a 3–2 partisan vote.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The move was considered by critics to be the “nuclear option,” undermining investment and innovation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Proponents cheered a welcome assault on unpopular Internet service providers (ISPs) who, they claim, would block, throttle, and discriminate against the Internet traffic of their competitors and startups who failed to pay for priority treatment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Ajit Pai, who voted against Title II in 2015 and became Chairman earlier this year, has reopened the debate.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "At its core, net neutrality means treating Internet traffic fairly and equally.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "While Pai agrees with the basic tenets of net neutrality, upholding them does not mean the FCC needs to regulate broadband under 1934 rules designed for the telephone monopoly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "He believes net neutrality is better protected by making broadband deployment easier, so ISPs both big and small can compete to provide faster and more reliable broadband service — while enforcing generally applicable laws against conduct that harms consumers or competition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Title II undermines broadband competition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "In the five years after the FCC first proposed Title II (2010–15), investment dropped somewhere between $160-$200 billion relative to what it would have been projecting forward from 2005–10, when net neutrality alone was the baseline for investor expectations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Discouraging investment only exacerbates the Digital Divide — which is why Bill Clinton’s FCC Chairman Bill Kennard didn’t want to dump the “morass ” of Title II on broadband and why Democrats like John Kerry and Ron Wyden opposed Title II back in the 1990s.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Title II proponents do have legitimate concerns.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "They want an open and innovative Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "They don’t want ISPs to throttle Internet traffic or engage in other anti-competitive behaviors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "They see tight regulation by the FCC as the only way to stop the Internet from being controlled by large corporations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Both legal and policy concerns with Title II mean that it’s neither an option we should, or even can, consider.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "As Ajit Pai has pointed out, the Internet was not some lawless dystopia in 2015.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Multiple layers of consumer protection existed before Title II.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The Federal Trade Commission and state Attorneys General can bring actions against companies for failing to uphold promises made to consumers and to punish a wide range of other “unfair” practices that harm consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The FTC, AGs and the Department of Justice can all enforce antitrust laws against the kind of anti-competitive conduct Oliver warns about.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "In fact, just last week New York’s Attorney General sued Time Warner Cable and Charter for failing to deliver promised speeds to customers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "And it won’t take all 50 AGs to discipline the industry; just a few activist Democratic AGs will suffice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Indeed, the FTC would have policed net neutrality back in 2007 when Comcast was throttling BitTorrent — a clear net neutrality violation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "But the Republican FCC insisted on taking the case, needlessly kicking off a decade of litigation over the agency’s authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Ironically, Title II shut out the FTC completely, as the FTC can’t regulate “common carriers.” With the removal of Title II, the FTC will regain its jurisdiction over broadband, and Internet policy will return to the bipartisan approach of law enforcement that started under Bill “Hands off the Net” Clinton rather than heavy-handed regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "But that will only last until the next Democratic FCC reinvokes Title II.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "That’s why we’ve called for bipartisan legislation to enshrine the principles of net neutrality into law while still encouraging innovation — a solution Congressional Democrats tried hard to make happen in 2010.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Only a congressional solution can survive the pendulum swing of presidential elections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Both consumers and businesses deserve a stable telecom policy rather than the partisan squabbling that they’ve unfortunately become so used to.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "There’s a long history of bipartisan support for net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "It was a Republican FCC Chair Michael Powell who, in 2004, laid out four principles of “Net Freedom.” His successor, Kevin Martin, turned that into the “Open Internet Policy Statement” in 2005.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Unfortunately, when Democrats were willing to cut a deal seven years ago, Republicans balked.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Now, since 2015, Democrats have done the same, ignoring a Republican compromise bill that would codify net neutrality once and for all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Let’s not make the same mistake again.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Net neutrality isn’t safe under Title II.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Anyone who sincerely wants a free, open and innovative Internet needs to work across partisan divides.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Only Congress can resolve this debate once and for all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "We all love the Internet, so let’s work together to look after it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "The OTHER Side of the Debate: Telecom, Privacy, FCC, FTC… 153 FCC 153 claps Written by Classic liberal, immigrant, contrarian.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Work in communications and politics.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "See responses (6) in Sep 4, 2018 · 5 min read 15 The future of 6 GHz should be unlicensed, so long as we can get the details right in Mar 6 · 3 min read 1 PCMag in PC Magazine Apr 30 · 8 min read 2 Welcome to a place where words matter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "On , smart voices and original ideas take center stage - with no ads in sight.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "yours Follow all the topics you care about, and we’ll deliver the best stories for you to your homepage and inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Become a member Get unlimited access to the best stories on — and support writers while you’re at it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

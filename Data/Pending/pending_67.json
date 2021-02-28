@@ -1,0 +1,481 @@
+{
+    "document_id": -1,
+    "url": "https://www.broadcastingcable.com/news/d-c-dives-into-net-neutrality-decision",
+    "document_category": "Blog/magazine",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:40:13.522071+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "TV Careers RSS TV Careers TV Careers Activists pledge to fight on; dereg fans praise court call Publish date: Oct 1, 2019 federal court decision upholding the FCC&apos;s decision Tuesday (Oct. 1) to deregulate internet access--including by reclassifying it from a Title II common carrier service to a Title I information service--drew a crowd from both sides of the issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "While ISPs won a big victory, they continue to push for Hill action to resolve the issue of the FCC&apos;s authority over the &apos;net.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Activists see that as a further chance for industry to solidify its hold on the net via legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "\u201cWe are gratified by the court\u2019s decision to affirm the FCC\u2019s \u2018light touch\u2019 regulatory framework for broadband,\" said Michael Powell, chairman of NCTA-the Internet & Television Association, and the former FCC chairman who proposed network openness principles.\"As the court affirmed, public utility-style regulation is particularly inapt for a dynamic industry like broadband built on technological innovation and disruption.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "\u201cAs a practical matter, today\u2019s decision will have little impact on consumers\u2019 internet experience.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "It does nothing to change our industry\u2019s enduring commitment to providing consumers with the same open internet experience that has been delivered for decades.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Only Congress can provide permanent, common sense open internet protections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "We urge lawmakers to work together in a bipartisan fashion to craft those rules and provide certainty for consumers and businesses small and large that rely on the internet for continued growth and opportunity.\u201d \u201cThe court got it right and affirmed what anyone who has been paying attention to Washington\u2019s net neutrality saga knows to be true: the internet is open, ISPs are investing to bring internet users the content they want, and we remain absolutely opposed to anti-consumer practices like blocking, throttling and anti-competitive paid-prioritization,\" said Jonathan Spalter, president and CEO of USTelecom.\u201cThe fact is the FCC\u2019s 2017 order restored the smarter, more nimble, pro-consumer and bipartisan policy framework that has guided the internet through 20 years of openness and extraordinary growth.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "While we are still reviewing the details, one thing is clear: Congress must end this regulatory rinse and repeat cycle by passing a strong national framework that applies to all companies, maintains our dynamic and open internet, and sustains our global digital leadership for the next generation and beyond,\" said Spalter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Fans of net neutrality regs were not giving up the fight, and putting the best light on the decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "\u201cWhen the FCC rolled back net neutrality it was on the wrong side of the American people and the wrong side of history,\" said FCC commissioner Jessica Rosenworcel.\"Today\u2019s court decision shows that the agency also got it wrong on the law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The agency made a mess when it gave broadband providers the power to block websites, throttle services, and censor online content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "\"Today\u2019s court decision vacates the FCC\u2019s unlawful effort to block states and localities from protecting an open internet for their citizens.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "From small towns to big cities, from state houses to governors\u2019 executive actions, states and localities have been stepping in because the FCC shirked its duties.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "In addition, the court took the agency to task for disregarding its duty to consider how its decision threatens public safety, Lifeline service, and broadband infrastructure.\"\"As the FCC revisits its policies in light of the court\u2019s directives, I hope it has the courage to run an open and fair process.\u201d FCC officials speaking on background said they had no worries about better explaining the policies the court sought better justifications for, which included the impact of its decision on public safety.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Those FCC officials said that their reading of the preemption portion, conceding that they were still reviewing the decision, was that it was not a blanket authority, but that the FCC could still preempt state laws on a case-by-case under its \"conflict preemption\" authority, which is when either \"impossible for someone to comply with both state and federal laws, or when the purposes and objectives of federal law would be thwarted by state law,\" according to scotusblog.com.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "\u201cInternet users: get ready to fight,\" said Evan Greer, deputy director of activist group Fight for the Future.\"Telecom monopolies like AT&T, Comcast, and Verizon are hellbent on destroying net neutrality so they can squeeze all of us for more money and control what we see and do online.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "We\u2019re still analyzing today\u2019s court decision, but what we know for sure is that Big Cable\u2019s lobbyists will use this as an excuse to swarm Washington and attempt to ram through bad legislation that would permanently gut open Internet protections and strike down good state laws like California\u2019s.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "We can\u2019t let that happen,\" said Greer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The decision by the U.S. Court of Appeals for the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Circuit upholding the Federal Communications Commission\u2019s open internet rules deserves applause from everyone who wants to see an expansion of innovation, competition and investment in the internet ecosystem.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "But ruling that the FCC can&apos;t block state laws and thus allowing rules that differ among all 50 states could spell disaster for advancement of the internet, as web services are offered on a national basis, and many would be disrupted by a multiplicity of diverse and contradictory state net neutrality requirements.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The Internet Innovation Alliance saw it as a signal that Congress needs to finally step in and clarify the FCC&apos;s regulatory authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "\"Unless Congress codifies nationwide open internet rules, including the designation of broadband as an information service, we will very likely see continuation of the ping-pong at the FCC between classifications of broadband as an information service and as a telecommunications service,\" said the alliance.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "\"And open internet rules that lack uniformity will only impede innovation, as the internet does not stop at any state line.Both regulatory uncertainty and irregularity will stifle broadband investment at the very time when the nation is slated to make its largest investments ever in 5G technology.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Free Press, which strongly supported Title II classification, was a bit perplexed by the ruling.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "\"In a lengthy and unusual opinion, the court upheld the FCC\u2019s misguided legal analysis repealing the federal rules for Net Neutrality, even though the judges who joined the opinion wrote that they are \u201cdeeply concerned that the result is unhinged from the realities of modern broadband service,\" said the group.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "\u201cUnfortunately, the judges gave a pass to the flimsy legal arguments and phony claims used to tear down these important rules in late 2017 \u2014 not because Ajit Pai and the agency processes he abused led to the right decision, but because courts give agencies a lot of deference when interpreting the law,\" said Free Press VP Matt Wood.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "The court essentially looked to Supreme Court precedent (Brand X) that internet access can be classified under Title I, as well as giving what is called Chevron deference to the agency&apos;s special expertise on the issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Brent Skorup from the Mercatus Center applauded the decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "\"Net neutrality has been the subject of litigation for a decade.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Today, in Mozilla v. FCC, the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Circuit Court of Appeals largely upheld the Trump FCC\u2019s 2017 decision to restore the deregulatory legal framework for the Internet that was in place until 2015.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "The Trump FCC decided that the 2015 Open Internet Order created too many unnecessary restrictions for speech online and new Internet services,\" he said.\"The 2015 rules, particularly the vague &apos;general conduct standard,&apos; served merely as an invitation to regulators and special interests to design the Internet and new services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "The 2015 rules also incentivized Internet service providers to filter online content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Fortunately\u2014for now\u2014the FCC has revived the national policy from Congress that the Internet should be \u201cunfettered by Federal and State regulation.\u201d Innovators in Silicon Valley and across America should determine how the Internet evolves, not lawyers and lobbyists in Washington.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "\u201cNo doubt the FCC scored a major victory today when the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Circuit uphold its fundamental determination that broadband Internet services are not subject to the Commission\u2019s regulatory jurisdiction,\" said Free State Foundation president Randolph May.\"But no doubt i \u2014and consumers\u2014also suffered a defeat when the court ruled that the agency could not broadly preempt state laws inconsistent with its deregulatory approach.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "The prospect of various states, like California or New York, imposing public utility-like regulation on Internet providers, and others imposing a patchwork of differing mandates, is more than unappealing \u2014 it\u2019s almost certainly harmful to the continued investment and innovation that has made the Internet the integrated \u2018network of networks\u2019 that it is today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "\"So, it\u2019s important that the FCC attempt to overturn the court\u2019s preemption ruling\"--FCC officials on background would not comment on whether they might do that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "\"And it is even more important that Congress, finally, enact legislation that would embody a satisfactory national solution that doesn\u2019t include at its core public utility-like regulation of Internet services.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "The same FCC officials said chairman Ajit Pai agrees that the best solution to the legal ping-pong would be Hill clarification of the FCC&apos;s authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "AT&T senior EVP and general counsel David R. McAtee II called the decision \"a victory for U.S. broadband investment and broadband consumers everywhere.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Despite dire predictions to the contrary by some when the Order was adopted, network investment has continued to grow and the open internet has continued to thrive.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "We look forward to addressing the narrow issues remanded for further consideration.\u201d \"Although we are still carefully reviewing the D.C. Circuit\u2019s decision, we welcome its outcome,\" said Claude Aiken, president and CEO of WISPA, which represents fixed wireless internet providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "\"The onerous Title II rules, which the FCC adopted in 2015, presented a significant obstacle to deployment for our members, the overwhelming majority of whom are small ISPs serving underserved rural communities.The FCC\u2019s 2018 Restoring Internet Freedom Order (RIFO) for the most part represents the right approach to these matters \u2013 one which keeps inapt, utility regulation away from the Internet, and in doing so, promotes ubiquitous broadband deployment via the light-touch regulatory regime WISPA has favored.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "terms: USTelecom NCTA Next TV Said government shutdown won't delay issue's latest day in court Ask full appeals court to hear panel decision upholding Pai dereg Says Congress has the power and signals it must muster the bipartisan will All parties said to agree to await court decision on FCC dereg order Stakeholders are just as divided as Congress NCTA said it is dead end; Public Knowledge calls it critical step Pledges to fight patchwork of state laws House Communications Subcommittee lines up some star witnesses RSS",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

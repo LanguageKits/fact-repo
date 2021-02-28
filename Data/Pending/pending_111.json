@@ -1,0 +1,331 @@
+{
+    "document_id": -1,
+    "url": "https://businessjournaldaily.com/rough-ride-ahead-with-end-of-net-neutrality/",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Jim Cossler ",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:42:05.916841+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Thursday, April 30, 2020 MENU MENU ** CoronaVirus ** DAILY BUZZ 3 MINUTES WITH ECONOMIC DEVELOPMENT INDUSTRY REPORT FINANCIAL SERVICES PROFESSIONAL SERVICES REAL ESTATE HEALTH CARE & WELLNESS DRILLING DOWN EDUCATION POLITICS OUR TOWNS MANUFACTURING AWARDS & EVENTS GETTING AHEAD SPECIAL FEATURES BUSINESS STRATEGIES Your NextHome BRAIN GAIN E-EDITION CONTENT STUDIO THOUGHT LEADERS THE NEW YSU FLASHBACK submit a tip / story SUBSCRIBE SPONSORED BY Startup 101   .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": " Interstate travel by car wasn’t always as smooth and easy as it is today.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Going as far as 200 miles could often take half a day, as you moved along narrow, two-lane roads, jammed with congestion and lined with stop signs and traffic signals.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "On June 29, 1956, that began to change when President Dwight Eisenhower signed the Federal Aid Highway Act, authorizing a seamless 41,000-mile interstate network over publicly owned rights of way that would carry cars nonstop throughout the country at greatly increased speeds.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "It’s a network we still travel on today, obeying the same rules, paying the same price and moving at the same speeds.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The modern equivalency of our federal highway system is the internet, a seamless neural network over publicly owned airwaves and terrestrial rights of way, which carry data seamlessly around the world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Data are regulated by the same rules and moves at the same speed under the concept we call net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "It is the principle that all internet traffic is treated equally, regardless if you are checking Facebook, posting pictures to Instagram, purchasing a new laptop from Amazon or streaming movies from Netflix.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "And it also means that companies like AT&T, just approved to buy Time Warner, or Comcast, which owns NBC Universal, cannot favor their own content over that of a competitor.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "But, most critically, net neutrality treats the traffic of a small business or startup equally with that of Amazon and Google.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "As a result, stunning new innovations and technologies have emerged in the Internet Age because once-small startups – now giants like Google – brought these innovations to us because they could fairly and equally compete.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Boom: The level playing field of the internet came to a sudden end June 11, when the Federal Communications Commission officially blew up network neutrality rules put in place under the Obama administration.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Gone are playing by the same rules, moving at the same speeds and paying the same price.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Internet services providers are now free to raise prices at will, slow down or speed up content as they wish, treat websites in any manner they choose and even censor or ban websites and traffic on a whim.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Well, that’s what the Trump administration just did to our publicly owned internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "And it could potentially have a disastrous impact on small businesses and startup communities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "The fast, free and neutral internet allowed customers immediate access to everything they could want.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "There was no fast lane, no slow lane, because every website and platform was treated equally.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "And because of the fast, free and neutral internet, small businesses could compete against gigantic competitors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Small businesses could suddenly have equal access to global markets.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "And startups had a fair chance to rise from obscurity, with their stunning new innovations and technologies, to become giants themselves.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Now, with the repeal of net neutrality, that freedom is in very serious danger.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Without the even playing field, and with traffic rules now skewed in favor of the country’s largest corporations, giant companies will more easily crush their smaller competitors, and startups will find it extremely difficult to gain traction, leaving their new innovations and technologies to die with them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "This, unfortunately, is the new reality, at least for the duration of the Trump administration.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Yes, a growing number of senators and representatives are expressing opposition to the repeal of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "And the U.S. Senate, largely on votes by Democrats, recently passed the Congressional Review Act, a measure that allows Congress to overrule an agency like the Federal Communications Commission.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "But with a large Republican majority in the House, it’s unlikely that the Congressional Review Act will be approved by that body.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "And even if it was passed by both houses, and Congress orders the FCC to reinstate net neutrality rules, it’s almost impossible to believe the vote would be large enough to survive President Trump’s veto.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "I wish I could offer a better or more optimistic scenario, but I can’t.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Until there is a change in the administration, I am afraid that small businesses, startups and consumers are in for a very rough ride on the internet.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "CLICK HERE to subscribe to our print edition and sign up to our free daily headlines.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "HD Davis CPAs, LLC Dee McFarland DCW Group HD Davis CPAs, LLC Aebischer's Jewelry Post navigation ← → Home of the Week DailyBUZZ 25 E Boardman St, Suite 306, PO Box 714, Youngstown, OH 44501 Phone: 330-744-5023 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

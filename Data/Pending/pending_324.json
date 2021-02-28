@@ -1,0 +1,61 @@
+{
+    "document_id": -1,
+    "url": "https://www.popsci.com/net-neutrality-is-under-attack-heres-why-we-need-to-protect-it/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:56:28.689953+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "subscribe newsletter sign up give a gift coronavirus science technology diy health goods podcasts video popsci shop popular science merch email facebook twitter instagram tumblr pinterest youtube snapchat linkedin rss Skip to content Net neutrality is under threat (again).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Here's why you should care The internet was built to work as a level playing field.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Kelsey D. Atherton and PopSci staff November 21, 2017 How to convert your DSLR camera into a webcam for free Stay-at-home science project: Craft handmade blubber Seven Samsung Galaxy tricks you can\u2019t do on any other phone Ten great science projects you can do with your kids The best headphones for editing audio and video Four essentials for composting outdoors Baby walkers to help your little one start cruising The Sahara Desert was once flooded with history\u2019s most vicious dinosaurs Ancient supernovas may have pierced moon rocks with star shrapnel Seven Samsung Galaxy tricks you can\u2019t do on any other phone Ancient supernovas may have pierced moon rocks with star shrapnel Teams of bacteria have working memories remarkably like ours Now is the time to start tracking your food The environment won\u2019t be helped by oil producers declaring bankruptcy PopSci Shop Excel is a staple in the workplace\u2014here\u2019s how to master the software Stay-at-home science project: Use fire to push an egg into a bottle The unexpected way COVID-19 is screwing up weather reports Many products featured on this site were editorially chosen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Popular Science may receive financial compensation for products purchased through this site.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Reproduction in whole or in part without permission is prohibited.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

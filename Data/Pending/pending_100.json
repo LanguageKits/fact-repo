@@ -1,0 +1,461 @@
+{
+    "document_id": -1,
+    "url": "https://www.aei.org/technology-and-innovation/the-fcc-wins-big-on-net-neutrality-what-it-means-and-whats-next/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Daniel Lyons",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:41:36.940224+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "The FCC wins big on net neutrality: What it means, and what’s next AEIdeas @ProfDanielLyons October 2, 2019 The US Court of Appeals for the DC Circuit finally issued its long-awaited net neutrality decision .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The result was a significant victory for the Federal Communications Commission (FCC), which saw the court mostly uphold its landmark Restoring Internet Freedom Order.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Unfortunately, the decision does not mark the end of the net neutrality story — just the close of this particular chapter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "This blog will summarize the court’s decision and discuss what’s ahead, including for state net neutrality efforts.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "In Mozilla v. FCC, the DC Circuit upheld the repeal of Barack Obama–era net neutrality rules and the reclassification of broadband access as an information service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "This is perhaps unsurprising: The Supreme Court long ago held that the FCC has authority to determine how best to categorize broadband service, and the countless rounds of litigation since have really only reinforced that point.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The court also upheld the agency’s transparency rules as an appropriate exercise of its authority under Section 257 of the Communications Act.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Overall, this is good news for FCC Chairman Ajit Pai’s vision.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The Restoring Internet Freedom Order is premised on the notion that with enhanced transparency protections, consumers can make informed choices about broadband service, and that such information, coupled with consumer protection and antitrust laws, will address many of the potential harms that net neutrality advocates fear.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The Mozilla decision blessed the agency’s power to enact this light-touch regulatory approach.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "OK, maybe “blessed” is too strong a word.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Judges Patricia Millett and Robert Wilkins each concurred separately to note that, while Supreme Court precedent compelled them to affirm the FCC’s power under the Communications Act, technological evolution may have undermined the factual underpinnings of that precedent.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "They suggested that the high court could revisit this holding but that the DC Circuit could not.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The remand order Despite affirming, the court did not find the agency’s reasoning altogether convincing.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Specifically, it found that the agency did not sufficiently consider the impact of its decision on three issues raised by commenters: public safety, lifeline eligibility, and pole attachments.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "In administrative law parlance, this failure to consider important aspects of the problem renders the decision arbitrary and capricious, thus warranting a remand.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "But the court chose not to vacate the Restoring Internet Freedom Order as part of its remand.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The court recognized that the FCC could address these issues without undermining its overall conclusions, and it recognized that the burden of a likely temporary vacatur would impose unnecessary costs on the regulated parties.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "So the new rules remain in place, at least while the agency rectifies the order’s shortcomings.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "I am impressed by the opinion’s judicial restraint.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The concurrences suggest that, if not for binding Supreme Court precedent, the panel likely would have decided the legal question differently.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "And at several points, the court found the agency’s reasons lacking, even on issues that it declined to remand.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "But the court recognized that its role is a deferential one, and, while laying bare the agency’s faults, it stopped short of imposing its policy preferences.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The opinion is fair and, I think, a nice retort to the cries of judicial activism (or, among academics, legal realism) that sometimes dominate popular discourse about the courts.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Preemption and the future of state net neutrality regulation Despite this deferential tone, the court did vacate one part of the rule.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "The Restoring Internet Freedom Order expressly preempted state laws that are inconsistent with its deregulatory order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "The court (correctly, I think) found that the agency did not ground this preemption provision in a lawful source of statutory authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Absent a legal basis, the FCC lacks authority to expressly preempt state law in this fashion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Net neutrality advocates, seeking a silver lining, have latched onto this portion of the decision, suggesting that it opens the floodgates for states to reimpose the rules that the feds repealed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "But this hope is misplaced.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "The court did not hold that preemption was unwarranted, rather that it must be assessed on a case-by-case basis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "As the opinion explains, “If the Commission can explain how a state practice actually undermines the 2018 Order, then it can invoke conflict preemption.” Conflict preemption occurs when a state regulation conflicts with a federal policy.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Under the Supremacy Clause, the state act must yield.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Because the preemption flows from the Constitution itself, rather than the federal statute, future courts are free to find conflict preemption despite the Mozilla court’s rejection of express preemption — a fact the Supreme Court clarified in .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "As I discussed at length here , I predict that most state net neutrality efforts will ultimately be preempted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The Communications Act, as interpreted by brand X, gives the FCC a wide spectrum of regulatory options for broadband, ranging from nonregulation to full common carriage.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "The agency picked a spot along that spectrum — enhanced transparency coupled with general consumer protection and antitrust law — and explained at length that more intrusive regulation could have an adverse effect on consumers and innovation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "State net neutrality laws would conflict with the Restoring Internet Freedom Order’s carefully crafted federal policy in this area — and thus would be preempted under the Supremacy Clause.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "The Mozilla decision is a fair and reasonable decision that does not sugarcoat the agency’s faults but remains true to the court’s narrow role in administrative law cases.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "There are several proceedings ahead: The parties may seek further review en banc or in the Supreme Court, and once that process is complete, the agency must address the remanded issues.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "And, of course, state preemption decisions loom large, beginning with California and Vermont, whose net neutrality statutes have already been challenged in cases that were stayed pending this case’s outcome.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "One thing is for certain: The net neutrality saga remains far from over.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Maine’s à la carte cable law and further adventures in telecom federalism @ProfDanielLyons Sign up for AEI’s Tech Policy Daily newsletter Also sign me up for AEI This Week, delivered every Saturday morning.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "The latest on technology policy from AEI in your inbox every morning.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": ", Internet regulation , Net neutrality , , June 27, 2019 AEIdeas by  September 17, 2019 Maine’s à la carte cable law and further adventures in telecom federalism by  RSS About AEI Surprise medical billing 1789 Massachusetts Avenue, NW Washington, DC 20036  Main telephone: 202.862.5800 Main fax: 202.862.7177",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

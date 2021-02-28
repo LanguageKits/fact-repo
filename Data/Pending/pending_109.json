@@ -1,0 +1,481 @@
+{
+    "document_id": -1,
+    "url": "https://science.jrank.org/programming/Net_Neutrality.html",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Trevor Cunnington, MA, PhD",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:42:01.108486+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Net neutrality is the idea that Internet service providers and governments should treat all online data the same, regardless of the website, platform, user, or application it comes from.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Proponents of net neutrality believe it should be assured by law so that service providers cannot fragment access to users in order to make them pay more for different services, such as using File Transfer Protocol (FTP), playing online games, or establishing high-quality peer-to-peer (P2P) communications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "To do so would mean establishing âtiered service,â which many advocates of net neutrality say curtails the ideals of freedom of information that the Internet was founded on.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Tiered service would require a service provider's customers to purchase different packages in order to obtain the level of access they want to information and services usually freely available to everyone on the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Service providers would be able to block certain content and slow down or prohibit certain types of services to those who do not pay for such package upgrades.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "OVERVIEW The most marked characteristic of the Internet is its decentralized structure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Theoretically, all nodes in the network are potentially equal in power and influence, although in practice this rarely happens because of pre-existing social and economic structures.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "There are three dimensions to the Internet: hardware, software, and infrastructure.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Hardware consists of the devices people use to access the Internet, whether it is a smartphone, a desktop computer, or the massive server farms where multitudes of data are stored.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Software consists of the programs and applications people use to access or interact online.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Infrastructure refers to the systems that connect hardware to other hardware.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "There are two main types of infrastructure: wired systems and wireless systems.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Wired systems use phone lines or fiber optic cable networks, while wireless systems use allotted frequencies on the radio spectrum to transmit Internet access.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The explosion of the Internet as a tool of mass communication was accompanied by socioeconomic trends such as vertical integration.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "This means that the companies that provide access to the Internet for a fee have also taken over other companies that supply content to the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "This has led to concerns over the concentration of power and the control of information flowing through the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Some argue that concentration of power limits the democratic exchange of data and the quality of civic participation on the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Net neutrality refers to the struggle to keep the Internet a public good, rather than a resource to be used for the personal gain of a relatively small group of people.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Symbol of Network Neutrality as poster for promotional purposes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "One of the emergent issues in the net neutrality debate is the new challenges created by data-rich media forms transmitted via the World Wide Web.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "For instance, video transmission can congest Internet infrastructures at peak use periods, and vertically integrated ISPs (Internet service providers) have the ability to favor their own content during these times.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "This gives them an unfair advantage in the competition for consumersâ attention.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "ISPs that have developed infrastructure can limit the performance of competing ISPs that use their infrastructure, as well as restricting bandwidth of peer-to-peer file sharing programs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Opponents of net neutrality cite various reasons for their position.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "One of the most common arguments is that regulation of the Internet will lead to decreased competition, which in turn will reduce the type of rapid innovation that made the Internet successful and revolutionary in the first place.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "A related notion is that regulation will cause a drop in investments that support not only Internet service providers but many peripheral industries as well.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Many claim that the fear of privileged Internet access for the wealthy and poor service for others is a false scenario.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Other argue that regulation may cause an increase in taxation or that neutrality will cause an overuse of Internet bandwidth.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "In the debate about net neutrality for wireless communications, one of the crucial issues is the equitable and safe distribution of the frequencies on the radio spectrum.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Antitrust laws that ensure fairness in competition among businesses are an integral part of the net neutrality debate at this point.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "The debate over net neutrality is affected by the intense and swift technological innovation in the Internet and data services industries.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "For example, in 2013, the company that developed a standardized system for data exchange between computers worked on technology to allow data exchange between radio frequencies, phone lines, and cell phones.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "This emerging technology is called IPICS, or the Internet Protocol Interoperability and Collaboration System.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "This changes information and communications technology dramatically and will likely impact policy in order to ensure a fair and a robust online public sphere.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Because of this rapid pace of technological development, relevant laws and policy often lag behind.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "For example, though issues regarding net neutrality have been debated since 2000, it was not until 2010 that the US Federal Communications Commission (FCC) proposed the Open Internet Order to preserve net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "In November 2014, President Barack Obama called on the FCC to regulate Internet service providers like public utilities, imploring the agency to create strict rules to enforce net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "In response the FCC investigated the possibility of implementing Title II of the Communications Act of 1934, regarding common carriers, and the Telecommunications Act of 1996 to the Internet in order to support neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "While a vote held on February 26, 2015, went in favor of net neutrality, in April, 2018, those rules were rolled back, resulting in the âdeath of net neutrality.â âTrevor Cunnington, MA, PhD 93.4 (2014): 62â73.",
+            "fact": true,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "56.1 (2009): 8â11.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "80.4 (2014): 46â49.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "CommLaw Conspectus 20.1 (2011): 83â128.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "28.1 (2011): 1â26.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "63.2 (2011): 445â80.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "34.1 (2010): 23â35.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "38.11 (2014): 1117â133.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Washington: GPO, 2010.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

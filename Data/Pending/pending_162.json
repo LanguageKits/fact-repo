@@ -1,0 +1,141 @@
+{
+    "document_id": -1,
+    "url": "https://www.multichannel.com/news/senate-dems-push-for-fcc-answers-on-courts-net-neutrality-remand-questions",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "John Eggerton",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:29:44.336801+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Said ISP deregulation was abandonment of important authorities Publish date: Apr 1, 2020 More than two dozen senators, all Democrats, are citing the coronavirus in calling on the FCC to reevaluate the decision to deregulate internet access in the Restoring Internet Freedom (RIF) order.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Led by net neutrality rule fan Ed Markey (D-Mass.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Led by net neutrality rule fan Ed Markey (D-Mass.) and including presidential candidate Bernie Sanders (I-Vt.) and former candidates Cory Booker, Elizabeth Warren and Amy Klobuchar, the group wrote FCC chairman Ajit Pai Wednesday (April 1) saying it needed to think hard about a federal court's directive that the FCC had not sufficiently explained how i ts December 2017 deregulation decision would affect public safety, its Lifeline low-income broadband subsidy and access to utility poles for network deployment.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The senators argue that in the RIF order, the FCC \"abandoned\" its ability to \"promote public safety, universal service, and broadband competition,\" particularly for the low-income and rural residents.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Those are the ones now being hardest hit by lack of broadband in a sheltering-in-place world getting its work and schoolwork and health monitoring done remotely.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "\"[T]he Court also explicitly instructed the FCC to seek comment on how the repeal impacted public safety, the Lifeline program, and pole attachments.The agency must follow the Court’s guidance thoroughly and fairly,\" they wrote.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The senators did not invoke the pandemic directly, but suggested access to broadband was more important now than ever.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "They did close by noting that the letter had no physical signatures due to the closure of Senate offices during the pandemic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The FCC has sought comment on the court remand , resulting in what is currently the busiest docket at the FCC, with 7,849 comments in the past 30 days (number two on the top 10 list of busiest dockets only has 387).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The U.S. Court of Appeals for the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The U.S. Court of Appeals for the D.C.Circuit upheld the bulk of the agency's decision to reclassify ISPs as Title I information service providers that aren’t subject to Title II common-carrier regulations and to eliminate the rules against blocking, throttling, paid prioritization, and a general conduct rule.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "But the court said the FCC needed to better explain the impact of those decisions on public safety, the regulation of pole attachments, and its Lifeline broadband/phone subsidy program.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "terms: COVID-19 FCC But comments remain focused on general dislike of deregulation Gives commenters extra 21 days Wireline Competition Bureau said one should have been enough Want Pai to detail how rules rollback decision was made Latest legal twist is win for ISPs Ask for second extension as they battle COVID-19 FCC Defends rule rollback at oversight hearing FCC Said they have lots of unanswered questions about fraudulent comments RSS",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

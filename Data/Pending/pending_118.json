@@ -1,0 +1,651 @@
+{
+    "document_id": -1,
+    "url": "https://www.aljazeera.com/news/2017/12/net-neutrality-matters-171212133031187.html",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Creede Newton",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:42:23.659832+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "AJ Impact US & Canada AJ Impact AJ Go 101 East REWIND Planet SOS earthrise UpFront AJ Go AJ Shorts Reporter's Notebook Toggle navigation AJ Impact US & Canada AJ Impact AJ Go 101 East REWIND Planet SOS earthrise UpFront AJ Go AJ Shorts Reporter's Notebook Toggle navigation AJ Impact US & Canada AJ Impact AJ Go 101 East REWIND Planet SOS earthrise UpFront AJ Go AJ Shorts Reporter's Notebook / What is net neutrality and why it matters The FCC votes to end the 2015 Open Internet Order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Here's a guide to net neutrality and why it matters.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "voted on Thursday to end the 2015 Open Internet Order , which protected net neutrality in country.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "3-2 voteÂ enacts the Restoring Internet Freedom initiative, which is widely seen as giving internet service providers (ISPs) more power to limit internet access while favouring certain data streams.Â The move is seen as highly controversial among the public, Democrats and some Republicans.Â Protesters gathered outside the FCC meeting on Thursday, some carrying signs that read: \"Don't make the internet a private toll road.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Democrats vowed to fight the repeal, calling for legislation that would re-establish the regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Net neutrality is a set of principles and rules that say internet service providers (ISPs) must treat all data fairly without blocking or \"throttling\" certain data streams.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "This means that an ISP such as Comcast cannot slow down a streaming service such as Netflix, nor can it block or slow down Fox News in favour of NBC, which is owned by Comcast.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "\"Open internet\" advocates fear an end to net neutrality will lead to censorship and increased costs for internet connectivity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The Federal Communications Commission (FCC) plans to vote on ending the 2015 Open Internet Order, which is the current set of regulations protecting net neutrality in the US.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Pai, 44, has enjoyed a long career working as a lawyer for both the US government and telecommunications giant Verizon.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "He was appointed to the FCC Commission, the body that will vote on net neutrality's end, in 2012 by then-President .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "{articleGUID} The policies advocated by Pai, a Republican, are generally seen as being pro-broadcasters and ISPs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "His detractors say this is due, in part, to his tenure as a lawyer for Verizon, where he worked on regulatory issues from 2001 to 2003.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Pai was appointed chairman of the FCC by in January and was confirmed by the US Senate to serve a five-year term in October.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "He says that ending net neutrality will be an end \"heavy-handed\" government regulation and a \"pro-competitive\" move.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Kathy Grillo, Verizon's senior vice president and deputy general counsel, agreed in a November statement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "\"We will take the FCC to court.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "They've got about a 50-50 track record in the courts.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "We think we can beat them here, because they [will have] reversed orders that are barely two and a half years old,\" Matt Wood of Free Press, a pro-net neutrality organisation that works for media plurality, told Al Jazeera.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The court case could take more than a year, Wood said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "During that time, US citizens who want to challenge the effect of losing net neutrality will have to go to the Federal Trade Commission (FTC), an independent government agency designed to protect consumers against unfair business practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The focus onÂ \"unfair practices\"Â and anti-trust, or anti-monopoly enforcement, limits what the FTC can do, Wood explained.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "As long as an ISP clearly explains to consumers what service is offered - even if that includes blocking or throttling sites - and a consumer agrees, then would be considered fair practice, Wood said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "If Comcast blocks a website or service that does not threaten one of its own services or sources of revenue, then the FTC will most likely take no issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "If it blocks Netflix, then the FTC might find that to be an anti-trust issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Furthermore, violations must be committed before the FTC acts.Â \"It comes in as a law enforcer, or promise enforcer, after the fact,\"Â Wood concluded.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Nearly everyone, but possible censorship or throttling will disproportionately affect areas that vote Republican.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "FCC data shows that only 8.6 of people in the US have access to more than one ISP.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "So, if your ISP decides to throttle or censor data, it will affect you immediately and you're \"stuck\", Pierce Stanley, a technology fellow at Demand Progress, a grassroots civil liberties group, told Al Jazeera.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Stanley has been working with Republican legislators of late, pointing them towards the fact that their congressional districts and states \"disproportionately\" have one or zero ISP choices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "This is partly because rural areas, typically Republican strongholds, are less connected, Stanley explained.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "\"Only 30 percent of Republican congressional districts are at the national average or better.It's wildly skewed.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "While Pai says the end of net neutrality will be pro-competitive, Stanley cannot see a future where that is true.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "The majority of the US has either a monopoly or weak duopoly in terms of ISPs, and there are four companies that dominate - Comcast, Charter, AT&T; and Verizon.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Pai has not produced research that shows an end to the FCC's open internet rules will make it easier for newcomers to break these monopolies, Stanley said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "\"If Chairman Pai were sincere\" in his stated desire to improve internet access, \"going after net neutrality isn't the way to get there\", Stanley said.Â {articleGUID} \"His proposal really is a gift to the ISPs that made no sincere effort to take into account the public interest or engage in democratic discussion.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Portugal is part of the Europian Union, every member of which is required to maintain net neutrality for broadband connections, though this is decided by National Regulatory Authorities (NRAs).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "EU-wide net neutrality rules were first adopted in 2015, going into effect on April 30, 2016.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "All 28 member states are barred from \"blocking or throttling or discrimination of online content, applications and services\", according to the European Commission.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "NRAs in each country \"have the powers and the obligation to assess traffic management, commercial practices [sic] and agreements and to effectively enforce\" these rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "The confusion appears to be the result of a tweet by Ro Khanna, a Democratic Congress member from California, showing a Portuguese mobile phone data plan through a telecommunications company called Meo that offers \"zero-rating\" services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Zero-rating means that certain applications, usually messaging apps like WhatsApp or Facebook Messenger, are not subject to data caps.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "If you use all your plan's allotted data, then these apps continue working.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Mobile data plans are separate from home-use internet plans, and fall under a different set of regulations both in the US and the EU, so the issue of mobile data is generally considered a separate issue.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "But for Dwayne Winseck, a professor at Canada's Carleton University and director of the Canadian Media Concentration Research Project, zero-rating is an issue of net neutrality, and it is usually found in countries with poor data plans.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "\"The appeal of 'free lunch', where you're getting poor service, looks better than no free lunch,\" Winseck told Al Jazeera.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "According to research by Rewheel, a European mobile data consultancy firm, Portugal ranks low in the EU for mobile data plans.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Paying 30 euros ($35) gets the average Portuguese consumer three gigabytes of mobile data.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "In Latvia, 20 euros ($24) buys unlimited data usage.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Zero-rating programmes were tried in the US by telecommunications giants AT&T; and Verizon, but were stalled by FCC investigations which concluded in January that this type of service violates net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Pai dropped all investigations into zero-rating practices in February.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Winseck explained that the EU leaving net neutrality up to NRAs leaves gaps in the EU's open internet policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "\"Here it appears that the Portuguese regulators are asleep at the switch.That's good for Meo, but that's not good for the Portuguese,\" Winseck said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Asked if there could be broadband plans similar to Meo's mobile data plans, Winseck said: \"Sure, it's possible.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "\"I don't think the US stepping away for the time being is going to be a travesty for the rest of the world.I don't think people look to the US anymore as a beacon on the hill\" for internet access, Winseck said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "While the US was the global leader throughout the 1980s and 1990s, by the early 2000s, it began to \"goof around\" with net neutrality and market liberalisation, he said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Since then, the world has moved away from the US example, with countries in Latin America, Europe and other regions following their own paths.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "However, there are some concerns, but mostly for foreign businesses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "If a company from , Asia or Latin America becomes a media powerhouse and wants to introduce its own streaming service, akin to Netflix, that will require the blessing of ISPs like Comcast - which has its own streaming service and was found to be throttling Netflix in 2014 - or AT&T;, which is in the process of buying Time Warner, the parent company of HBO, another firm that offers its own streaming service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "\"If you want to promote any other culture in the US, and you start driving lots of [internet] traffic through the US, and you have to go through these ISPs, they can throttle you,\" Winseck said.Â SOURCE: US & Canada Have your say.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "Kim health rumours spotlight succession in secretive North Korea YOU MIGHT ALSO LIKE Syria's long road to justice and the man hoping to walk it there Anwar al-Bunni has helped make a landmark trial possible, but his sights are set on a bigger target - the Syrian regime.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "30 Apr 2020 06:19 GMT 'Tomorrow the sun will shine': Lessons from WWII A renowned human rights lawyer, whose father was a forced labourer during World War II, shares lessons from his life.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "28 Apr 2020 08:28 GMT As a child, I followed my mother on frenzied pilgrimages that taught me about the dynamics of wealth, race and religion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "24 Apr 2020 09:25 GMT RSS YouTube SnapChat Work for us HR Quality TV Schedule AJ+",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,551 @@
+{
+    "document_id": -1,
+    "url": "https://abovethelaw.com/2020/04/ex-fcc-staffer-says-fcc-authority-given-up-in-net-neutrality-repeal-sure-would-prove-handy-in-a-crisis/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:30:07.873292+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to content COVID-19 CLE In your inbox Subscribe and get breaking news, commentary, and opinions on law firms, lawyers, law schools, lawsuits, judges, and more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "We will never sell or share your information without your consent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "See our privacy policy .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "While understandably grabbing fewer headlines, the FCC's failures impact this crisis too.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Apr 3, 2020 at 12:42 PM   It’s worth repeating for the folks in the back: the FCC’s hugely unpopular , facts-optional and fraud-slathered repeal of net neutrality did a lot more than just kill “net neutrality.” It gutted the FCC’s already dwindling authority over giant telecom monopolies, shoveling any remaining authority to an FTC that lacks the authority or resources to police the US telecom sector (the whole goal of telecom lobbyists).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "As a result, you’ve now got ISPs free to engage in problematic behavior (like bullshit fees , or charging people “rental fees” for modems they already own ) that the government is incapable and unwilling to address.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "And the government’s decision to ignore the public and pander to the telecom lobby has deeper ramifications as well.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "As telecom lawyer and former FCC staffer Gigi Sohn writes in an editorial at The Verge , there has been a multi-decade effort to kill telecom oversight under the (clearly false) claim that the miracle of the free market will somehow magically fix a sector that’s been clearly broken for decades: “This digital divide did not happen by accident.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "It is the result of years of scorched-earth deregulation and consolidation pushed by large cable and broadband companies and a government that, despite mountains of evidence to the contrary, believes that somehow the so-called “free market” will take care of the unconnected.” Of course the telecom Utopia that’s promised never actually arrives despite decades of this game of deregulatory theater.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Deregulated telecom monopolies, too big to fail, fused to the NSA , and constrained by neither government oversight nor competition, just wind up doubling down on the same bad (or worse) behaviors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "There’s a segment of telecom policy “experts” who enjoy denying this factual reality, but the facts on the ground (more than 50 million Americans lack access to more than one ISP at speeds of 25 Mbps , and US consumers pay some of the highest prices for data in the developed world ) don’t lie.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Deregulation can certainly spawn innovation when you’re talking about functioning, competitive markets.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "But U.S. telecom, where a handful of giants dominate most U.S. markets and all but own state and federal lawmakers, has never been that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "That we keep pretending otherwise is a stunning level of denial driven largely by partisan ideology.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Sohn goes on to note that the FCC’s decision to neuter itself at telecom lobbyist behest left the FCC to adequately police the sector during a pandemic: “One might think that during a national emergency, the chairman of the FCC wouldn’t have to plead with broadband providers to do what is necessary to ensure that every American is connected.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "But in 2017, at the behest of cable and broadband companies, the Trump FCC abdicated its responsibility to protect consumers and promote competition in the broadband market when it repealed its network neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Not satisfied with simply eliminating the rules, which prohibited broadband providers from blocking, throttling, and otherwise favoring certain internet content and services, the Trump FCC blithely threw away its legal power to oversee the activities of these companies by reclassifying them as unregulated “information services” rather than regulated “telecommunications services.” So while certain folks like to make claims like “the internet didn’t implode therefore repealing net neutrality wasn’t important,” that’s a simplistic, dumb, or just plain disingenuous way of framing what actually happened.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "This is what actually happened: the FCC ignored the public, ignored rampant fraud , and ignored all hard data to neuter itself at the behest of giant telecom monopolies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "That should never, ever get lost in the partisan bickering over policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "With less authority than ever, the FCC was forced to recently resort to a sort of stage play to try and keep ISPs from ripping off financially-constrained broadband customers during a pandemic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "That included a recent FCC “Keep Americans Connected Pledge” that involves ISPs pinky swearing that they won’t kick U.S. telecom customers suffering from financial hardships offline during the COVID-19 quarantine for 60 days.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "But while the promise isn’t necessarily a bad thing , it’s entirely voluntary, and the FCC has no real authority to police ISPs that don’t behave.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "It’s policy theater, Sohn notes: “A voluntary pledge isn’t adequate to ensure that Americans can work, learn, have access to health care, and communicate during this trying time.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Without legal authority over broadband providers, the agency cannot hold any of those companies to their promises — they can simply walk away after 60 days or before.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Nor can the FCC require broadband providers to take critical steps beyond the pledge, like relaxing data caps, providing low-cost or free connectivity, or other steps that would help those desperately in need during this crisis, if even on a temporary basis.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "The Communications Act of 1934 gives the FCC a great deal of flexibility to ensure that the public is protected during a national emergency.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "But when it comes to broadband internet access, this FCC is powerless.” On the Libertarian end, this neutering of the FCC is usually applauded alongside ample fear mongering that a potent FCC would run amok.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "But decades of U.S. broadband policy has never supported this empty assertion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "For a generation now the U.S. FCC, under both parties, has (with a few exceptions like Wheeler) almost uniformly pandered to the interests of U.S. telecom monopolies, stripping away authority and consumer protections under a steady parade of promises that never materialize.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "For most of us (especially the less affluent), the end result of feckless telecom oversight and ceaseless pandering should be fairly obvious.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Again, with neither competition (a problem opponents of Sohn’s arguments simply ignore or downplay at their convenience) nor regulatory oversight, telecom giants like AT&T and Comcast have been free to charge some of the highest rates in the developed world, engage in clear and repeated billing fraud , deliver some of the worst customer service in history (with no pressure or incentive to fix it), be utterly non-transparent , crush or acquire competitors through mindless consolidation , engage in rampant privacy abuses (again with little or only tepid repercussions), and so much more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Folks claiming it’s the FCC that is running amok or has too much power in this equation are engaged in some potent head-in-the-sand denialism.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "These companies are so powerful they’re literally writing state and federal telecom law with an exclusive eye on protecting their revenues from accountability and competition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "That was a problem during the best of times, but it’s going to be doubly so as America enters a protracted crisis where broadband connectivity has shifted from “nice to have” to utterly essential to survive.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Pretending the U.S. broadband market isn’t broken, and that regulatory capture and rampant corruption didn’t play a massive role in that dysfunction, is disingenuous, dangerous folly whose multi-decade tenure as a dominant policy paradigm needs to be put out to pasture.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "A powerful way to streamline and improve the delivery of legal services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "A powerful way to streamline and improve the delivery of legal services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Above the Law readers are offered 1 free CLE course each quarter, thanks to Lawline.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Above the Law readers are offered 1 free CLE course each quarter, thanks to Lawline.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Let's make it official.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Sign up for our newsletter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "We will never sell or share your information without your consent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "See our privacy policy .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Lawline CLE Above the Law and PWC 0 What legal professionals need to know about the changing data privacy landscape.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "What legal professionals need to know about the changing data privacy landscape.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "A lifesaver for junior attorneys who are handling the time-intensive admin work, and a critical way for senior attorneys to obtain unrivaled transparency into transactions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Managing your transaction doesn’t have to be an uphill battle.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "AbovetheLaw Subscribe and get breaking news, commentary, and opinions on law firms, lawyers, law schools, lawsuits, judges, and more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "We will never sell or share your information without your consent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "See our privacy policy .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Let's make it official.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Sign up for our newsletter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "No thanks We will never sell or share your information without your consent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "See our privacy policy .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

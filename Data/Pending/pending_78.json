@@ -1,0 +1,191 @@
+{
+    "document_id": -1,
+    "url": "https://www.cnbc.com/2019/10/01/us-court-says-fcc-cannot-bar-states-from-setting-net-neutrality-rules.html",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:40:41.468882+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "US court says FCC cannot bar states from setting net neutrality rules 11:34 AM EDT The Federal Communications Commission cannot bar states from passing their own net neutrality laws, the U.S. Court of Appeals for the District of Columbia ruled.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Enthusiastically supported by large tech companies and consumer groups, net neutrality was formally adopted by the FCC in 2015.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The decision was a setback to the Trump Administration's efforts to reverse rules adopted under President Barack Obama in 2015 which barred internet service providers from blocking or throttling traffic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The Federal Communications Commission cannot bar states from passing their own net neutrality laws, the U.S. Court of Appeals for the District of Columbia said on Tuesday, adding that the agency must review some key aspects of its 2017 repeal of rules set by the Obama administration.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The court, which upheld much of the FCC's December 2017 order, said the agency \"failed to examine the implications of its decisions for public safety\" and must also review how its decision will impact a government subsidy program for low-income users.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The decision was a setback to the Trump administration's efforts to reverse rules adopted under President Barack Obama in 2015 which barred internet service providers from blocking or throttling traffic, or offering paid fast lanes, also known as paid prioritization.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "FCC Chairman Ajit Pai said the decision affirmed the FCC's \"decision to repeal 1930s utility-style regulation of the Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "A free and open Internet is what we have today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "A free and open Internet is what we'll continue to have going forward.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Enthusiastically supported by large tech companies and consumer groups, net neutrality was formally adopted by the FCC in 2015.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Major telecommunications companies argued it limited their ability to offer new services to content providers, and under the Trump Administration, the FCC overturned the policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "An attempt to legislate its reinstatement failed last year, although tech trade groups are still trying in court.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "California passed sweeping state net neutrality protections but agreed not to enforce the measure pending the court challenge.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The Trump administration rules were a win for internet providers like AT&T, Comcast and Verizon Communications but opposed by companies such as Facebook, Amazon and Alphabet .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "We want to hear from you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "CNBC Newsletters Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your inbox, and more info about our products and services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "2020 A Division of NBCUniversal Data is a real-time snapshot *Data is delayed at least 15 minutes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Global Business and Financial News, Stock Quotes, and Market Data and Analysis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

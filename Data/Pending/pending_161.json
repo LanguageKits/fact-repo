@@ -1,0 +1,1271 @@
+{
+    "document_id": -1,
+    "url": "https://www.techdirt.com/articles/20200326/10311844179/tone-deaf-using-covid-19-as-prop-to-celebrate-death-net-neutrality.shtml",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Karl Bode",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:29:41.903965+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "These are tough times for everyone, us included.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "If you're able to help us continue our reporting, check out our list of ways to support Techdirt » These are tough times for everyone, us included.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "So we've noted a few times now how the FCC's decision to kill net neutrality did a hell of a lot more than just kill \"net neutrality.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "It obliterated much of the FCC's consumer protection authority, making it harder than ever to hold U.S. telecom monopolies accountable for bad behavior like rampant privacy violations , ripping you off with bullshit fees , or refusing to upgrade or repair long-neglected taxpayer subsidized networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "And this was a problem even before America began staring down the barrel of a brutal pandemic while stuck at home telecommuting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Enter American Enterprise Institute's Roslyn Layton, who apparently thought that using COVID-19 as a prop to celebrate the death of U.S. telecom consumer protections was somehow a good idea.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "In a brutally tone-deaf blog post this week , Layton insisted that the FCC's decision to ignore a bipartisan majority of the public and kiss the ass of U.S. telecom giants was proving to be really helpful during a terrifying crisis:  \"Traffic is up 75 percent or more on many US networks, but they are still performing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Hundreds of communications providers have signed Federal Communications Commission (FCC) Chairman Ajit Pai’s Keep Americans Connected Pledge, a commitment that broadband and telephone services run for the next 60 days without late fees or termination due to unpaid bills.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "We should thank our lucky stars that Title II net neutrality regulations were repealed by the FCC in 2017.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "In doing so, the US avoided the fate of much of Europe today, where broadband networks are strained and suffering from a lack of investment and innovation .\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "I've seen a lot of K Street policy nonsense in covering the telecom sector for close to two decades, but Layton's latest missive is one of the biggest piles of tone deaf horse shit I've ever seen shoveled into prose.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "For one thing, Pai's \"keep American's connected pledge\" is entirely voluntary , and only basically states that ISPs can't kick you offline for non-payment during the next 60 days.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "But because the FCC neutered its authority to tell telecom giants what to do, the agency couldn't actually hold ISPs accountable should they refuse to adhere to the request or engage in bad behavior during a crisis.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "It's pinky swears and regulatory policy theater disguised as meaningful action.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "It's designed entirely to cover up the fact that the FCC just got done neutering itself at lobbyist behest, and the authority it shed would come in useful now.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The second claim Layton makes -- that repealing net neutrality helped prevent U.S networks from collapsing under the load of quarantine traffic -- is just indisputably false.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "U.S. telecom giants like Comcast and AT&T actually dropped their overall network investment for 2020 in the wake of the Title II repeal and the massive Trump tax cuts, contrary to FCC and industry claims.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "And European and Chinese networks, while certainly feeling a pinch, have generally held up well under the strain.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "U.S. networks are also holding up well so far , and it has absolutely nothing to do with the FCC ignoring the public and kissing Verizon, AT&T, and Comcast's ass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Even FCC advisors to Pai have indicated that the strain we're seeing so far pales in comparison to events like the Superbowl:  U.S. ISPs don't need streaming video services to cut their resolution as they have in the EU, FCC advisor @EvanS_FCC says on @RogerEntner 's con call.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "He adds that some broadband providers have joked that COVID-19 doesn't even compare to the Super Bowl in terms of network stress.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "— Rob Pegoraro (@robpegoraro) March 24, 2020 While the internet core is holding up well, the problems most Americans will see are largely on the \"last mile\": aka slow end-user broadband connections (particularly upstream).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "In many areas, that's mostly courtesy of U.S. phone companies that see so little competition or regulatory pressure they've simply stopped upgrading or repairing aging DSL lines .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "And that, again, is made worse by gutting the FCC's ability to hold the telecom industry accountable, not better.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Claiming otherwise is denialist fantasy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "To \"prove\" her inaccurate point, Layton points to Netflix's decision to throttle its overall bandwidth usage by around 25% to help ease the overall strain on European networks:  \"European policymakers are now eating crow and entreating video platforms to downgrade the quality of their streams, an about face from the regulatory dogma that “all data is equal” and that regulations are needed to keep internet service providers (ISPs) from harming their own networks.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "But neither Netflix nor European regulators cited any evidence of actual network strain, and the move was entirely precautionary.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "It had absolutely nothing to do with net neutrality or the U.S. FCC's net neutrality repeal, and using a pandemic to applaud the death of U.S. consumer protections is both grotesque and bizarre.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Giant U.S. telecom providers aren't keen on the fact that the pandemic is shining a very bright light on the fact that an estimated 42 million home bound Americans still lack access to any kind of broadband whatsoever in 2020.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "They're also eager to distract from the fact that millions of Americans can't afford broadband courtesy of monopoly domination, a lack of competition, corruption, and regulatory capture.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "And they're most certainly eager to distract you from the fact that we threw tens of billions in regulatory favors and tax cuts at giants like AT&T in exchange for layoffs and empty promises .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "broadband , competition , covid-19 , fcc , net neutrality 25 Comments .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "If you liked this post, you may also be interested in... RSS View by: .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": ", 31 Mar 2020 @ 2:37pm But neither Netflix nor European regulators cited any evidence of actual network strain, But appearing to do something is very important for politicians.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "view in chronology ]  , 31 Mar 2020 @ 9:51pm True This is what got Trump elected.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Don't do much and keep telling people how much you did until they believe it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "view in chronology ]  , 31 Mar 2020 @ 2:45pm Horse dung indeed The “strain” on EU networks is bull.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "I know from experience that ESPECIALLY in the US, internet connectivity, stability and speeds sucks big time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "That cunt just kisses ass, that’s what.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "We visit my wife’s family in the US regularly and always when we’re there, the shit quality internet is the first thing that reminds us that we’re in The Netherlands anymore.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "I’ve worked at home now for 4 weeks straight, and I can work fast, efficiently and all that without worries about any caps or additional fees.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Oh, and Netflix may have decided to decrease image quality or whatever, but honestly we do not see a difference in performance or image quality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "view in chronology ]  ( profile ), 1 Apr 2020 @ 12:43am Re: Horse dung indeed \"The “strain” on EU networks is bull.I know from experience that ESPECIALLY in the US, internet connectivity, stability and speeds sucks big time.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "are parts of the EU which have worse average bandwidth than the US...but the coverage is generally better, and US networks are notorious for being unreliable, with massive latency, packet loss and jitter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Not counting the amount of US ISP's inclined to muck about with customer traffic priority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "It's why there are speed-dedicated VPN's doing good business offering gamers preplanned routes to avoid natural or man-made bottlenecks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "\"Oh, and Netflix may have decided to decrease image quality or whatever, but honestly we do not see a difference in performance or image quality.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Because, as we debated extensively on a previous thread, the difference of 25% is negligible when it's applied to a max cap which is full 4K streaming.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Viewing on anything less than a 40\" screen still means there's not much visible difference between 2k and 4k.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "view in chronology ]  , 31 Mar 2020 @ 2:48pm Horse dung indeed, addendum My apologies for the typos and bad grammar.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "It’s late here.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "view in chronology ]  PaulT ( profile ), 31 Mar 2020 @ 10:02pm Re: Horse dung indeed, addendum You might want to apologise for the profanity and immaturity as well.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "view in chronology ]  DocGerbil100 , 31 Mar 2020 @ 11:29pm Re: Re: Horse dung indeed, addendum J.D.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "has presumably learned English from actual English-speakers, rather than speakers of a North-American dialect.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "Over here, the word \"cunt\" is used in much the same way an American might use the word \"motherfucker\" - i.e, it's basically a common form of generic noun.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "It's vulgar and common, certainly, but not something most would feel a need to apologise for, unless talking to an authority-figure, such as a judge or a policeman.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Obviously, this doesn't apply if you're in Glasgow or the poorer areas of London, where the word \"cunt\" is widely-used as a form of punctuation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "view in chronology ]  PaulT ( profile ), 31 Mar 2020 @ 11:35pm Being an Englishman I know exactly what he meant, I was just saying that the least of his problems with the comment was typos.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "view in chronology ]  ( profile ), 1 Apr 2020 @ 12:52am Re: Re: Horse dung indeed, addendum \"You might want to apologise for the profanity and immaturity as well.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "In his defense, the first response, for the sane and rational, to the waste of skin posing as a telco lobbyist trying to use a pandemic as a lever to wedge in an outright lie in celebration of a red flag act , isn't going to be a mild-mannered rebuttal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "I'd argue that the use of the word \"cunt\" is unsuitable not only due to the sexist connotations it carries, but also in that it doesn't go far enough to properly define Layton's little seague into using the death of innocent people as propellant for lobbyist lies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "view in chronology ]  , 31 Mar 2020 @ 2:59pm And dont forget there's no problem with removing caps that the providers insisted were needed to ensure there was no network collapse and because of overuse by some people.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "It was and is pure greed!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "view in chronology ]  , 31 Mar 2020 @ 3:20pm Net neutrality isn't physically enforceable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "I mean, it is , but if an AC is going to assert otherwise I guess I'll just take them at their word.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "view in chronology ]  ( profile ), 31 Mar 2020 @ 4:47pm It sounds like the same dipshit with the \"because foreign governments\" meth-visions from earlier.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "They provided nothing to back up that assertion last time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "view in chronology ]  , 31 Mar 2020 @ 4:50pm Net Neutrality isn't about equalizing bandwidth.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "It's about treating all data sources as equal, something which is, in fact, entirely enforceable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "view in chronology ]  PaulT ( profile ), 31 Mar 2020 @ 10:03pm \"Net neutrality isn't physically enforceable.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "To \"enforce\" net neutrality, you don't have to do anything, that's the natural state of things.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "It takes effect to change that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "The problem is when people violate it in order to scam profits from you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "view in chronology ]  ( profile ), 1 Apr 2020 @ 12:57am \"Net neutrality isn't physically enforceable.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "In fact, it's easier than ANY OTHER conceivable form of audit process which is normally applied to ANY corporate entity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "Literally all you have to do is make a printout of router protocol and note that it applies packet switch priority based on a table which only applies a simple protocol type ranking.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "view in chronology ]  ( profile ), 31 Mar 2020 @ 4:27pm Some rise during a crisis, others show how low they are...",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "I must say, this pandemic certainly has a way of exposing just how terrible certain groups and/or people are.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "Not only taking advantage of a global pandemic to push a PR fluff piece out, but also lying through her teeth the whole time, not exactly a good look.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "view in chronology ]  This comment has been flagged by the community.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "Click here to show it , 31 Mar 2020 @ 5:12pm The AEI gets its fair share of funding from the last remaining Koch Brother.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "Fingers crossed that the siblings get reunited real soon.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": "view in chronology ]  PaulT ( profile ), 31 Mar 2020 @ 10:01pm \"But neither Netflix nor European regulators cited any evidence of actual network strain, and the move was entirely precautionary\" ...and very much temporary.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "Once this extraordinary situation is over, everything returns to normal, while Americans continue to get throttled and capped for profit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": "view in chronology ]  ( profile ), 1 Apr 2020 @ 1:04am \"Once this extraordinary situation is over, everything returns to normal, while Americans continue to get throttled and capped for profit.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "Without government interference in how sensible corporations are free to make money without being handicapped by level-field regulations americans will end up having that choice they lose so much.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 105,
+            "sentence": "It's not as if the two or three major telcos would amicably split the US into absolute monopolies where they could overcharge their customers for crappier internet connection than what you'd find in the open wifi of a Latvian coffee shop.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 106,
+            "sentence": "/s I actually wondered if I could cheat Poe, re-read the OP and found that \"nope, I'm still not even closing in on the bona fide lobbyists... [ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 107,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 108,
+            "sentence": "view in chronology ]  genghis_uk ( profile ), 2 Apr 2020 @ 6:44am This seems to have become a bit of a thing in the last couple of years despite a large proportion of Trump's support base only being vaguely aware of where Europe is.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 109,
+            "sentence": "Although, they do know that we are all red socialist, commies and therefore, the US must be better!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 110,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 111,
+            "sentence": "view in chronology ]  ( profile ), 2 Apr 2020 @ 6:32pm Derangement zone This post is more deranged than the typical Bodey McBodeface post, quite an achievement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 112,
+            "sentence": "Nobody takes BroadbandNow seriously as a data source, of course.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 113,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 114,
+            "sentence": "view in chronology ]  ( profile ), 3 Apr 2020 @ 12:04pm Ah, projection, a Deranged Dick classic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 115,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 116,
+            "sentence": "[ reply to this .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 117,
+            "sentence": "view in chronology ]  Sign in now .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 118,
+            "sentence": "Register here Subscribe to the newsletter this is for spambots, do not use this markdown .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 119,
+            "sentence": "Remember name/email/url (set a cookie) Sign in now .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 120,
+            "sentence": "Register here Subscribe to the newsletter this is for spambots, do not use this markdown .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 121,
+            "sentence": "Remember name/email/url (set a cookie) Report this ad .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 122,
+            "sentence": "Explore some core concepts: read all » Report this ad .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 123,
+            "sentence": "12:05 (1) 10:47 (1) 10:42 (1) 09:46 (9) 06:40 (23) 03:34 (9) 19:08 (30) 16:06 (2) 13:28 OK, Landlord (5) 12:01 (7) Report this ad .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 124,
+            "sentence": "RSS Brought to you by This feature is only available to registered users.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 125,
+            "sentence": "or sign in to use it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

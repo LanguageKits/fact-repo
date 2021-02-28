@@ -1,0 +1,451 @@
+{
+    "document_id": -1,
+    "url": "https://arstechnica.com/tech-policy/2019/10/net-neutrality-is-still-the-law-in-washington-state/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "JON BRODKIN ",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:30:45.986245+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to main content Biz & IT RSS Feeds Filter by topic  Biz & IT Front page layout Site theme Black on white White on black Sign in  Comment activity  Sign up or login to join the discussions!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Sign up to comment and more Sign up Net neutrality in US states —  Washington State keeps enforcing net neutrality as it hails FCC court loss FCC failure to preempt keeps Washington State net neutrality law on the books.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Although the Federal Communications Commission abandoned its regulation of net neutrality, it wouldn't be accurate to say there are no net neutrality laws anywhere in the United States.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "No one enforces net neutrality in Washington, DC, but on the opposite coast, the state of Washington imposed a net neutrality law in June 2018 that remains in effect today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The Washington State law prohibits home and mobile Internet providers from blocking or throttling lawful Internet traffic and from charging online services for prioritization.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "First state net neutrality law took effect today, countering FCC repeal The Washington State law cleared its biggest hurdle on October 1 when a federal appeals court vacated the Federal Communications Commission's decision to preempt all state net neutrality laws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Broadband users in Washington State can file net neutrality complaints against ISPs using this general consumer complaint form , a spokesperson for Washington Attorney General Bob Ferguson told Ars.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The AG's office said it wouldn't comment on whether there are any pending net neutrality investigations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The text of the Washington law is available on the state's website here .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Violations of the law are punishable under Washington's .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Washington stands alone Washington is apparently alone when it comes to enforcing a state net neutrality law that applies directly to Internet providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "\"Four states—California, Oregon, Washington, and Vermont—have adopted statutes to regulate broadband providers' network management practices,\" Boston College law professor Daniel Lyons wrote this month in an overview of state net neutrality laws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "and aren't enforcing their laws for now.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Both of those states agreed to suspend enforcement until after all appeals in the FCC case are exhausted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Those agreements came in response to lawsuits filed against the states by broadband-industry lobby groups—and the Trump administration, which sued California .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Oregon's law is still in effect, but it's less strict than Washington's.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Instead of regulating ISPs directly, Oregon forbids state agencies from purchasing broadband service from ISPs that violate net neutrality principles.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "(Vermont's suspended law is similar.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The governors of several other states issued executive orders that also handle net neutrality by imposing requirements on state agencies instead of directly on ISPs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "FCC lacks “blanket authority to stop states” For whatever reason, the broadband industry hasn't sued Washington over its net neutrality law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "\"We've been in the fight for over a year now with no legal challenge,\" State Rep. Drew Hansen (D-Bainbridge Island), author of Washington's net neutrality legislation, told Ars earlier this month.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Hansen doesn't know why broadband lobby groups haven't sued Washington, but he said, \"I figured they would take their shot in California and resolve the issue once and for all there.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Broadband providers were also counting on the FCC to wipe out all state net neutrality laws and executive orders in one fell swoop.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "But that didn't work.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Judges at the US Court of Appeals for the District of Columbia Circuit upheld the FCC's repeal of federal net neutrality rules but vacated the FCC's attempt at a blanket, nationwide preemption.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Why Ajit Pai’s “unhinged” net neutrality repeal was upheld by judges The FCC can still try to preempt state laws on a case-by-case basis, but it may have trouble doing so because the agency eliminated its own Title II authority to regulate net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "\"In any area where the Commission lacks the authority to regulate, it equally lacks the power to preempt state law,\" the judges' ruling said .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Hansen and other Washington State officials expressed confidence in keeping their law in force.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "The appeals court ruling shows that \"the FCC does not have blanket authority to stop states like Washington from passing open Internet laws to protect consumers,\" Gov.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Jay Inslee and Ferguson said in a joint statement after the court decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "\"Washingtonians will continue to have access to a fair, free, and open Internet, thanks to our first-in-the-nation open Internet access law.This is an important victory for our state.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Hansen, who is a lawyer in addition to being a state lawmaker, said he doesn't see anything in the circuit court ruling that makes him concerned about Washington's ability to enforce net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "\"The good news from the DC Circuit opinion is I don't see how a preemption challenge succeeds,\" he said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Hansen added that the ruling \"clearly gives space for states to act... so now you hope as many other states as possible follow Washington's and California's lead and enact these protections on a state level, and it becomes a de facto nationwide standard.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Hansen said the bipartisan support for net neutrality shows that no one wants Internet access to be \"controlled by a handful of giant cable companies.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The Washington State legislation passed both chambers of the legislature by wide margins .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "\"If this can happen with bipartisan support in Washington State you think well, there's no reason it couldn't happen in any other state regardless of which party controls state government,\" Hansen said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "reader comments 71 with 54 posters participating Share this story Jon is Ars Technica's senior IT reporter, covering the FCC and broadband, telecommunications, wireless technology, and more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "jon.brodkin@arstechnica.com // @JBrodkin You must login or create an account to comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "← Previous story Next story → Powered by RSS Feeds Advertise with us Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Sign me up → CNMN Collection (updated 1/1/20) and (updated 1/1/20) and (effective 8/21/2018).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Ars may earn compensation on sales from links on this site.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Read our affiliate link policy .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

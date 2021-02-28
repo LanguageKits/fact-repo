@@ -1,0 +1,321 @@
+{
+    "document_id": -1,
+    "url": "https://blogforiowa.com/2020/03/01/reminder-this-election-could-decide-net-neutrality/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Dave Bradley",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:43:18.920703+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "March 1, 2020 by Net Neutrality – hope you haven’t forgotten about it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Currently, the FCC has the ability to determine whether the internet is classified as either an information service or a telecommunications service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "If the internet is defined as an information service, then cable internet providers would not be regulated as common carriers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "If they are not regulated as common carriers then the ISPs (Internet Service Providers) make the rules concerning who has access and what that access consists of.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "This is the Republican dream for controlling internet access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Since the FCC was given the ability to determine how the internet is classified, then when the leadership at the FCC changes, then the classification of the internet can be changed from information service (Republican position) to a common carrier and thus regulated (Democratic position) and thus neutral in internet access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Internet neutrality was an issue in 2016.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "When Republicans won the White House the majority of the FCC became 3 to 2 Republican and the change from the net neutrality of the Obama era came in December of 2017.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Court cases have so far kept the change from being fully implemented by the ISPs such as Verizon.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "A quick discussion of the current state of internet neutrality can be found at publicknowledge.org According to the article, net neutrality as defined under Barack Obama’s FCC, led by Tom Wheeler, was affirmed by the courts in May of 2017.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Unfortunately in December of 2017, the Trump FCC reversed that stand and defined the internet as an information service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "From the article: Commissioner Ajit Pai was appointed Chairman of the FCC in January 2017.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "In response to his plans to eliminate net neutrality, there was a public outcry in support of net neutrality that was even greater than what the FCC had experienced in 2015.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Despite this, Chairman Pai circulated his proposal for repeal in November 2017, and the proposal was passed in December 2017 , overturning the Open Internet Order.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "According to an article on Ars Technica the original decision in a case known as Brand X allowed the FCC to change the classification: But the Supreme Court ruling in didn’t lock the FCC into classifying cable as an information service forever.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Instead, Brand X allowed the FCC to classify Internet service as either an information service or telecommunications as long as it provided a reasonable justification.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "This allowed the FCC to subsequently change its classification decision multiple times.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Under US communications law, telecommunications is defined as “the transmission, between or among points specified by the user, of information of the user’s choosing, without change in the form or content of the information as sent and received.” It’s up to the FCC to decide whether that definition accurately describes broadband, and Republican and Democratic administrations have come to opposite conclusions.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Obama-era FCC in February 2015 decided that both home and mobile broadband services were telecommunications, and it regulated the industries under Title II in order to impose net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The Trump-era FCC reversed that decision in December 2017 , deciding that broadband isn’t telecommunications, and thus deregulated the industry.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Brand X tied judges’ hands to such an extent that Circuit Judge Patricia Millett upheld FCC Chairman Ajit Pai’s net neutrality repeal despite calling his claim that broadband isn’t telecommunications “unhinged from the realities of modern broadband service.” Pai’s repeal of net neutrality rules could still be appealed to the Supreme Court .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "So it appears that unless Brand X is somehow changed then the party in power has the ability to change the classification of the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "As noted in the Ars Technica article, Justice Thomas is itching to change the decision in Brand X – a decision that he wrote the majority opinion for.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "I am sure you can guess what Thomas wants to do – change the decision so that the FCC designation becomes permanent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Thus we need to get the FCC back in Democratic hands before the FCC has an opportunity to make the current classification of the internet as an information service is made permanent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "LinkedIn Like this: retired in West Liberty        View all posts by Dave Bradley → This entry was posted in #trumpresistance , 2020 election campaign , , and tagged , FCC , net neutrality .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "← → IndivisibleIowa.us Upcoming Events – Contact us @ blogforiowa@outlook.com to add your event Volunteer for the View BlogForIowa’s profile on Facebook View @BlogForIowa’s profile on Twitter Search for: Enter your email address to follow this blog and receive notifications of new posts by email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Click to follow via email #iapolitics #nobakken #trumpresistance ACA affordable care act ALEC ALEC in Iowa CAFOs in Iowa climate change corporate greed corporate media dave loebsack education energy environment evil GOP fallon forum farming FCC global warming Great march for climate action gun control Iowa GOP Iowa legislative forums Iowa legislature 2015 Iowa legislature 2017 Iowa legislature 2018 Iowa politics Iowa water quality jobs joni ernst koch brothers labor media reform medicaid medicaid privatization medicare net neutrality nuclear abolition nuclear disarmament nuclear power obamacare politics president obama sustainability April 2020 (41) March 2020 (43) February 2020 (38) January 2020 (42) December 2019 (37) November 2019 (38) October 2019 (39) September 2019 (42) August 2019 (41) July 2019 (38) June 2019 (43) May 2019 (39) April 2019 (40) March 2019 (44) February 2019 (38) January 2019 (40) December 2018 (42) November 2018 (39) October 2018 (40) September 2018 (41) August 2018 (41) July 2018 (48) June 2018 (42) May 2018 (41) April 2018 (41) March 2018 (48) February 2018 (40) January 2018 (45) December 2017 (40) November 2017 (40) October 2017 (41) September 2017 (38) August 2017 (45) July 2017 (44) June 2017 (42) May 2017 (42) April 2017 (45) March 2017 (48) February 2017 (45) January 2017 (50) December 2016 (42) November 2016 (45) October 2016 (41) September 2016 (45) August 2016 (42) July 2016 (48) June 2016 (38) May 2016 (49) April 2016 (41) March 2016 (40) February 2016 (42) January 2016 (44) December 2015 (45) November 2015 (47) October 2015 (44) September 2015 (46) August 2015 (53) July 2015 (70) June 2015 (44) May 2015 (48) April 2015 (45) March 2015 (49) February 2015 (46) January 2015 (53) December 2014 (39) November 2014 (51) October 2014 (45) September 2014 (48) August 2014 (53) July 2014 (53) June 2014 (54) May 2014 (54) April 2014 (42) March 2014 (49) February 2014 (41) January 2014 (54) December 2013 (48) November 2013 (53) October 2013 (57) September 2013 (55) August 2013 (79) July 2013 (71) June 2013 (51) May 2013 (49) April 2013 (52) March 2013 (50) February 2013 (47) January 2013 (56) December 2012 (51) November 2012 (45) October 2012 (52) September 2012 (53) August 2012 (54) July 2012 (46) June 2012 (55) May 2012 (46) April 2012 (49) March 2012 (58) February 2012 (52) January 2012 (53) December 2011 (50) November 2011 (56) October 2011 (71) September 2011 (57) August 2011 (66) July 2011 (43) June 2011 (46) May 2011 (44) April 2011 (66) March 2011 (72) February 2011 (63) January 2011 (51) December 2010 (58) November 2010 (47) October 2010 (64) September 2010 (45) August 2010 (42) July 2010 (43) June 2010 (54) May 2010 (50) April 2010 (49) March 2010 (55) February 2010 (40) January 2010 (35) December 2009 (40) November 2009 (34) October 2009 (39) September 2009 (31) August 2009 (46) July 2009 (28) June 2009 (35) May 2009 (30) April 2009 (31) March 2009 (33) February 2009 (28) January 2009 (30) December 2008 (29) November 2008 (35) October 2008 (40) September 2008 (33) August 2008 (23) July 2008 (26) June 2008 (26) May 2008 (27) April 2008 (26) March 2008 (26) February 2008 (26) January 2008 (27) December 2007 (21) November 2007 (21) October 2007 (28) September 2007 (23) August 2007 (23) July 2007 (25) June 2007 (27) May 2007 (30) April 2007 (24) March 2007 (31) February 2007 (29) January 2007 (29) December 2006 (22) November 2006 (25) October 2006 (29) September 2006 (28) August 2006 (25) July 2006 (25) June 2006 (37) May 2006 (32) April 2006 (21) March 2006 (6) February 2006 (41) January 2006 (45) December 2005 (26) November 2005 (32) October 2005 (39) September 2005 (50) August 2005 (55) July 2005 (57) June 2005 (47) May 2005 (62) April 2005 (57) March 2005 (66) February 2005 (49) January 2005 (59) December 2004 (63) November 2004 (55) October 2004 (112) September 2004 (120) August 2004 (111) July 2004 (123) June 2004 (96) May 2004 (102) April 2004 (97) Blog for Iowa is paid for privately to the tune of $15 a month by Dr. Alta Price of Bettendorf, Iowa.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Post to Post was not sent - check your email addresses!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Email check failed, please try again    Sorry, your blog cannot share posts by email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "%d bloggers like this:",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

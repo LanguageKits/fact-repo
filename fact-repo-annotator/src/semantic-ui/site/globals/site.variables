@@ -1,0 +1,9 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@headerFont        : 'Roboto','PT Sans Narrow','Lato','Open Sans', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+@pageFont          : 'Roboto','PT Sans Narrow','Lato','Oswald', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+@googleFontFamily  : 'Roboto','PT Sans Narrow','Lato', 'Open+Sans:400italic,400|Oswald:400,700';
+
+@lightgrey             : #D3D3D3;

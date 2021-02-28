@@ -1,0 +1,161 @@
+{
+    "document_id": -1,
+    "url": "https://disrn.com/news/norwegian-scientist-claims-coronavirus-was-made-in-chinese-lab",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:54:46.221586+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": " CORONAVIRUS  Norwegian scientist claims coronavirus was made in Chinese lab by \u00b7 Jun 8th, 2020 2:07 pm 14 A Norwegian scientist has claimed the novel coronavirus that has infected more than 6.7 million people worldwide was manufactured in a Chinese lab .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "new study published by virologist Birger S\u00f8rensen and British professor Angus Dalgleish has found that the coronavirus' spike protein contains sequences that appear to be artificial.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Their research also revealed the virus' lack of mutation since its discovery, which indicates it was already fully adapted to humans.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "S\u00f8rensen said COVID-19 has properties that differ greatly from SARS, a viral respiratory illness caused by a coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "These properties have never been detected in nature.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "S\u00f8rensen also noted that Chinese scientists were the first to release the sequences his team claimed to have been unnatural.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Sir Richard Dearlove, former head of the British intelligence agency MI6, said he also believes the virus originated in a lab.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "\"I think this started as an accident.This raises the question of whether China will assume responsibility and whether China should pay compensation,\" Dearlove said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "\"It's a risky business if you make a mistake.Look at the stories of the attempts by the leadership to lock down any debate about the origins of the pandemic and the way that people have been arrested or silenced.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "A subscription grants you instant access to members-only opinion pieces, exclusive podcasts, and more!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Click here to login.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "There are 14 comments on this article.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "You must become a subscriber or login to view or post comments on this article.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Video footage shows devastation in Minneapolis in wake of riots Hidden treasure worth millions found in Rocky Mountains after decade-long search L.A. County orders all restaurants and bars to cease all in-person dining 12 Colorado county refuses to enforce governor\u2019s new pandemic restrictions 14 FDA authorizes Regeneron virus treatment for emergency use 4 NY sheriffs refuse to enforce Gov.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Cuomo's 10-person holiday limit 36 Trump campaign cuts ties with attorney Sidney Powell 41 MacArthur warns: \"America is in a moral free-fall\" 92 Sidney Powell promises lawsuit of \u201cbiblical proportions,\u201d targets Georgia 8 21 Colorado county refuses to enforce governor\u2019s new pandemic restrictions 14 Chris Christie says Trump\u2019s legal defense team is creating \u201ca national embarrassment\u201d 26 Opinion: Obama\u2019s new book reveals the same old narcissist 18 Appeals court: Bans on same-sex attraction therapy are unconstitutional 13 Florida man rescues his puppy from the jaws of an alligator 6 8 California judge rules strip clubs have First Amendment right to reopen, even as churches remain shuttered 31 Appeals court rules TN can outlaw abortions based on \"sex, race, or disability\" 13 RSS",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

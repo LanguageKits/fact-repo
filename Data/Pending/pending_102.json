@@ -1,0 +1,381 @@
+{
+    "document_id": -1,
+    "url": "https://www.aei.org/technology-and-innovation/telecommunications/the-never-ending-neutrality-pageant/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Bret Swanson",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:41:42.560953+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "We’ve been watching the same performance for nearly two decades.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "And some of us have tired of the amateur computer science and rehashed melodramatic outrage.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "We know the ending, too.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Despite the act — a bill passed this week by the House of Representatives to regulate broadband networks like public utilities — the internet is already free, open, and prosperous.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Most people understand that’s precisely because we didn’t regulate it like a utility.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The Senate won’t pass this bill, and the White House issued a veto threat.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Fifteen years ago, when all this began, net neutrality was a legitimately interesting academic topic of network architecture and public policy.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "But something funny happened: Internet service providers had already adopted the fundamental position of their supposed policy rivals, the net neutrality advocates, as their key broadband business model.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The corporate policy was one of a “free and open” internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Broadband, with its limitless access to the widening world of the web, apps, and video, was rapidly overtaking cable TV, telephony, and mobile voice as the fastest growing and most profitable product of the communications providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The neutrality warriors had won without firing a shot.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Consumers won, too.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The internet was so free and open that most of us now search for tools to avoid drowning in floods of data.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "(See the below chart) Yet the war went on.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The well-meaning search for “neutrality” morphed into a much more cynical campaign, uniting two seemingly disparate armies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "For the political left, the goal was to gain broad governmental control of the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Silicon Valley content, software, and web firms, meanwhile, wanted Washington price controls to help reduce their bandwidth bills.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "As the years went by, the arguments changed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The internet was growing so fast and Silicon Valley was doing so well that it was difficult to pin down the rationale for a new law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "For a while, we needed net neutrality because the US had fallen behind the rest of the world in broadband.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Well, not so much .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Then we needed net neutrality because the ISPs were going to crush Netflix.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Everyone in the industry had long agreed on broad principles of openness, but it was never enough.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "After a while, we didn’t just need neutrality, we needed Title II!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Let’s regulate the internet just like monopoly telephones in 1934!",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "And that’s where we are today: The House bill’s imposition of Title II would subject the most thriving portion of the US economy to crushing bureaucracy and price controls.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "It was humorous, and vindicating, to see one of the chief activists finally admit this week that “#netneutrality is not about blocking, throttling, et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "it’s about whether there will ‘be a cop on the beat.’” In other words, they didn’t care about neutrality, they simply wanted broad authority to regulate the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Or, as I wrote many times, “Net neutrality was never about anything so technical as ‘treating all bits equally’ or anything so economic as protecting ‘innovation at the edge.’ It was about gaining bureaucratic and political control of the digital economy.” Ironies, both comic and tragic, abound.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "First, there already is a “cop on the beat” — the Federal Trade Commission.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Second, after 15 years of empty innuendo that the ISPs would block and throttle your content based on their own financial interests, or even more insidiously, based on your political views, it is the Silicon Valley web and social media firms that are dabbling with politically non-neutral behavior.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "No one has blocked or throttled content — and done so specifically based on disfavored viewpoints — like the web firms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "I still think with some real leadership, these important and innovative firms can regain their footing and recommit to free speech and open platforms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "But imposing Title II on networks would only encourage politicians — left and right — to finish the job and impose novel neutrality rules on speech and search and video and social media, too.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Let’s not allow the last act of this sorry saga to be a boomerang on all US technology.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Learn more: Net neutrality and the culture of contempt .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Some faulty premises of ‘neutrality’ movement — Part I @JBSay , , Net neutrality , March 05, 2019 AEIdeas Net neutrality and the culture of contempt by  February 07, 2019 AEIdeas Some faulty premises of ‘neutrality’ movement — Part I by  RSS About AEI Surprise medical billing 1789 Massachusetts Avenue, NW Washington, DC 20036  Main telephone: 202.862.5800 Main fax: 202.862.7177",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

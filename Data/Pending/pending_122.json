@@ -1,0 +1,381 @@
+{
+    "document_id": -1,
+    "url": "https://www.cato.org/publications/commentary/understanding-net-neutrality",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Peter Van Doren and Thomas A. Firey",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:42:34.658737+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "  Skip to main content  December 14, 2017 • and This article appeared on Cato​.org on December 14, 2017.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The FCC is set to vote on changing how the federal government regulates the internet, and commentators and activists are up in arms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "FCC commissioner Ajit Pai proposes to repeal rules upholding “net neutrality” and replace them with a very simple rule: tell all customers about your services and prices in a transparent manner.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The internet is simply a set of pathways for transmitting packages of 1s and 0s—the basic language of computers—from one computer to another.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "When content (such as email, music, or video) is transmitted, the content is broken down into small packages of information, each of which, is sent separately over the internet to a destination computer, which then reassembles the information packages back into the content.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Network neutrality requires that all the different packages of information be treated and priced alike by internet network providers regardless of who sent them or what information they contain.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "While net neutrality sounds appealing, the actual internet experience that we have come to enjoy and expect actually requires non‐​neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "In the early days of the internet, packets of information were basically treated alike.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "This was back when the internet was a government‐​funded communications system that allowed university researchers to communicate with each other.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "However, when the internet started to allow private internet service providers (ISPs) to connect to the government system in the 1990s, the structure of the internet became more complex.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Private backbones supplemented the original government network, connecting through four backbone network access points.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The four access points almost immediately became congested with traffic, which gave the backbone operators market power over regional ISP providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "To reduce congestion and limit backbone market power, ISPs quickly developed new pathways and connections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Thus since the early days of the private internet there have been multiple paths for packets of information to travel.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Similar packets have traveled over different pathways at different speeds and have long paid differing amounts to do so.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "These arrangements were not anti‐​consumer or anti‐​competitive.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "They were simply what was required to create redundancy and overcome market power.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "In fact, they allowed content providers—websites, media streamers, and others—to reduce costs and increase quality of service because not all uses of the internet are alike in their technical demands on the network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "For instance, email packets don’t have to arrive “simultaneously” for email to “work” but Skype packets do.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The management of those multiple paths and internet uses has been governed by contract, not government regulation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "In fact, during the development of the internet from its early days to the present, regulation, including net neutrality regulation, has actually had very little effect.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The net neutrality regulations that exist today arose out of the rivalry between the different regulatory treatment of traditional telephone service and cable television.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Telephone service had been subject to comprehensive regulation including pricing under Title II of the Federal Communications Act (FCA).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "But except for a brief period in the mid‐​1990s, cable television prices and service had not been subject to such regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "The FCC said no in 2002 and the Supreme Court agreed in 2005.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "But then the FCC began to change its mind.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "First, it tried to enact neutrality regulations using other parts of the FCA than Title II, but federal courts struck down those efforts in decisions in 2010 and 2014.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "So early 2015 the FCC adopted net neutrality rules using traditional Title II public utility provisions.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "In a pair of rulings in June 2016 and May 2017, the D.C.",
+            "fact": true,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Circuit Appeals upheld that effort, and the rules finally went into effect.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "So the legal net neutrality regime that the FCC is set to rescind actually has not existed for very long and thus has had practically nothing to do with the internet’s flourishing up till now.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Net neutrality has captured the imagination of pundits and the public, but its effects on the actual technical and legal evolution of the internet have been rhetorical rather than real.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Repeal of the net neutrality rules will not be the death of the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "It will simply return us to the hands‐​off regulatory framework that has nurtured the past two‐​plus decades of the internet revolution.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "and and are Cato Institute senior fellows and editor and managing editor, respectively, of Cato’s journal .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Receive periodic updates on Cato research, events,  and publications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "See our full list of email newsletters YouTube LinkedIn RSS Libertarianism.org HumanProgress.org DownsizingGovernment.org Freedom in the 50 States ElCato.org 1000 Massachusetts Ave, NW Washington, DC 20001-5403 Phone (202) 842 0200",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

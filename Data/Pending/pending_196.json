@@ -1,0 +1,291 @@
+{
+    "document_id": -1,
+    "url": "https://www.cnet.com/news/advocates-push-2020-candidates-to-promise-to-reinstate-net-neutrality/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Marguerite Reardon",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:31:12.667993+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "CNET también está disponible en español.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Activists challenge 2020 candidates to sign net neutrality pledge Not only do they want the open internet rules restored, they want presidential candidates to vow not to take campaign money from telecoms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Aug. 26, 2019 3:08 p.m. PT Net neutrality advocates want candidates to promise to reinstate Obama-era open internet rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Net neutrality proponents say it's not just enough for 2020 Democratic presidential candidates to say they are in favor of restoring Obama-era open internet rules .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "They want them to sign a pledge, which includes forgoing campaign contributions from the broadband industry and its lobbyists.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Roughly 20 groups joined forces in launching a site Monday where they ask the presidential hopefuls to put their money where their mouth is.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "\"The FCC's net neutrality repeal ignored the voices of millions from across the political spectrum, in what ended up being one of the biggest and most undemocratic giveaways to the telecom industry we've ever seen,\" Mark Stanley, a spokesman for the group Demand Progress, said in a statement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Democratic presidential hopefuls Sen. Bernie Sanders (L) and Sen. Elizabeth Warren are big supporters of net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "But groups pushing to reinstate Obama-era rules want candidates to go further.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Other groups pushing candidates to sign onto the pledge included People for the American Way, Color of Change, Daily Kos, Common Cause, Fight for the Future and Democracy for America.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The Republican-led FCC repealed the controversial rules in 2017, two years after Democrats, who then led the FCC, voted to install them.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The rules, which banned internet service providers from blocking or slowing down internet traffic, also reclassified broadband as a public utility, giving the FCC more authority to regulate telephone and cable companies delivering broadband service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The broadband industry vehemently opposed the rules, arguing it would hurt investment in networks.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The repeal has been challenged in federal court, and a decision is expected any day.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Net neutrality has become a partisan issue with Democrats in Congress vowing to restore the 2015 rules, and Republicans saying they support the concept of net neutrality, but not the reclassification of broadband.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Earlier this year, the House of Representatives passed a bill that would restore the Obama-era regulations , including reinstating the utility classification on broadband.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Republican Senate Majority Leader Mitch McConnell of Kentucky has refused to allow a vote on the legislation and called the bill \"dead on arrival.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Nearly all of the 2020 Democrats have said they support net neutrality, and several candidates, including Sens. Bernie Sanders of Vermont,Elizabeth Warren of Mass. , Amy Klobuchar of Minn., Kirsten Gillibrand of New York, and Kamala Harris of California.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Mayor Pete Buttigieg of South Bend, Indiana, has also said he supports net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "These candidates have promised to appoint FCC commissioners who would reinstate the old rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "But pro-net neutrality groups say they want these candidates to go further in their promises.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "They'd also like them to promise not to take any contributions from phone or cable companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "\"For too long, phone and cable companies have exerted in an undue influence in Washington, by pushing unpopular policies that harm the American people's ability to communicate and access crucial services online,\" Demand Progress's Stanley said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "\"It's time candidates fight this corrosive influence by refusing contributions from the telecom industry.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "• Reading Activists challenge 2020 candidates to sign net neutrality pledge • Dec 13 To save net neutrality, Mozilla and others file appeal • Oct 7 Trump calls net neutrality court decision a 'great win' • Oct 3 The net neutrality battle lives on: What you need to know after the appeals court decision • Oct 2 Net neutrality battle moves to the states FCC Notification on Notification off Discuss: Activists challenge 2020 candidates to sign net neutrality pledge Sign in to comment Be respectful, keep it civil and stay on topic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "We delete comments that violate our policy , which we encourage you to read.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Discussion threads can be closed at any time at our discretion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "MORE FROM CNET Upgrade to Windows 10 for free right now The 34 best games on Nintendo Switch The best Wi-Fi routers of 2020 Windows 10 tips and tricks The best VPN services for 2020 About CNET Get the CNET app .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

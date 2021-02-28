@@ -1,0 +1,801 @@
+{
+    "document_id": -1,
+    "url": "https://buffalochronicle.com/2020/03/28/cuomo-may-delay-restrictions-on-e-vapors-to-accommodate-six-week-ban-on-cigarette-sales/",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:51:16.970157+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "NY Senate NY Assembly NY Comptroller NY GOP US Senate US House 26th District Cuomo may delay restrictions on e-vapors to accommodate six-week ban on cigarette sales March 28, 2020 Public health officials close to Governor are assuring key staffers that the administration\u2019s temporary six-week ban on combustible cigarettes \u2014 expected to be announced Monday morning and take effect at 11:59 pm Monday night \u2014 will include a delay to new restrictions on e-vapors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Those restrictions were announced last month and were expected to go into effect this week.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The regulation would have made it harder for smokers to access electronic alternatives to combustible cigarettes, ahead of the State\u2019s devastating COVID-19 crisis \u2014 which is expected to take a particularly harsh toll on smokers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The temporary ban on the sale of combustible cigarettes is intended to reduce the State\u2019s COVID-19 death count, sources familiar with Cuomo\u2019s thinking tell .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "In recent days, new data out of Italy suggest that the nation\u2019s whopping Coronavirus death rate \u2014 now approaching 10% of those who test positive \u2014 is highly correlated to cigarette use.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Italian men smoke cigarettes at rates that far outpace most other developed countries, and the extreme shortage of ventilators there has been the cause of death for tens of thousands of smokers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Cuomo is also considering the suspension of sales taxes on nicotine patches and lozenges and plans to ask executives at to significantly reduce prices on those products for the same six week period.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Those firms are expected to comply with the private request, and President is said to have offered the Governor assurances on a recent phone call that he would \u201cfollow up the request, if necessary.\u201d Public health experts are applauding the temporary ban, while political observers are calling it \u2018politically courageous\u2019.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The tobacco industry has heavily contributed to various Senate and Assembly campaign committees that have been active for many years.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": ", will be rolling out a major public service announcement this week, warning smokers of the increased risk of death during the outbreak, in an attempt to implore smokers to quit immediately.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Filming of that public service announcement is expected late Sunday evening.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "According to Italy\u2019s , smokers with COVID-19 were one-third more likely to have a serious clinical situation than non-smokers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Half of these smokers required a ventilator.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "COVID-19 kills its victims by compromising the respiratory system and reducing oxygen levels in the blood.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Regular cigarette use damages the airways and small air sacs in the lungs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Combustible cigarettes weaken smokers\u2019 lungs by filling them with smoke and tar.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "New York State Health Commissioner Howard Zucker has been advising the Governor to take sweeping actions in response to the COVID-19 outbreak.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "For many weeks, it was observed that women in Italy are better able to overcome the virus than men.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Italian doctors now believe that the statistical difference is attributable to smoking-related gender norms, which are particularly pronounced in the northern regions of the country.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "\u201cWhen a smoker contracts COVID-19, he or she will be far more likely to suffer respiratory system failure, thereby exacerbating New York\u2019s ventilator shortage,\u201d Cuomo plans to say in remarks prepared for Monday.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "\u201cFortunately, medical science informs us that ex-smokers experience significant recovery in lung function and oxygen absorption as soon as they quit smoking.\u201d Former smokers recover 30% of their lung function just two weeks after quitting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "\u201cAny ex-smoker can tell you how, just days after quitting, they were noticeably less out of breath after walking up a flight of stairs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Personally, I have heard hundreds of these stories,\u201d he writes in draft remarks that were made available to Zucker discussed the issue with him privately earlier this week.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The sale of combustible cigarettes causes more than 443,000 deaths annually \u2014 more deaths each year than from murder, car accidents, alcohol or drug use, suicides, and HIV combined.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "It\u2019s estimated that 81,000 people will die from COVID-19.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Gretchen Whitmer and Gavin Newsom are among the \u2018Big State\u2019 governors who are also considering delays to new restrictions on e-vapors, in order to help smokers quit immediately.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "A ban on cigarette sales for the duration of the outbreak will save thousands of lives and will reduce the State\u2019s shortage of ventilators, perhaps by several thousand during its peak \u2014 which is projected to hit the State 20 days from today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "If New York takes immediate action and temporarily bans combustible cigarette sales during this public health crisis, it\u2019s thought that ex-smokers\u2019 respiratory systems will make significant recovery at the very same time that COVID-19 cases are peaking in New York.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "\u201cThis will save lives, and not just the lives of smokers,\u201d the Governor plans to say.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "\u201cEvery former smoker that gets sick, but does not need a ventilator, means one more ventilator is available to keep our aging parents and grandparents alive.\u201d \u201cImportantly, we must also recognize that failing to temporarily ban combustible cigarettes immediately will cause a disproportionate increase in COVID-19 fatalities in minority communities, given the higher prevalence of immuno-deficiencies in these communities,\u201d he plans to note.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "The Governor\u2019s supporters argue that it is more important now than ever to address the public health cost of combustible cigarettes \u2014 not just to save the lives of smokers, but to save the lives of all New Yorkers by mitigating the severity of a ventilator shortage.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "That shortage is expected to impact high-needs populations worst, including those with immune-deficiencies, the elderly, and chronic respiratory illness.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Many have been applauding the Governor\u2019s aggressive response to the Coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "On his order, the National Guard converted the Jacob Javits Convention Center into a 1,000-bed hospital in just days.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "WhatsApp HAMMOND: Fact-checking Mujica\u2019s op-ed   February 9, 2020 BY BILL HAMMOND A fact-check of the newly published op-ed by state budget director Robert Mujica, defending Governor Cuomo\u2019s Medicaid proposals, shows it to include a number of exaggerated or misleading arguments.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The article, published in the Daily News, focuses on Cuomo\u2019s WhatsApp Miner demands that Cuomo \u2018comes clean\u2019 on Tesla dealings   October 14, 2018 \u201cElon Musk\u2019s behavior is causing taxpayers grave concern,\u201d Independent Democrat says Independent gubernatorial candidate Stephanie Miner is calling on Governor Andrew Cuomo to \u2018come clean\u2019 on his signature economic development project with Solar City, now part of Tesla.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Secret lease WhatsApp NY Senate    Senator Coppola will work to repeal the NYSAFE Act   August 26, 2014 Perhaps no other issue this election cycle has as many New Yorkers outraged over the excesses of government overreach than Andrew Cuomo\u2019s NYSAFE Act, which severely infringes on second amendment protections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Republican Mark Grisanti was instrumental to the law\u2019s passage.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "WhatsApp 30 Comments     says: March 28, 2020 at 10:25 pm        Is the state going to hand out nicotine gum because the patches don\u2019t work.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "I for one had a allergic reaction to the patches.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Hives doesn\u2019t help anyone in quitting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "says: March 30, 2020 at 7:21 pm        I\u2019ll drive to Pennsylvania to get mine they are cheaper.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Are we banning sales of alcohol as well says: March 28, 2020 at 10:33 pm        Anyone do the math on this: Tax on a pack of cigarettes in ny state 4.35 Ny state of health estimates 2 million smokers in the state Assuming a pack of day per smoker 6 weeks.. 42 days\u2026 That\u2019s an estimated $365,400,000 dollars of lost revenue\u2026 Just sayin\u2019 Funny not too long ago, they were trying to ban vape products.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Some people just can\u2019t make up their mind says: March 28, 2020 at 10:37 pm        Estimated 365,000,000 Dollar 1/3 of a billion dollar in potential tax revenue loss.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "says: March 29, 2020 at 9:28 am        Marijuana is not legal in NYS.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Even legal medical marijuana does not come in combustible form on NYS.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "says: March 29, 2020 at 11:46 am        The E liquid flavors are not good for anyone lungs including teenagers that are home with Mom & Dad.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Good time to band both of them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "END IT says: April 1, 2020 at 12:23 am        There is no evidence of flavors causing harm.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "The ban should apply to all flavored foods if it does, because all flavors are smells that are inhaled into the lungs, except for salty, sweet, sour, and bitter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Those are the only tastes, and all the rest are actually smells.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "To smell you breath them through your nose and into your lungs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "There is no evidence of nicotine vaping causing harm.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "It is also the most effective method of quitting smoking.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "says: March 29, 2020 at 11:58 am        You will still need ventilators for the E-cig smokers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "We need to STOP IT ALL !",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "says: March 29, 2020 at 12:09 pm        NY riots began 3/29/20.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Historians will debate if the riots were based on the pandemic sweeping the world at the time, or if it was the result of other factors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "One of the favorite versions centers on the actions of New York State to prohibit tobacco use on that day.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "Regardless of the actual cause, those riots quickly exploded into the 2and American Revolution, which we now know incited a global conflagration which resulted in an estimated 1.5 billion deaths, limited nuclear exchanges, and ushered in the famed \u201cNew World Order\u201d.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "says: March 29, 2020 at 1:12 pm        No no Mr. Cuomo, sounds like you\u2019re starting to lean towards a martial law aspect no no Mr. Cuomo don\u2019t be a Mr.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "Potato head all the time why don\u2019t you give up your check for a few weeks and if you have impose that everyone stay home outside of a sensual your not a sensual nun by far\u2026.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "says: March 29, 2020 at 2:59 pm        Really a little too late says: March 29, 2020 at 3:15 pm        Don\u2019t screw up now Governor!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "Don\u2019t start playing a trump controlling people!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "You have much bigger fish to fry other the smoking!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "It\u2019s going too cause a riot you don\u2019t need!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "says: March 29, 2020 at 9:28 pm        Donald Trump is literally the only person who can help us, log-off and wake up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "says: March 30, 2020 at 7:56 pm        Bwahahahaha \ud83d\ude02\ud83d\ude02\ud83d\ude02 david d stucke says: March 29, 2020 at 3:16 pm        black market cigs here we come says: March 29, 2020 at 3:22 pm        Why would you push people too different states too buy!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "says: March 29, 2020 at 5:01 pm        At the end of the day Y\u2019all wanna live or die is the bigger question y\u2019all getting upset bout all this and saying how we don\u2019t need this and that there\u2019s bigger fish to fry well what fish is bigger then trying to save a state that thinks they are invisible and if those people who travel inbetween states to buy cigarettes they should die bc your risking more then just talks heath OK IDK y\u2019all but James y\u2019all are some niece and easily loadable sheep so go ahead and keep blaming y\u2019all issues on other people like trump and Como hell y\u2019all should be looking at Congress bc there the ones who atcully run shit not the president or the govanour says: March 29, 2020 at 5:06 pm        why not close NYC down and control the virus instead of worring about smoking i don\u2019t want those people coming to my state or near my family.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "My family lives in upstate ny.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "says: March 30, 2020 at 12:34 am        Mine too..keep it in the city\u2026already here in my town dont need it worsening says: March 29, 2020 at 7:16 pm        Same hear if I find out someone gave me that dam virus then imma take them out before the virus dose me says: April 5, 2020 at 10:53 am        Okkkkk that\u2019s a bit extra says: March 30, 2020 at 12:33 am        If you ban tobacco products then you need to go ahead and ban alcohol and close liquor stores\u2026it also weakens your immune system.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "One should not be deemed essential and one banned.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "Talk about taking away peoples rights.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "If people want to smoke in their homes who should say they cant.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "The same with drinking.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "People will find a way to get what they need.which will add to the spreading of this virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "Cuomo needs a reality check!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "says: March 30, 2020 at 6:43 pm        Did he ban cigarettes today or not Cancel reply Mohammad bin Salman is considering a $50m, 10% stake in The Chronicle to expand Canadian coverage          November 22, 2020 Rep. Sharice Davids is being vetted for Secretary of Agriculture \u2014 would be first gay cabinet nominee          November 21, 2020 New York\u2019s rising COVID curve casts doubt on Cuomo\u2019s \u2018micro-cluster\u2019 strategy          November 20, 2020 Roger Stone: Trump needs five Democrat votes to be elected Speaker of the House          November 19, 2020 November 19, 2020 Search for: Post was not sent - check your email addresses!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "Email check failed, please try again    Sorry, your blog cannot share posts by email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

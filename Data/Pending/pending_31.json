@@ -1,0 +1,381 @@
+{
+    "document_id": -1,
+    "url": "https://www.vice.com/en_us/article/xgq4xn/white-house-report-is-pure-propaganda-for-atandt-verizon-and-comcast",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:38:40.946589+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "SKIP TO MAIN CONTENT en TV Election 2020 VICE Magazine Experts tell Motherboard that no, rubber stamping the whims of AT&T, Verizon, and Comcast did not result in untold riches for American consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "by Feb 21 2020, 7:38pm In 2017, big telecom lobbyists convinced Congress to eliminate broadband privacy protections that could have reined in the wireless industry\u2019s abuse of consumer location data .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Later that same year, telecom lobbyists convinced the Trump administration to not only eliminate popular net neutrality rules \u2014but much of the FCC\u2019s consumer protection authority .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Three years later and a new White House report claims that both actions generated up to $50 billion in consumer benefits.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "There\u2019s just one problem: none of the claims are actually true.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The central thrust of the White House\u2019s Latest is that taking an axe to industry oversight created untold benefits for consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "When it comes to eliminating oversight of the telecom sector (pages 120-123), the report is particularly creative.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The FCC\u2019s broadband privacy rules, killed in 2017 by a 50-48 vote in the GOP-controlled Senate, would have forced ISPs to clearly disclose what consumer data is being collected and who it\u2019s being sold to.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The rules also required that consumers opt in to the collection and sale of repeatedly abused location and financial data.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "\u201cWe estimate the effect of overturning the opt-in rule to be a net savings of about $11 billion per year,\u201d the report claims, adding that added \u201ccompetition in online advertising\u201d would generate up to $22 billion in additional consumer benefits.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The study also promised that killing net neutrality rules (like restrictions that prohibited ISPs from throttling or price gouging streaming competitors like Netflix ) would deliver tens of billions in additional ambiguous benefits to the American consumer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "\u201cWe find that, by removing vertical pricing regulations, the Trump Administration\u2019s \u2018Restoring Internet Freedom\u2019 order will increase real incomes by more than $50 billion per year and consumer welfare by almost $40 billion per year,\u201d the report said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "But consumer groups, telecom lawyers, and antitrust experts consulted by Motherboard say the White House claims are largely nonsense.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Several were quick to note that the study is one of the most misleading government tech policy reports they\u2019d ever seen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "\u201cThe White House\u2019s claims are not borne from the work of honest analysts,\u201d Derek Turner, Research Director at consumer group Free Press told Motherboard.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "\u201cThis is pure propaganda produced by hacks.\u201d Turner said the report cherry picked and massaged data to reach its desired conclusion, adding that several of the wireless pricing improvements the White House takes credit for were underway before Trump came to office, like the industry\u2019s 2016 return to \u201c unlimited \u201d data plans.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Repealing net neutrality also actually had the opposite impact the White House Report claims, Turner said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "He said his own review of ISP data showed that wired broadband prices dipped 3.6 percent while net neutrality was active, rising 3.8 percent once repealed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Either way, US fixed and wireless broadband prices remain some of the highest in the developed world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The FCC and White House have repeatedly claimed that the FCC net neutrality rules crushed broadband sector investment , another claim that\u2019s been repeatedly disproven by ISP earnings reports , SEC filings, and even the public statements of numerous telecom executives.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "\u201cI think I speak for weary telecom analysts around the nation in longing for a return to fact-based policy debates,\u201d Turner said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Ernesto Falcon, lawyer and resident telecom expert at the Electronic Frontier Foundation, was similarly unimpressed by the White House report.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "\u201cThe White House baseline premise that deregulation in the broadband market has enhanced competition and lowered prices is a work of fiction,\u201d Falcon said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "He added that the US doesn\u2019t even collect broadband pricing data , something the telecom sector has long lobbied against.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "\u201cEvery other country on planet Earth that is moving ahead of the United States on lower prices, gigabit speeds, universality, and fiber infrastructure got there because an expert regulator promoted competition, access, and prevented monopolization,\u201d he said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Instead, the Trump administration has largely been a rubber stamp for one of the least liked and least competitive sectors in American industry.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Experts note the administration\u2019s net neutrality repeal didn\u2019t just kill net neutrality\u2014it neutered much of the FCC\u2019s consumer protection authority, leaving consumers more vulnerable than ever to abuse by telecom monopolies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "For example with the FCC\u2019s oversight now restricted, the agency has done nothing to police a rotating array of bogus fees and surcharges ISPs use to jack up the cost of your bill.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Nor has it stopped ISPs from charging you extra to rent a modem you already own , and has done even less to rein in rampant consumer privacy scandals that continue to plague the sector.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Telecom policy expert Harold Feld said that cherry picking and massaging economic data has been a telecom sector pastime for years.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "The use of such pseudoscience lets industry\u2014and the politicians paid to love them\u2014justify policies that routinely harm American consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "\"One of the fun things about how folks use pseudo-economics in public policy is that you can use it to justify all kinds of price gouging and other consumer harms as \u2018efficiencies\u2019 and then make up a model that produces some suitably impressive number of \u2018consumer surplus\u2019 that makes it all seem OK,\u201d Feld said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "\u201cThis report is like a master class in the genre.\u201d Feld also noted that many of the \u201cefficiencies\u201d the White House brags about were achieved by letting telecom monopolies exploit both their market power\u2014and their ever-expanding access to consumers\u2019 private personal information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "\u201cTo put this in economic terms, the supposed efficiency gains and consequent consumer surplus is entirely captured by the oligopoly ,\u201d Feld said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "\u201cTo translate to English, you're getting ripped off and being told to love it.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "white house FCC net neutrality comcast AT&T telecoms Get a personalized roundup of VICE's best stories in your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Subscribe to VICE Content Funding on VICE 2020 VICE MEDIA LLC",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

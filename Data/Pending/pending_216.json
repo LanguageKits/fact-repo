@@ -1,0 +1,491 @@
+{
+    "document_id": -1,
+    "url": "https://www.acenet.edu/News-Room/Pages/ACE-Higher-Education-Groups-Submit-Brief-in-Support-of-Restoring-Net-Neutrality-Rules.aspx",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:32:03.895408+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "You may be trying to access this site from a secured browser on the server.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Please enable scripts and reload this page.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Turn on more accessible mode Turn off more accessible mode Skip to main content Toggle navigation It looks like your browser does not have JavaScript enabled.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Please turn on JavaScript and try again.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "learn more ​​​​​ ACE Forums ACE Women's Network THE TRANSFORMATION-READY HIGHER EDUCATION INSTITUTION Huron, ACE, and the Georgia Institute of Technology surveyed 495 leaders at four-year, nonprofit colleges and universities to understand areas of opportunity and concern, and how they are preparing for future change.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "read the ebook Women's Leadership ACE will be aiming to provide a “just in time” webinar within two to three days of the release of the final rule to amend the existing Title IX regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "COVID-19 Law and the Courts Veterans Education and the GI Bill 202-939-9355 202-939-9365 HENA@acenet.edu In the midst of the COVID-19 pandemic, our member institutions have found a wide range of ways to respond to the needs of their communities and workers on the front line.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "August 28, 2018 ​​ACE and 19 other higher education associations submitted a brief yesterday to the Federal Communications Commission (FCC) in a case that seeks to reverse the FCC’s repeal of net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The commission rescinded the Obama-era net neutrality rules, designed to prevent broadband service providers from slowing or blocking internet traffic or demanding payment for faster speed across their networks, on a 3-2 party-line vote last December.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The vote followed a contentious comment period in which ACE and other higher education groups identified the negative impact this could have on colleges and universities.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "A series of lawsuits were filed several months ago seeking to overturn the FCC’s ruling.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "They have been consolidated as Mozilla Corporation v. FCC and the United States of America and are now before the U.S. Court of Appeals for the District of Columbia Circuit.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The associations’ brief reiterates a long-held conviction that preserving an open internet is essential for research, education, the free flow of information, and other public interests served by universities and libraries.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "“As a stratified internet emerges, universities and libraries will be squeezed both as content providers and end-users,” they wrote.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "“Providers of internet access have incentives to charge additional fees to certain content providers in return for enhancing their delivery of certain traffic over other traffic or by blocking certain websites altogether.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Eliminating the rules to prevent this behavior risks pushing universities and libraries into the “slow lane,” unable to compete with deep-pocketed commercial content providers, like Amazon and Netflix, for a limited amount of bandwidth.” The groups say that as creators of noncommercial content, colleges and universities and libraries will be less able to rely on the market-based approach and transparency rules that the FCC believes will prevent blocking and throttling.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "As recipients of digital content, institutions’ extensive research and databases subscriptions will become more expensive.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "And the increasing number of students who take all, or some, of their classes online will likely pay a price as well.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Arguments have not yet been scheduled in the case.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "April 22, 2020 COVID-19 has caused tremendous dislocation in education and employment, with implications for the transferability of learning and skills.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Learn about blockchain and its potential to improve learning continuity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Presented on ACE Engage—Create your account.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "April 22, 2020 April 20, 2020 The Office of Management and Budget has concluded its review and approved the Department of Education’s revised proposed expansion of foreign gift and contract reporting requirements under Section 117 of the Higher Education Act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "April 20, 2020 April 2, 2020 ACE and more than 60 other organizations are asking governors to take immediate action to ensure their states provide reciprocity in licensing of health care and mental health care professionals.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "April 2, 2020 This group is designed for those focused on federal higher education policymaking, with opportunities to discuss pressing policy issues.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Only on ACE Engage—Create your account!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "March 30, 2020 ACE President Ted Mitchell called the higher education provisions in the plan, which total approximately $14 billion, “woefully inadequate.” March 30, 2020 March 25, 2020 While this legislation is an improvement from where the Senate started, the amount of money it provides to students and higher education institutions remains woefully inadequate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "March 25, 2020 March 13, 2020 Both houses of Congress are formally opposing Education Secretary Betsy DeVos’s borrower defense rule finalized last September, with both the House and Senate passing resolutions expressing disapproval of the rule.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "March 13, 2020 March 13, 2020 The Department of Education should make changes to the latest version of its proposed expansion of foreign gift and contract reporting requirements, ACE said in comments submitted March 11.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "March 13, 2020 March 12, 2020 As COVID-19 spreads, a wave of campuses are migrating to online-only courses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "In this webinar, an expert panel addressed pressing questions about rapidly adapting your campus for online learning.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Presented on ACE Engage—Create your account.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "March 12, 2020 February 24, 2020 Frazier Benya, senior program officer at the National Academies of Sciences, Engineering and Medicine talks with Lorelle Espinosa and Sarah Spreitzer about how institutions can go beyond legal solutions to tackle the problem.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "February 24, 2020 February 20, 2020 President Trump signed an executive order last March that linked federal research and education grants to campus free speech.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Read ACE's comments on the Education Department's proposed rule implementing the order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "February 20, 2020 The Education Blockchain Initiative, funded by the U.S. Department of Education, will explore uses for blockchain in education and employment, and will fund pilot programs for applying blockchain technologies in higher education.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "February 11, 2020 In its place, ED the department resubmitted a proposal for an expanded information collection request with just one change: It removes the request for unredacted “true copies” of contracts and gift agreements from covered institutions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "February 11, 2020 This microcourse is an introduction on using social media to improve communications while managing a campus crisis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Only on ACE Engage—Create your account!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "January 17, 2020 The House of Representatives voted 231-180 to pass a resolution to block Education Secretary Betsy DeVos' new borrower defense rule from going into effect.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "January 17, 2020 November 25, 2019 ACE to host a webinar on the upcoming revised Title IX campus sexual assault regulations, and one on ED's proposed expansion of requirements for foreign gift and contract reporting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "November 25, 2019 November 8, 2019 The comments, submitted by ACE and 29 other higher education associations, say ED's proposed expansion of the reporting requirements for foreign gifts and contracts under the Higher Education Act exceeds congressional authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "November 8, 2019 November 4, 2019 The Education Department has published its final regulations on accreditation and state authorization distance education, the result of a negotiated rulemaking session earlier this year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "November 4, 2019 November 4, 2019 The House Education and Labor Committee voted to pass a bill to reauthorize the Higher Education Act, the primary law that governs the relationship between the federal government, colleges and universities, and students.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "November 4, 2019 ACE will conduct a webinar providing an overview of the Department of Education's proposed expansion of the requirements pertaining to foreign gift and contract reporting under Section 117 of the Higher Education Act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "ACE's Mission ACE is a membership organization that mobilizes the higher education community to shape effective public policy and foster innovative, high-quality practice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Washington, DC 20036 202-939-9300 secretariat ACE convenes higher education organizations through the Washington Higher Education Secretariat (WHES).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Visit ACE Be the first to learn about industry news, our advocacy work, and our programs and services helping institutions better serve students, faculty, staff, and communities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

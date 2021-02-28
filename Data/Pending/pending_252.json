@@ -1,0 +1,341 @@
+{
+    "document_id": -1,
+    "url": "https://www.scotusblog.com/2018/11/divided-court-denies-review-in-net-neutrality-cases/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Amy Howe",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:50:50.418763+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "SCOTUS Blog Symposium before oral argument in June Medical Services v. Russo Symposium before oral argument in Espinoza v. Montana Department of Revenue Symposium before oral argument in Kelly v. United States 2010-2019 Decade in review Symposium before oral argument in DHS v. UC Regents, Trump v. NAACP and McAleenan v. Vidal Symposium before oral argument in Bostock v. Clayton County and Harris Funeral Homes v. EEOC Editor's Note : Since October, SCOTU...(click to view) Since October, SCOTUSblog has been outside the Supreme Court collecting data and stories from people who traveled to see oral arguments in person during the 2019 term.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Click to follow along with the month-long release of our Courtroom Access project.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Editor's Note : Since October, SCOTUSblog has been outside the Supreme Court collecting data and stories from people who traveled to see oral arguments in person during the 2019 term.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Click to follow along with the month-long release of our Courtroom Access project.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Posted Mon, November 5th, 2018 11:06 am Divided court denies review in “net neutrality” cases This morning the Supreme Court issued orders from the justices’ private conference on Friday.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The justices did not add any new cases to their docket for the term – they did that on Friday afternoon – nor did they call for the views of the U.S. solicitor general in any cases.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "But one order today in particular was significant: The justices declined to review a decision by the U.S. Court of Appeals for the District of Columbia Circuit upholding the Obama administration’s “net neutrality” rules, which (generally speaking) required internet service providers to treat all traffic on the internet equally.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The rules, which were issued in 2015, have since been replaced by a 2018 order by the Federal Communications Commission eliminating net neutrality, so the justices were not expected to weigh in on the merits of these cases.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Today, over a year after the petitions seeking review of the D.C. Circuit’s decision were filed, a divided Supreme Court simply declined to consider the cases, leaving the D.C. Circuit’s decision in place.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The court’s newest justice, Brett Kavanaugh, was expected to recuse himself from voting on the petitions because he had participated in the cases while on the D.C.Circuit, and he did.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Circuit, and he did.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "But Chief Justice John Roberts also recused himself – presumably (although there is no way to know for sure) because he owns stock in one of the companies challenging the rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "With Roberts and Kavanaugh both recused, that left only seven justices.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Justices Clarence Thomas, Samuel Alito and Neil Gorsuch indicated that they would have opted for vacatur, which would have left the D.C. Circuit’s ruling without any precedential value.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "But they would have needed more votes for that result, which they were apparently not able to get with Roberts and Kavanaugh recused.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The justices did not act on several petitions that they have now repeatedly considered at their private conferences, including a challenge to mandatory bar dues, a case involving whether individuals can bring lawsuits to challenge a state’s disqualification of a Medicaid provider, and the case of a high-school football coach who contends that his First Amendment rights were violated when he was fired for praying on the field after a game.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "This post was originally published at Howe on the Court .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "[ Goldstein & Russell, P.C., whose attorneys contribute to this blog in various capacities, is among the counsel to the respondents in these cases.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "However, I am not affiliated with the firm.]",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Posted in , , , , , , , , Divided court denies review in “net neutrality” cases , SCOTUSblog (Nov. 5, 2018, 11:06 AM), https://www.scotusblog.com/2018/11/divided-court-denies-review-in-net-neutrality-cases/     Courtroom access: No “performances,” just a “massive civics lesson” when supreme courts overseas live-stream their hearings    Argument preview: Justices to consider what makes a minister a minister (Corrected)    SCOTUStalk see all Receive a daily email digest from Feedburner by entering your email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "This term's merits cases McAleenan v. Vidal McGirt v. Oklahoma McKinney v. Arizona Peter v. NantKwest Inc. Trump v. Mazars USA, LLP Trump v. NAACP Next term's merits cases Apr 2020 Mar 2020 Feb 2020 Jan 2020 Dec 2019 Nov 2019 Oct 2019 Sept 2019 Aug 2019 July 2019 June 2019 May 2019 Apr 2019 Mar 2019 Feb 2019 Jan 2019 Dec 2018 Nov 2018 Oct 2018 Sept 2018 Aug 2018 July 2018 June 2018 May 2018 Apr 2018 Mar 2018 Feb 2018 Jan 2018 Dec 2017 Nov 2017 Oct 2017 Sept 2017 Aug 2017 July 2017 June 2017 May 2017 Apr 2017 Mar 2017 Feb 2017 Jan 2017 Dec 2016 Nov 2016 Oct 2016 Sept 2016 Aug 2016 July 2016 June 2016 May 2016 Apr 2016 Mar 2016 Feb 2016 Jan 2016 Dec 2015 Nov 2015 Oct 2015 Sept 2015 Aug 2015 July 2015 June 2015 May 2015 Apr 2015 Mar 2015 Feb 2015 Jan 2015 Dec 2014 Nov 2014 Oct 2014 Sept 2014 Aug 2014 July 2014 June 2014 May 2014 Apr 2014 Mar 2014 Feb 2014 Jan 2014 Dec 2013 Nov 2013 Oct 2013 Sept 2013 Aug 2013 July 2013 June 2013 May 2013 Apr 2013 Mar 2013 Feb 2013 Jan 2013 Dec 2012 Nov 2012 Oct 2012 Sept 2012 Aug 2012 July 2012 June 2012 May 2012 Apr 2012 Mar 2012 Feb 2012 Jan 2012 Dec 2011 Nov 2011 Oct 2011 Sept 2011 Aug 2011 July 2011 June 2011 May 2011 Apr 2011 Mar 2011 Feb 2011 Jan 2011 Dec 2010 Nov 2010 Oct 2010 Sept 2010 Aug 2010 July 2010 June 2010 May 2010 Apr 2010 Mar 2010 Feb 2010 Jan 2010 Dec 2009 Nov 2009 Oct 2009 Sept 2009 Aug 2009 July 2009 June 2009 May 2009 Apr 2009 Mar 2009 Feb 2009 Jan 2009 Dec 2008 Nov 2008 Oct 2008 Sept 2008 Aug 2008 July 2008 June 2008 May 2008 Apr 2008 Mar 2008 Feb 2008 Jan 2008 Dec 2007 Nov 2007 Oct 2007 Sept 2007 Aug 2007 July 2007 June 2007 May 2007 Apr 2007 Mar 2007 Feb 2007 Jan 2007 Dec 2006 Nov 2006 Oct 2006 Sept 2006 Aug 2006 July 2006 June 2006 May 2006 Apr 2006 Mar 2006 Feb 2006 Jan 2006 Dec 2005 Nov 2005 Oct 2005 Sept 2005 Aug 2005 July 2005 June 2005 May 2005 Apr 2005 Mar 2005 Feb 2005 or Round-up Academic Round-up Cases in the Pipeline Editor’s Notes Emergency appeals and applications Empirical SCOTUS SCOTUStalk SCOTUS for law students On Monday, the court released orders from the April 24 conference, adding no new cases to the merits docket.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The justices released opinions in Georgia v. Public.Resource.org , and .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "On Friday, the justices will hold their May 1 conference.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Trump v. Mazars USA, LLP see all this term’s cases » Cases granted for this term 58 Cases argued 48 Cases decided 28 Summary reversals 4 Cases granted for next term 18 see all » Symposium before oral argument in and Symposium before oral argument in Symposium before oral argument in Symposium before oral argument in Symposium before oral argument in 2010-2019 Decade in review Symposium before oral argument in Symposium before oral argument in DHS v. UC Regents, Trump v. NAACP and McAleenan v. Vidal Symposium before oral argument in See all special features » Tweets by @SCOTUSblog Apr.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "2020 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 Seminar: Booking.com preview see all Breyer, home in Cambridge, addresses students remotely On Friday, April 3, Justice Stephen Breyer spoke to students at the United Nations International School in New York City.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "The justice gave his talk remotely via video call, while self-quarantining at home in Massachusetts with his wife and daughter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Awarded the Peabody Award for excellence in electronic media.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Awarded the Sigma Delta Chi deadline reporting award for online coverage of the Affordable Care Act decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Awarded the Silver Gavel Award by the American Bar Association for fostering the American public’s understanding of the law and the legal system.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Awarded the American Gavel Award for Distinguished Reporting About the Judiciary to recognize the highest standards of reporting about courts and the justice system.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Awarded the Webby Award for excellence on the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Switch to desktop site Switch to mobile site This website may use cookies to improve your experience.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "We'll assume you're ok with this, but you can leave if you wish.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

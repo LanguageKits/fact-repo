@@ -1,0 +1,291 @@
+{
+    "document_id": -1,
+    "url": "https://medicine-today.net/biolab-for-most-dangerous-pathogens-on-earth-opened-in-wuhan-before-outbreak/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Bruce Wayne",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 18:00:24.519665+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Connect with us brucewayne Published on January 28, 2020 The Wuhan coronavirus—now called 2019-nCoV—is spreading rapidly at an alarming rate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "There are an estimated 900 cases and 26 deaths in China alone in addition to confirmed patients in at least 9 countries with several potential cases inside the United States.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "About 56 million people in several Chinese cities have been placed on quarantine due to the sudden outbreak of a deadly SARS-like virus called 2019-nCoV.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The illness is said to have originated in a seafood market in Wuhan and quickly spread to other areas of China, then Japan, Thailand, South Korea, and the .",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Suspected cases have been reported in Australia and Scotland.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "However, it is possible that there is more to the story as Chinese authorities have been running a censorship campaign to prevent the spread of information about the virus that deviates from official statements.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "One very strange coincidence in the development of this outbreak is the fact that a new biolab, tasked with studying the most dangerous pathogens on earth, recently began operating in Wuhan, where the illness is said to have originated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Another thing Wuhan police said on January 1 that it had summoned eight people who spread “rumors” about the coronavirus situation for questioning and punishment.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Back in 2017, just before experiments at the lab began, the prestigious science journal published an article expressing concerns about pathogens escaping from the new Wuhan lab.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The laboratory is a biosafety level-4 (BSL-4) facility, which is the highest level of biocontainment.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "BSL-4 facilities must meet rigid standards for decontaminating the area as well as workers after every experiment.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "However, BSL-4 labs remain extremely controversial because critics argue that these measures may not be enough to prevent a virus from escaping.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "According to Richard Ebright, a molecular biologist at Rutgers University in Piscataway, New Jersey, the SARS virus has escaped from high-level containment facilities in Beijing multiple times.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "In May of 2019, less than a year before the outbreak began, the U.S. Centers for Disease Control and Prevention (CDC) issued a press release that gave an overview of the projects that the new lab was currently working on.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The projects included SARS, Ebola, Hemorrhagic fever, Lassa fever, avian influenza A(H5N1), Rift Valley fever, and others.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Scientists have examined the genetic code of the new virus and have found that it is more closely related to SARS than any other human coronavirus.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "In BSL-4 labs, researchers can tweak or combine deadly viruses to create mutated strains of the original illness.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "A 2013 report in indicated that scientists in China were creating hybrid viruses in labs.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "“ A team of scientists in China has created hybrid viruses by mixing genes from H5N1 and the H1N1 strain behind the 2009 swine flu pandemic, and showed that some of the hybrids can spread through the air between guinea pigs ,” the article revealed.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The results of the hybrid virus experiment were published in the journal .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Such experiments are usually intended to teach scientists more about certain illnesses so they can be treated and prevented better, but other research has involved intentionally making certain viruses even more deadly than they already were.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Regardless of the motivation, exposing people to these pathogens, even in the most secure of settings, can be risky especially considering the fact that contagions have escaped from secure labs in the past.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "TheMindUnleashed.com Important: The information does not replace professional advice or treatment by trained and recognized physicians.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The contents of medicine-today.net can not and should not be used to independently diagnose or start treatment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "You may also like... brucewayne Click to comment Cancel reply Your email address will not be published.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Required fields are marked * * * This site uses Akismet to reduce spam.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Learn how your comment data is processed .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "brucewayne March 15, 2020 A number of recent photos have appeared on social media, showing the importance of washing your... brucewayne March 13, 2020 While the world is making monumental changes in the face of the COVID-19 pandemic, a vaccine... brucewayne March 6, 2020 We’ve sifted through hundreds of articles and pulled out the most important developments of the last... brucewayne March 5, 2020 Coronavirus has evolved into two major lineages and it is possible to be infected with both,... brucewayne February 29, 2020 Summary: US coronavirus case total hits 63, 2nd case ‘of unknown origin’ confirmed US issues travel...",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

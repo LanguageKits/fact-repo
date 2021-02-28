@@ -1,0 +1,41 @@
+{
+    "document_id": -1,
+    "url": "https://www.nowtheendbegins.com/johns-hopkins-bill-gates-foundation-event-201-launched-covid-19-coronavirus/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:59:46.941385+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Back to sucuri.net If you are the site owner (or you manage this site), please whitelist your IP or if you think this block is an error please open a support ticket and make sure to include the block details (displayed in the box below), so we can assist you in troubleshooting the issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Block details: Your IP: 69.255.20.177 URL: www.nowtheendbegins.com/johns-hopkins-bill-gates-foundation-event-201-launched-covid-19-coronavirus/ python-requests/2.25.0 Block ID: BNP005 Block reason: Bad bot access attempt.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "2020-11-23 12:59:45 Server ID: 14006",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

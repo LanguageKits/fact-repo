@@ -1,0 +1,101 @@
+{
+    "document_id": -1,
+    "url": "https://articles.mercola.com/sites/articles/archive/2020/02/04/novel-coronavirus.aspx",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 18:00:22.008905+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As of February 2, 2020, mainland China reported 17,187 confirmed cases of novel coronavirus-infected pneumonia (NCIP), including 362 deaths.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The first case was reported in December 2019.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Since then, cases have also been reported in at least 23 other countries, including the U.S., Canada, Australia, Japan, Thailand, Vietnam, Singapore, Taiwan, South Korea and France.",
+            "fact": true,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "View our privacy policy Subscribe for FREE to the #1 Natural Health Newsletter or Login for Instant Access Unlock censored health information that Google doesn't want you to read Keep your privacy secure — we are one of the few websites that have banned all Google and Facebook scripts to help stop their surveillance capitalism Get access to all of Dr. Mercola's health articles, E-books and special reports 12,883 people subscribed in the last 7 days .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "View our privacy policy 3 Reasons to Subscribe: 1 Unlock censored health information that Google doesn't want you to read 2 Keep your privacy secure — we are one of the few websites that have banned all Google and Facebook scripts to help stop their surveillance capitalism 3 Get access to all of Dr. Mercola's health articles, E-books and special reports 0 0 By continuing to browse our site you agree to our use of cookies, revised and .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "I agree : : : EN русский 中文 日本語 한국어 Sign in русский 中文 日本語 한국어 If you want to use an article on your site please click here .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "NVIC IFOAM - Organics International CANWI AHVMF Mercola.org FAQ Sign in Subscribe to the FREE #1 Natural Health Newsletter Mercola proudly supports these charities and organizations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "IFOAM - Organics International CANWI AHVMF Inside Mercola.com GMO If you want to use an article on your site please click here .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "× Sign in or to continue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

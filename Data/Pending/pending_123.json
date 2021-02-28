@@ -1,0 +1,461 @@
+{
+    "document_id": -1,
+    "url": "https://www.kqed.org/lowdown/29087/net-neutrality-and-the-fight-for-internet-control",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Matthew Green",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:42:38.280961+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Election 2020 more more more more TV KQED is a proud member of Always free.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Election 2020 Always free.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Whether you’re heading to Amazon or your grandma’s cat grooming blog, every site and application on the internet is supposed to be delivered at the same speed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "But that's likely to be a thing of the past.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Today (Dec. 14), the Federal Communications Commission voted to scrap so-called net neutrality rules , which prevent internet service providers like AT&T, Verizon and Comcast from speeding up or slowing down content.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The vote strips Obama-era regulations, giving ISPs much greater control over how they deliver content to consumers.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Teach with the Lowdown Suggestions for nonfiction analysis, writing/discussion prompts and multimedia projects.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Browse our lesson plan collection here .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Under the current rules, ISPs -- those companies that maintain your broadband or wireless connections -- are required to treat every site equally and give consumers the same access to all content.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "That means they can’t discriminate by blocking or slowing down the loading speeds of some sites or creating \"fast lanes\" for other sites that pay extra.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Think of the internet as water, and the ISPs as the builders and owners of the pipes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Net neutrality essentially holds ISPs to the same standard as other public utilities, requiring that they deliver their product uniformly and indiscriminately.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Although the modern internet has always operated under net neutrality principles, it wasn’t until 2015 that the then-Democratic controlled FCC -- a five-member bipartisan agency that monitors radio, television, phone, satellite and cable services -- voted to codify and enforce it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The vote reclassified wireless and broadband internet providers as “common carriers,” a designation that gave the FCC authority to regulate the industry like a public utility, in much the same way that other government agencies oversee water and power companies.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "\"Every since the internet was created it's been organized around basic principles of openness, fairness and freedom,\" President Obama said in a 2014 statement .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "\"There are no gatekeepers deciding which sites you get to access.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "There are no toll roads on the information superhighway ...",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Abandoning these principles would threaten to end the internet as we know it.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "But as with so many things under the Trump administration, that’s all subject to dramatic change.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "New FCC chairman Ajit Pai, a Trump appointee, is hell-bent on scrapping the nascent net neutrality regulations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "NOTE: The following NY Times video was produced in advance of the FCC's 2015 decision but the same concepts apply today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Although this all sounds like a big yawn fest, the decision is actually a pretty big deal, especially if you happen to use the internet for, well, just about anything (like reading this blog -- which I hope loaded quickly).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Net neutrality advocates worry that scrapping net neutrality rules will result in major changes to how the Internet operates in the U.S., with big online businesses paying for faster load times, squeezing out smaller players and disrupting service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Consumers could also have to pay a premium for bandwidth-heavy sites, like video streaming platforms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Anticipation of the vote set off a long fight for control of the internet, in what consumer advocacy groups and other opponents have framed as a major curtailment of online free speech that will inevitably lead to less independent content and steeper rates of service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "It also pits telecom titans like AT&T and Verizon, which have fought for years against such regulations, against internet giants like Google, Amazon, Facebook and Netflix, which have all benefited tremendously from a free and open internet where ISPs can't slow down their content.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "The new rules could go into effect as early as January, although court challenges are likely.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "\"Net neutrality is the idea that the internet should be free and open for everyone,\" Facebook CEO Mark Zuckerberg wrote, in advance of a in July organized by tech companies to protest the FCC’s plan.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "\"If a service provider can block you from seeing certain content or can make you pay extra for it, that hurts all of us and we should have rules against it.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "But Pai, who once served on the legal team at Verizon , argues that the current rules are unnecessary and a burdensome example of government overreach that prevent companies from expanding their broadband services and offering customers more service plans to choose from.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "ISPs, he adds, already adhered to the basic principles of net neutrality long before the government stepped in, and that worked just fine.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "“The economics are simple here.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "The more heavily you regulate something, the less of it you’re going to get,” Pai said during a speech in April 2017.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "“Under my proposal, the federal government will stop micromanaging the internet,” Pai added in a more recent statement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "“Instead, the FCC would simply require internet service providers to be transparent about their practices so that consumers can buy the service plan that’s best for them.” Under Pai's plan, ISPs could create multiple tiers of internet service, in which customers would pay different rates based on the different types of online services they want to get.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Some have pointed to internet companies in Portugal as a preview of what these changes might look like.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Portuguese users pay a basic rate for traditional data use but have to pay more for add-ons like video streaming or messaging apps.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "​ The deregulation also allows something called \" paid prioritization ,\" a kind of deal where a company like Netflix could pay a service provider like Verizon for priority delivery and receive special treatment.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Some education advocates are also concerned that the change will be detrimental to students and teachers , many of whom rely heavily on free internet resources in the classroom.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "ISPs would technically be required to let consumers know if they block content or limit how fast certain sites load (known as bandwidth “throttling”), but it's unclear how obvious those notifications would be.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Defenders of net neutrality argue that an open internet is essential for innovation and creativity , giving startups and small companies a fighting chance and ensuring that a wide diversity of web services remains available.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Sites like Netflix, they argue, never would have succeeded without it, because the cable companies controlling the delivery pipes would have \"throttled\" it to avoid competition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "The absence of net neutrality, they say, will inevitably create a pay-to-play outcome, and turn telecom companies into even more powerful gatekeepers of information and entertainment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "\"We haven't actually lived in a world where fully the ISPs could block access,\" Denelle Dixon, chief legal and business officer at Mozilla, told NPR this summer when Pai's plan began taking shape.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "\"This is the world we need to imagine now.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

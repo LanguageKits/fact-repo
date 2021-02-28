@@ -1,0 +1,501 @@
+{
+    "document_id": -1,
+    "url": "https://www.thedailybeast.com/net-neutrality-could-be-make-or-break-for-those-in-real-estate",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:41:13.730956+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "UNINTENTIONAL CONSEQUENCES Why inaction on the FCC\u2019s repeal could forever change the homeownership game Ad by Aug. 08, 2019 12:56PM ET / Apr.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "23, 2019 10:56AM ET The FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "These words are all linked together through one important topic: net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Net neutrality represents the idea that all content on the internet should be treated equally \u2014 and that internet users should have equal access to this content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "In March, Democratic lawmakers introduced a bill to fully restore net neutrality principles in the United States, after the Federal Communications Commission (FCC) rescinded them in December 2017.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Net neutrality\u2019s repeal \u2013 and possible restoration \u2013 could have some surprising effects on small business owners, including real estate agents.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "In fact, neutrality is crucial for both homebuyers and real estate agents, as most real estate business is now conducted online.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "As a result, the real estate industry certainly has a vested interest in the net neutrality debate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": ", which was created under the Obama administration, legally established net neutrality in the United States.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "In the text of the order, the FCC noted that net neutrality rules were established to protect the \u201cfree and open\u201d internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The agency characterized internet service providers (ISPs) as posing potential threats to net neutrality if left unregulated, indicating that, without regulation, ISPs can choose to control consumers\u2019 access to content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "\u201cThreats to Internet openness remain today,\u201d the agency wrote in the order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "\u201cThe record reflects that broadband providers hold all the tools necessary to deceive consumers, degrade content or disfavor the content that they don\u2019t like.\u201d These net neutrality rules remained in place through the Obama administration.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "However, Ajit Pai, the Trump administration\u2019s FCC chairman, decided to rescind many of the net neutrality provisions in the Open Internet Order, saying they were overly regulatory , NPR reported.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Under Pai\u2019s leadership, the FCC passed the in December 2017 \u2013 and the act went into effect in June 2018.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "As NPR described, under the Obama administration\u2019s FCC, ISPs were prohibited from blocking or throttling (slowing) content and from making companies or consumers pay to have certain internet content load faster than other content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Under the current FCC, these practices are now allowable, as long as ISPs disclose that they are engaging in them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "ISPs have generally supported the repeal of net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "However, many others, including consumers and small business owners, have pushed back against the change.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Notably, a survey conducted by the University of Maryland found that 86 percent of Americans said they opposed ending net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "As a result, Congress has repeatedly attempted to overturn the FCC\u2019s decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Most recently in, March 2019, Democratic lawmakers introduced the aforementioned Save the Internet Act in the House and Senate, which seeks to reinstate the 2015 net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Multichannel, a telecommunications news site, reported that congressional Republicans have also introduced three different net neutrality bills of their own, which all generally seek to prohibit ISPs from blocking content and from engaging in paid prioritization of content \u2014 though they differ in how ISPs should be classified.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Notably, the Democrats\u2019 bill, along with the Open Internet Act, classifies ISPs as Title II (common carrier) providers, which makes them subject to the rigid regulations that govern telecom networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "On March 12, The Hill reported that the House Energy and Commerce Subcommittee on technology held a hearing on the Save the Internet Act .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "At the hearing\u2019s conclusion, the committee\u2019s chairman, Mike Doyle, suggested that the bill will advance for a vote in both the House and Senate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "What\u2019s at Stake for Real Estate Generally, ISPs haven\u2019t made drastic changes since the repeal of the rules occurred in June 2018.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "However, there\u2019s concern among consumers and small business owners that new and costly ISP policies could quickly result if net neutrality provisions are not restored.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "For real estate brokers, these concerns are multi-faceted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "As Connected Real Estate magazine described, without net neutrality laws, ISPs can accept payments from companies seeking to prioritize their online content over their competitors\u2019.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "This paid prioritization model means that ISPs could choose to speed up the loading time of the websites or mobile platforms of the companies paying them \u2013 and slow down the loading speeds of other companies\u2019 internet platforms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Paid prioritization puts big businesses at a distinct advantage over small businesses, as big businesses will be able to more readily afford to pay ISPs to prioritize their content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Resultantly, consumers will be more likely to access big businesses\u2019 online content as opposed to content from small businesses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "business of real estate is increasingly conducted online.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Streaming video, virtual tours and voice-over-internet-protocol are just some of the technologies that are commonly used by real estate professionals today,\u201d the organization noted on its website.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "\u201cIn the future, new technologies will be adopted which will no doubt require unencumbered network access.\u201d In addition to making paid prioritization of internet content a distinct possibility, a lack of net neutrality rules could impact real estate brokers and consumers in other harmful ways.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Real estate has become much more technology-centric in recent years, but, if net neutrality remains repealed, brokers and consumers may have to alter their approach to home buying and selling \u2014 including through relying less on innovative and convenient services like video tours and mobile real estate applications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "\u201cWith the cost of bandwidth affecting access, it is likely that fewer people will opt to access bandwidth-heavy forms of media like videos,\u201d Jeff Miller, the co-founder of AE Home Group, told Cornerstone Home Lending in a December 2017 interview about net neutrality\u2019s implications on the industry.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Jeffrey Berthiaume, the founder and CTO of LoanBot, a lead-generating service for real estate professionals, summarized these implications for Cornerstone Home Lending.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "\u201cAs an example, if a major real estate website paid for \u2018enhanced bandwidth,\u2019 they could ensure that other small[er] \u2026 sites get reduced bandwidth.\u201d Berthiaume added that these smaller real estate websites would then \u201chave to pay additional fees to that ISP and could pass on those fees as part of closing costs to the end consumer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "If they targeted specific metro areas, it could even start to affect housing prices \u2026,\u201d he said to the organization.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "\u201cThere would be no upper limit to what an ISP could charge.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Or what certain \u2026 mortgage lenders might pay in order to get an advantage.\u201d Because of the profoundly negative effect that net neutrality\u2019s continued repeal could have on both real estate brokers and consumers, the NAR has repeatedly spoken out against the repeal of net neutrality provisions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Just ahead of the FCC\u2019s repeal of the rules in late 2017, then-NAR President Elizabeth Mendenhall emphatically decried the rollback of net neutrality rules in a statement: Technology is an increasingly important part of the way our membership delivers its services, whether through streaming video, drone technology, or other applications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "We remain concerned that a rollback of net-neutrality rules could lead to blocking, throttling, or discriminating against Internet traffic, or even \u2018paid prioritization\u2019 arrangements that put small mom-and-pop businesses at a disadvantage in the marketplace.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "We will continue working with the FCC to share these concerns and ensure a fair and open internet where everyone can succeed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Moreover, since net neutrality\u2019s repeal, the NAR has continued to work with Congress and the FCC to establish net neutrality protections that reflect seven key principles centered around promoting consumer choice as a means of perpetuating a free and open internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "As the most recent net neutrality debate unfolds in Congress, those in the real estate industry will be watching closely to see if the FCC\u2019s decision to revoke net neutrality will be a blip on their radars or something that could potentially impact their online experiences and related business interactions for many years to come.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "The net neutrality issue certainly illustrates the far-reaching consequences that government decisions can have across a host of diverse sectors and consumer groups \u2013 something real estate agents know all too well.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

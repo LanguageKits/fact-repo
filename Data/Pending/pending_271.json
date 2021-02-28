@@ -1,0 +1,31 @@
+{
+    "document_id": -1,
+    "url": "https://www.facebook.com/progressiveUS/posts/136790021163637",
+    "document_category": "Social Media",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:51:51.169183+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "or Fluff Busting ( FB ) Purity CommonDreams Today at 12:10 PM Today at 10:15 AM ... ansactions Worth $158 Million as Covid-19 Spread \"As Covid-19 cases began to increase, senators and representatives from both parties traded securities—many related to the pandemic itself.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Today at 7:15 AM ... irus Hit The government estimated that the economy shrank at a 4.8% annual rate in the first three months of this year, the sharpest quarterly drop since the 2008 financial English (US) 中文(简体) العربية 한국어 हिन्दी 日本語",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,371 @@
+{
+    "document_id": -1,
+    "url": "https://qz.com/1721633/us-net-neutralitys-crushing-defeat-this-week-may-end-up-saving-it/",
+    "document_category": "Blog/magazine",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:38:08.787814+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to navigation Skip to content Become a member LOSE-LOSE Net neutrality is alive and well after this week\u2019s crushing court defeat October 5, 2019 Climate reporter On Oct. 1, the Washington DC circuit court of appeals rejected arguments to reinstate net neutrality protections repealed last year by the Republican-led US Federal Communications Commission (FCC).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Telecom companies will now only be subject to \u201clight-touch\u201d federal regulation and are free to block, slow, or otherwise discriminate against content and services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "FCC Chairman and ex-Verizon lawyer Ajit Pai welcomed the ruling (pdf) as a \u201cvictory for consumers, broadband deployment, and the free and open Internet.\u201d Yet his counterpart, FCC commissioner Jessica Rosenworcel, declared just the opposite.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The FCC was \u201con the wrong side of the American people and the wrong side of history,\u201d Rosenworcel said in a statement (pdf).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "\u201cToday\u2019s court decision shows that the agency also got it wrong on the law.\u201d While the court did uphold most of the FCC\u2019s decision, it rejected the agency\u2019s right to strip US states\u2019 of their power to regulate net neutrality as they see fit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "That may make all the difference.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The case, filed last year by a consortium of online advocacy groups and 22 states\u2019 attorneys general against the FCC, is the latest skirmish in more than 20 years of fighting over how to regulate the internet and telecoms industries since the passage of the 1996 Telecommunications Act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The act created two potential classifications for broadband internet: \u201cinformation services\u201d under Title I and \u201ctelecommunications services\u201d under Title II, a common-carrier standard with stricter regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Democrats have historically wanted to regulate telecoms as utilities under Title II to enforce the FCC\u2019s stated principles of a fair and open internet : the freedom to access any lawful internet content and to use any online service or application in a competitive market of providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "This eventually led to the 2015 Internet order under president Obama, formalizing those as principles as rules under Title II.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The Trump Administration, arguing this was inhibiting innovation and investment, succeeded in repealing this order by a 3-2 vote in 2017.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "This victory for the telecoms industry may have just actually delivered them into a hell they\u2019ve tried to avoid for decades: a balkanized regulatory landscape even more restrictive than the one they just escaped.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "In its repeal, the FCC preempted states from imposing their own net neutrality laws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "\u201cNo dice,\u201d the majority opinion responded.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "If the US government chooses to abdicate regulatory authority, the judges argued, it can\u2019t simultaneously take that authority from states.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "\u201cAs a practical matter, the ISPs are going to have to abide by net neutrality,\u201d argued telecommunications lawyer Gary Resnick at the law firm GrayRobinson, as states begin enforcing their own net-neutrality laws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "\u201cIf [telcoms] can\u2019t do it in half the country, they can\u2019t do that anywhere,\u201d he added.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Abiding by net neutrality rules in California, but not for information sent to Ohio, will prove, to say the least, challenging ( see carmakers\u2019 adoption of California\u2019s stricter fuel efficiency standards nationwide).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "\u201dThe FCC,\u201d Resnick argued, \u201clost.\u201d The epic ruling, which runs nearly 200 pages (and is still subject to appeal) not only allows states to re-regulate the internet as they wish ( 34 states have passed or proposed regulation to do so), but it appears to have invalidated lot of federal laws tied to treating the internet as a telecom service not an information service as it is now defined.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "A host of critical laws may no longer apply.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "\u201cThe Commission must have seen this problem coming,\u201d wrote the judges, \u201c[but] the Commission seemed to whistle past the graveyard, implying without reasoned basis that [existing rules] would continue to govern reclassified broadband.\u201d Two issues\u2014the Lifeline program subsidizing low-income citizens\u2019 access to the internet and rules allowing new internet companies to challenge local monopolies of companies like AT&T; by using their poles\u2014 were remanded to the FCC to ensure they still comply with existing laws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The legal strategy was always risky.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "It relied on everything breaking in the industry\u2019s favor.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "After losing the fight to stop net neutrality at the FCC in 2015, lobbyists doubled down on repealing the national rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "They had to not just overturn the FCC\u2019s decision on net neutrality, but ensure no states could step into the void.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "If they did, the US regulatory landscape would fragment into competing jurisdictions and ISPs would face a costly war on multiple fronts with left-leaning states such as New York, New Jersey, and California empowered to impose even stricter standards on ISPs such as the due to go into effect January 2020.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "That appears to be exactly what happened.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Appeals may be filed to the district court or even the Supreme Court, but categorically stripping all 50 states of authority despite the absence of federal regulation seems dead on arrival.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Parties still have the opportunity to challenge state laws on a case-by-case basis, argues USTelecom, the country\u2019s telecom trade association, but it prefers Congress to act on a strong national framework .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Telecoms like Verizon were unwilling to claim the industry won anything this week after a multi-decade war of legal attrition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "\u201cI don\u2019t want to characterize it as win or loss,\u201d Rich Young, a policy spokesperson for Verizon, said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "\u201cThis has been litigated for many, many years and I fully expect the trend to continue.\u201d Laroia, who also wants a clear coherent national standard, said it wasn\u2019t an absolute win for net neutrality advocates, but the future of net neutrality looked better.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "None of the fallout from the most recent decision should come as surprise for telecoms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "\u201cThe hard truth is [net neutrality] was not restored,\u201d he said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "\u201cBut every time cable companies have sued FCC over the rules, it keeps getting worse for them.\u201d Subscribe to the Daily Brief, our morning email with news and insights you need to understand our changing world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Sign me up , , regulation , edited by Mike Murphy , FCC \ud83d\udcac + Add your insights News for the next era, not just the next hour Become a member Emerging industries About us Contact us Help center Send us tips Become a member Download our app Site map Terms & conditions Privacy policy Do not sell my info Ethics and advertising agreements Community agreements Quartz is owned by \u2191 Beam me up, Scotty Update your browser for the best experience.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

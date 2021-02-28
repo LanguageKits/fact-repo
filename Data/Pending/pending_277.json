@@ -1,0 +1,21 @@
+{
+    "document_id": -1,
+    "url": "https://www.facebook.com/ed.harker.7/posts/2472322289744426",
+    "document_category": "Social Media",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:52:04.995284+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "or English (US) 中文(简体) العربية 한국어 हिन्दी 日本語",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

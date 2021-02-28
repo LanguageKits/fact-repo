@@ -1,0 +1,531 @@
+{
+    "document_id": -1,
+    "url": "https://www.benton.org/blog/what-expect-when-youre-expecting-net-neutrality-decision",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:30:55.757729+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Every Tuesday and Friday morning at 10 am (Eastern), scores of journalists, activists, and lawyers stare at the website of the U.S. Court of Appeals for the D.C. Circuit’s “Opinions” page , rapidly refreshing their browsers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "They are waiting for the court’s opinion in the challenge to the Federal Communications Commission’s 2017 decision repealing its own Obama-era network neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Within a few minutes, the court posts new decisions or notes that there will be no decisions that day.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The court’s net neutrality decision may come down tomorrow, next week, next month, or several months from now; with the benefit of lifetime tenure, the judges take as long as they feel necessary to write their opinions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The terms “network neutrality” and “net neutrality” are used here as shorthand.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Technically, what is at issue is whether broadband internet access service is subject to regulation under Title II of the Communications Act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "In 2014, the FCC, under then-Chairman Tom Wheeler, invoked Title II authority to adopt the rules prohibiting broadband internet service providers from engaging in certain business practices; these prohibitions are commonly referred to as requiring network neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "In the case now on appeal, the Trump-era FCC, under Chairman Ajit Pai, held that broadband internet access service is not subject to Title II and, accordingly, repealed the rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Perhaps the most immediate impact of the forthcoming decision will be on the legislative process, as the winning side will have greatly increased leverage in Congress over the next few years.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Indeed, while many participants on all sides of the issue agree that legislation is the best and, ultimately, most likely way to resolve the net neutrality debate, that does not mean that legislation is likely to be enacted any time soon.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The House of Representatives enacted a strong pro-net neutrality bill earlier this year, but even though there are a few Senate Republicans who might join with Democrats to provide majority support for a similar bill, the odds of enactment prior to next year’s elections are remote.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "As to the litigation, since the five-hour-long oral argument on February 1, there has been no shortage of speculation about what the three-judge panel will decide.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "However, there has been less discussion of what may happen once that decision is issued.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The general consensus (including privately expressed views of at least some of those who support repeal of the rules) is that the FCC’s decision will be reversed at least in part.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "However, since this may or may not prove to be the case, it does not change the need to contemplate the various scenarios that might play out after the decision is issued.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "If the FCC’s opinion is upheld in its entirety, the losing parties (public interest groups, states and counties, and tech companies) have three options: First, they can seek rehearing from the full membership of the court sitting en banc .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "(1) Second, whether or not rehearing is requested and denied, they can ask the Supreme Court to hear the case by filing petitions for certiorari .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "As far as Supreme Court review is concerned, as discussed below, the current lineup on the Supreme Court is not a favorable forum, and the parties probably would not want to run the risk of setting an even worse precedent from the highest court.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Or, they can lick their wounds and seek legislative and regulatory changes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The latter option is the most likely, as two of the judges on the panel are among those most likely to be sympathetic to the petitioners, and grant of rehearing in that situation is rather unlikely.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "It is much more difficult to predict what will transpire if the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Circuit reverses the FCC’s decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "There are many different ways in which the court could decide the case.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "In some instances, it may be very difficult for the FCC and supporters in the broadband access service industry to seek rehearing or to take the case to the Supreme Court.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "For one of many examples, if the court largely agrees with the FCC’s legal analysis, but rejects some of its fact-finding (like its determination that the now-repealed rules inhibited investment in broadband), it might return the case to the FCC for a do-over.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "The Supreme Court is disinclined to take a case in such a posture because, depending on how the FCC revises its decision, the need for an appeal may be obviated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Moreover, in some circumstances, such as a directive to reconsider facts about broadband investment as hypothesized above, the FCC and its supporters might believe that it will be possible to obtain a positive outcome after a brief reanalysis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "There are other possible outcomes in which the FCC decision is reversed, but may not be amenable to Supreme Court review.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "The Supreme Court does not agree to hear cases just because a majority may think the lower court decision was wrongly decided.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Circuit judges know that the Supreme Court generally declines to take cases in the absence of a “circuit split” ( i.e., a disagreement among the lower courts) and they will try to avoid creating one.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Absent such a split, the petitioning parties must demonstrate that the case is of overwhelming national importance.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "The Supreme Court does not frequently take cases on that basis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "If the FCC and its supporters can marshal an argument that their appeal is “cert-worthy,” and the court does agree to hear the case, the odds are in their favor as the Supreme Court is probably a more favorable forum for them than the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "While there were not the requisite four votes to hear the FCC’s appeal of the Obama-era decision, the Chief Justice did not participate in the case, likely because of his ownership of some AT&T stock he held at the time, but later sold.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Moreover, while he was on the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Circuit, Justice Kavanaugh wrote a vociferous dissent in the earlier net neutrality case, thus indicating that he will be predisposed to rule in favor of the repeal of the net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Justice Gorsuch, the second newcomer to the court since the last net neutrality case was considered, could be something of a wild card, as he may be torn between his deregulatory philosophy and his disdain for deference to the legal interpretation of federal agencies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "There is one more important factor to consider in handicapping the future of net neutrality: time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Depending on the outcome of the current case, whether there is a remand to the FCC, and when the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Circuit issues its opinion, it may be hard to get the case to the Supreme Court and have it heard and decided before January 2021.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "New FCC membership might be able to reverse (or perhaps “re-reverse”) the current FCC’s decision, and restore the earlier net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "That scenario might result in dismissal of a pending appeal as moot ( i.e., no longer operative) or otherwise vitiating (impairing) its impact.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "For that reason, many of the activists refreshing their webpages each Tuesday and Friday hope that the D.C. Circuit’s decision will come later, rather than sooner.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Stephen F. Williams, one of the judges on the panel that heard the appeal, holds Senior status.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "He cannot vote on whether to grant rehearing, but if the case is ultimately reopened, he will be allowed to sit with the 11 active judges.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "is the Benton Senior Counselor.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Since February 2014, Schwartzman has been writing a monthly column for the Benton Foundation’s blog on telecommunications and media policy issues.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Drawing on his decades of experience in the field, Schwartzman provides analysis of the legal issues in the key communications debates of the day, highlighting how law and policymaking interact.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Find all of Schwartzman's articles here .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Benton, a non-profit, operating foundation, believes that communication policy - rooted in the values of access, equity, and diversity - has the power to deliver new opportunities and strengthen communities to bridge our divides.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Our goal is to bring open, affordable, high-capacity broadband to all people in the U.S. to ensure a thriving democracy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "For subscribe/unsubscribe info, please email headlinesATbentonDOTorg Evanston, IL 60202 847-328-3049 headlines AT benton DOT org Share this edition: PUBLIC INTEREST VOICES FOR THE DIGITAL AGE benton's blog CONTACT for Broadband & Society Evanston, IL 60202 847-328-3040",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

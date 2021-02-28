@@ -1,0 +1,1431 @@
+{
+    "document_id": -1,
+    "url": "https://www.benton.org/blog/social-justice-or-inequality-heart-net-neutrality-debate",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Gigi B. Sohn",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:50:34.988867+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Submitted on March 1, 2019 Friday, March 1, 2019 80 th Thank you, Dean Wildermuth, for that wonderful introduction.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Thank you, Ted Hages and Mike Madison, in absentia, for inviting me to this terrific symposium.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "It’s an honor to be here today, talking about net neutrality, a topic that has nearly consumed my life for the past 17 years!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "I’m really looking forward to being part of the event today – you’ve assembled a great group of experts on a topic that is very timely and incredibly important.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "I’m especially delighted that Representative Mike Doyle will be speaking at lunchtime.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Pittsburgh should be proud that it is represented by the powerful Chair of the House Energy and Commerce Committee’s Subcommittee on Communications and Technology.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "But Pittsburgh should be even more proud that Congressman Doyle is one of the most vocal supporters of net neutrality on Capitol Hill.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "For the uninitiated, net neutrality is the principle that the companies that provide access to the Internet – Comcast, AT&T, Charter and Verizon, among others – should not be able to block, slow down, or otherwise discriminate against any particular content, application, or service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "In other words, the companies providing the on-ramp to the Internet should not be able to pick winners and losers on the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The founders of the Internet built this network of networks precisely so that communication would be controlled by the people at the ends of the network – not by any person or corporation in the middle.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Given the unique gatekeeping role broadband providers have, net neutrality simply codifies the founders’ intent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The open and decentralized nature of the Internet has created the greatest network the world has ever seen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The open Internet has provided enormous economic opportunity to millions and has transformed education, health care, e-commerce, the arts, government services, and politics.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The open Internet has prevented broadband Internet access service providers from favoring some speech over others, allowing anyone with a connection to speak, uncensored , to hundreds of millions of people around the world on about just about any topic you can imagine, be it climate change, food insecurity, criminal justice reform, infrastructure, immigration, foreign affairs or reproductive rights.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Putting the means of communication in the hands of ordinary people has been nothing short of revolutionary.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Entire social movements have flourished because there are no gatekeepers deciding who can speak over the Internet or whether some speakers will get pushed to the slow lane because someone else is willing to pay more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "The Black Lives Matter movement was born in 2013 when 3 black women – Alicia Garza, Patrisse Cullors & Opal Tometi – used the hashtag #BlackLivesMatter on Twitter after George Zimmerman was acquitted of killing Trayvon Martin in Florida.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "It took nearly a million tweets before mainstream media started to cover the protests in Ferguson, Missouri, after the police killing of Mike Brown.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The #MeToo movement, which fights sexual harassment and sexual assault by building a network of survivors, was launched in 2006, but it spread like wildfire on social media in 2017 following sexual abuse allegations against the Hollywood producer Harvey Weinstein.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The Women’s March on Washington, which debuted shortly after President Trump’s election, and was reborn last month, was organized entirely on the web.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "But the open internet has impacted social justice in far more subtle ways.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "It has given a platform for actors, writers, entrepreneurs, musicians, chefs, politicians, and others from marginalized communities to demonstrate their knowledge and talent and smash stereotypes that are often reinforced by mass-market, commercial TV and films.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "And it has allowed people from those communities, like LGBT youth from isolated rural areas, to connect to others like them, validating their loves and their lives.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The open internet ecosystem is in sharp contrast to the mass media I tried to make more democratic as a young lawyer at the Media Access Project, a public interest communications law firm.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Broadcasting and subscription TV services are the antithesis of the Internet – both are top-down, command-and-control technologies where C-Suite executives decide what you watch and when you watch it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Broadcasters decide, based on Nielsen ratings and advertising revenues, what programming will remain on the air.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Similarly, cable system operators control what channel and tier cable networks will get, if they get carriage at all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "At Media Access Project, my colleagues and I worked to preserve and promote behavioral regulations such as the Fairness Doctrine, which required broadcast stations to cover fairly controversial issues of public importance; and structural regulations, like limits on multiple ownership and cross ownership of media properties.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "But we were not successful.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "The Fairness Doctrine was repealed by the George H.W .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "The Fairness Doctrine was repealed by the George H.W. Bush Federal Communications Commission and over the past 20+ years, the courts and the FCC have watered down limits on media ownership so much as to make them virtually meaningless – concentrating more power into the hands of the few and raising the barriers for new entrants, who, of course, tend to be minorities and women.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "The centralized and consolidated nature of broadcasting and cable has played a major role in perpetuating injustice in this country.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "For example, in the 1960s, a number of TV and radio stations in the South refused to cover the civil rights movement, and one TV and radio combination in Mississippi, WLBT, went even further, portraying black people in a bad light and broadcasting outright racist programming and commentary.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "The Office of Communication of the United Church of Christ, working with the NAACP and civil rights leaders including the Reverend Dr. Martin Luther King Jr., asked the FCC to deny the license renewals of those stations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "The FCC agreed, but the stations appealed to the US Court of Appeals for the District of Columbia Circuit, alleging that citizens had no standing to challenge license renewals at the FCC.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The DC Circuit upheld the FCC’s decision and held that citizens had standing to contest FCC licensing decisions in the landmark 1966 case of UCC v. FCC .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "The decision was written by then-Chief Judge Warren Burger, who would go on to become the 15 th Chief Justice of the Supreme Court.While the UCC case was a significant victory, it didn’t do much to change the role of the media as a promoter of racial stereotypes and injustice.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "A year after the UCC case was decided, President Lyndon Johnson created the National Advisory Commission on Civil Disorders, more commonly known as the Kerner Commission.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "The Kerner Commission’s charge was to investigate the causes of the 1967 race riots across the country and to provide recommendations for the future.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Among the many findings in its 1968 final report, the Kerner Commission found “a significant imbalance between what actually happened in our cities and what the newspaper, radio and television coverage of the riots told us happened.” In other words, the disturbances were less destructive, less widespread and less the cause of black-white confrontation than the media portrayed them to be.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "The Kerner Commission was “deeply concerned that millions of other Americans, who must rely on the mass media, likewise formed incorrect impressions and judgments about what went on in many American cities last summer.” The Commission made a number of recommendations to rectify this skewed coverage.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "It recommended, among other things, that the news media expand coverage of the black community through permanent assignment of reporters with expertise in urban and racial affairs; integrate black Americans and activities into all aspects of coverage and content; and recruit more black people into journalism and broadcasting and promote them to positions of responsibility.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Just over 50 years later, many of the goals of the Kerner Commission have largely been left unfulfilled.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Sure, there are news anchors of color both in broadcasting and cable, and marginalized communities are featured in broadcast and cable network entertainment programming, although some, including the Latino-American, Asian-American and LGBT communities, are still underrepresented.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "But the national and local news media still place heavy focus on violent crime in urban areas, even as that crime has decreased in cities over the past 25 years, and news and public affairs programs focusing on marginalized communities are uncommon.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "In the 1970’s, in response to the Kerner report, newsrooms rushed to hire minority journalists.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "But starting in the 1980’s, ownership consolidation, downsizing, and a retrenchment by white bosses combined to reverse diversity gains.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "By 2017, minorities made up less than 17% of the workforce in newsrooms, according to the American Society of News Editors – far from reflecting the diversity of America.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Critically, minority and female ownership of the mass media has decreased over the past 20 years.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "According to the FCC’s latest numbers (which are from 2015 and are in dire need of updating), there are: Just 36 full power TV stations owned by people of color, representing 2.6% of the 1356 full power TV stations in the U.S.; 102 full power TV stations owned by women, representing 7.4%, and 62 full power TV stations owned by Latino/Hispanic persons, representing 4.5%.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "While radio station numbers are slightly better, particularly for AM radio, I couldn’t find anyone who could verify that even one cable system is owned by a person of color.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "That’s a disgrace.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "What the history of mass media teaches us is that broadcasting and cable are unlikely to be a major driver of social justice in the future.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "This is why the Internet and net neutrality are so important – because, as we have seen, an open and decentralized Internet has the potential to promote social justice – to level the playing field, to ensure that marginalized voices can tell their stories unencumbered by the kind of gatekeepers that disseminated inaccurate and skewed stories to the masses during the unrest of the late 1960’s.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "But that potential will not be fulfilled if the companies that provide access to the Internet can pick and choose, for pay or not, what content, applications, and services get to the user faster or with better quality of service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "As the DC Circuit has found twice, because broadband providers are in a unique gatekeeper position, they have both the incentive and the ability to discriminate.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "That’s why the Obama FCC, under Chairman Tom Wheeler, adopted the 2015 Open Internet Order, just over 4 years ago.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Working to help shape and adopt that decision was the proudest moment of my career.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "I’ll never forget trudging through the snow to attend the February 26 meeting where the Order was adopted, carrying the snowshoes that my wife Lara had used during her time clerking in Vermont and which I had told her, over and over, would be of no use in Washington.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "The Commission’s meeting room was packed with supporters, many of whom, like me, had worked years to see that day.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "When the final vote was taken, the room erupted in a standing ovation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "The Order includes the net neutrality rules, which prohibited broadband providers from blocking and throttling Internet content and engaging in what is called “paid prioritization.” We called these 3 rules the “bright line rules.” Paid prioritization is the practice of speeding up traffic in exchange for money or other consideration – what is often called creating “fast lanes.” Of course, if you don’t pay to be in the fast lane, you end up in the slow lane, and the consequences for your organization or business are tremendous.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Studies have shown that as much as a 3 second delay in a website loading will cause Internet users to leave it for another site that loads faster.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "Imagine if you own a website selling artisanal chocolates and have to compete against Mars or Godiva or Lindt.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "All of these companies have the means to pay for a fast lane, but you don’t.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "You’re going to have a hard time succeeding.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "The net neutrality rules also protected against anti-consumer and anticompetitive activities by Internet access providers that don’t fall under the 3 bright line rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "The “general conduct standard” prohibited access providers from “unreasonably interfer[ing] or unreasonably disadvantag[ing]” a consumer’s ability to access and use the content of her choice or an online provider’s ability to make lawful content, applications and devices available to consumers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "Judging by the way the carriers behaved even while the rules were in place, this standard was critical.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "For example, AT&T and Verizon don’t subject their affiliated content to the same data cap restrictions that they do for other content, a practice commonly known as “zero rating.” Technically, this is not “paid” prioritization, but it does discriminate against unaffiliated content – a customer not wanting to pay extra fees for exceeding his data cap will naturally gravitate to the so-called “free” content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "But perhaps most important – and this gets lost in almost every discussion of net neutrality in which I participate – is the fact that by reclassifying broadband Internet access service as a telecommunications service rather than a largely unregulated information service, the Wheeler FCC restored the agency’s undisputed legal authority to protect consumers, promote competition, and ensure affordable access in the broadband market.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "My joy and that of my public interest colleagues and millions of Americans was short-lived.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "On December 14, 2017, the Trump FCC repealed the 2015 Open Internet Order.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "The repeal took effect on June 11, 2018.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "To understand the gravity of the FCC’s decision, it’s important to understand what the repeal of the 2015 Order actually did.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "While the 2017 repeal order is officially called the “Restoring Internet Freedom Order,” I refuse to call it that, because the repeal order actually does the opposite – it takes away Internet Freedom from those who need it most – the public.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "First, the repeal order eliminates all of the bright line net neutrality rules and the general conduct standard.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "In their place, the order adopts nothing but a weaker transparency rule that requires broadband providers to give only the most basic information about how they manage their networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "Second, the FCC almost gleefully abdicated its responsibility to protect consumers, promote competition, and ensure affordable access in the broadband market.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "It did this first by reclassifying broadband Internet access service as a largely unregulated information service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "Then it found, contrary to prior FCC and federal court precedent, that Section 706 of the Telecommunications Act of 1996 wasn’t an independent source of authority for the agency to oversee the broadband market.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "This is nothing short of radical.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "In the 17 or so years that net neutrality has been debated, both Republican and Democrat-controlled FCCs believed that the agency had the authority and indeed the duty to oversee the broadband market.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "They may have disagreed on how to ensure net neutrality – be it through principles or rules or through grounding its authority in different sections of the Communications Act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "But they were all united in the idea that the agency had the responsibility to preserve an open Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "Since the Trump FCC found that it lacked the authority to oversee the broadband market, it explicitly turned enforcement of its new transparency rule over to the Federal Trade Commission.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "But the FTC can only decide whether a broadband provider is engaged in an unfair or deceptive practice – in other words, if your broadband provider tells you that it will block or throttle or engage in paid prioritization, there’s nothing the FTC will do about it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "The abdication of broadband oversight imperils social justice just as much as the repeal of the net neutrality rules themselves.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "Prior to the 2015 Open Internet Order’s repeal, the FCC took responsibility for ensuring that every American had access to broadband at affordable rates.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "It took responsibility for ensuring that broadband users didn’t get ripped off through fraudulent billing or price gouging.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "And it made sure that broadband users’ privacy and personal data were protected.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "Indeed, a direct result of the 2015 Open Internet Order was the adoption of the first-ever broadband privacy rules in 2016.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "But they never went into effect because Congress repealed them the following year.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "As essential as net neutrality is to providing opportunity and empowering marginalized communities, one cannot enjoy the benefits of an open Internet if one can’t afford Internet access service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "Not only is this FCC saying that it has no legal power to ensure affordable Internet access, Chairman Pai has circulated a proposal that would, for all intents and purposes, destroy the small subsidy low-income families can receive today for broadband.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "While that proposal is pending, he is making it as difficult as possible for poor folks to get the subsidy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "This $9.25 payment is called Lifeline, and that’s for good reason – it is the only way that some low-income Americans can afford access to a network that is essential for full participation in our economy, our society, and our educational system.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "Online privacy protections are also critical to ensuring a level playing field for all Americans.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "People of color are most concerned about the information that broadband providers and online platforms like Facebook and Google collect about them.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "And they should be.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": "There is a long history of people of color being surveilled by the government solely because they were civil rights or racial justice activists – a practice that continues today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "In addition, corporations collect and sell some of our most sensitive information to marketers, who then decide what goods and services to sell you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "If you are a certain race or class or live in a certain zip code, you’ll be more likely to receive ads for payday loans or high-interest mortgages.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": "Or you could be blocked from seeing ads for housing in certain neighborhoods or for certain jobs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "If a person can’t feel secure that their privacy is being protected while using the Internet, they may not use the network whether or not they can afford it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 105,
+            "sentence": "I remember when I was working at the FCC visiting a public housing development in Kansas City, where Google Fiber was giving away free gigabit Internet service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 106,
+            "sentence": "When Google representatives first went door to door offering this service, nobody would take it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 107,
+            "sentence": "Residents didn’t believe that a company would give anything away for free.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 108,
+            "sentence": "And they were concerned that Google and the government were going to spy on them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 109,
+            "sentence": "The FCC’s 2016 broadband privacy rules would have required broadband providers to get affirmative opt-in consent from their customers to collect and sell sensitive personal information like health and financial information, children’s information, the content of communications, web browsing and app usage data, and geolocation information.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 110,
+            "sentence": "They also would have required broadband providers to protect their customers’ personal data.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 111,
+            "sentence": "You may have read that AT&T, T-Mobile, and Sprint sold geolocation information for all of their customers to data brokers, who then sold it to bounty hunters who could track individuals at will.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 112,
+            "sentence": "If the FCC’s rules had been in place, the carriers would have been prohibited from selling that information unless the customers gave express permission, which they would have been unlikely to do.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 113,
+            "sentence": "You can thank the Republican majority of the 115 th Congress for the fact that your phone can now be tracked by just about anybody.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 114,
+            "sentence": "The FCC says it’s investigating this gross breach of privacy, but I wouldn’t bet on any outcome that gives those companies more than a slap on the wrist.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 115,
+            "sentence": "The good news in all of this is that since the repeal of the 2015 Open Internet Order, there have been multiple efforts in the courts, in Congress, and in state legislatures to bring net neutrality AND oversight over broadband, back to the American people.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 116,
+            "sentence": "I won’t delve too deeply into any one of these efforts – first because I’ve been speaking for nearly 30 minutes, and, second, because I’m sure the panelists will do so – but I want to highlight out a few.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 117,
+            "sentence": "First, California passed a comprehensive net neutrality law last year that, unlike most of the other state efforts, codifies not only the 3 bright line rules, but also the general conduct standard and the protections for what’s called interconnection – when content providers like Netflix and content delivery networks like Level 3 and Cogent connect directly to broadband providers’ networks.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 118,
+            "sentence": "Most importantly, the California law reinstates the state’s authority over broadband, which was largely repealed by the state legislature, thanks to lobbying by the cable and telephone industries.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 119,
+            "sentence": "The California law has become the standard by which all other state laws will be measured, and New York State has taken up the challenge.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 120,
+            "sentence": "New York State Senator Brad Hoylman recently introduced an equally comprehensive bill, and, without a doubt, there will be a major push by local and national organizations to get this bill passed as well.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 121,
+            "sentence": "Second, many net neutrality watchers are focused on the DC Circuit, which heard oral arguments on February 1 in Mozilla v. FCC , the challenge to the FCC’s net neutrality repeal order.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 122,
+            "sentence": "At nearly 5 hours long, it was an epic oral argument and I was privileged to be in the courtroom next to my former boss, Tom Wheeler.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 123,
+            "sentence": "While only a fool would predict the outcome of a case based on oral argument, I think the pro-net neutrality forces have a good chance of succeeding.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 124,
+            "sentence": "I have absolutely no idea.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 125,
+            "sentence": "But there is one thing of which I am positive - the litigation will continue regardless of who wins.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 126,
+            "sentence": "Finally, just months into the 116 th Congress, Republicans have introduced 3 – yes, 3 -- net neutrality bills.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 127,
+            "sentence": "But let me be clear – all these bills fall far short of reinstating the protections of the 2015 Open Internet Order.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 128,
+            "sentence": "While these bills would codify the 3 bright line rules and one would bar other kinds of discrimination, none address interconnection or zero rating.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 129,
+            "sentence": "Most important, none of these bills reinstate the FCC’s authority to protect consumers, promote competition, and ensure affordable access in the broadband market.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 130,
+            "sentence": "I have no doubt that these bills won’t be the last word on net neutrality in this Congress.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 131,
+            "sentence": "Last year, the Senate, on a bipartisan basis, voted to reinstate the 2015 Open Internet Order, but the effort fell short in the House.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 132,
+            "sentence": "Every poll that I’ve seen – from progressive, conservative, and neutral pollsters – has shown overwhelming support – around 80% - for reinstatement of rules and the FCC’s authority.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 133,
+            "sentence": "We can all expect a busy year and beyond, for net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 134,
+            "sentence": "I feel confident, if not delighted, that we’ll be celebrating the 20 th anniversary of this debate in 2022.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 135,
+            "sentence": "If you want the former, then net neutrality, and an agency that ensures that the Internet is open, affordable, and accessible to all are an absolute necessity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 136,
+            "sentence": "Gigi B. Sohn is a Distinguished Fellow, Georgetown Law Institute for Technology Law & Policy and Benton Senior Fellow and Public Advocate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 137,
+            "sentence": "She is one of the nation’s leading public advocates for open, affordable and democratic communications networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 138,
+            "sentence": "For nearly thirty years, she has worked across the country to defend and preserve the fundamental competition and innovation policies that have made broadband Internet access more ubiquitous, competitive, affordable, open and protective of user privacy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 139,
+            "sentence": "Benton, a non-profit, operating foundation, believes that communication policy - rooted in the values of access, equity, and diversity - has the power to deliver new opportunities and strengthen communities to bridge our divides.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 140,
+            "sentence": "Our goal is to bring open, affordable, high-capacity broadband to all people in the U.S. to ensure a thriving democracy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 141,
+            "sentence": "For subscribe/unsubscribe info, please email headlinesATbentonDOTorg Evanston, IL 60202 847-328-3049 headlines AT benton DOT org Share this edition: PUBLIC INTEREST VOICES FOR THE DIGITAL AGE benton's blog CONTACT for Broadband & Society Evanston, IL 60202 847-328-3040",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

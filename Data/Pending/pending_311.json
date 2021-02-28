@@ -1,0 +1,1761 @@
+{
+    "document_id": -1,
+    "url": "https://www.nytimes.com/interactive/2015/03/12/technology/net-neutrality-rules-explained.html",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:55:53.515273+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "NYTimes.com no longer supports Internet Explorer 9 or earlier.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Please upgrade your browser.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "0 Close search Search NYTimes.com Clear this text input https://nyti.ms/1DaXigW See next articles See previous articles JEFF SOMMER MARCH 12, 2015 Below are excerpts from and analysis of the Federal Communications Commission\u2019s rules and explanations, which were released in 2015.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The introduction lays out the rapidly changing Internet landscape, the rise of giants like Netflix and Etsy, the shift toward over-the-top content services, the Golden Globe award for Amazon\u2019s \u201cTransparent,\u201d and more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "It sets the stage for the sweeping decision that is about to follow.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The open Internet drives the American economy and serves, every day, as a critical tool for America\u2019s citizens to conduct commerce, communicate, educate, entertain, and engage in the world around them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The benefits of an open Internet are undisputed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "But it must remain open: open for commerce, innovation, and speech; open for consumers and for the innovation created by applications developers and content companies; and open for expansion and investment by America\u2019s broadband providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "For over a decade, the commission has been committed to protecting and promoting an open Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "\u2013Paragraph 1 In just a few sentences, the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "reveals the core of the legal action it is taking in this lengthy document.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Here, it uses some crucial terminology: Section 706 of the Telecommunications Act is what the agency had relied on as the grounding for its previous Open Internet Order, which was overturned by the courts.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Title II of the Communications Act gives the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "much broader powers, and by simply invoking it, it would be bringing the full authority of the agency to bear on Internet providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "immediately calls for \u201cforbearance\u201d of some of that authority \u2014 avoiding price-setting, for example.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "This is consistent with President Obama\u2019s call for tougher net neutrality rules with a light regulatory hand.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "But if these rules are challenged in the courts, these core concepts are likely to be questioned.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Carefully tailored rules need a strong legal foundation to survive and thrive.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Today, we provide that foundation by grounding our open Internet rules in multiple sources of legal authority \u2014 including both Section 706 of the Telecommunications Act and Title II of the Communications Act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Moreover, we concurrently exercise the Commission\u2019s forbearance authority to forbear from application of 27 provisions of Title II of the Communications Act, and over 700 Commission rules and regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "This is a Title II tailored for the 21st century, and consistent with the \u201clight-touch\u201d regulatory framework that has facilitated the tremendous investment and innovation on the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "\u2013Paragraph 5 The F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "had to formulate new rules because the courts overturned the previous set in the case cited here.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "And in the paragraphs that follow, the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "suggests that expansion of broadband usage through both landlines and the broadcast spectrum requires expanded regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "The benefits of rules and policies protecting an open Internet date back over a decade and must continue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Just over a year ago, the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Circuit in Verizon v. F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "struck down the commission\u2019s 2010 conduct rules against blocking and unreasonable discrimination.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "\u2013Paragraph 7 The original proposal of Tom Wheeler, the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "chairman, envisioned basing the new net neutrality rules on Section 706, not Title II, but he immediately came under intense criticism .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "began to enshrine the concept of net neutrality in its rule-making under the chairmanship of Michael Powell in 2004 and 2005, it relied on Title II .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "But the courts, in essence, ruled that such a foundation was insufficient to justify the sweeping powers that the agency was assuming.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Mr. Wheeler initially tried to remain within the narrower universe of Section 706 regulations, but he also called for suggestions and criticism, specifically including the possibility of using Title II.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "The Commission, in its May Notice of Proposed Rulemaking, asked a fundamental question: \u201cWhat is the right public policy to ensure that the Internet remains open?\u201d It proposed to enhance the transparency rule, and follow the Verizon court\u2019s blueprint by relying on Section 706 to adopt a no-blocking rule and a requirement that broadband providers engage in \u201ccommercially reasonable\u201d practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The Commission also asked about whether it should adopt other bright-line rules or different standards using other sources of Commission authority, including Title II.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "And if Title II were to apply, the Commission asked about how it should exercise its authority to forbear from Title II obligations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "It asked whether mobile services should also be classified under Title II.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "\u2013Paragraph 10 The outpouring of public response to the F.C.C.\u2019s initial proposal was extraordinary, especially after John Oliver, the HBO satirist, called on viewers to bombard the agency with critical emails.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "says such a response was never envisioned by Congress when it adopted the Administrative Procedure Act, or A.P.A., which established many of the ground rules followed by agencies like the F.C.C.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Here, the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "is engaging in a kind of regulatory martial art: It is making a virtue of its own apparent unpopularity during that period by citing that criticism as a basis for the need to invoke Title II.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Fundamentally, the agency had never entirely eschewed its right to use Title II, which it had held in abeyance.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Now that it is calling on Title II, it may need to lay the foundation for a future court battle, and it is doing so by explaining the reasons for the shift here and in some of the subsequent sections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Congress could not have imagined when it enacted the APA almost 70 years ago that the day would come when nearly four million Americans would exercise their right to comment on a proposed rulemaking.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "But that is what has happened in this proceeding and it is a good thing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "The commission has listened and it has learned.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Its expertise has been strengthened.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Public input has \u201cimprove[d] the quality of agency rulemaking by ensuring that agency regulations will be \u2018tested by exposure to diverse public comment.\u2019\u201d There is general consensus in the record on the need for the commission to provide certainty with clear, enforceable rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "There is also general consensus on the need to have such rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Today the commission, informed by all of those views, makes a decision grounded in the record.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "The commission has considered the arguments, data, and input provided by the commenters, even if not in agreement with the particulars of this order; that public input has created a robust record, enabling the commission to adopt new rules that are clear and sustainable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "\u2013Paragraph 13 What the rules actually prohibit is described in this section.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Between them, blocking, throttling and paid prioritization \u2014 which refer to outright blocking of content, slowing of transmissions, and the creation of so-called \u201cfast lanes\u201d \u2014 encompass most of the practices that net neutrality rules have been intended to eliminate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Because the record overwhelmingly supports adopting rules and demonstrates that three specific practices invariably harm the open Internet \u2014 blocking, throttling, and paid prioritization \u2014 this order bans each of them, applying the same rules to both fixed and mobile broadband Internet access service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "\u2013Paragraph 14 The F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "is reviewing disputes over interconnections on the Internet \u2014 including those that Netflix has had with Comcast, Verizon and other providers \u2014 but it is not subjecting them to the same requirements as those being imposed on transmissions being made directly to people\u2019s homes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "It says that it is not entirely clear about how it ought to proceed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "It will review these issues on a case-by-case basis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "But this order does not apply the open Internet rules to interconnection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "Three factors are critical in informing this approach to interconnection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "First, the nature of Internet traffic, driven by massive consumption of video, has challenged traditional arrangements \u2014 placing more emphasis on the use of CDNs or even direct connections between content providers (like Netflix or Google) and last-mile broadband providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Second, it is clear that consumers have been subject to degradation resulting from commercial disagreements, 28 perhaps most notably in a series of disputes between Netflix and large last-mile broadband providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "But, third, the causes of past disruption and \u2014 just as importantly \u2014 the potential for future degradation through interconnection disputes \u2014 are reflected in very different narratives in the record.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "While we have more than a decade\u2019s worth of experience with last-mile practices, we lack a similar depth of background in the Internet traffic exchange context.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "Thus, we find that the best approach is to watch, learn, and act as required, but not intervene now, especially not with prescriptive rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "This order \u2014 for the first time \u2014 provides authority to consider claims involving interconnection, a process that is sure to bring greater understanding to the commission.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "\u2013Paragraph 30 Cable and telephone companies that provide Internet service have argued that by shifting to Title II regulation, the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "was inevitably moving toward price-setting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "The agency, in response, has said that it will use a light touch.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "Here and in subsequent sections it explains its plans to \u201cforbear\u201d from the kinds of regulatory proceedings to which the old \u201cMa Bell\u201d telephone companies were subjected.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "Today, our forbearance approach results in over 700 codified rules being inapplicable, a \u201clight-touch\u201d approach for the use of Title II.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "This includes no unbundling of last-mile facilities, no tariffing, no rate regulation, and no cost accounting rules, which results in a carefully tailored application of only those Title II provisions found to directly further the public interest in an open Internet and more, better, and open broadband.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "Nor will our actions result in the imposition of any new federal taxes or fees; the ability of states to impose fees on broadband is already limited by the congressional Internet tax moratorium.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "This is Title II tailored for the 21st century.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "Unlike the application of Title II to incumbent wireline companies in the 20th century, a swath of utility-style provisions (including tariffing) will not be applied.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "Indeed, there will be fewer sections of Title II applied than have been applied to Commercial Mobile Radio Service (CMRS), where Congress expressly required the application of Sections 201, 202, and 208, and permitted the commission to forbear from others.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "In fact, Title II has never been applied in such a focused way.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "\u2013Paragraph 37 The F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "says that in the Verizon decision, the court gave it an \u201cimplicit invitation\u201d to \u201crevisit\u201d its classification of much of the Internet as an \u201cinformation service.\u201d It now says that the \u201cretail Internet\u201d -- the portion that most of us see day to day -- is not merely an information service but also an \u201cedge service,\u201d that is, the consumer-facing part of the vast telecommunications network that is the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "This has important legal implications -- essentially, if it is sustained by the courts, it could make such services subject to Title II regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "In the paragraphs that follow, the agency says that not only is it logical to make such a reclassification but it is imperative, given the exponential expansion of Internet use in daily life.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "The Verizon decision thus made clear that section 706 affords the Commission substantive authority, and that open Internet protections are within the scope of that authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "And this Order relies on section 706 for the open Internet rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "But, in light of Verizon, absent a classification of broadband providers as providing a \u201ctelecommunications service,\u201d the Commission could only rely on section 706 to put in place open Internet protections that steered clear of regulating broadband providers as common carriers per se.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "Thus, in order to bring a decade of debate to a certain conclusion, we conclude that the best path is to rely on all available sources of legal authority\u2014while applying them with a light touch consistent with further investment and broadband deployment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "Taking the Verizon decision\u2019s implicit invitation, we revisit the Commission\u2019s classification of the retail broadband Internet access service as an information service and clarify that this service encompasses the so-called \u201cedge service.\u201d \u2013Paragraph 48 Cellphones, iPads and other mobile devices are now subject to the same open Internet rules as landline devices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "President Obama had called for this, too.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "This Order also revisits the Commission\u2019s prior classification of mobile broadband Internet access service as a private mobile service, which cannot be subject to common carrier regulation, and finds that it is best viewed as a commercial mobile service or, in the alternative, the functional equivalent of commercial mobile service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "Under the statutory definition, commercial mobile services must be \u201cinterconnected with the public switched network (as such terms are defined by regulation by the Commission).\u201d44 Consistent with that delegation of authority to define these terms, and with the Commission\u2019s previous recognition that the public switched network will grow and change over time, this Order updates the definition of public switched network to reflect current technology, by including services that use public IP addresses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "Under this revised definition, the Order concludes that mobile broadband Internet access service is interconnected with the public switched network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "In the alternative, the Order concludes that mobile broadband Internet access service is the functional equivalent of commercial mobile service because, like commercial mobile service, it is a widely available, for profit mobile service that offers mobile subscribers the capability to send and receive communications, including voice, on their mobile device.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "\u2013Paragraph 48 While the commission won\u2019t get involved in price-setting and other areas covered by Title II, it says it retains authority to ensure consumer privacy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "Whether it will act as aggressively as many critics demand remains to be seen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "Section 222: Protecting Consumer Privacy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "Ensuring the privacy of customer information both directly protects consumers from harm and eliminates consumer concerns about using the Internet that could deter broadband deployment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "Among other things, Section 222 imposes a duty on every telecommunications carrier to take reasonable precautions to protect the confidentiality of its customers\u2019 proprietary information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "We take this mandate seriously.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "-Paragraph 53 President Obama called for the banning of \u201cfast lanes\u201d on the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "That practice is formally called \u201cpaid prioritization,\u201d and here the commission is banning it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": "On the other hand, the commission is not subjecting interconnection disputes to the same outright ban described here, which appears only to cover traffic from providers like Comcast and Verizon to a consumer\u2019s home.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "Therefore, the slowing of Netflix shows experienced by many consumers last year might not be prohibited by this section of the order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "Disputes of that nature would appear to be subject to specific commission proceedings -- and, perhaps, further legal battles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": "In the 2014 Open Internet NPRM, the commission sought comment on suggestions to impose a flat ban on paid prioritization services, including whether all paid prioritization practices, or some of them, could be treated as per se violations of the commercially reasonable standard or any other standard based on any source of legal authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "For reasons explained below, we conclude that paid prioritization network practices harm consumers, competition, and innovation, as well as create disincentives to promote broadband deployment and, as such, adopt a bright-line rule against such practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 105,
+            "sentence": "Accordingly, today we ban arrangements in which the broadband service provider accepts consideration (monetary or otherwise) from a third party to manage the network in a manner that benefits particular content, applications, services, or devices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 106,
+            "sentence": "We also ban arrangements where a provider manages its network in a manner that favors the content, applications, services or devices of an affiliated entity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 107,
+            "sentence": "Any broadband provider that engages in such practices will be subject to enforcement action, including forfeitures and other penalties.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 108,
+            "sentence": "We adopt the following rule banning paid prioritization arrangements: A person engaged in the provision of broadband Internet access service, insofar as such person is so engaged, shall not engage in paid prioritization.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 109,
+            "sentence": "\u201cPaid prioritization\u201d refers to the management of a broadband provider\u2019s network to directly or indirectly favor some traffic over other traffic, including through use of techniques such as traffic shaping, prioritization, resource reservation, or other forms of preferential traffic management, either (a) in exchange for consideration (monetary or otherwise) from a third party, or (b) to benefit an affiliated entity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 110,
+            "sentence": "-Paragraph 125 By taking a case-by-case approach, the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 111,
+            "sentence": "is embracing what it calls a \u201cno-unreasonable interference/disadvantage standard.\u201d This section, expanded at great length in the document, is likely to attract the attention of legions of lawyers as the precepts of the order are applied in the real world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 112,
+            "sentence": "Using case law, the history of its rulemaking and new empirical data, the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 113,
+            "sentence": "We adopt our tentative conclusion to follow a case-by-case approach, considering the totality of the circumstances, when analyzing whether conduct satisfies the no-unreasonable interference/disadvantage standard to protect the open Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 114,
+            "sentence": "Below we discuss a non-exhaustive list of factors we will use to assess such practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 115,
+            "sentence": "In adopting this standard, we enable flexibility in business arrangements and ensure that innovation in broadband and edge provider business models is not unduly curtailed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 116,
+            "sentence": "-Paragraph 138 People with disabilities will be protected under the order, which could open the way to further action requiring that Internet services and websites are fully available to people who are blind or deaf.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 117,
+            "sentence": "At this point it is difficult to predict how far enforcement actions -- and legal opposition -- may go.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 118,
+            "sentence": "Consistent with some commenters\u2019 proposals, with respect to broadband Internet access service we also do not forbear from applying sections 255 and the associated rules, which require telecommunications service providers and equipment manufacturers to make their services and equipment accessible to individuals with disabilities, unless not readily achievable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 119,
+            "sentence": "-Paragraph 472 The F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 120,
+            "sentence": "predicts that it doesn\u2019t need to review and set Internet pricing because other protections for consumers exist.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 121,
+            "sentence": "Not everyone agrees with this, of course.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 122,
+            "sentence": "Cable and telephone companies are not universally beloved, and their rates are an important reason.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 123,
+            "sentence": "says there is sufficient competition to keep pricing reasonable; and the agency says elsewhere in this document that its \u201clight touch\u201d is intended to keep investment in the Internet flowing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 124,
+            "sentence": "Moreover, as advocated by some commenters, it is our predictive judgment that other protections that remain in place are adequate to guard against unjust and unreasonable and unjustly and unreasonably discriminatory rates and practices in accordance with section 10(a)(1) and to protect consumers under section 10(a)(2).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 125,
+            "sentence": "We likewise conclude that those other protections reflect the appropriate calibration of regulation of broadband Internet access service at this time, such that forbearance is in the public interest under section 10(a)(3).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 126,
+            "sentence": "-Paragraph 497 In this paragraph and the preceding section, the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 127,
+            "sentence": "says that the First Amendment to the Constitution, which protects free speech, is not being abridged by its new rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 128,
+            "sentence": "It says that broadband providers are \u201cconduits, not speakers\u201d but even if they were speakers, entitled to constitutional protections, the rules being enacted are neutral -- aimed at giving everyone access to the Internet\u2019s platform.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 129,
+            "sentence": "The agency may be anticipating a challenge, however.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 130,
+            "sentence": "It refers to Verizon\u2019s contention, in previous litigation, that the Supreme Court\u2019s Citizens United decision, regarding political speech, makes open Internet rules impermissible.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 131,
+            "sentence": "specifically denies this claim.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 132,
+            "sentence": "It\u2019s quite possible that the arguments will be tested further in court.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 133,
+            "sentence": "In sum, the rules we adopt today do not unconstitutionally burden any of the First Amendment rights held by broadband providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 134,
+            "sentence": "Broadband providers are conduits, not speakers, with respect to broadband Internet access services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 135,
+            "sentence": "Even if they were engaged in speech with respect to these services, the rules we adopt today are tailored to the important government interest in maintaining an open Internet as a platform for expression, among other things.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 136,
+            "sentence": "-Paragraph 558 For a taste of the arguments being made against the F.C.C.\u2019s new rules, you need go no further than the document itself.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 137,
+            "sentence": "It includes statements in favor of the order by three Democratic commissioners -- and fervent opposition to it by the two Republicans, who have filed their dissents.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 138,
+            "sentence": "Here, Commissioner Ajit Pai says that the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 139,
+            "sentence": "has abdicated its responsibility to be an impartial and independent institution, free from political interference, and, instead, is following the direct instructions of President Obama.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 140,
+            "sentence": "Americans love the free and open Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 141,
+            "sentence": "We relish our freedom to speak, to post, to rally, to learn, to listen, to watch and to connect online.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 142,
+            "sentence": "The Internet has become a powerful force for freedom, both at home and abroad.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 143,
+            "sentence": "So it is sad to witness the F.C.C.\u2019s unprecedented attempt to replace that freedom with government control.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 144,
+            "sentence": "It shouldn\u2019t be this way.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 145,
+            "sentence": "For 20 years, there\u2019s been a bipartisan consensus in favor of a free and open Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 146,
+            "sentence": "A Republican Congress and a Democratic president enshrined in the Telecommunications Act of 1996 the principle that the Internet should be a \u201cvibrant and competitive free market .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 147,
+            "sentence": "unfettered by federal or state regulation.\u201d And dating back to the Clinton administration, every F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 148,
+            "sentence": "chairman \u2014 Republican and Democrat \u2014 has let the Internet grow free from utility-style regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 149,
+            "sentence": "The Internet has been an amazing success story, changing our lives and the world in ways that would have been unimaginable when the 1996 act was passed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 150,
+            "sentence": "But today, the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 151,
+            "sentence": "It reclassifies broadband Internet access service as a Title II telecommunications service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 152,
+            "sentence": "It seizes unilateral authority to regulate Internet conduct, to direct where Internet service providers put their investments, and to determine what service plans will be available to the American public.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 153,
+            "sentence": "This is not only a radical departure from the bipartisan, market-oriented policies that have served us so well for the last two decades.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 154,
+            "sentence": "It is also an about-face from the proposals the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 155,
+            "sentence": "made just last May.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 156,
+            "sentence": "So why is the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 157,
+            "sentence": "Why is the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 158,
+            "sentence": "We are flip-flopping for one reason and one reason alone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 159,
+            "sentence": "President Obama told us to do so.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 160,
+            "sentence": "-Page 321 Here, Commissioner Michael O\u2019Rielly says the commission is thwarting the will of Congress by injecting its own views and values into legislation written with other purposes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 161,
+            "sentence": "In his dissent, he denies that the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 162,
+            "sentence": "really intends to forbear from \u201cmonopoly-era\u201d Title II regulation, despite its assertions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 163,
+            "sentence": "From top to bottom, he says, the new rules are flawed, implying that they should be contested.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 164,
+            "sentence": "Today a majority of the Commission attempts to usurp the authority of Congress by rewriting the Communications Act to suit its own \u201cvalues\u201d and political ends.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 165,
+            "sentence": "The item claims to forbear from certain monopoly-era Title II regulations while reserving the right to impose them using other provisions or at some point in the future.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 166,
+            "sentence": "The commission abdicates its role as an expert agency by defining and classifying services based on unsupported and unreasonable findings.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 167,
+            "sentence": "It fails to account for substantial differences between fixed and mobile technologies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 168,
+            "sentence": "It opens the door to apply these rules to edge providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 169,
+            "sentence": "It delegates substantial authority to the Bureaus, including how the rules will be interpreted and enforced on a case-by-case basis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 170,
+            "sentence": "And, lest we forget how this proceeding started, it also reinstates net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 171,
+            "sentence": "Indeed, it seems that every bad idea ever floated in the name of net neutrality has come home to roost in this item.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 172,
+            "sentence": "- Page 386 Correction: March 12, 2015 An earlier version of this article misstated the award won by Amazon Studios\u2019 series \u201cTransparent.\u201d It won a Golden Globe award, not an Oscar.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 173,
+            "sentence": "Email us at accessibility@nytimes.com .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 174,
+            "sentence": "We would love to hear from you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

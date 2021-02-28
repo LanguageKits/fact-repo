@@ -1,0 +1,261 @@
+{
+    "document_id": -1,
+    "url": "https://mytechdecisions.com/it-infrastructure/is-the-net-neutrality-repeal-saving-consumers-billions/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Jessica Messier",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:29:56.215222+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "The Trump Administration claims the net neutrality repeal will save consumers lots of money, but the facts aren’t adding up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "the Trump Administration is using pseudo-economics to prove that eliminating consumer-protection rules has boosted consumers’ income by billions of dollars.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Last month, the Trump Administration released a report stating that its ‘Restoring Internet Freedom’ order, also known as the repeal of net neutrality rules a few years back, will “increase real incomes by more than $50 billion per year and consumer welfare by almost $40 billion per year,” Ars Technica says.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "a 2008 study on digital subscriber line sharing to back its boost in income claims.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "“Previous research shows that vertical pricing restrictions in broadband significantly reduce the quantity and quality of services received by broadband consumers…” Looking at “open access” restrictions applied to Digital Subscriber Line service, but not Cable Modem access for three years, the Digital Subscriber Line service subscriptions grew more than 30 percent relative to the trend, and Cable Modem subscriptions “increased slightly.” Additionally, the average revenue per Digital Subscriber Line fell across those three years, and the average revenue per Cable Modem subscriber was constant.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The Trump Administration said that by applying similar tactics from these findings to internet service providers in the years 2017-2027, i.e.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "removing vertical pricing regulations, its “Restoring Internet Freedom” order will increase real incomes tens of billions of dollars per year.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Ars Technica suggests that it’s not clear how that 2008 study is applicable to the effects resulting from the administration’s repeal of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The “net neutrality rules were hardly similar to the old DSL line-sharing requirements.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The line-sharing rules let DSL Internet providers offer service over the phone lines controlled by incumbent telephone companies, letting consumers choose from many DSL providers instead of just one.” On top of that, unlike line sharing, the net neutrality rules don’t address the “competition problem” that forces consumers to choose between one or two high-speed providers, Ars Technica says.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "“Instead, the rules prohibited certain kinds of anti-consumer behavior that [internet service providers] are more likely to pursue when they have virtual monopolies over Internet access,” like paid prioritization and vague explanations about pricing to consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Finally, the White House failed to point to the effects that resulted from the years of net neutrality rules, including an increase of broadband speed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Plus, broadband networks grew at the same rate before and after the net neutrality repeal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "As a result, “If anything, the evidence points to regulation and deregulation having little effect on broadband growth,” Ars Technica says.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "As a result, it appears that the Trump Administration’s claimed success isn’t what it appears to be.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Harold Feld, a broadband-industry expert says that it’s common practice for administrations to “pseudo-economics” to show how their policies are positively impacting consumers when they’re really not.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "“One of the fun things about how folks use pseudo-economics in public policy is that you can use it to justify all kinds of price gouging and other consumer harms as ‘efficiencies’ and then make up a model that produces some suitably impressive number of ‘consumer surplus’ that makes it all seem OK,” he told Ars Technica.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Free downloadable guide you may like: Amongst so many things you have to learn when becoming a new IT manager, evaluating your direct reports is one of them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "This is a daunting task, this is the time when you have the opportunity to discuss areas of concern or areas in need of improvement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Luckily, there are many ways to help employees […] Cancel reply Your email address will not be published.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Required fields are marked * * * Save my name, email, and website in this browser for the next time I comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Get the FREE Tech Decisions eNewsletter Finding the right person for you’re the position you are looking to fill is hard enough, without having the worry about whether you are asking the ... We often hear that conferencing is critical to our working needs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "It allows users to connect with customers and co-workers remotely giving them gre... Amongst so many things you have to learn when becoming a new IT manager, evaluating your direct reports is one of them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Get the latest news about AV integrators and Security installers from our sister publications: TechDecisions Welcome to TechDecisions Subscribe to the Newsletter RSS Feeds FREE Downloadable resources from TechDecisions provide timely insight into the issues that IT, A/V, and Security end-users, managers, and decision makers are facing in commercial, corporate, education, institutional, and other vertical markets Get your latest project featured on TechDecisions Project of the Week.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Submit your work once and it will be eligible for all upcoming weeks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,231 @@
+{
+    "document_id": -1,
+    "url": "https://m.dailykos.com/stories/2020/3/17/1928285/-Trump-s-FCC-scrambles-to-get-ISPs-to-do-the-things-that-net-neutrality-stipulated-they-do?detail=facebook&fbclid=IwAR3h3X64w7wUohlN1Oem64VIkyZrzNdmmQuS26oHKxPsbUm1AIpuLwGVGU8",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Walter Einenkel",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:52:00.531689+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Trump’s FCC scrambles to get ISPs to do the things that net neutrality stipulated they do.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The FCC, under Trump’s pick Ajit Pai, has done away with net neutrality protections in part by arguing that the internet is not a utility in the same way as telephones.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "While this argument has been disingenuous from the beginning, its limitations, as with anything, are now being tested by the current COVID-19 pandemic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "In fact, Ajit Pai, having de-fanged his agency’s ability to regulate the telecommunications industry, is now trying really hard to get that same industry to offer some basic consumer protections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "On March 13, FCC chairman Ajit Pai released the Keep Americans Connected Pledge .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The pledge, according to Pai, was signed by Internet Service Providers (ISPs) across the board and promises that all these telecoms: not terminate service to any residential or small business customers because of their inability to pay their bills due to the disruptions caused by the coronavirus pandemic; waive any late fees that any residential or small business customers incur because of their economic circumstances related to the coronavirus pandemic; and open its Wi-Fi hotspots to any American who needs them.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "These are all good things.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "They aren’t exactly enough, however.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "This is something Pai knows, which is why the release also mentions that chairman Pai called for ISPs to “ relax their data cap policies in appropriate circumstances, on telephone carriers to waive long-distance and overage fees in appropriate circumstances, on those that serve schools and libraries to work with them on remote learning opportunities, and on all network operators to prioritize the connectivity needs of hospitals and healthcare providers.” It’s not in the pledge for a reason.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "ArsTechnica points out, ISPs like AT&T announced plans to lift data caps for 60 days to help with the obvious needs to people working and using the internet at home during this time.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Comcast, while signing the pledge at the time, did not lift data caps; but being under pressure from consumers and governments alike, relented, and a day later announced they too would waive data caps for internet subscribers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The FCC’s now bogus logic has always been that a free and open internet means a free market for ISPs to monopolize and try to squeeze out the most profit from these essential communication platforms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "In fact, after arguing that the federal government shouldn’t regulate smaller markets, they’ve turned around and argued that states and local municipalities shouldn’t either , saying that only the federal government can regulate these kinds of utilities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Since the Republican-led FCC took control they have rolled back the very basic protections offered by net neutrality under the Obama administration.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "At the time, like all good cronies, Pai and other Republicans said that in deregulating the telecom industry, all of that profit would somehow lead to more freedom and better infrastructure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "As with every other deregulated industry in the history of history, that promise was a lie.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "The current conditions of Americans across the country is stressful.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "We are all trying to distance ourselves from one another while also trying to retain communications in very uncertain times.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "People need to be informed as to what is happening and how things are unfolding.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Children have to learn, and all of us need some entertainment from time to time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Net neutrality doesn’t mean everything is free, it means that internet providers treat the consumers of their very well subsidized product as the essential communications services they are.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "30 comments 30 comments x × Save changes",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

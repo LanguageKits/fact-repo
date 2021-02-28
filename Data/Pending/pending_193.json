@@ -1,0 +1,291 @@
+{
+    "document_id": -1,
+    "url": "https://marketscale.com/industries/software-and-technology/net-neutrality-state-battle-ratified/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Daniel Litwin",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:31:02.046256+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "More results... Hidden label Exact matches only Hidden label Hidden label Hidden label FILTER BY Hidden label Select all Hidden label Hidden label Hidden label Hidden label POSTS Hidden label Select all Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Industrial IoT Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label MarketScale Mornings Hidden label Hidden label & Rides Hidden label Hidden label AirIQ with Field Controls Hidden label AliTalks by AliMed Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label ClearTalk Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label eLearning Alchemist Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Glass is in Session by Clarus Hidden label HealthFirst Talks Hidden label Hidden label LEDTalk with PixelFLEX Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label NanoSessions Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label OrthoGuide Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Table for 2 with TableSafe Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label TPC Talks Hidden label Track to the Future Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Professional AV Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label CAREERS Hidden label Select all Hidden label AEC Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Professional AV Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Hidden label Sign in Welcome!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Get help Create an account Create an account Welcome!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Register for an account your email your username A password will be e-mailed to you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Password recovery Recover your password your email A password will be e-mailed to you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The fight for net neutrality is over at the federal level, at least for now.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The Obama-era Open Internet Order of 2015 was repealed by Ajit Pai’s FCC and solidified after a DC circuit court of appeals’ final ruling, leaving prospects looking slim for legislation proactively regulating broadband internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "However, even with the federal repeal, individual states still have the ability to pass their own legislation, which could carry on the spirit of net neutrality by tackling the most frequented issues of blocking lawful content, throttling and paid prioritization.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "On this episode of Ratified, a MarketScale show on the intersection of business and policy, host Daniel Litwin brings two important perspectives to the table to understand the main arguments for and against net neutrality regulations, why small ISPs fought hard for repeal, and what future legislation could look like encourages both broadband expansion and an open internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Commentary includes perspectives from Matt Polka, CEO of ACA Connects , and Chad Marlow, senior advocacy & policy council at the ACLU .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "ACA Connects, which represents almost 800 small and medium-sized independent telecom operators across the nation, and works with Washington to ensure fair treatment of these small players so they can provide “affordable video broadband and phone services to Main Street America.” Polka and his members have felt a weight lifted with the repeal of Net Neutrality, and he joined Ratified to give his perspective on Title II regulations, how they affect small ISPs, and whether lawmakers can put partisanship aside to roll out new federal legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "At the ACLU, Marlow advises specifically on privacy, surveillance, and technology issues.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "An advocate for a free and open internet, Marlow explained how a state-by-state Net Neutrality framework could play out, who’s necessary to advise on quality legislation, and his take on some of the prevailing arguments from the net neutrality discussion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "For more on Ratified, follow Daniel Litwin on and subscribe to MarketScale Radio on and .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "For the latest news, videos, and podcasts in the , be sure to subscribe to our industry publication.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Follow us on social media for the latest updates in B2B!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Twitter – @TechMKSL Facebook – facebook.com/marketscale LinkedIn – linkedin.com/company/marketscale TAGS ACA Connects ACLU FCC FTC information service internet service providers ISPs MarketScale Radio net neutrality telecom operators telecommunications SHARE LinkedIn Previous article Next article CRM Administrator and Integrator March 30, 2020 December 26, 2019 Material Handler - 11a to 7p (M-F) December 26, 2019 SENIOR PRODUCT MANAGER IN ELMHURST, IL AT STENOGRAPH, LLC January 16, 2020 January 20, 2020 January 20, 2020 August 2, 2019 August 2, 2019 August 2, 2019 August 1, 2019 Get SW/Technology insights delivered to your inbox ABOUT US MarketScale creates and publishes digital content for our B2B audiences in industries ranging from Architecture and Construction to Professional Audio-Visual and Industrial IoT.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Login Get a new password Enter the username or e-mail you used in your profile.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "A password reset link will be sent to you by email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Sign up now Fill the form below to get instant access: AEC Professional AV Sign up × × Required 'Candidate' login to applying this job.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Click here to logout And try again Login to your account .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Login Enter the username or e-mail you used in your profile.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "A password reset link will be sent to you by email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Signup to your Account I want to discover awesome companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "I want to attract the best talent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Login Before you can login, you must active your account with the code sent to your email address.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "If you did not receive this email, please check your junk/spam folder.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Click here to resend the activation email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "If you entered an incorrect email address, you will need to re-register with the correct email address.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

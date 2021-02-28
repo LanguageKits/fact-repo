@@ -1,0 +1,181 @@
+{
+    "document_id": -1,
+    "url": "https://chaospost.com/2020/07/04/johns-hopkins-and-the-bill-and-melinda-gates-foundation-were-planning-for-the-coronavirus-in-october-2019/",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:49:46.363459+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Password recovery Recover your password your email CP NAVIGATING THE CHAOS OF POLITICS 2020 Coverage CHAOS POST NAVIGATING THE CHAOS OF POLITICS 2020 Coverage July 4, 2020 0 760 WhatsApp In December of 2019, the first known case of the coronavirus 19 strand was announced.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Here is what we know (From Wikipedia): Coronavirus disease 2019 (COVID-19) is an infectious disease caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "It was first identified in December 2019 in Wuhan, Hubei, China, and has resulted in an ongoing pandemic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The first confirmed case has been traced back to 17 November 2019 in Hubei.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "As of 4 July 2020, more than 11 million cases have been reported across 188 countries and territories, resulting in more than 525,000 deaths.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "More than 5.89 million people have recovered.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Now according to the information the first known case was in December of 2019.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "It also says that the first case they can find was in November of 2019.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "There is just one problem.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Here is a statement released by the university: In October 2019, the Johns Hopkins Center for Health Security hosted a pandemic tabletop exercise called Event 201 with partners, the World Economic Forum and the Bill & Melinda Gates Foundation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Recently, the Center for Health Security has received questions about whether that pandemic exercise predicted the current novel coronavirus outbreak in China.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "To be clear, the Center for Health Security and partners did not make a prediction during our tabletop exercise.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "For the scenario, we modeled a fictional coronavirus pandemic, but we explicitly stated that it was not a prediction.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Instead, the exercise served to highlight preparedness and response challenges that would likely arise in a very severe pandemic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "We are not now predicting that the nCoV-2019 outbreak will kill 65 million people.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Although our tabletop exercise included a mock novel coronavirus, the inputs we used for modeling the potential impact of that fictional virus are not similar to nCoV-2019.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Now obviously this is a big deal, so the America First Projects News Foundation has archived the website here: http://archive.vn/8xw9I WhatsApp",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

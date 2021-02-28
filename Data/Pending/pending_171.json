@@ -1,0 +1,171 @@
+{
+    "document_id": -1,
+    "url": "https://www.multichannel.com/news/net-neutrality-docket-is-now-fccs-busiest",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "JOHN EGGERTON",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:30:05.547034+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": " The FCC&apos;s request for comment on its net neutrality deregulation has become the busiest docket at the commission, drawing over three thousand comments in the past 30 days.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The U.S. Court of Appeals for the D.C.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Circuit upheld the bulk of the FCC&apos;s decision to reclassify ISPs as Title I information service providers not subject to Title II common carrier regs and to eliminate the rules against blocking, throttling, paid prioritization, and a general conduct rule.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "But the court said the FCC needed to better explain the impact of those decisions on public safety, the regulation of pole attachments, and its Lifeline broadband/phone subsidy program.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "On Feb. 20, before the new comments started being posted, the net neutrality comment total stood at a record 23,953,021.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "As of Friday afternoon, Feb. 21, the total had increased by 307 comments to 23,953,328.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Midday on Feb. 28, the total was 23,956,096.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "According to a thumbnail survey, the comments continue to be general ones calling for the return of the rules and Title II classification, rather than on the specifics of the FCC request.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "For example, on the impact on public safety, the FCC asked for very specific input on whether \"network improvements made possible by prioritization arrangements [which are, in turn made possible by elimination to the rules] benefit public safety applications—for example, by enabling the more rapid, reliable transmission of public safety-related communications during emergencies?\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Or, on the issue of pole attachments it asked: \"To what extent are ISPs’ pole attachments subject to Commission authority in non-reverse preemption states by virtue of the ISPs’ provision of cable or telecommunications services covered by section 224?\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The comments to date are mostly along the lines of the following: \"That Net Neutrality was revoked in the first place says that the FCC is not actually on the side of the consumer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Support people over profits.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Do your JOB.\"\"Having large telecoms dictate who can or can&apos;t get service is immoral.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "In this day and age, where technology has become such a huge aspect of daily life, it is irrational to restrict some people and smaller businesses to a \"slow\" lane.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Having a neutral internet, where all people regardless of social standing or ability to pay are on the same playing field, is vital to American growth and continued innovation, communication, and development.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "terms: network neturality FCC But comments remain focused on general dislike of deregulation Bots and bogus comments helped fill multi-million comment database FCC Said they have lots of unanswered questions about fraudulent comments FCC Tens of thousands posted in last day alone NLPC says it has accumulated 1.5 million examples of fake email domains in docket comments Gives commenters extra 21 days FCC Senate Dems are trying to push it to number one BuzzFeed investigation calls out millions of pro-ISP dereg comments filed with FCC RSS",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,411 @@
+{
+    "document_id": -1,
+    "url": "https://apnews.com/e3cd2765739144cd996213b03b6670f7",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Marcy Gordon",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:31:49.967196+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "AP NEWS AP RADIO Update hourly https://apnews.com/e3cd2765739144cd996213b03b6670f7 Click to copy https://apnews.com/e3cd2765739144cd996213b03b6670f7 Click to copy Related topics Local governments Court: FCC can dump net neutrality, but can’t bar state laws By MARCY GORDON October 1, 2019 GMT FILE - In this Dec. 14, 2017, file photo, after a meeting voting to end net neutrality, Federal Communications Commission (FCC) Chairman Ajit Pai smiles while listening to a question from a reporter in Washington.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "A federal court is ruling that the FCC had the right to dump net-neutrality rules, but couldn't bar states like California from passing their own.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The ruling is largely a victory for Pai.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "(AP Photo/Jacquelyn Martin, File) FILE - In this Dec. 14, 2017, file photo, after a meeting voting to end net neutrality, Federal Communications Commission (FCC) Chairman Ajit Pai smiles while listening to a question from a reporter in Washington.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "A federal court is ruling that the FCC had the right to dump net-neutrality rules, but couldn't bar states like California from passing their own.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The ruling is largely a victory for Pai.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "A federal court has cleared the way for state and local governments to bar internet providers from favoring some services over others, even as the court affirmed the Federal Communications Commission’s right to dump national rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Even so, legal experts say state and local efforts will be subject to challenges.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Tuesday’s appeals court ruling is the latest development to shine a light on states’ lead on tech policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "California has enacted a strict data privacy law to protect users on services run by Facebook, Google and Amazon, for example, while Congress is still debating a national privacy law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "And it’s California that passed the strongest net neutrality law in the wake of the FCC’s 2017 repeal of federal rules approved during the Obama administration.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "While the appeals court ruling handed Trump-appointed regulators a partial victory in affirming the FCC repeal, consumer advocates and other groups viewed the ruling as a victory for states and local governments seeking to put in their own net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The California law had been put on hold until Tuesday’s decision by the U.S. Court of Appeals for the District of Columbia Circuit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "“The pathway has been cleared,” said Ryan Singel, a fellow at the Center for Internet and Society at Stanford Law School.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "“They can still be challenged, but that challenge just became easier for them to win.” But it’s not a slam-dunk, said Daniel Lyons, a professor at Boston College Law School.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "State laws will now be taken up on a case-by-case basis to see if they conflict with federal policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Lyons said he anticipates most of the state efforts will fail.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Net neutrality has evolved from a technical concept to a politically charged issue, the focus of street and online protests and a campaign issue lobbed against Republicans and the Trump administration.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The FCC’s 2015 net neutrality rules had barred internet providers such as AT&T, Comcast and Verizon from blocking, slowing down or charging internet companies to favor some sites or apps over others.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "the FCC repealed the rules, phone and cable companies were permitted to slow down or block services they don’t like or happen to compete with.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Companies could also charge rivals higher fees and make them pay for higher transmission speeds.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "All companies had to do was disclose such practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Meddling with internet traffic has happened before.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "In 2007, for example, The Associated Press found that Comcast was blocking or slowing down some file-sharing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "And AT&T blocked Skype and other internet calling services on the iPhone until 2009.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Tech companies and 22 states challenged the FCC repeal in court.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "They included Mozilla, developer of the Firefox web browser, and Vimeo, a video-sharing site.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Aligned with the government were big internet providers including AT&T, Verizon and Comcast.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "“Today’s decision is a victory for consumers, broadband deployment, and the free and open internet,” FCC Chairman Ajit Pai said in a statement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "He maintained that speeds for consumers have increased by 40% since the agency’s 2017 repeal “and millions more Americans have gained access to the internet.” The federal court directed the FCC to rework its order to include the impact of its repeal on public safety, utility pole access and Lifeline, a program that provides internet access to low-income consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Last year, Verizon was criticized for slowing down firefighters’ internet service while they battled what became the largest wildfire on record in California.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Verizon responded by promising to lift restrictions on public safety customers and provide full network access when other disasters arise.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Pai said the agency will address the “narrow issues” cited by the court.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "The FCC has long mulled over how to enforce net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "The agency had twice lost in court over net neutrality standards before a Democrat-led commission in 2015 made internet service a utility, bringing phone and cable companies under stricter oversight.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "An appeals court sanctioned the 2015 rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "After the 2016 election, net neutrality became one of President Donald Trump’s first targets as part of broader government deregulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Pai, the more industry-friendly FCC chairman he appointed, made rolling back net neutrality a top priority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "He repealed the rules in 2017, saying they had undermined investment in broadband networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "___ ___ http://www.twitter.com/mgordonap AP NEWS Download AP NEWS Connect with the definitive source for global and local news More from AP ap.org AP Insights AP Explore AP Books Follow AP 2020 All rights reserved.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

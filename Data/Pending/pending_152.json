@@ -1,0 +1,671 @@
+{
+    "document_id": -1,
+    "url": "https://tidbits.com/2015/02/07/fcc-goes-all-in-on-net-neutrality/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Geoff Duncan",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:29:18.250365+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "#1507: iPadOS 13.4, iOS 13.4, macOS 10.15.4 Catalina, watchOS 6.2, COVID-19 screening tool, O'Reilly exits in-person conferences, ordering online Join TidBITS!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": " 7 February 2015  After a decade of trying to regulate the Internet lightly, the U.S. Federal Communications Commission (FCC) is moving to reclassify Internet service providers (ISPs) as common carriers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The FCC has announced its plan to preserve “net neutrality,” and it’s a doozy: the agency plans to reclassify ISPs as common carriers — like phone companies — to ensure that all legal Internet traffic is treated with equal, best-effort priority.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "At the same time, the FCC is promising to set aside provisions that enable the agency to set rates, impose fees, and require ISPs to share key portions of their networks with competitors.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The latest rules come after a decade of failed attempts by the FCC to regulate the Internet with a light hand for fear of burdening a new, rapidly growing, and increasingly important segment of the American economy.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "However, the FCC’s previous efforts were challenged in court — and ultimately defeated — by telecommunications providers Comcast and Verizon, who argued that the FCC’s “open Internet” rules exceeded its legal authority.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The result has been that no legal framework has ensured net neutrality, leaving ISPs free to block or throttle traffic they don’t like, and pursue controversial business relationships like paid-prioritization deals with Netflix.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "This time around, the FCC has brought out its big gun, proposing to reclassify ISPs from lightly regulated “information services” to full-blown “telecommunications services.” The classification change removes ambiguity about the FCC’s legal authority and brings the broadband industry under a broad range of regulatory powers, some of which admittedly date back over 80 years.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Moreover, the FCC’s new rules would also apply to mobile Internet — which today handles over half of all Internet traffic worldwide — as well as interconnection points between networks and “edge providers” like Google, Facebook, and Amazon that provide content and services but don’t sell Internet service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "We can’t see the new rules yet: they total 332 pages and will apparently be available to the public only after the commission votes on them on 26 February 2015.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "(How’s that for government transparency?)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "However, these are the main points: ISPs may not block, degrade, or limit any lawful Internet content or service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Similarly, ISPs may not create “fast lanes” or engage in paid prioritization deals that grant preferential treatment to selected lawful Internet traffic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "These restrictions preserve the central key aspects of net neutrality or the “Open Internet.” In a new move, open Internet requirements wouldn’t apply to just fixed-line Internet providers like telephone and cable companies, but also to mobile Internet, interconnection points, and so-called edge providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "These segments had been exempt from previous net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "ISPs could still charge companies like Netflix, Cogent, and Level 3 for access to their networks, but the deals would only be allowed if the FCC finds them “just and reasonable” under Title II.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "However, content delivery networks (like Akamai) that try to optimize how data gets to individual users would still have free rein in charging their clients.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "ISPs may engage in “reasonable” network management — which could include blocking apps, capping data, or limiting performance — so long as they disclose the practice and it’s not done for their commercial benefit.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "ISPs will continue to be held to transparency requirements to provide accurate information about their services to consumers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Transparency rules aren’t new — they survived Verizon’s most recent court challenge — but the FCC says they’ll be augmented under the new rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "ISPs may offer private-networking services that don’t use the public Internet (like voice service over cable), but they’re subject to transparency requirements and cannot be used to create de facto “fast lanes” or undermine net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "ISPs will be subject to Title II provisions enabling the FCC to guard against “unjust and unreasonable” practices, hear consumer complaints, ensure “fair access” to poles and conduits, protect access for people with disabilities, and protect consumer privacy.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The FCC can ignore (or “forbear”) aspects of Title II it feels aren’t in the public interest.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "ISPs will not be subject to Title II provisions that would enable the FCC to regulate rates or require broadband providers to contribute to the Universal Service fund.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "The new rules also won’t apply any new taxes or fees to broadband, and ISPs will not be required to “unbundle” the last mile of connectivity to homes and businesses for competitors to use.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "“Open Internet” doesn’t mean “free Internet.” The new rules won’t make your Internet service any cheaper, nor will they eliminate bandwidth caps, or get rid of those annoying slowdowns when all your neighbors start binge-watching streaming video.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Instead, it means that ISPs won’t be able to set up sweetheart deals with their preferred business partners to deliver content and services to their customers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Comcast wouldn’t be allowed to (say) favor Bing search services over Google if Microsoft throws extra money at them, nor could it slow down Netflix to make its own video-on-demand services look better in comparison.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Similarly, if a hot new startup comes along — think the next WhatsApp, SnapChat, Etsy, Tumblr, or Pinterest — it doesn’t have to worry about ISPs blocking or slowing down its traffic because they don’t like it or because its business competes with an ISP’s services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "As long as apps or services are legal and not damaging, ISPs would have to treat them the same as anyone else.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "If you’ve been following the net neutrality debate over the last year, you’ve realized that the FCC’s new proposal is much closer to what President Obama called for (see “President Obama Weighs In on Net Neutrality,” 14 November 2014) than the approach FCC Chairman Tom Wheeler previously proposed (see “FCC Moves Ahead with Internet \"Fast Lanes\" ,” 16 May 2014).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Wheeler had previously worked as a lobbyist for the cable industry, and was widely expected to make a third attempt to regulate broadband without reclassifying ISPs as common carriers — although he consistently left that option on the table (see “FCC Hopes Third Time Is the Charm for Net Neutrality Rules,” 20 February 2014).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "One factor was the decidedly negative reception Chairman Wheeler’s “fast lanes” plan received from all quarters.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "However, Obama’s move seems to have played a role too.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Although the FCC is an independent agency and the President cannot mandate FCC policies, Obama’s public call for ISPs to be reclassified under Title II seems to have put Chairman Wheeler in a box.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The FCC has five voting members: Chairman Wheeler and four commissioners.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Commission membership is non-partisan, but it’s widely known two commissioners are Democrats (Clyburn and Rosenworcel) and two are Republicans (Pai and O’Reilly).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Here’s the catch: only the Democratic commissioners (halfheartedly) voted for Wheeler’s “fast lane” approach.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "By openly declaring support for reclassifying ISPs as common carriers, Obama gave those Democratic commissioners grounds to stand firm on net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "If Wheeler pushed ahead with “fast lanes,” he would likely be shot down four-to-one.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "But if Wheeler went with Title II reclassification, he was virtually guaranteed two votes in his favor.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "The Chairman of the House Committee on Oversight and Government Reform has announced an investigation (PDF link) to determine if President Obama exerted undue influence on the FCC’s decision-making process.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Response to the proposed net neutrality rules has been predictable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Organizations like the Free Press and the Electronic Frontier Foundation have voiced support, while industry groups like the Information Technology and Innovation Foundation have come out against it .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Almost all have noted the devil will be in the details and — since the commission has not published the proposed rules — right now only the FCC itself knows the full details.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "ISPs, not surprisingly, are against being reclassified as common carriers, arguing it will dampen investment and unnecessarily restrain them from creating new business models.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Verizon CFO Fran Shammo recently characterized reclassification under Title II (PDF link) as “an extremely risky path” that would cause the company to “completely change the way we view our investments in our networks.” From the point of view of multi-billion-dollar businesses, the FCC’s promise of forbearance — that it won’t set rate caps, impose new fees, or force ISPs to open up their last mile of connectivity — rings hollow.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Just as the FCC doesn’t have to go through any formal proceedings to grant forbearance, it doesn’t have to go through any proceedings to take it away again.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Investors might be understandably wary of betting big on businesses whose regulations can turn on a dime — and who knows what future FCC chairpersons or presidential administrations will bring.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "The FCC has tentatively scheduled a vote on the new net neutrality rules for 26 February 2015.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "If the new rules pass, they will be published in the Federal Register , and anyone with a problem has 30 days to file a Petition for Reconsideration.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "But we’re down to brass tacks: this is the end of the FCC’s rule-making process and there won’t be another months-long public comment period.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "The FCC could make adjustments on the basis of petitions, but the agency isn’t even obligated to respond to them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Assuming the FCC passes the new rules, the telecom industry will eventually sue: the question is when, and on what grounds.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "If you’d like an early preview of possible arguments, AT&T may have already posted some on its public policy blog .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Congress could also get involved.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Unlike the President, Congress can tell the FCC what to do.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Republicans have been circulating a draft bill that would add a “Title X” to the Communications Act that would authorize the FCC to regulate an open Internet without reclassifying ISPs under Title II.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "However, it’s not likely to go anywhere soon: although Republicans have a majority in Congress, they don’t currently have numbers to override a Presidential veto.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "But who knows what the next administration may bring.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "In the meantime, treating ISPs as common carriers looks like it’s going to be the law of the land.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "At least for a little while.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Subscribe today so you don’t miss any TidBITS articles!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "Every week you’ll get tech tips, in-depth reviews, and insightful news analysis for discerning Apple users.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "For 29 years, we’ve published professional, member-supported tech journalism that makes you smarter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "Registration confirmation will be emailed to you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,621 @@
+{
+    "document_id": -1,
+    "url": "https://www.dogonews.com/2017/12/16/the-us-federal-communication-corporation-repeals-net-neutrality",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "KIM BUSSING",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:29:15.638414+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "PRO (English) Read aloud audio and close reading assignments in English PRO PLUS (English & Spanish) Read aloud audio and close reading assignments in English and Spanish Develop reading fluency, media literacy and global awareness with award-winning content, read aloud audio, quizzes and vocab games.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "As had been widely anticipated , on Thursday, December 14, the US Federal Communications Commission (FCC) voted 3-2 to repeal the net neutrality regulations put in place by the agency two years ago.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Because if critics are right, it may hinder your ability to access your favorite social media apps, play video games, or stream movies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Introduced by President Obama in 2015, the net neutrality law required Internet Service Providers (ISPs) like AT&T and Comcast to treat all Internet data equally.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "This meant Comcast could not throttle the speed of competitors like Netflix to make its own streaming service more desirable.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Large companies could also not gain an unfair advantage over smaller ones by paying additional fees to the service providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Thursday’s decision, what the FCC refers to as “Restoring Internet Freedom,” removes the restrictions and gives service providers the freedom to prioritize their own sites, apps, and streaming services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The FCC believes the repeal will shift control of the Internet from the government to the providers, allowing for more innovation and economic stimulation .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Commission Chairman Ajit Pai, who had always maintained the government overstepped its boundaries when they introduced the law in 2015, says, “We are helping consumers and promoting competition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Broadband providers will have more incentive to build networks, especially in underserved areas.” Critics worry the reversal will enable ISPs to regulate internet speeds and control what consumers can access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "They could potentially also censor content they do not wish customers to see.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The biggest concern, however, is that broadband providers will introduce tiered internet pricing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "For example, Comcast customers may have to pay more for streaming services from Netflix or Amazon, rather than Hulu, which the ISP partially owns.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "This means that affluent families would be able to access more services and faster Internet services than those that cannot afford to pay the higher prices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The service providers could also start charging companies a toll to make their content available.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Should this happen, naysayers maintain it will provide an unfair advantage for larger companies like Google and Amazon and severely impact smaller businesses that cannot afford the extra cost.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Meanwhile, the ISPs are assuring consumers that they will not engage in any unfair practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Also, the “Restoring Internet Freedom” act requires them to disclose if they do prioritize some sites or companies over others.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "This means their actions will be closely watched.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Even if they do decide to discriminate , it will take some time before consumers feel any impact, given that the rules have to be approved by the White House Office of Management and Budget, which could take several months.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The issue could also be tied up in courts for several years due to lawsuits filed by Attorney Generals from several states.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Finally, there is the slim possibility that New York Senator Charles Schumer’s effort to get the repeal reversed under the Congressional Review Act will be approved.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "While no one knows what will happen next, one thing is for sure – the net neutrality debate is far from over, so stay tuned!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Resources: Newatlas.com, cnn.com, endgadget.com,wired.com MLA APA Generate citations in MLA, APA, & Chicago formats MLA8 DOGOnews , DOGO Media, Inc., 16 Dec, 2017, www.dogonews.com/2017/12/16/the-us-federal-communication-corporation-repeals-net-neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "MLA7 DOGOnews , DOGO Media, Inc., 16 Dec, 2017, Web.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Generate citations in MLA, APA, & Chicago formats APA .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Retrieved 2020, April 30, from https://www.dogonews.com/2017/12/16/the-us-federal-communication-corporation-repeals-net-neutrality Generate citations in MLA, APA, & Chicago formats 157 160 Comments Sign in to post a comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Sign in to post a comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "ThanoTH Friday, February 1, 2019 at 7:44 am HelPEd Me WiTH mY HomeWoRK!!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "THaNK U, NexT 0 ThanoTH Friday, February 1, 2019 at 7:42 am So HElPfuL?!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "KeEp uP tHE gOod WOrK!!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "0 e Wednesday, January 30, 2019 at 5:44 am this is good 0 ninja Wednesday, January 16, 2019 at 10:51 am keep net nutrality 0 Hello, it's me.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Friday, November 9, 2018 at 12:20 pm My post part 2.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "-you'd have to first send a letter, hope that people actually mail it, or you could pay for plane tickets, fly to the other side of the world, find your friend and hope that you didn't forget what you were going to say.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "With the internet, you could stay in touch in an instant.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "So I think net neutrality is helping, but a repeal would also help.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "I'm more towards the side of \"Keep net neutrality\".",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "0 nintendogamer49 Thursday, December 13, 2018 at 11:39 am I totally agree with you!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "0 Hello, it's me.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Friday, November 9, 2018 at 12:10 pm Ok, this is annoying.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "I hate how people value a increasingly useless green slip of paper over countless lives.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Now, after some comment searching, here is what I think, Say Net neutrality gets repealed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Well, since some companies will make their service cheaper than others, there will be a loss of costumers for companies with more expensive prices for the same thing, meaning that they will make their service cheaper and/or add bonuses that make their service desirable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Which means that other companies will lose consumers so that they will cheapen their service or add more things.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "The cycle will keep on repeating until we get great, cheap service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "However, I would like Net neutrality to stay.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Now I saw some people say \"Oh, if this happens, it will be like the good ol' days!\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "I disagree, since the internet allows near-instant spread of information and drastically reduces cost to spread information, before, if you wanted to tell your friend who's on the other side of the world something- 0 me is me Friday, November 2, 2018 at 9:18 am ok 0 anonmus Monday, October 29, 2018 at 9:57 am ....wow.........just.........WOW!...",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "0 me is me Thursday, August 30, 2018 at 9:15 pm I love this text 0 me is me Wednesday, March 14, 2018 at 1:11 pm i disagree 0 Next › Copy and Paste the code below to your website or blog.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "By using this widget you agree to the .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Generate citations in MLA, APA, & Chicago formats MLA8 DOGOnews , DOGO Media, Inc., 16 Dec, 2017, www.dogonews.com/2017/12/16/the-us-federal-communication-corporation-repeals-net-neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "MLA7 DOGOnews , DOGO Media, Inc., 16 Dec, 2017, Web.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Retrieved 2020, April 30, from https://www.dogonews.com/2017/12/16/the-us-federal-communication-corporation-repeals-net-neutrality 1 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "“As had been widely anticipated , on Thursday, December 14, the US Federal Communications Commission voted 3-2 to repeal the net neutrality regulations put in place by the agency two...",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "This assignment is not currently available.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "This assignment is not currently available.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "DOGOnews DOGObooks DOGOmovies Empowering youth literacy, reading fluency and global awareness through current events, books and movies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Or sign in with: Sign in with Google Sign in with Microsoft I'm a Kid I'm a Teacher You've discovered a PRO feature!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "Or sign in with: Sign in with Google Sign in with Microsoft You've discovered a PRO PLUS feature!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "Or sign in with: Sign in with Google Sign in with Microsoft Enter your email to receive the DOGOnews weekly highlights.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "* I consent to receive emails from DOGOnews.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

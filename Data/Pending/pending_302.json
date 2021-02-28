@@ -1,0 +1,301 @@
+{
+    "document_id": -1,
+    "url": "https://arstechnica.com/tech-policy/2019/03/fcc-has-to-pay-journalist-43000-after-hiding-net-neutrality-records/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Jon Brodkin",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:55:08.225538+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to main content Biz & IT RSS Feeds Filter by topic  Biz & IT Front page layout Site theme Black on white White on black Sign in  Comment activity  Sign up or login to join the discussions!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Public records lawsuit —  FCC has to pay journalist $43,000 after hiding net neutrality records FCC pays journalist's legal fees after failing to comply with records request.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Mar 22, 2019 3:58 pm The Federal Communications Commission has settled a case over its refusal to comply with a public records request, agreeing to pay $43,000 to a journalist who sued the commission.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Freelance writer Jason Prechtel filed a Freedom of Information Act (FOIA) request with the FCC in mid-2017, asking for data that would identify who made bulk comment uploads in the proceeding that led to the repeal of net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Prechtel was trying to research comments that were falsely attributed to people without their knowledge.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Judge: FCC can’t hide records that may explain net neutrality comment fraud The FCC didn't comply with the request and allegedly didn't even approve or deny the FOIA request within the legally allotted timeframe, so Prechtel sued the commission in September 2017 .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "One year later, a US District Court judge presiding over the case ordered the FCC to stop withholding certain records sought by Prechtel, although the ruling didn't give Prechtel everything he asked for.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "A settlement agreement filed in court this week says the FCC agreed to pay Prechtel $43,000 to cover his attorneys' fees and court costs.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Chairman Ajit Pai's FCC did not admit any wrongdoing, but the settlement has resulted in the case being closed.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Comment fraud under investigation As Gizmodo noted in a story about the settlement yesterday , \"The data Prechtel ultimately obtained through the case formed the basis of a Gizmodo report last month—which he coauthored—that revealed how investigators had linked various entities, including a prominent Washington, DC, publication, to potentially millions of fraudulent comments submitted during the 2017 net neutrality rollback.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Those investigators were from the New York attorney general's office, which also faced FCC stonewalling when it sought data including the same comment records obtained by Prechtel.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The AG's office eventually determined that up to 9.5 million comments were submitted using stolen identities, and it's still investigating.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The FBI is also reportedly investigating the use of stolen identities in public comments on the FCC's repeal of net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The Gizmodo/Prechtel story last month said that API logs obtained through the FOIA lawsuit provided details on each time an organization submitted comments using the FCC's API system.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "\"What's more, [the logs] include the IP addresses of the uploaders themselves, as well as timestamps that record, down to the millisecond, precisely when floods of comments came pouring in from any given source,\" the article said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "CQ Roll Call's advocacy arm was among those using the system to submit comments supporting repeal of net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "CQ Roll Call was working on behalf of a client, which the Gizmodo/Prechtel story says may have been a conservative nonprofit called the Center for Individual Freedom (CFIF).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "CFIF arranged for the upload of anti-net neutrality comments that said, \"The unprecedented regulatory power the Obama Administration imposed on the Internet is smothering innovation, damaging the American economy and obstructing job creation.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "CFIF has denied submitting comments under people's names without their knowledge.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Net neutrality advocacy groups such as Fight for the Future also used the FCC API system to demonstrate support for keeping net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "In a separate case that's still ongoing, the FCC refused a request for records that the believes might shed light on Russian interference in the net neutrality repeal proceeding.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The FCC last week asked a US District Court judge for a summary judgment in that case.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "reader comments 77 with 52 posters participating Share this story Jon is Ars Technica's senior IT reporter, covering the FCC and broadband, telecommunications, wireless technology, and more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "jon.brodkin@arstechnica.com // @JBrodkin You must login or create an account to comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "← Previous story Next story → Powered by RSS Feeds Advertise with us Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Sign me up → CNMN Collection (updated 1/1/20) and (updated 1/1/20) and (effective 8/21/2018).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Ars may earn compensation on sales from links on this site.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Read our affiliate link policy .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

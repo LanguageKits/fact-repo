@@ -1,0 +1,1111 @@
+{
+    "document_id": -1,
+    "url": "https://www.healthnutnews.com/novel-coronavirus-the-latest-pandemic-scare/",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:59:02.110067+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": " TRENDING: GMO Salmon just approved by the FDA Health dept expert says low effective rate of flu shot ... Sign up for Updates!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Jan 31, 2020 Story at-a-glance \u2013 As of January 27, 2020, China reported 2,835 confirmed cases of novel coronavirus-infected pneumonia (NCIP), including 76 deaths.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The first case was reported in December 2019.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Since then, cases have also been reported in the U.S., Canada, Australia, Japan, Thailand, Vietnam, Singapore, Taiwan, South Korea and France Clinical manifestations of NCIP are consistent with viral pneumonia The hysteria being drummed up follows a well-worn pattern where the population is kept in a state of fear about microbes so that drug companies can come to the rescue with yet another expensive (and potentially mandatory) drug or vaccine In January 2018, China\u2019s first biosecurity level 4 lab designed for the study of the world\u2019s most dangerous pathogens opened its doors in Wuhan City, the epicenter of the current NCIP outbreak October 18, 2019, Johns Hopkins Center for Health Security, the World Economic Forum and the Bill and Melinda Gates Foundation sponsored a pandemic preparedness exercise in New York, practicing for the emergence of a new fictional viral illness dubbed \u201ccoronavirus acute pulmonary syndrome\u201d Chances are you\u2019ve heard the news about a new and potentially lethal coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "1 2 , 3 2,835 confirmed cases across at least 29 provinces, including 177 severe cases and 76 deaths (including a retired doctor working with coronavirus patients in Wuhan 4 ).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Thirty-four patients had recovered and been discharged as of January 22, 2020.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The first case was reported December 21, 2019.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "According to ProMED International Society for Infectious Diseases: 5 \u201cPatients\u2019 clinical manifestations were consistent with viral pneumonia.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Most patients had severe and nonproductive cough following illness onset, some had dyspnea, and almost all had normal or decreased leukocyte counts and radiographic evidence of pneumonia.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Huanan Seafood Wholesale Market has western and eastern sections, and 15 environmental specimens collected in the western section were positive for 2019-nCoV virus through RT-PCR testing and genetic sequencing analysis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Despite extensive searching, no animal from the market has thus far been identified as a possible source of infection.\u201d On January 21, 2020, the U.S. Centers for Disease Control and Prevention confirmed the first U.S. case 6 \u2014 a patient in Washington state who had recently visited Wuhan, China.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "A second case, in Illinois, was confirmed January 24, 2020.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "7 This patient had also recently returned from a visit to Wuhan.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Since then cases have also been reported in Canada, Australia, 8 9 10 11 January 22, 2020, China shut down all transport networks in and out of Wuhan \u2014 a city with a population of 11 million \u2014 in an effort to contain the spread of the disease.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "12 RELATED STORY: So far, most of those who have died have been elderly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "As reported by the Foreign Policy Journal: 13 \u201cOne puzzling aspect so far is the thankful lack of child victims.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Usually, children, with less developed immune systems than adults, come down with one illness after another \u2026 Yet few children have yet been reported with coronavirus symptoms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "That does not mean that no children have been infected.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "A similar pattern of benign disease in children, with increasing severity and mortality with age, was seen in SARS and MERS.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "SARS had a mortality rate averaging 10 percent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Yet no children, and just 1 percent of youths under 24, died, while those older than 50 had a 65 percent risk of dying.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "If so, what is it about childhood that confers protection?\u201d The Foreign Policy Journal goes on to suggest children may be protected by other vaccines given during childhood, such as the measles and rubella vaccines.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "It even goes so far as to wonder whether innate immunity against the coronavirus might be boosted in adults by giving them the measles vaccine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "If you ask me, that would be a significant long-shot.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Vaccines have risks, so getting a vaccine on the remote chance that it might confer protection against a completely different infection than what it\u2019s designed for seems inappropriate in the extreme.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "As noted in the Washington Examiner: 14 \u201cSending out coronavirus vaccines won\u2019t make sense unless the spread gets worse \u2026 The bare facts, at least as far as anyone knows them yet, are that a global rollout of a coronavirus vaccine would kill some 7,000 people or so .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Of course, we\u2019re never going to get everyone vaccinated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "And I\u2019m guessing here, but that average death rate from vaccination, for all things, is one in a million .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Yes, that\u2019s including those influenza shots the old folks are abjured to get every winter \u2014 we know that some will die because of them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "The coronavirus is simply not widespread enough yet to take the risk of jabbing everyone.\u201d RELATED STORY: Like other coronaviruses, such as the Middle East respiratory syndrome coronavirus (MERS-CoV) and the severe acute respiratory syndrome coronavirus (SARS-CoV), this new coronavirus (dubbed 2019-nCoV 15 ), is suspected of being zoonotic, meaning it can be transmitted between animals and humans.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "The disease itself has been named \u201cnovel coronavirus-infected pneumonia\u201d or NECIP.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "16 As reported by CNN: 17 \u201cBoth SARS and MERS are classified as zoonotic viral diseases, meaning the first patients who were infected acquired these viruses directly from animals.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "This was possible because while in the animal host, the virus had acquired a series of genetic mutations that allowed it to infect and multiply inside humans.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Now these viruses can be transmitted from person to person \u2026 In the case of this 2019 coronavirus outbreak, reports state that most of the first group of patients hospitalized were workers or customers at a local seafood wholesale market which also sold processed meats and live consumable animals including poultry, donkeys, sheep, pigs, camels, foxes, badgers, bamboo rats, hedgehogs and reptiles.\u201d However, while media have been quick to blame the outbreak on snakes 18 and bat soup, 19 as of January 22, none of the animals sold at the Wuhan Huanan Wholesale Seafood Market had been found to carry the virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "20 Meanwhile, a number of other reports cast a disturbing light on the outbreak, raising questions about biohazard safety at laboratories working with dangerous pathogens.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Whatever the source, the hysteria being drummed up follows a now well-worn pattern where the population is kept in a perpetual state of anxiety and fear about microbes so that drug companies (aided by federal health officials) can come to the rescue with yet another expensive (and potentially mandatory) drug or vaccine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Back in 2005, headlines warned the U.S. was facing a cataclysmic extermination event with a calculated 2 million Americans succumbing to the bird flu ; the best-case scenario had a calculated death toll of 200,000.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "The same scare tactics were used during the 2009 swine flu outbreak.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Both pandemics turned out to be grossly exaggerated threats, but that didn\u2019t result in a more conservative, cool-headed approach to subsequent outbreaks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "If anything, efforts to drum up fear and hysteria have only escalated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "In 2014, we were told might overtake the U.S. and then it was pertussis outbreaks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "21 In January 2015, it was measles in Disneyland .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "In January 2016, it was zika , followed by more news about pertussis outbreaks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "22 In 2017 and 2018 it was influenza, 23 then back to measles again in 2019.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "24 Now we have coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "January and February appear to be a favorite time to launch a global disease scare with the dutiful assistance of corporatized media .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "It\u2019s convenient, seeing how usually by the first Monday in February every year (Feb. 3, 2020), the president sends the U.S. Congress the administration\u2019s budget requesting funds to be allocated to federal agencies for the next fiscal year\u2019s budget (Oct. 1, 2020 \u2013 Sept. 30, 2021).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "25 Each time there\u2019s a public health scare, the Pharma and public health lobby is able to vie for a larger slice of taxpayer money to pay for drug and vaccine development.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "26 January 23, 2020, Dr. Anthony Fauci, director of the NIH\u2019s National Institute of Allergy and Infectious Diseases, announced a coronavirus vaccine is in the pipeline, with human trials set to start in about three months.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "27 Stock prices for makers of coronavirus vaccines experienced an immediate upswing 28 , 29 in response to media reports of impending doom.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Moratorium on SARS/MERS Experiments Lifted in 2017 As mentioned, a number of reports raise questions about the source of the 2019-nCoV.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "For starters, a 2014 NPR article 30 was rather prophetic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "It discusses the October 2014 U.S. moratorium on experiments on coronaviruses like SARS and MERS, as well as influenza virus, that might make the viruses more pathogenic and/or easy to spread among humans.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "The ban came on the heels of \u201chigh-profile lab mishaps\u201d at the CDC and \u201cextremely controversial flu experiments\u201d in which the bird flu virus was engineered to become more lethal and contagious between ferrets.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "The goal was to see if it could mutate and become more lethal and contagious between humans, causing future pandemics.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "However, for the past decade there have been red flags raised in the scientific community about biosecurity breaches in high containment biological labs in the U.S. and globally.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "31 There were legitimate fears that a lab-created superflu pathogen might escape the confines of biosecurity labs where researchers are conducting experiments.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "It\u2019s a reasonable fear, certainly, considering that there have been many safety breaches at biolabs in the U.S. and other countries.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "32 , 33 , 34 , 35 The federal moratorium on lethal virus experiments in the U.S. was lifted at the end of December 2017, 36 even though researchers announced in 2015 they had created a lab-created hybrid coronavirus similar to that of SARS that was capable of infecting both human airway cells and mice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "The NIH had allowed the controversial research to proceed because it had begun before the moratorium was put in place \u2014 a decision criticized by Simon Wain-Hobson, a virologist at Pasteur Institute in Paris, who pointed out that \u201cIf the [new] virus escaped, nobody could predict the trajectory.\u201d 37 Others, such as Richard Ebright, a molecular biologist and biodefence expert at Rutgers University, agreed, saying \u201cThe only impact of this work is the creation, in a lab, of a new, non-natural risk.\u201d 38 RELATED STORY: In January 2018, China\u2019s first maximum security virology laboratory (biosecurity level 4) designed for the study of the world\u2019s most dangerous pathogens opened its doors \u2014 in Wuhan.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "The year before, Tim Trevan, a Maryland biosafety consultant, expressed concern about viral threats potentially escaping the Wuhan National Biosafety Laboratory, 41 which happens to be located just 20 miles from the Wuhan market identified as ground zero for the current NCIP outbreak.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "42 As reported by the Daily Mail: 43 \u201cThe Wuhan lab is also equipped for animal research,\u201d and \u201cRegulations for animal research \u2014 especially that conducted on primates \u2014 are much looser in China than in the U.S. and other Western countries \u2026 But that was also cause for concern for Trevan.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Studying the behavior of a virus like 209-nCoV and developing treatments or vaccines for it requires infecting these research monkeys, an important step before human testing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "Monkeys are unpredictable though, warned [Rutgers University microbiologist Dr. Richard] Ebright.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "\u2018They can run, they can scratch they can bite,\u2019 he said, and the viruses they carry would go where their feet, nails and teeth do.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "'\u201d Equally curious is the fact that Johns Hopkins Center for Health Security, the World Economic Forum and the Bill and Melinda Gates Foundation sponsored a novel coronavirus pandemic preparedness exercise October 18, 2019, in New York called \u201cEvent 201.\u201d 44 The simulation predicted a global death toll of 65 million people within a span of 18 months.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "45 As reported by Forbes December 12, 2019: 46 \u201cThe experts ran through a carefully designed, detailed simulation of a new (fictional) viral illness called CAPS or coronavirus acute pulmonary syndrome.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "Yet the new coronavirus responsible for NCIP had not yet been identified at the time of the simulation, and the first case wasn\u2019t reported until two months later.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "Forbes also refers to the fictional pandemic as \u201cDisease X\u201d \u2014 the same designation used by The Telegraph in its January 24, 2020, video report, \u201cCould This Coronavirus be Disease X?\u201d 47 which suggests that media outlets were briefed and there was coordination ahead of time with regard to use of certain keywords and catchphrases in news reports and opinion articles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "Johns Hopkins University (JHU) is the biggest recipient of research grants from federal agencies, including the National Institutes of Health, National Science Foundation and Department of Defense and has received millions of dollars in research grants from the Gates Foundation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "48 In 2016, Johns Hopkins spent more than $2 billion on research projects, leading all U.S. universities in research spending for the 38th year in a row.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "49 If research funded by federal agencies, such as the DOD or HHS is classified as being performed \u201cin the interest of national security,\u201d it is exempt from Freedom of Information Act (FOIA) requests.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "50 Research conducted under the Biomedical Advanced Research and Development Authority (BARDA) is completely shielded from FOIA requests by the public.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "51 Additionally, agencies may deny FOIA requests and withhold information if government officials conclude that shielding it from public view \u201cprotects trade secrets and commercial or financial information which could harm the competitive posture or business interests of a company.\u201d 52 The U.S. Centers for Disease Control and Prevention under the U.S. Department of Health and Human Services states that its mission is \u201cto protect America from health, safety and security threats, both foreign and in the U.S.\u201d 53 Clearly, it will be difficult to obtain information about government-funded biomedical research on microbes like coronavirus conducted at major universities or by pharmaceutical corporations in biohazard labs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "It looks more like a biosecurity accident but, until more is known, inevitably there will be questions than answers about whether this latest global public health emergency is a more ambitious tactical \u201csand table exercise,\u201d echoing unanswered questions about the 2009 swine flu pandemic fiasco.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "This time, there could be a lot more bodies left on the field, although some statisticians conducting benefit cost analyses may consider 65 million casualties in a global human population of 7.8 billion people 54 to be relatively small when advancing medical research conducted in the name of \u201cthe greater good.\u201d RELATED STORY: Signs and Symptoms of NCIP According to the WHO, signs and symptoms of NCIP in its initial stages include: 55 Sore throat Shortness of breath Dry cough In more severe cases, the infection can lead to pneumonia, severe acute respiratory syndrome and kidney failure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "WHO\u2019s \u201crapid advice note,\u201d detailing how to care for patients presenting mild symptoms of NCIP in the home can be downloaded here .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "Recommendations include: Placing the patient in a well-ventilated room Limiting the number of caretakers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "Ideally, designate a healthy younger person who has no underlying risk factors to care for the patient (older people appear to be more susceptible to severe disease) Keeping other household members in a different room, or keeping a distance of at least 1 meter (3.2 feet) from the patient Limiting the movement of the patient and minimizing shared space.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "Make sure shared spaces such as kitchen and bathroom are well-ventilated by keeping the windows open Instructions on protective gear, such as protective masks and gloves, and the safe handling and disposal of them are also detailed, as are special instructions for how to maintain good hygiene to prevent the spread of the virus throughout the home.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "General recommendations for how to reduce your risk of contracting an infection at home, work or when traveling can be found on WHO\u2019s Novel Coronavirus Advice for the Public page.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "56 A key recommendation \u2014 which applies to all infections, both bacterial and viral \u2014 is to frequently wash your hands with soap and water.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "Also, be sure to cover your mouth and nose when coughing or sneezing, and avoid close contact with anyone exhibiting symptoms of cold or influenza.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "According to Peter Horby, professor of emerging infectious diseases and global health at the Centre of Tropical Medicine and Global Health at the University of Oxford, NCIP has the hallmark signs of \u201cclassic viral pneumonia,\u201d and since there are currently no antivirals available for NCIP, the focus of care is to support the lungs and other organs until the patient recovers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "57 During this time, I recommend boosting your immune system with regular sensibly controlled sun exposure and, when unable to do that, taking oral vitamin D3.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "Adding liposomal vitamin C and quercetin supplements can also be helpful.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "All three help protect against infections in general, and quercetin may offer benefits as a treatment for SARS coronavirus infections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "58 According to a study 59 in the Journal of Virology, \u201cquercetin offers great promise as a potential drug in the clinical treatment of SARS.\u201d Resveratrol is another antioxidant that could be useful.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "It\u2019s been shown to inhibit MERS-CoV infection, at least in vitro.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "60 There are some events that happen, which are not in our control, but one thing we can do is learn how to better respond to bad news that causes stress, which can depress the immune system.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "Living in a constant state of anxiety and fear is not healthy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "Finding ways to lower stress through regular exercise, spending time in nature, practicing meditation and getting plenty of sleep on a daily basis all help optimize immune function and decrease the effects of stress that are all too often a part of our lives today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "*Article originally appeared at .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "Copyright 2013-2020 \u2013 permission to reprint our articles fully granted, WITH links to original story, our site, founder and her bio.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "Erin Elizabeth is a long time activist with a passion for the healing arts, working in that arena for a quarter century.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "Her site, not even six years old cracked the top natural health sites within the first year of its inception.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "She is an author, public speaker, and has recently done some TV and film programs for some of her original work which have attracted international media coverage.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "Erin was the recipient for the Doctors Who Rock \"Truth in Journalism award for 2017.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "You can get Erin\u2019s free e-book here and also watch a short documentary on how she overcame vaccine injuries, Lyme disease, significant weight gain, and more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "Follow Erin on , , and subscribe to her Youtube Channel for breaking news, television appearances and more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": "December 7, 2016 CBS: Assemblyman introduces bill that would automatically register all NY adults for organ donor registry April 17, 2019 December 21, 2019 September 7, 2016 * All content found on the HealthNutNews.com Website, including: text, images, audio, or other formats were created for informational purposes only.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "The Content is not intended to be a substitute for professional medical advice, diagnosis, or treatment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "Always seek the advice of your physician or other qualified health provider/practitioner with any questions you may have regarding a medical condition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": "Never disregard professional medical advice or delay in seeking it because of something you have read on this Website.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "If you think you may have a medical emergency, call your doctor, go to the emergency department, or call 911 immediately.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 105,
+            "sentence": "HealthNutNews.com and/or Erin Elizabeth do not recommend or endorse any specific tests, physicians, products, procedures, opinions, or other information that may be mentioned on HealthNutNews.com.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 106,
+            "sentence": "Reliance on any information provided by HealthNutNews, Health Nut News employees, contracted writers, or medical professionals presenting content for publication to Health Nut News is solely at your own risk.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 107,
+            "sentence": "Links to educational content not created by Health Nut News are taken at your own risk.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 108,
+            "sentence": "Health Nut News/Erin Elizabeth is not responsible for the claims of external websites and education companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 109,
+            "sentence": "x close this window Find out how to stop EMF damage to your physical and mental health \u00d7 x close this window Discover how to Prevent and Reverse Autoimmune disease.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

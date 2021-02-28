@@ -1,0 +1,261 @@
+{
+    "document_id": -1,
+    "url": "http://www.ala.org/advocacy/net-neutrality",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:37:48.221805+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to main content ALA ALA Websites Contact ALA GiveALA Join ALA Toggle navigation Visit our COVID-19 Response page for updates and recommended resources.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "ala homepage quicklinks About ALA ALA Divisions ALA Governance .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Elections ALA Offices Contact ALA Give to ALA .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Development Office ALA Grants ALA Scholarships eLearning Opportunities Engage with ALA State of America's Libraries Report 2019 ALA Guidelines & Standards Ctr.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "for the Future of Libraries × Breadcrumb navigation ALA > > eBooks E-rate 2020 Census Diversity in the Workplace EDI in Our Libraries Contribute to the Community Tools & PSAs ALA endorses strong, enforceable net neutrality rules such as those adopted by the FCC in 2015 which banned blocking, throttling, or degrading of any lawful internet content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "ALA opposes “paid prioritization” for internet traffic as an inherently unfair practice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "ALA supports efforts to protect net neutrality in federal court.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "ALA supports legislation that preserves the competitive online markets for content and services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "ALA supports state-level efforts to preserve net neutrality protections for consumers and institutions like libraries.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Network neutrality is the principle that internet service providers should treat all data equally and should not discriminate or provide preference to any data regardless of its source, content, or destination.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Net neutrality is essential for libraries to meet our public mission and is an expression of our professional values.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "America’s libraries collect, create, and disseminate essential information to the public over the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The open internet is a vital platform for free speech and intellectual expression.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Libraries also ensure users can access the internet and create and distribute their own digital content and applications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "In February 2015, the Federal Communications Commission (FCC) approved rules that gave internet users the most robust net neutrality protections to date.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "In June 2016, a federal appeals court affirmed the FCC’s Order.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "But in December 2017, the FCC voted to jettison the 2015 rules by eliminating the regulatory underpinning of that law.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The FCC also dropped the rule that authorized the regulator to oversee ISP behavior.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Following the most recent vote, the FCC was sued in federal court by pro-net neutrality companies and consumer organizations, as well as dozens of states attorneys general.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Less than six months after the 2017 FCC vote, 36 states had proposed or passed a resolution, bill, or executive order supporting net neutrality protections.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The ALA has been on the front lines of the net neutrality battle with the FCC, Congress, and the federal courts for more than a decade, working in coalition with other library and higher education organizations as well as broader coalitions of net neutrality advocates.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Without strong net neutrality protections in place, there is nothing to stop internet service providers from blocking or throttling legal internet traffic or setting up commercial arrangements where certain traffic is prioritized over other traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "In practice, this will make it harder for people to have equitable access to the internet and for libraries to serve their patrons.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "A non-neutral net gives entities who can afford to pay more control over what information every American can access, potentially relegating libraries and other non-commercial enterprises to the internet’s “slow lanes.” July 2019: Comments submitted to the FCC regarding ALA's opposition to the proposed cap on the Universal Service Fund June 2019: May 2019: Coalition Letter in support of the Save the Internet Act April 2019: Coalition Letter in support of the Save the Internet Act February 2019: February 2019: Net Neutrality Updates: What the future holds in Mozilla case August 2018: Amicus brief filed with the U.S. Court of Appeals for the D.C.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Circuit in support of petitioners in Mozilla v. FCC (August 30, 2018) July 2017: ALA, AALL, and COSLA file comments with FCC June 2017: June 2017: May 2017: March 2017: March 2017: February 2017: lclark@ala.org Footer navigation Office for Research & Evaluation (ORE) Games & Gaming (GAMERT) Learning RT (LearnRT, formerly CLENERT) Sustainability (SustainRT) Work at ALA 50 E. Huron St. Chicago IL 60611 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

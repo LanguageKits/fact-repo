@@ -1,0 +1,1861 @@
+{
+    "document_id": -1,
+    "url": "https://www.naruc.org/nrri/nrri-activities/net-neutrality-tracker/",
+    "document_category": "Government",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:39:22.174992+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "About NRRI NRRI Staff NRRI Fellows NRRI Projects & Activities NRRI Insights NRRI Projects & Activities Map last updated 5/30/18 The FCC Restoring Internet Freedom Order (In the Matter of Restoring Internet Freedom, Declaratory Ruling, Report and Order, WC Docket 17-108) was released in December 2017 and published in the Federal Register on February 22, 2018.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The Order redefines Broadband Internet Access Service (BIAS) as an information service, regulated under Title I of the Telecommunications Act, rescinding the Commission\u2019s 2016 decision to oversee Internet service providers under Title II of the Act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "36 states have proposed or passed a resolution, bill, or executive order since the new rules were adopted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Six states, Hawaii, Montana, New Jersey, New York, Rhode Island, and Vermont, have addressed this change by issuing Executive Orders requiring companies wishing to contract with the State to confirm that they will meet the 2017 net neutrality requirements.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Thirty states have proposed legislation reinstating the net neutrality rules or requiring state contractors to abide by them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Ten additional states initiated Resolutions supporting Net Neutrality principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "With the end of the legislative sessions, some of these bills were withdrawn or died in committee.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "This tool tracks these orders and the proposed legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "In addition, the mayors of 122 cities\u00b9 and Santa Cruz County (CA) have pledged to require entities contracting with the city or using city services to adhere to Net Neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "For the full list of Net Neutrality cities as of 6/7/2018 see below.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "For more details on state actions, see the list below.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "NRRI will update this page regularly to reflect changes until July 15, 2018.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Please contact us at slichtenberg@nrri.org if you have questions or see any information that needs to be updated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "SJR12 : Resolution Bill status: Did not pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Session adjourned 4/16/2018 Urging the United States Congress to overturn the Federal Communication Commission's order ending net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": ": None Last updated: 5/10/2018 HB 277 Bill status: Did not pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Session adjourned 4/16/2018 Internet service providers must adhere to net neutrality standards and publicly disclose network management practices, performance and commercial terms none Last updated: 5/10/2018 HB 246 Bill status: Did not pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Session adjourned 4/16/2018 The Regulatory Commission of Alaska will designate the Alaska Broadband Development Corporation as an eligible telecommunications carrier Last updated: 5/10/2018 HB 384 Bill status: Did not pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Session adjourned 4/16/2018 : Amends AS 42.05.990(6) to add \u201cbroadband Internet access\u201d as a service to be regulated by the Regulatory Commission of Alaska Increases the services regulated by the Regulatory Commission of Alaska Last updated: 5/10/2018 HJR 31 Bill status: Did not pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Session adjourned 4/16/2018 Urges the United States Congress to overturn the Federal Communications Commission\u2019s order ending net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Last updated: 5/10/2018 : SB160 Bill status: Did not pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Session adjourned 4/16/2018 : An Act relating to the regulation of broadband Internet; and making certain actions by broadband Internet service providers unlawful acts or practices under the Alaska Unfair Trade Practices and Consumer Protection Act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": ": None Last updated: 5/10/2018 : SR74 : Resolution : 2/12/18 : California urges the United States Congress to intervene to protect net neutrality and codify its principles in statute : None : SB460 : Legislation : Bill withdrawn, merged with SB 822 : Bill makes NN enforceable under existing consumer protection laws : None Last updated: 6/27/2018 : SB 822 : Legislation : ; Hearing held 5/14/2018, passed Senate (5/30/2018), referred to Assembly; amended 6/11/2018, referred back to Committee on Privacy and Consumer Protection, 6/25/2018, referred to Committee on Appropriations, 6/26/2018; Passed Assembly 8/30/2018; Passed Senate 8/31/2018; signed by the Governor 9/30/2018.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Effective January 1, pending litigation from DoJ.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": ": Amends existing Consumers Remedies Act, to establish net neutrality protections by regulating business practices to require net neutrality, conditioning state contracts on adhering to net neutrality, requiring net neutrality as part of cable franchise agreements, and as a condition to using the public right of way (01/04/17).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "The amended bill removes restrictions on \u201czero-rating,\u201d a method of providing internet access without any costs under certain conditions, such as by only permitting access to certain websites or by subsidizing a company\u2019s internet service with advertising.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Allows paid prioritization and zero-rating if certain conditions are met.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "6/11/2018 amendment removes AG investigatory and enforcement powers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": ": Amended 4/24 to remove CPUC oversight Last updated: 10/1/2018 : AB 1999 : Legislation : passed by senate and Assembly; sent to the governor for signature, 8/30/2018 : Allows municipalities and county service areas to provide municipal broadband.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Municipal broadband systems must follow net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "HB 1312 Did not pass 4/23/2018 : Concerning the protection of the open internet, and, in connection therewith, disqualifying an internet service provider from receiving high cost support mechanism money or other money received to finance broadband deployment if the internet service provider engages in certain practices that interfere with the open internet and requiring an internet service provider that engages in such practices to refund any such money received.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Last updated: 4/23/2018 : SB 2 : Legislation : Did not pass 3/29/2018 : ISPs must register with PURA, apply NN standards : Require internet service providers operating in the state to register with the Public Utilities Regulatory Authority and pay an annual registration fee, to require the Public Utilities Regulatory Authority to apply net neutrality principles to Internet service providers in Connecticut and to require a civil penalty be imposed by the Public Utilities Regulatory Authority for failure of an Internet service provider to comply with such principles where each day in violation is a separate offense Last updated: 4/4/2018 : HB 5260 : Legislation : Did not pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Session adjourned 5/9/2018 : To require Internet service providers that are state contractors to adopt a net neutrality policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": ": Last updated: 5/10/2018 : SB 336 ( amended language here ) : Legislation s: Passed senate (5/4/2018); Did not pass ; session adjourned 5/9/2018 : ISP providers shall register with the state, and regularly provide accurate information regarding network management practices, performance and commercial terms of its broadband Internet access services sufficient, as determined by the authority, for end users of such services to fully and accurately ascertain if the service is in compliance with standards established within the legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "State Utility Commission Involvement: The authority [Connecticut Public Utilities Regulatory Authority] shall receive and record complaints of any end user of broadband Internet access service within the state.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Upon receipt of such complaints, the authority may, in its discretion, review the performance of a person or entity engaged in the provision of fixed or mobile broadband Internet access service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "The authority, upon a finding that any such person or entity failed to comply with the net neutrality principles described in this section, shall make orders, after a hearing that is conducted as a contested case in accordance with chapter 54 of the general statutes, to enforce the provisions of this section and may levy civil penalties against such person or entity, pursuant to section 16-41 of the general statutes, for noncompliance.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Last updated : 5/4/2018 : SCR 44 : Resolution : Passed by Senate (1/25/18), session adjourned : Expresses the General Assembly's opposition to the FCC's repeal of net neutrality rules and urges Congress to either review the repeal under the Congressional Review Act or enact legislation reinstating and requiring the preservation of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": ": None Last updated: 3/7/2018 : PR22-06-91 : Resolution : Under City Council review as of 1/24/18 : Declares the sense of the Council that the District of Columbia strongly opposes the repeal of Net Neutrality Rules as implemented by the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": ": None Last updated: 3/7/2018 : SB 310 : Legislation : Did not cross over to house as of 2/28/18-- did not pass : Requires any ISP engaged in the provision of broadband service must \"publicly disclose accurate information regarding the network management practices, performance, and commercial terms of its broadband Internet access service.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "The bill would also prohibit any ISP from blocking lawful content, applications, services, and non-harmful devices, as well as prohibit \"unreasonable discrimination in transmitting lawful network traffic over a consumer's broadband Internet access service.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": ": G ives GA PSC authority to prescribe rules and regulations for the implementation of this chapter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Last updated: 2/28/2018 : HR1161 : Resolution : Did not cross over to house as of 2/28/18-- did not pass : Encourages Georgia's state agencies to establish policies requiring recipients of state contracts to adhere to Internet neutrality principles; and for other purposes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": ": State agencies encouraged to establish policies requiring recipients of state contracts to adhere to Internet neutrality principles; and for other purposes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Last updated: 2/26/2018 : EO No.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "18-02 : (2/5/18) : Directs all state government agencies to contract for internet-related services only with providers who contractually agree to abide by net neutrality principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": ": Direct state agencies only to contract with ISPs that adhere to net neutrality requirements.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Add language to state contracts requiring adherence to net neutrality principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Last updated: 2/26/2018 : HB 1995 : Legislation : Pending : Would require an ISP operating in the state to comply with network neutrality practices and to be transparent with its network management practices, performance, and commercial terms of its Internet access services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": ": Established for administrative purposes within the public utilities commission a task force on the establishment of a state-owned public utility company to provide internet service to users in Hawaii.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Last updated : 5/10/2018 : SB 2644 : Legislation : Did not pass; sessions adjourned 5/3/2018 : Requires a provider of broadband internet access services to be transparent with network management practices, performance, and commercial terms of its broadband internet access services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Prohibits a provider of broadband internet access services from blocking lawful websites, impairing or degrading lawful internet traffic, engaging in paid prioritization, or unreasonably interfering with or disadvantaging users of broadband internet access services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "(SD2) Last updated: 4/25/2018 : HB 2256 : Legislation : Did not pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Session adjourned 5/3/2018 Requires a provider of broadband internet access services to be transparent with network management practices, performance, and commercial terms of its broadband internet access services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Prohibits a provider of broadband internet access services from blocking lawful websites, impairing or degrading lawful internet traffic, engaging in paid prioritization, or interfering with or disadvantaging users of broadband internet access services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Requires an applicant of a broadband-related permit seeking a state-granted or county-granted right to attach small cell or other broadband wireless communication devices to utility poles to comply with certain practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": ": None Last updated: 5/10/2018 SB 2088 : Did not pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Session adjourned 5/3/2018 Requires a provider of broadband internet access services to be transparent with network management practices, performance, and commercial terms of its broadband internet access services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "Prohibits a provider of broadband internet access services from blocking lawful websites, impairing or degrading lawful internet traffic, engaging in paid prioritization, or interfering with or disadvantaging users of broadband internet access services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": ": None Last updated: 5/10/2018 : HB 425 : Legislation : Did not pass .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "Legislature adjourned : Requires net neutrality for all in-state internet providers : PUC to create rules to ensure that a telephone corporation and any communications provider it contracts with shall comply with Net Neutrality requirements.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "Last updated: 3/7/2018 : SR 1196 / HB 5094 : Resolution : Placed on calendar 2/13 : Urges the United States Congress and President Trump's administration to advocate for the permanent adoption of net neutrality rules that keep the Internet free and open.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": ": None Last updated: 3/7/2018 : SB 2816 : Legislation : Pending : Amends the Illinois Procurement Code.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "Provides that no State agency may contract with an Internet service provider for the provision of broadband Internet access service unless that provider certifies, under penalty of perjury, that it will not engage in specified activities concerning Internet access and use.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": ": None Last updated: 3/7/2018 : SB 5094 : Legislation : Pending :Amends state utility code to require broadband providers to adhere to Net Neutrality requirements.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "Provides that the Attorney General may enforce violations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "Amends the Consumer Fraud and Deceptive Business Practices Act to make conforming changes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": ": None Last updated: 3/7/2018 HB4819 Creates the Broadband Procurement and Disclosure Act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "Provides that no State broadband purchaser may award any contract to an Internet service provider that includes broadband service unless the contract provides specified terms concerning access to and impairment of Internet services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "Requires each Internet service provider to make available on its website a clear and conspicuous statement informing end users of the Internet service provider's network management practices and performance, including commercial terms offered to end users.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "Provides enforcement and damages provisions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "Provides that nothing in the Act supersedes any obligation or authorization or limits the ability of an Internet service provider to address the needs of emergency communications or law enforcement, public safety, or national security authorities consistent with or as permitted by applicable law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "Last updated: 4/16/2018 : HF 2287 : Did not pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "Session adjourned 4/18/2018 : A bill for an act providing internet neutrality and making penalties applicable : None Last updated: 5/10/2018 : SF 2286 : Legislation : Did not pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "Session adjourned 4/18/2018 : A bill for an act providing for internet neutrality, and making penalties applicable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "Last updated: 5/10/2018 : HB 2682 : Legislation : Did not pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "Session adjourned 4/8/2018 : Prohibiting state contracts with internet service providers that do not adhere to net neutrality principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": ": None Last updated: 5/10/2018 : HB 418 : Legislation : Did not pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": ": Prohibiting state contracts with internet service providers that do not adhere to net neutrality principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": ": None Last updated: 5/10/2018 : SB 287 : Legislation : Did not pass ; Session adjourned 4/10/2018 : State funds may be used only to contract with providers that adhere to net neutrality principles : None Last updated: 4/19/2018 : HB 1654 : Legislation : Did not pass ; Session adjourned 4/10/2018 : Providing that State funds may be used only by the State, a political subdivision, or a unit, an agency, or any instrumentality of the State or a political subdivision or by a person awarded a contract or grant by certain persons to procure services from an Internet service provider that does not block certain content applications, services, and devices, impair or degrade certain Internet traffic on a certain basis, or engage in certain commercial traffic preferencing : None Last updated: 4/10/2018 HB 1655 Did not pass ; Session adjourned 4/10/2018 : Specifying the circumstances under which a broadband Internet access service provider may handle certain customer personal information in a certain manner; establishing a mechanism through which a broadband Internet access service provider may obtain customer consent to have certain personal information handled in a certain manner; prohibiting a broadband Internet access service provider from taking certain actions based on whether a customer has consented to have certain customer personal information handled in a certain manner; etc.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": ": None Last updated:5/10/2018 : MA HB 4222 : Legislation : ; Senate concurred, 3/22/2018; House reporting date extended to 6/21/2018; Senate concurred 5/9/2018; legislation replaced by H4684 7/16/2018 For legislation to provide for net neutrality and consumer protection The Department of Telecommunications and Cable may make the rules necessary to implement the Act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "Last updated: 5/10/2018 MA S2389 State contract providers must adhere to net neutrality standards : Establish a process for broadband providers to certify that they will not engage in practices inconsistent with net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "SB 2336 : For legislation to protect consumers by prohibiting blocking, throttling, or paid prioritization in the provision of internet service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "Telecommunications, Utilities and Energy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": ": None Last updated: 4/25/2018 : HB 4151 : Legislation For legislation to assure net neutrality by Internet service providers and the equal treatment of data on the Internet, and to prohibit discrimination or charge disparity of user, content, website, platform, application, type of attached equipment or method of communication.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "Telecommunications, Utilities and Energy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": ": None Last updated: 4/25/2018 : SB 2610 : Legislationd : Pending, passed Senate on 7/19/2018 : Establish a \u201cpreference\u201d in state agency contracts for using ISPs that practice net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": ": DTC to create a Massachusetts Net Neutrality and Consumer Privacy Seal\" that could then be used by an ISP to show that it \"(i) provides equal access to an open and neutral Internet; (ii) commits to and enforces policies which prohibit paid prioritization; and (iii) provides customers with a mechanism to easily opt-out of third-party access to customer proprietary information for purposes other than the provision of broadband Internet access service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "ISPs must file information with the DTC annually regarding their network management practices, performance characteristics, and commercial terms of broadband Internet access service, as well as their privacy policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "Last updated: 7/24/2018 : HB 4684 : Order n: authorizes the committee on Telecommunications, utilities and Energy be authorized to make an investigation and study of legislation relating to net neutrality, relative to telecommunications, utilities and energy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "The committee shall report to the General Court the results of its investigation and study and its recommendations, if any, together with drafts of legislation necessary to carry such recommendations into effect on or before December 31, 2018. : none Last updated: 7/16/2018 : SR 0131 : Resolution : Pending : resolution to urge the Governor to issue an executive order requiring internet service providers with state contracts to abide by net neutrality principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": ": None Last updated: 3/7/2018 :MN S 2880 : Legislation : Did not pass ; Session adjourned : Relates to broadband service; prohibits certain activities by Internet service providers serving Minnesota customers and those under contract to the state or political subdivisions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": ": None Last updated: 3/7/2018 : HF 3033 : Legislation Internet service providers serving Minnesota customers and those under contract to the state or political subdivisions prohibited from certain activities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "The Commission of Commerce is tasked with implementation and enforcement measures associated with bill Last updated: 4/25/2018 : HCR 84 : Resolution : Did not pass; Session adjourned : Urges Congress to pass legislation reinstating net neutrality : None Last updated: 3/7/2018 : EO No.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "3-2018 : Executive order : 2/5/18 : State contractors must adhere to net neutrality principles : None Last updated: 5/10/2018 : LB 856 : Legislation : Did not pass , 4/18/2018 : Amends state telecommunications act to require providers to adhere to Net Neutrality requirements.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": ": PUC to create requirements for licensing providers and ensuring they meet the requirements of the Bill.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "Last updated: 5/18/2018 : EO No.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "9 : Enacted 2/5/18 : State contractors must adhere to net neutrality principles : None Last updated: 2/26/2018 : SB 1577 : Legislation : Pending : None Last updated: 3/7/2018 : : Legislation : Pending; Reported out of Assembly Comm.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "with Amendments, 2nd Reading 3/12/2018 : Directs BPU to prohibit Internet service providers from installing broadband telecommunications infrastructure on certain poles or underground facilities unless Internet service providers adhere to principle of \u201cnet neutrality.\u201d : Yes, see above Last updated: 3/23/2018 : : Legislation : Pending : Prohibits awarding of public contracts to Internet service providers, unless Internet service providers adhere to principle of \u201cnet neutrality.\u201d : None Last updated: 3/13/2018 : : Legislation : Pending; Reported out of Assembly Comm.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "with Amendments, 2nd Reading 3/12/2018 : Requires cable television company to commit to principle of \u201cnet neutrality\u201d as condition of approval of application for municipal consent or system-wide franchise.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": ": This bill requires a cable television company (CATV company) to commit to the principle of \u201cnet neutrality\u201d for all Internet service customers as a condition of approval of an application filed with the Board of Public Utilities for a municipal consent or a system-wide franchise for the provision of CATV service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "Last updated: 3/23/2018 A 1767 (Identical bill number S1577) Last updated: 4/25/2018 SB 1802 : Prohibits awarding of public contracts to Internet service providers, unless Internet service providers adhere to principle of \"net neutrality.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "Last updated: 4/25/2018 : SJM 17 : Passed the senate 2/13/18, not heard on the house floor, Did not pass : Requests that the New Mexico congressional delegation encourage Congress to review the Federal Communications Commission\u2019s decision to repeal the net neutrality rule.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": ": None Last updated: 3/7/2018 SB 39 : Did not pass , postponed indefinitely 1/17/2018 : None Last updated: 5/10/2018 : SB 155 : Did not pass , postponed indefinitely 1/23/2018 : None Last updated: 5/10/2018 : EO No.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "175 : 1/24/18 : State contractors must adhere to net neutrality principles, Dept.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 105,
+            "sentence": "of Public Services tasked with evaluating potential actions to promote net neutrality : Department of Public Service is directed to evaluate potential actions to promote net neutrality in order to protect New Yorkers\u2019 access to a free and open internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 106,
+            "sentence": "Last updated: 5/10/2018 : AB 9059 : Legislation : Pending : Establishes a new commission to study and report on the potential implementation of legislation, rules, and regulations for an open Internet in NY : None Last updated: 3/7/2018 : SB 7175 : Legislation : Pending : State may contract only with internet service providers that comply with net neutrality; establishes a revolving fund for the establishment of municipal internet service providers; appropriates $250 million therefor.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 107,
+            "sentence": ": The commission shall require any person engaged in the provision of broadband internet access service in NY state to report to the commission, and publicly disclose accurate information regarding the network management practices, etc.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 108,
+            "sentence": "The NY Public Service Commission shall help jointly administer (with the comptroller) the Municipal Internet service provider revolving loan fund.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 109,
+            "sentence": "Last updated: 3/7/2018 : SB 7183 : Legislation Directs the PSC to develop a plan to monitor ISPs to ensure compliance with net neutrality rules, including an annual compliance review.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 110,
+            "sentence": ": PSC to develop rules to monitor compliance with net neutrality requirements.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 111,
+            "sentence": "PSC will use federally-mandated reporting requirements on net neutrality, which require ISPs publicly disclose unfair practices such as throttling or paid prioritization 3/7/2018 : A 8882 : Pending, referred to ways and means 4/17/2018; passed Assembly 6/19/2018 : Relates to instituting internet service neutrality; provides the public service commission with jurisdiction over monitoring broadband internet service providers; requires a certification for internet service neutrality in certain state contracts.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 112,
+            "sentence": ": Provides the public service commission with jurisdiction over monitoring broadband internet service providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 113,
+            "sentence": ": A 9057 : Pending, referred to corporations, authorities and commissions 1/18/2018 : Relates to state contracts being only with internet service providers compliant with net neutrality and establishes a revolving fund for the establishment of municipal internet service providers; appropriates $250 million therefor.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 114,
+            "sentence": ": : Legislation : Enacts the \"omnibus telecommunications reform act of 2017\"; reforms the competitive cable service, promotes the widespread development of high-capacity broadband internet access, and increases the availability and quality of services in this key economic development area and ensures the safety, reliability and affordability of telecommunications services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 115,
+            "sentence": "Directs enforcement authority to the Public Service Commission.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 116,
+            "sentence": ": SB 736 : Legislation : Did not pass, session adjourned : Preserve Net Neutrality by prohibiting blocking, throttling, paid prioritization or other practices inconsistent with net neutrality principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 117,
+            "sentence": "Require public disclosure of network management practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 118,
+            "sentence": "Failure to follow net neutrality rules will be considered an unfair trade practice and is prohibited.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 119,
+            "sentence": "The state DOJ shall monitor compliance with the rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 120,
+            "sentence": "The Department of Information Technology shall assist.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 121,
+            "sentence": "t: None Last updated: 8/30/2018 : HCR18 : Resolution : Pending : To memorialize the President and Congress to continue to protect net neutrality and open internet access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 122,
+            "sentence": ": None : HB 4155 : Legislation : (Passed by house 2/26/18, passed Senate 3/1/18, Governor signed 4/3/18 ) : Prohibits broadband Internet access service provider from disclosing, selling or permitting access to personal information of customers of provider.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 123,
+            "sentence": "Creates exceptions, including exception for giving express consent.Requires broadband Internet access service provider to take reasonable measures to protect personal information of customers of provider.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 124,
+            "sentence": "Requires broadband Internet access service provider to provide notice of provisions of Act to potential customers of provider.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 125,
+            "sentence": "Makes violation of Act unlawful trade practice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 126,
+            "sentence": "Establishes Task Force on Broadband Security to study uniformity of laws throughout United States with respect to protecting customers of broadband Internet access service providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 127,
+            "sentence": "Requires task force to submit report, including recommendations for legislation, to interim committee of Legislative Assembly related to judiciary no later than December 15, 2018.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 128,
+            "sentence": "Prohibits public bodies from contracting with broadband ISPs that engage in certain network management activities based on paid prioritization, content blocking, or other discrimination.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 129,
+            "sentence": ": The Oregon PUC shall create a rule specifying the manner and form in which disclosures under this subsection shall be made.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 130,
+            "sentence": "The OR PUC may adopt rules and take any action that is necessary to enable the commission to exercise all of the powers and functions conferred on the commission by section 1 of this 2018 act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 131,
+            "sentence": "OR PUC Docket No.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 132,
+            "sentence": "AR-618 opened 5/29/2018 to develop .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 133,
+            "sentence": "Last updated: 6/1/2018 : PA H 2062 : Legislation : Pending, introduced 2/28/18 Prohibits Internet service providers from engaging in practices which curtail equal access to lawful Internet content, applications, services or use of non harmful devices; imposes civil penalties.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 134,
+            "sentence": ": None Last updated: 3/7/2018 : SB 1033 : Legislation : Pending An Act providing for disclosure requirements for broadband Internet access service providers, for prohibitions and for contracts, grants and tax credits; and imposing civil penalties.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 135,
+            "sentence": ": None Last updated: 3/26/2018 : EO 18-02 4/24/2018 : Requires internet service providers (ISPs) that contract with the state to commit to the principle of the previously defined net neutrality regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 136,
+            "sentence": "ISPs that wish to compete for state contracts may not block lawful content or applications, slow down access to lawful internet content, offer paid prioritization of content or applications or unreasonably interfere with users' ability to access lawful content or applications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 137,
+            "sentence": ": The PUC shall evaluate and advise the Governor on potential actions to promote net neutrality to protect Rhode Islander\u2019s access to free and open internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 138,
+            "sentence": "Last updated: 5/10/2018 : HB 7076 : Legislation : Committee recommended measure be held for further study 3/20/2018 : Requires Internet service providers to follow Internet service neutrality requirements.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 139,
+            "sentence": ": None Last updated: 3/23/2018 : S 2008 : Pending, Scheduled for hearing 5/3/2018 : Requires Internet service providers to follow Internet service neutrality requirements.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 140,
+            "sentence": "The division of public utilities and carriers shall certify annually that any Internet service provider qualified to do business in the state adheres to net neutrality principles as described in the bill.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 141,
+            "sentence": "Last updated: 4/25/2018 : HB 7422 Committee recommended measure be held for further study 3/20/2018 : Requires net neutrality by fixed or mobile broadband Internet access services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 142,
+            "sentence": ": None Last updated: 4/25/2018 : HB4614 : Legislation : Did not pass; Session adjourned 5/10/2018 : Telecommunications companies or ISPs engaged in the provision of broadband Internet access service must publicly disclose accurate information regarding their network management practices, performance, and commercial terms of its broadband Internet access services sufficient for consumers to make informed choices regarding use of such services and for content, application, service, and device providers to develop, market, and maintain Internet offerings.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 143,
+            "sentence": "Telecommunication and ISP providers may not block, throttle, prioritize, or unreasonably interfere with content or user access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 144,
+            "sentence": ": Provides that the Public Service Commission may waive the prohibition on paid prioritization only if the petitioner demonstrates that the practice would \"provide some significant public interest benefit and would not harm the open nature of the Internet in South Carolina.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 145,
+            "sentence": "Last updated: 5/10/2018 HB 4706 : Did not pass; Session adjourned 5/10/2018 : The Public Service Commission may waive the prohibition on paid prioritization in subsection (C) only if the petitioner demonstrates that the practice would provide some significant public interest benefit and would not harm the open nature of the Internet in South Carolina.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 146,
+            "sentence": "Last updated: 5/10/2018 : SB 195 : Legislation : Did not pass (Deferred to 41st legislative day) : Establish certain provisions regarding the state procurement process for internet, data, and telecommunications services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 147,
+            "sentence": ": None Last updated: 3/20/2018 : HB2405/2449 : Legislation : Did not Pass out of committee (3/13/2018); session adjourned 4/27/2018 : Creates a Task Force of the Tennessee general assembly to study issues relating to the Federal Communication Commission\u2019s withdrawal of the Open Internet Order : None Last updated: 5/10/2018 : SB 2183 : Legislation : Did not pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 148,
+            "sentence": "session adjourned 4/27/2018 : As introduced, requires any internet service provider that provides internet to the state to provide a net neutral internet service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 149,
+            "sentence": "- Amends TCA Title 4; Title 5; Title 6; Title 7; Title 10; Title 12; Title 65; Title 67 and Title 68. : None Last updated: 5/10/2018 : HB 1755/ SB 1756 : Legislation : Did not pass - no Second; session adjourned 4/27/2018 : As introduced, enacts the \"Tennessee Internet Consumer Protection and Neutrality Act.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 150,
+            "sentence": "- Amends TCA Title 4; Title 5; Title 6; Title 7; Title 10; Title 12; Title 65; Title 67 and Title 68.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 151,
+            "sentence": "No state governmental entity or local government shall contract with an ISP unless the provider is compliant with the net neutrality principles established.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 152,
+            "sentence": ": The Tennessee Public Utilities Commission shall promulgate rules that establish a process whereby an internet service provider certifies to the commission that it is providing broadband internet access service in accordance with this chapter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 153,
+            "sentence": "The commission is authorized to promulgate rules necessary to implement and effectuate all other provisions of this chapter except \u00a765-38-106.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 154,
+            "sentence": "Additionally the Commission shall administer a fund to be known as the Internet consumer access fund, and any penalties collected pursuant to \u00a7 65-38-108(a) shall be deposited in the fund.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 155,
+            "sentence": "Last updated: 5/18/2018 : HB 2253 : Legislation : Did not pass 3/13/2018 : As introduced, requires any internet service provider that provides internet to the state to provide a net neutral internet service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 156,
+            "sentence": "- Amends TCA Title 4; Title 5; Title 6; Title 7; Title 10; Title 12; Title 65; Title 67 and Title 68. : None Last updated: 4/25/2018 : EO No.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 157,
+            "sentence": "2-18 : 2/15/18 : State contractors must adhere to net neutrality principles : The Department of Public Service, in consultation with the Secretary of ADS, shall evaluate and advise the Governor on potential actions to promote net neutrality in order to protect Vermonters\u2019 access to a free and open internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 158,
+            "sentence": "This may include requiring Internet service providers to provide notice to their customers regarding network and transport management practices and performance and commercial terms of their broadband Internet access services sufficient for (A) consumers to make informed choices regarding use of such services and for content, application, service, and (B) device providers to develop, market, and maintain Internet offerings.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 159,
+            "sentence": "Last updated: 5/21/2018 : HB 680 : Legislation : Did not pass; Session adjourned : Bill makes NN enforceable under existing consumer protection laws : On or before November 15th, 2018, the Vermont PUC shall adopt rules that include: 1) A process by which ISPs may certify to the Commission that it is providing internet in accordance with consumer protection and net neutrality standards, 2) The form and manner for making required disclosures under this title, 3) A process for designating materials filed with the Commission as confidential if they fall within an exemption to disclosure under Vermont\u2019s Public Record Act, 4) Statewide consumer protection rules and guidelines, including testing for broadband speeds, 5) A complaint protocol concerning alleged violations of this chapter, 6) Any other standards or procedures the Commission deems necessary.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 160,
+            "sentence": "Last updated: 3/7/2018 S 289 : Legislation : , Signed by the Governor, 5/23/2018; Effective 7/1/2018 : An act relating to protecting consumers and promoting an open Internet in Vermont.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 161,
+            "sentence": ": By 12/15/2018, the AG, PSC, industry, and consumer stakeholders shall consult and draft a report or legislation \"reflecting whether and to what extent the state should enact net neutrality rules applicable to Internet service providers offering broadband Internet access service in Vermont.\u201d Last updated: 5/10/2018 : HB 705 : Legislation : Withdrawn by sponsor : Required ISPs doing business in the state to adhere to net neutrality principles : None Last updated: 5/10/2018 : HB 2282 : Legislation : (Passed by house 2/9/18, passed by senate 2/27/18, signed into law 3/5/18-- goes into effect 6/6/18 ) : Requires a person engaged in the provision of broadband internet access service in the state to publicly disclose accurate information regarding the network management practices, performance, and commercial terms of its services sufficient for consumers to make informed choices regarding use of the services and for content, application, service, and device providers to develop, market, and maintain internet offerings.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 162,
+            "sentence": "Creates the internet consumer access account.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 163,
+            "sentence": ": The utilities and transportation commission must provide notice of the effective date of this act to affected parties, the chief clerk of the house of representatives, the secretary of the senate, the office of the code reviser, and others as deemed appropriate by the utilities and transportation commission.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 164,
+            "sentence": "Last updated: 5/10/2018 : SB 6423 : Legislation : Did not pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 165,
+            "sentence": "Session adjourned 3/9/2018 : State contractors must adhere to net neutrality principles, requires Washington UTC to create a rule for implementation and enforcement of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 166,
+            "sentence": ": By January 1, 2019, the commission shall adopt an order that (a) establishes rules for implementing and enforcing net neutrality; (b) ensures that public purpose program funding is expended in a manner that will maximize internet neutrality; (c) amend or modify commission standards pertaining to eligible telecommunication carrier status to ensure compliance with consumer protection and internet neutrality standards; and (d) establishes a process whereby an internet service provider certifies to the commission that it is providing broadband internet access service in accordance with the requirements set forth in this section.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 167,
+            "sentence": "Last updated: 5/10/2018 HB 2284 : Did not pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 168,
+            "sentence": "Session adjourned 3/9/2018 : Protecting consumers by prohibiting blocking, throttling, or paid prioritization in the provision of internet service in Washington state.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 169,
+            "sentence": ": The Utilities and Transportation Commission are tasked with providing stakeholders with notice of the effective date of this act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 170,
+            "sentence": "Last updated: 5/10/2018 : SB 6446 : Legislation : Did not pass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 171,
+            "sentence": "Session adjourned 3/9/2018 : Ensuring consumers rights to internet transparency.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 172,
+            "sentence": ": None Last updated: 5/10/2018 : HB 4399 : Legislation : Did not pass : To require the state and its political subdivisions to utilize net neutral internet services to assure receipt of impartial information; providing legislative findings on necessity for fair government requiring impartial access to internet resources; providing for prohibited acts by persons providing internet services to the state; and providing exceptions thereto.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 173,
+            "sentence": ": None Last updated: 3/13/2018 : SB 396 : Legislation : Did not pass; session adjourned 3/11/2018 The Public Service Commission may waive the prohibition on paid prioritization contained in this section only if the petitioner demonstrates by clear and convincing evidence that the practice would provide some significant public interest benefit and would not harm the open nature of the Internet in this state.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 174,
+            "sentence": "Last updated: 5/10/2018 : SB 743 : : not pass (3/28/2018) : An Act to create 100.80 of the statutes; Relating to: requirements and prohibited practices for Internet service providers and granting rule-making authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 175,
+            "sentence": "(FE) : None Last updated: 4/4/2018 : SB 740 : Legislation : Did not pass (3/28/2018) : An Act to amend 16.75 (1) (a) 1.; and to create 16.756 of the statutes; Relating to: state contracts for broadband Internet access service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 176,
+            "sentence": "(FE) : None Last updated: 4/4/2018 : AB 908 Did not pass pursuant to Senate Joint Resolution 1 An Act to amend 16.75 (1) (a) 1.; and to create 16.756 of the statutes; Relating to: state contracts for broadband Internet access service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 177,
+            "sentence": "(FE) : None Last updated: 5/10/2018 : AB 909 : Did not pass pursuant to Senate Joint Resolution 1 : An Act to create 100.80 of the statutes; Relating to: requirements and prohibited practices for Internet service providers and granting rule-making authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 178,
+            "sentence": "(FE) Last updated: 5/10/2018 Mayor Kim McMillan \u2014 Clarksville, TN Mayor Marc McGovern \u2014 Cambridge, MA Mayor Peter d\u2019Errico \u2014 Leverett, MA Last updated 6/7/2018 States are pursuing the restoration of the 2015 Net Neutrality rules not only through legislation but also through legal action.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 179,
+            "sentence": "Twenty-two State Attorneys General are suing to overturn the Restoring Internet Freedom order in the courts.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 180,
+            "sentence": "These states are: California, Connecticut, Delaware, Hawaii, Illinois, Iowa, Kentucky, Maine, Maryland, Massachusetts, Minnesota, Mississippi, New Jersey, New Mexico, New York, North Carolina, Oregon, Pennsylvania, Rhode Island, Vermont, Virginia and Washington, and the District of Columbia, with others expected to join in.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 181,
+            "sentence": "In addition, Free Press, the Benton Foundation, NTCH, the National Hispanic Media Coalition, and Mozilla have filed petitions for judicial review.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 182,
+            "sentence": "These states appear on the map below.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 183,
+            "sentence": "1101 Vermont Avenue, NW, Suite 200, Washington, D.C. 20005 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 184,
+            "sentence": "Phone: (202) 222-0390",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

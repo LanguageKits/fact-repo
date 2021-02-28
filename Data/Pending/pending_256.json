@@ -1,0 +1,371 @@
+{
+    "document_id": -1,
+    "url": "https://www.newcmi.com/blog/uk-london-it-provider-the-future-of-net-neutrality",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:51:00.552230+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "In December 2017 the United States Federal Communications Commission voted to repeal a set of regulations that govern what has become known as net neutrality .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The decision has been seen as a victory for Internet Service Providers (ISPs), who control end user’s access to the Internet, and a defeat for campaigners of a free and fair Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The decision has the biggest impact for those living in the United States but it could affect people in the UK.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "To help you understand what this decision actually means and what it could mean for UK consumers and businesses we’ve put together the following overview.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Net neutrality is the principle that individuals should be able to freely access all content and applications on the Internet equally without ISP’s discriminating against specific online services or websites.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Put simply, it is the principle that the company that connects you to the Internet does not get to control what you do on the Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Net neutrality has so far been safeguarded by governmental regulations that stop private operators abusing their power.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "If you take away those regulations, then there is nothing to stop ISPs from slowing the speeds of your Internet to services such as Netflix and then charging you a premium if you want to watch them at the same quality as their favoured partners.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The US doesn’t have a competitive market for Internet and telecommunications companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The FCC has been trying to find ways to increase competition among the biggest companies such as AT&T, Comcast and Verizon.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "It believes that by scrapping net neutrality it can do that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The FCC's chairman, Ajit Pai, argues the changes will ‘foster innovation and encourage ISPs to invest in faster connections for people living in rural areas’.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "If the repeal goes through it will take away open and free access to the Internet for small businesses.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Data prioritisation could become expensive.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Therefore, if a business cannot afford to pay for this premium service to access its target audience, it will lose the Internet as primary channel to reach them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Additionally, larger companies, particularly media giants, could control what content is shared with everyone who is online.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "This could marginalise many small businesses and groups who were traditionally able to leverage the ‘level playing field’ of the Internet to raise awareness.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Net neutrality is protected in the UK under the European Union’s regulation on Open Internet Access.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The changes to net neutrality rules in the US do not have an immediate impact on customers of UK ISPs.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Whilst our net neutrality is currently protected, we are seeing some evidence of provider control shaping smartphone packages.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "EE for example will give customers free Apple Music subscriptions and won’t count the data you use streaming music through Apple Music.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "But for Apple’s competitor Spotify, EE counts streaming their music towards your data.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "This isn’t the same as deliberately slowing down the speeds of your Internet to certain services but it’s a step towards restricting the access you have.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Brexit is an important consideration.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "To begin with, all existing EU legislation will be copied across into domestic UK law to ensure a smooth transition on the day after Brexit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "That includes Open Internet Access rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "But it’s not inconceivable that UK Parliament could look to ‘amend, repeal and improve’ these rules post Brexit, should that be desired.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Sign a petition – , Change.org File a written complaint to the FCC Make a donation to those organisations fighting the ruling.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "About BTA We take care of your IT, so you can focus on running your business.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Whether you are looking for a comprehensive outsourced IT support service or something more flexible, BTA can help.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "As industry-leading specialists in network security, business continuity, hardware and software provision, cloud computing and Internet services, BTA has been helping businesses gain a competitive edge through technology for more than 20 years.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Call today on 020 8875 7676 to learn more and sign up for a free consultation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Data Storage for SMEs: What you need to know Related posts Goodbye to BT's ISDN Lines Richard Taberner is Managing Director at BTA Ltd. With 30 years of experience advising and servicing businesses in London and beyond, Richard believes that outsourcing IT doesn't need to be expensive or painful.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Whether a client wishes to manage costs or free internal resource through outsourcing, Richard strives to ensure a smooth and reliable service for every client at BTA.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "View author's profile Show more posts from author Get your free IT consultation April 2020 (2) March 2020 (1) February 2020 (3) January 2020 (1) December 2019 (2) November 2019 (2) October 2019 (1) September 2019 (1) August 2019 (1) July 2019 (2) April 2019 (1) March 2019 (1) February 2019 (1) January 2019 (1) December 2018 (1) November 2018 (1) October 2018 (1) September 2018 (1) August 2018 (2) July 2018 (1) June 2018 (2) May 2018 (2) April 2018 (2) March 2018 (2) February 2018 (2) January 2018 (3) December 2017 (2) November 2017 (2) October 2017 (2) September 2017 (3) August 2017 (3) July 2017 (2) June 2017 (4) May 2017 (3) April 2017 (3) March 2017 (2) February 2017 (3) January 2017 (3) December 2016 (2) November 2016 (3) October 2016 (2) September 2016 (1) August 2016 (3) July 2016 (2) June 2016 (3) May 2016 (3) April 2016 (4) March 2016 (5) February 2016 (2) January 2016 (4) December 2015 (2) November 2015 (2) October 2015 (6) September 2015 (4) August 2015 (5) July 2015 (3) June 2015 (1) May 2015 (3) see all Get in touch enquiries@bta.com 020 8875 7676 BTA Policies We are a leader in IT Infrastructure Planning, Implementation & Support throughout the UK and Ireland.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "0800 023 2696 +44 (0)28 9073 5656 Speak to us CMI Policies",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

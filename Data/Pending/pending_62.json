@@ -1,0 +1,81 @@
+{
+    "document_id": -1,
+    "url": "https://www.broadcastingcable.com/news/house-dems-laud-stalled-net-neutrality-bill",
+    "document_category": "Blog/magazine",
+    "annotators": [],
+    "author": "John Eggerton",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:40:02.828336+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Cite Save the Internet Act among session's accomplishments Publish date: Dec 17, 2019 Image courtesy Architect of the Capitol House Energy & Commerce Committee leadership sent out an e-mail of the committee's accomplishments and they included the bill trying to undo the FCC's Restoring Internet Freedom order deregulating internet access service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The bill, the Save the Internet Act, passed the Democrat-controlled House but was essentially DOA in the Republican-controlled Senate.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "But that did not prevent the legislators from claiming that effort to \"reverse the disastrous repeal by Trump’s Federal Communications Commission (FCC) in late 2017 of critical net neutrality protections,\" as one of the session's accomplishments.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The FCC voted 3-2 to reclassify internet access as an information service not subject to common carrier regs, as well as eliminating bright-line rules against blocking, throttling and paid prioritization and a blurry-line conduct standard that allowed the FCC to identify things it felt impeded an open internet but weren't a violation of any of the rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "“This year, we’ve worked to put consumers first and strengthen our economy by passing legislation through the House to restore a free and open internet,\" said E&C chairman Frank Pallone (D-N.J.) and Communications Subcommittee chairman Mike Doyle (D-Pa.).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Other accomplishments were bills aimed at stopping illegal robocalls, improving broadband mapping, and securing networks, as well as holding hearings on edge providers' liability protections against third-party content and two hearings on oversight of the FCC.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "terms: Next TV Heads to House for vote next week Signal they are starting points, not end points, in clarifying FCC authority over 'net access Dems pledge fast track for Save the Internet Act Dems introducing legislation this week NCTA said it is dead end; Public Knowledge calls it critical step Still needs a handful more Dems or some GOP turn-arounds Says there are still moderates that can be turned toward Save the Internet Act Unlikely to draw crowd of GOP admirers RSS",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

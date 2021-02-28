@@ -1,0 +1,221 @@
+{
+    "document_id": -1,
+    "url": "https://arstechnica.com/tech-policy/2020/02/ajit-pai-defeats-another-attempt-to-restore-fccs-net-neutrality-rules/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Jon Brodkin",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:38:30.620542+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to main content Biz & IT RSS Feeds Filter by topic  Biz & IT Front page layout Site theme Black on white White on black Sign in  Comment activity  Sign up or login to join the discussions!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Sign up to comment and more Sign up Net neutrality —  Ajit Pai defeats another attempt to restore FCC’s net neutrality rules Repeal still intact, but appealing to the Supreme Court is an option.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "- Feb 7, 2020 4:42 pm UTC reader comments 120 with 42 posters participating Share this story The Federal Communications Commission has defeated another challenge to its repeal of net neutrality rules, as a federal court yesterday decided that it won't rehear the case.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "In October 2019, a three-judge panel at the US Court of Appeals for the District of Columbia Circuit upheld the FCC's repeal of net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Mozilla, consumer-advocacy groups, and state attorneys general asked for a rehearing in front of all the DC Circuit court judges, but the request was denied yesterday in a very short ruling .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The petitioners could still appeal to the US Supreme Court but haven't said if they will do so.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "\"While today's result is unfortunate, it's not that surprising,\" Free Press VP of Policy and General Counsel Matt Wood said .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "\"Courts routinely deny rehearing requests like this.But we'll keep weighing our legal options.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Why Ajit Pai’s “unhinged” net neutrality repeal was upheld by judges Wood said that Free Press will also \"keep making the case in Congress, in statehouses and in future FCC proceedings about the need to restore the vital nondiscrimination rules that Chairman [Ajit] Pai ripped away.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "said , \"We look forward to continuing to fight for an open Internet in Congress and in statehouses across the country—and one day working with an FCC that recognizes its important role in protecting broadband users.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "States can enforce net neutrality While the appeals court upheld the FCC's repeal of US-wide net neutrality rules, the decision in October wasn't a clean sweep for Pai.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "His FCC had also voted to block all current and future state net neutrality laws, but the judges said the FCC can't impose a blanket, nationwide preemption.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Washington State keeps enforcing net neutrality as it hails FCC court loss The FCC can still try to preempt net neutrality laws on a case-by-case basis, but Washington state and are already enforcing their own laws .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "and agreed to suspend enforcement of their net neutrality laws until after all appeals in the FCC case are exhausted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "reader comments 120 with 42 posters participating Share this story Jon is Ars Technica's senior IT reporter, covering the FCC and broadband, telecommunications, wireless technology, and more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "jon.brodkin@arstechnica.com // @JBrodkin You must login or create an account to comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "← Previous story Next story → Powered by RSS Feeds Advertise with us Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Sign me up → CNMN Collection (updated 1/1/20) and (updated 1/1/20) and (effective 8/21/2018).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Ars may earn compensation on sales from links on this site.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Read our affiliate link policy .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

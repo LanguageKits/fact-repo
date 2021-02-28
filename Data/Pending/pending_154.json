@@ -1,0 +1,261 @@
+{
+    "document_id": -1,
+    "url": "https://theweek.com/articles/495495/what-net-neutrality",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:29:22.962077+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Comcast, the biggest cable provider in the U.S., won a lawsuit against the Federal Communications Commission that could have serious repercussions on how the internet is regulated.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "At stake is the principle of \"net neutrality.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "But what does that mean,how does this decision affect it, and what will it mean to you?",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "In basic terms, it's the idea that all internet users should have unrestricted access to all legal content, services, and sites on the web.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "In practice, this means that Comcast and other internet providers shouldn't be able to block or curb their customers' access to certain categories of sites — bandwidth-heavy video services YouTube and Hulu, for example — or specific sites, such as those owned by competitors.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "In some countries, including Italy, Russia, and Japan, net neutrality is enforced by laws.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "In the U.S., however, it has been more or less voluntary.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "In 2005, the FCC set out four \"Open Internet Principles\" it expects internet providers to follow, and the current FCC board is currently considering making those four net-neutrality guidelines, plus two others, official FCC regulations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "In August 2008, the FCC, citing the 2005 guidelines, ordered Comcast to cease blocking and/or slowing customers' access to BitTorrent, a peer-to-peer site that facilitates the sharing of large (and sometimes pirated) music, movie, and software files.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The federal appeals court in Washington, D.C. unanimously ruled Tuesday that the FCC did not have the legal authority to tell cable-based internet providers how to manage their network.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "PC World calls Tuesday's ruling the \"shot heard 'round the world in the battle over net neutrality.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Certainly, the ruling undermines the FCC's broad authority to regulate the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "It might also severely undermine the FCC's new \"National Broadband Plan\" to reform the industry and bring high-speed internet access to the entire country.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "In theory, Comcast could \" go back to throttling BitTorrent \" and other services -- other providers like AT&T, Time Warner, and Verizon could follow Comcast's lead.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Internet providers may now \"block access to certain kinds of traffic, or give preferential treatment to other traffic,\" says Eric Savitz at Barron's , radically changing how we use the web.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Or else Comcast's win \"means very little,\" says Marguerite Reardon in CNET News : Contrary to the fears of net-neutrality advocates, broadband users \"are not likely to see any change in their service as a result of this court ruling.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "It depends who you ask.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Net neutrality proponents argue that we need federal regulation, since the internet is now a necessity rather than a luxury .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "But free-market advocates say increased regulation would hamper innovation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Some conservative commentators, including Glenn Beck and Rush Limbaugh, also argue that FCC regulation would allow the government to \"censor content\" and \"squash dissent.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The FCC says it will continue working on its own net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "But if it wants more regulatory powers, it either needs new legislation from Congress or it can reclassify broadband as a \"common carrier\" service, like landline telephones, that falls under its existing regulatory authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The latter option, sometimes called the \" nuclear option ,\" is favored by net neutrality activists, but would almost certainly face a court challenge.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "CNET News , WiseGeek , , , Barron's , PC World Try 6 Risk-Free issues of SEE DETAILS ADVERTISEMENT SHARE!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Most popular 1 The Justice Department is apparently working with conservative Christian groups to fight COVID-19 policies 2 How Tara Reade's allegations could bring down Joe Biden 3 Trump and Cuomo's 'feud' is essentially a performance, political insiders say Around the web Subscriber login Give a gift Classroom subscriptions RSS Do not sell my information Subscriber login Give a gift Classroom subscriptions RSS Do not sell my information Privacy policy Terms & conditions Customer service Contact us Ad info Privacy policy Terms & conditions Customer service Contact us Ad info",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

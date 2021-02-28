@@ -1,0 +1,781 @@
+{
+    "document_id": -1,
+    "url": "https://epochtimes.today/scientific-puzzles-surrounding-the-wuhan-novel-coronavirus/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:56:05.621353+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "ABOUT US Monday, November 23, 2020 search Search for: Search for: 4 Feb 2020 0 The sudden outbreak of the Wuhan Novel Coronavirus (2019-nCoV) has resulted in all of China\u2019s Hubei Province and three major cities in Zhejiang Province being subjected to quarantine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Other nations are anxiously trying to get their people out of China, and restrictions are being placed on flights to China.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Because this novel virus has an extremely high transmission speed (high R0) and a high fatality rate, it is posing a significant challenge to public health, not only in China, but around the world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "There are major gaps in our knowledge of the virus\u2019s origin, duration of human-to-human transmission, and clinical management of those infected based on the current limited information coming from China.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Nevertheless, the findings of those scientists who have recently published research papers about this virus are summarized below.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Most papers reported that the 2019-nCoV is only 88 percent related to the closest bat coronavirus, only 79 percent to SARS, and just 50 percent to MERS.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Professor Roujian Lu from the China Key Laboratory of Biosafety, National Institute for Viral Disease Control and Prevention, Chinese Center for Disease Control and Prevention, and his co-authors commented in a Jan. 30 paper in Lancet that \u201crecombination is probably not the reason for emergence of this virus.\u201d A Jan. 27 2020, study by 5 Greek scientists analyzed the genetic relationships of 2019-nCoV and found that \u201cthe new coronavirus provides a new lineage for almost half of its genome, with no close genetic relationships to other viruses within the subgenus of sarbecovirus,\u201d and has an unusual middle segment never seen before in any coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "All this indicates that 2019-nCoV is a brand new type of coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The study\u2019s authors rejected the original hypothesis that 2019-nCoV originated from random natural mutations between different coronaviruses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "(Paraskevis et al 2020 BioRxiv) The article is a preprint made available through bioRxiv and has not been peer-reviewed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "2019-nCoV is an RNA virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "RNA viruses have high natural mutation rates.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The Lancet study by Lu et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "states: \u201cAs a typical RNA virus, the average evolutionary rate for coronaviruses is roughly 10-4 nucleotide substitutions per site per year, with mutations arising during every replication cycle.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "It is, therefore, striking that the sequences of 2019-nCoV from different patients described here were almost identical, with greater than 99.9% sequence identity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "This finding suggests that 2019-nCoV originated from one source within a very short period and detected relatively rapidly.\u201d A Jan. 31 article by Jon Cohen in Science said: \u201cThe longer a virus circulates in a human population, the more time it has to develop mutations that differentiate strains in infected people, and given that the 2019-nCoV sequences analyzed to date differ from each other by seven nucleotides at most, this suggests it jumped into humans very recently.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "But it remains a mystery which animal spread the virus to humans.\u201d Prof. Lu et.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "also discussed the natural host of the virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "An early hypothesis had been the virus had passed to humans from bats sold at Wuhan\u2019s Huanan Seafood Market.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "al write: \u201cFirst, the outbreak was first reported in late December 2019, when most bat species in Wuhan are hibernating.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Second, no bats were sold or found at the Huanan seafood market, whereas various non-aquatic animals (including mammals) were available for purchase.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Third, the sequence identity between 2019-nCoV and its close relatives bat-SL-CoVZC45 and bat-SL-CoVZXC21 was less than 90%.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Hence, bat-SL-CoVZC45 and bat-SL-CoVZXC21 are not direct ancestors of 2019-nCoV.\u201d The authors point out that while the 2019-nCoV causing the Wuhan outbreak might have initially been hosted by bats, it may have been transmitted to humans via other as yet unknown mechanisms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The Science article said: \u201cHuanan marketplace played an early role in spreading 2019-nCoV, but whether it was the origin of the outbreak remains uncertain.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Many of the initially confirmed 2019-nCoV cases\u201427 of the first 41 in one report, 26 of 47 in another\u2014were connected to the Wuhan market, but up to 45%, including the earliest handful, were not.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "This raises the possibility that the initial jump into people happened elsewhere.\u201d Every virus must have a receptor to bind to human cells, can only live inside human cells, and must rely on human cells to replicate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Without these capabilities, viruses found circulating in blood or tissue fluids are easily cleared by the human immune system.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Viruses enter human cells via specific surface protein channels.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "The interaction of viral surface proteins binding to human cells is similar with how keys are used to open locks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Previous studies have shown there are several receptors that different coronaviruses bind to, such as angiotensin-converting enzyme 2 (ACE2) for SARS-CoV.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "ACE2 receptors are abundantly present in human tissue, especially along the epithelial linings of lung and small intestines, provide routes of entry into cells for SARS-CoV.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "According to Lu et al.\u2019s Lancet paper, there is a structural similarity between the receptor-binding domains of SARS-CoV and 2019-nCoV.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "2019-nCoV spike protein (S-protein) is responsible for binding to cell receptors and is crucial for viral targeting of host tissue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "The molecular modelling data by Lu et.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "suggests that, despite the presence of amino acid mutations in the 2019-nCoV receptor-binding domain, 2019-nCoV might use the ACE2 receptor to gain entry into host cells.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "On Jan. 21, 2020, Xintian Xu et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "from Key Laboratory of Molecular Virology and Immunology, Institute Pasteur of Shanghai, Center for Biosafety Mega-Science, Chinese Academy of Sciences, Shanghai, China, published a paper entitled \u201cEvolution of the novel coronavirus from the ongoing Wuhan outbreak and modeling of its spike protein for risk of human transmission\u201d in SCIENCE CHINA Life Sciences.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "This paper provided a more precise analysis of the S-protein of Wuhan 2019-nCoV.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "The S-protein was known to usually have the most variable amino acid sequences compared to other gene domains from coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "However, despite considerable genetics distance between the Wuhan CoV and the human-infecting SARS-CoV, and the overall low homology of the Wuhan CoV S-protein to that of SARS-CoV, the Wuhan CoV S-protein had several patches of sequences in the receptor binding (RBD) domain with a high homology to that of SARS-CoV.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "The residues at positions 442, 472, 479, 487, and 491 in SARS-CoV S-protein were reported to be at receptor complex interface and considered critical for cross species and human-to-human transmission of SARS-CoV.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "So to our surprise, despite replacing four out of five important interface amino acid residues, the Wuhan CoV S-protein was found to have a significant binding affinity to human ACE2.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "The replacing residues at positions 442, 472, 479, and 487 in the Wuhan CoV S-protein did not alter the structural confirmation The Wuhan CoV S-protein and SARS-CoV S-protein shared an almost identical 3-D structure in the RBD domain, thus maintaining similar van der Waals and electrostatic properties in the interaction interface.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Thus the Wuhan CoV is still able to pose a significant public health risk for human transmission via the S protein\u2013ACE2 binding pathway.\u201d (emphasis added) We know already that the novel 2019-nCoV is a different virus than SARS.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "It is understood that S-protein is highly variable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "It would be no surprise if the genetic sequence, protein structure, and even the function of 2019-nCoV\u2019s S-protein is different than that of the SARS virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "On Jan. 27, 2020, Prashant Pradhan et.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "from the Indian institute of Technology published a paper entitled \u201cUncanny similarity of unique inserts in the 2019-nCoV spike protein to HIV-1 gp120 and Gag,\u201d which is currently being revised.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "The corresponding author of this paper, Professor Bishwajit Kundu, is specialized in protein genetic and genetic engineering and has published about 41 papers during the past 17 years on PubMed, including high-impact biomedical journals.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "The authors found 4 insertions in the spike glycoprotein (S) which are unique to the 2019-nCoV and are not present in other coronaviruses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "\u201cImportantly, amino acid residues in all 4 inserts have identity or similarity to those of HIV-1 gp120 or HIV-1 Gag.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Interestingly, despite the inserts being discontinuous on the primary amino acid sequence, 3D-modelling of the 2019-nCoV suggests that they converge to constitute the receptor binding site.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "The finding of 4 unique inserts in the 2019-nCoV, all of which have identity/similarity to amino acid residues in key structural proteins of HIV-1 is unlikely to be fortuitous in nature.\u201d (emphasis added) author.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "added, \u201cTo our surprise, these sequence insertions were not only absent in S-protein of SARS but were also not observed in any other member of the Coronaviridae family.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "This is startling as it is quite unlikely for a virus to have acquired such unique insertions naturally in a short duration of time.\u201d \u201cUnexpectedly, all the insertions got aligned with Human immunodeficiency Virus-1 (HIV-1).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Further analysis revealed that aligned sequences of HIV-1 with 2019-nCoV were derived from surface glycoprotein gp120 (amino acid sequence positions: 404-409, 462-467, 136-150) and from Gag protein (366-384 amino acid).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Gag protein of HIV is involved in host membrane binding, packaging of the virus and for the formation of virus-like particles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Gp120 plays crucial role in recognizing the host cell by binding to the primary receptor CD4.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "This binding induces structural rearrangements in GP120, creating a high affinity binding site for a chemokine co-receptor like CXCR4 and/or CCR5.\u201d It is well known that CD4 cells are essential to human immunity and are the direct targets of the Human Immunodeficiency Virus or HIV.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "HIV attaches to CD4 cells, enters and infects them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "The virus then turns each infected CD4 cell into a factory creating more HIV virus until eventually all CD4 cells are destroyed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "People infected with HIV lose their immunity or defense system which is like a country losing the function of its army.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "If we take a closer look at the 4 insertions of the S-protein in figure 3 (from Pradhan et.2020 bioRxiv), they are all located on the binding surface of the protein, seemly designed to be able to bind to target cell receptor sites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "Natural accidental mutation would be randomly distributed across the whole length of the S-protein.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "It is highly unlikely that all of these insertions would coincidentally be manifested on the binding site of the S-protein.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "The article by Pradhan et.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "is a preprint made available through bioRxiv and has not been peer-reviewed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "bioRxiv reports: \u201cThis paper has been withdrawn by its authors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "They intend to revise it in response to comments received from the research community on their technical approach and their interpretation of the results.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "If you have any questions, please contact the corresponding author.\u201d Sign up to receive important news avoided by other media.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "Invalid email address We promise not to spam you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "You can unsubscribe at any time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "Be the first to comment     Cancel reply You must be logged in to post a comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "READ OUR E-PAPER TODAY!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "Sign up to claim free access to The Epoch Times for one month for insights you won't want to miss.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "Click here to sign up now!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "8 Jun 2020 0 1 Jun 2020 0 13 Apr 2020 0 13 Apr 2020 0 8 Apr 2020 0 PERSPECTIVES ON SOCIETY & CULTURE 12 Dec 2018 0 10 Apr 2019 0 2 Feb 2018 0 2 May 2019 0 6 Oct 2018 0",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

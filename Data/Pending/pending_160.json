@@ -1,0 +1,101 @@
+{
+    "document_id": -1,
+    "url": "https://www.doverpost.com/news/20200401/carper-calls-on-fcc-to-evaluate-net-neutrality-repeal-impacts",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:29:39.125295+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Carper calls on FCC to evaluate Net Neutrality repeal impacts Apr 1, 2020 at 6:00 PM Apr 1, 2020 at 7:02 PM Sen. Tom Carper, D-Delaware, joined 27 senators in writing a letter April 1 to the Federal Communications Commission demanding it consider how repealing net neutrality could negatively impact public safety, universal access and broadband competition.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "In October 2019, the U.S. Court of Appeals for the Washington, D.C., Circuit upheld the Donald Trump administration’s FCC’s repeal of the Open Internet Order as lawful, but also ruled that the FCC failed to adequately consider public safety, the Lifeline program for low-income consumers and competitive broadband providers’ access to poles needed to deploy their networks.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The senators write that by repealing these net neutrality rules, the FCC also abandoned its authority to promote public safety, universal service and broadband competition, particularly for rural communities and low-income Americans.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "American consumers and broadband users suffered as a result, and the current coronavirus pandemic further underscores the need for the FCC to promote public safety in light of the court’s opinion.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "“Without solid authority over these vital areas, the commission has called into question its ability to carry out core Congressional mandates: namely ‘promoting safety of life and property’ and the ‘preservation and advancement of universal service’,” wrote the senators in their letter to FCC Chairman Ajit Pai.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "“Net neutrality rules that protect the free flow of ideas and commerce, along with the FCC’s power to ensure public safety and promote broadband access for communities throughout the country, are more important than ever.” ",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Sign up for daily e-mails Original content available for non-commercial use under a Creative Commons license, except where noted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "~ ~ ~ ~ ~ ~ Gannett .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "USA TODAY NETWORK TV Guide",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

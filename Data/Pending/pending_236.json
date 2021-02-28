@@ -1,0 +1,471 @@
+{
+    "document_id": -1,
+    "url": "https://www.yorkdispatch.com/story/opinion/editorials/2018/03/04/editorial-take-stand-net-neutrality-toomey/385498002/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:43:03.313884+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Get the news Let friends in your social network know what you are reading about LinkedIn EDITORIAL: Take a stand for net neutrality, Toomey It's time for you to step up, Sen. Pat Toomey.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "EDITORIAL: Take a stand for net neutrality, Toomey It's time for you to step up, Sen. Pat Toomey.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Check out this story on yorkdispatch.com: https://www.yorkdispatch.com/story/opinion/editorials/2018/03/04/editorial-take-stand-net-neutrality-toomey/385498002/ A link has been sent to your friend's email address.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "A link has been posted to your Facebook feed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "To find out more about Facebook commenting please read the Conversation Guidelines and FAQs Welcome to our new and improved comments , which are for subscribers only .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "This is a test to see whether we can improve the experience for you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "You do not need a Facebook profile to participate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "You will need to register before adding a comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Typed comments will be lost if you are not logged in.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "It's OK to disagree with someone's ideas, but personal attacks, insults, threats, hate speech, advocating violence and other violations can result in a ban.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "If you see comments in violation of our community guidelines , please report them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "OPINION EDITORIAL: Take a stand for net neutrality, Toomey Published 8:42 a.m.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "ET March 4, 2018  CONNECT TWEET LINKEDIN COMMENT EMAIL MORE It's time for you to step up, Sen. Pat Toomey.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Up to this point, you've been pretty clear with your votes: Whatever the Republican leadership wants, you give them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "But here's an issue where, as a businessman, it's up to you to break away from the party pack and do the right thing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Net neutrality soon will be gone, thanks to a ruling made by the Federal Communications Commission in December to clear off yet another Obama-era regulation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Net neutrality is what keeps the internet fair.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "It means that internet service providers such as Comcast, AT&T and Verizon have to treat every company, app and individual the same.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Without net neutrality, Comcast would be free to charge extra to Netflix customers who want to stream programming rather than watch cable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Verizon could decide that it doesn't want to provide certain content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "AT&T could give preference to its own apps and make it more difficult to run others.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Net neutrality makes it easier for new companies to get their products into the world, even if they can't afford to pay premium prices for using bandwidth.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Your Senate website makes a big point that small businesses need relief from burdensome regulations and taxes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "They also need relief from burdensome fees from internet service providers that stand between the business and consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "But you know that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "You were a small businessman too, back in the '90s.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Your whole political career has been based on wanting to make things easier for small businesses, do away with regulations, simplify taxes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "FILE - In this Friday, Jan. 17, 2014, file photo, a person displays Netflix on a tablet in North Andover, Mass.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "With millions of subscribers still flocking to its services, Netflix no longer worries about being protected by net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "You have an 85 percent overall approval rating from the , which has spoken out in favor of keeping net neutrality, although it would prefer to do so through legislation rather than FCC regulations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "And nearly everyone in the country wants to keep net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Surveys last year showed that 80 percent of Americans and 75 percent of Republicans favor keeping the FCC rules on the books, according to the Washington Post.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Net neutrality levels the playing field for everyone who uses the internet, which is virtually every business at this point.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "This Thursday, Oct. 12, 2017, photo shows a Comcast sign in Hialeah, Fla. Now that federal telecom regulators have repealed net neutrality, it may be time to brace for the arrival of internet fast lanes and slow lanes.The Associated Press queried seven major internet providers about their post-net-neutrality plans, and all of them equivocated when asked if they might establish fast and slow lanes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Right now, there are 50 senators willing to pass a Congressional Review Act to keep net neutrality — that's 47 Democrats, including fellow Pennsylvania Sen. Bob Casey, plus two independents and Sen. Susan Collins, R-Maine, according to Politico .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "One more vote would push the CRA to the House, where, granted, it faces a tougher fight.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "The bill in the House has 150 Democrats signed up, but not a single Republican.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "But this is a chance to stand up for the things you seem to believe in: small businesses, fair use of resources, making money.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "So for once, Sen. Toomey, vote with your head and not your party.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Vote for the CRA and take a stand to keep the internet as wide open as it is now.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "CONNECT TWEET LINKEDIN COMMENT EMAIL MORE Read or Share this story: https://www.yorkdispatch.com/story/opinion/editorials/2018/03/04/editorial-take-stand-net-neutrality-toomey/385498002/ Share your feedback to help improve our site experience!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "EDITORIAL: 'Essential' doesn't pay April 30, 2020, 5:15 a.m.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "April 29, 2020, 2:55 p.m.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "OP-ED: While people protested the coronavirus lockdown, I was struggling to breathe April 29, 2020, 12:58 p.m.  EDITORIAL: Sports should return cautiously April 29, 2020, 5:31 a.m.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "OP-ED: How we should spell relief April 28, 2020, 1:17 p.m.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "OP-ED: Protecting lives and livelihoods April 28, 2020, 12:29 p.m.  RSS YD Twitter MediaOne Pennsylvania Elections 2018 YD-Preps YD-Preps Movies/TV/Music Letters to the Editor Do not sell my data / Cookie policy",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

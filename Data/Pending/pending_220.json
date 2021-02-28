@@ -1,0 +1,691 @@
+{
+    "document_id": -1,
+    "url": "https://www.freedomworks.org/content/two-years-post-net-neutrality-repeal-internet-alive-and-well",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Daniel Savickas",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:32:14.205774+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "http://appserver-f481c862/content/two-years-post-net-neutrality-repeal-internet-alive-and-well Contact FreedomWorks 111 K Street NE Suite 600 Washington, DC 20002 1.888.564.6273 202.783.3870 About FreedomWorks Government goes to those who show up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "FreedomWorks makes it easy to hold your elected officials accountable in our fully interactive Action Center.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "You can use our key vote scorecards to see how they measure up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "FreedomWorks Originals provides you entertainment and education to help you better understand economics, the workings of government, and our insight into the most important debates facing our nation today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Watch and subscribe today!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Become a FreedomWorks Member You must have JavaScript enabled to use this form.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "12/11/2019 The FCC’s Restoring Internet Freedom Order is about to turn two years old.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "We were told at the time of its passage that it would mean the elimination of minority voices , that the Internet would load one word at a time , or even the outright death of the World Wide Web.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "If you’ve made it this far in this article, it would seem the Internet is doing just fine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "This is all just some more “Chicken Little-ing” from the left side of the political spectrum.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Spoiler Alert for those who have not heard the story: the sky does not actually ever end up falling.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "These doomsday proclamations are also absurd when we remember what the Restoring Internet Freedom Order actually did.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "It returned the Internet to the exact governing framework under which it existed until 2015.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "This is the same governing framework that allowed it to become the behemoth it has today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The Obama administration tried to fix what wasn’t broken.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "FCC Chairman Ajit Pai came in and reminded us that we never should have messed with a winning formula.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Let’s look at what has actually come to pass since the Restoring Internet Freedom Order was implemented.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Internet speeds were up 40 percent year-over-year.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "More fiber was deployed than in any year on record in 2018.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Investment in the Internet went up by $3 billion.The Internet isn’t dying.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "In fact, it is thriving in a way it hasn’t before.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "This is thanks to the light touch regulatory framework that worked for decades before Obama and is working again under the stewardship of Chairman Pai.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The U.S. also ranked twelfth globally for Internet speeds prior to 2017.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "After the Restoring Internet Freedom Order, it has already jumped to seventh , and has shown no signs of slowing down.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "America is poised to compete globally in the race to new and innovative technologies without the heavy hand of government altering the scales.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Beyond the benefits this deregulatory action has had for users of the Internet, the added investment is a boost for workers.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Tech companies announced it would be giving four-figure bonuses to its workers to celebrate the added boost the economy got from the move.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "When red tape is cut, everybody wins.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "This is why calls for more Internet regulation from the left (and, sadly, even the right too) are mind-boggling.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Silicon Valley’s growth has been a product of light-touch regulation and the benefits are felt throughout the economy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Look at a company like Amazon, for example.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "It has exploded into a service that can get almost anyone just about anything they could imagine within 48 hours.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Apple was dismissed, but turned itself into a global giant with new, innovative technologies being rolled out almost continuously.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Instead of lamenting the supposed “death” of the Internet, on the two-year anniversary of the repeal of Title II regulations, Americans everywhere should break out the proverbial balloons and streamers and toast the technological breakthroughs to come because of it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "rac , , , FCC , net neutrality , Title II , FTC , lies , , Log in or register to post comments. \"\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "\"https:\\/\\/www.freedomworks.org\\/content\\/freedomworks-foundations-regulatory-action-center-submits-comments-restoring-internet?social=facebook_share\" \"\" https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/field/image/FCC.jpeg?itok=eNG7GVEc BY FreedomWorks Foundation's Regulatory Action Center submitted formal comments to the FCC urging them to stay the course on their Restoring Internet Freedom Order amidst remanded questions from the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "The comment can be found excerpted below and in its entirety in the attached file: 0 1 hour ago \"\" \"https:\\/\\/www.freedomworks.org\\/content\\/bipartisan-cronies-attack-chairman-pai-behalf-special-interests?social=facebook_share\" \"\" https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/field/image/FW-Blog-1.jpg?itok=-ZFLiCMf BY The regulatory state is extensive.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "So many entrenched bureaucrats have a vested interest in making sure the red tape remains tightly wrapped around American families.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "They will do what they need to do to cling to power and hold on to their pensions that come at the expense of the American taxpayer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "That is why anyone who dares try to shrink its size and influence will be viciously attacked by the political establishment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "1 6 days ago \"\" \"https:\\/\\/www.freedomworks.org\\/content\\/faces-american-freedom-initiatives-administrative-abuse-project-ray-family?social=facebook_share\" \"\" https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/field/image/AFI.jpg?itok=T8HxY_PX BY FreedomWorks recently announced the launch of the American Freedom Initiative (AFI), a collaboration headed by former acting U.S. Attorney General Matt Whitaker.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "This project aims to help relieve injustices committed against Americans under the criminal justice system and the regulatory state.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "As part of this project, we will shine a spotlight on some of the individuals the AFI has identified under its Administrative Abuse Project who have been the victims of federal regulatory overreach.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "0 04/23/2020 \"\" \"https:\\/\\/www.freedomworks.org\\/content\\/restoring-internet-freedom?social=facebook_share\" \"\" https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/field/image/FWF-RestoringInternetFreedom-1.png?itok=il2hLsOp BY Download FreedomWorks’ new issue brief, Restoring Internet Freedom 0 04/20/2020 \"\" \"https:\\/\\/www.freedomworks.org\\/content\\/fcc-order-paves-way-innovation-fights-back-cronyism?social=facebook_share\" \"\" https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/field/image/5G_Pic.jpeg?itok=L20jea8S BY The internet is seeing absolutely unprecedented web traffic during the social distancing necessitated by the coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "It is becoming clear how important our telecommunications infrastructure is, especially in times of crisis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "This is why we need our leaders to take action that will allow the private sector to thrive, grow, and innovate to meet the demands of an unpredictable world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "The FCC’s latest actions fit that bill.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "0 04/17/2020 \"\" \"https:\\/\\/www.freedomworks.org\\/content\\/regulatory-action-center-review-april-16-2020?social=facebook_share\" \"\" https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/field/image/RAC_Review_Header_15.jpg?itok=lZvyb6xQ BY Welcome to FreedomWorks Foundation’s fifth regulatory review of 2020!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Our Regulatory Action Center proudly updates you with the latest regulatory actions from the swamp.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "This week, we bring you a special coronavirus edition, highlighting some of the government regulations that have been repealed to fight the pandemic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Check back next week for the next edition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "0 04/17/2020 \"\" \"https:\\/\\/www.freedomworks.org\\/content\\/regulatory-action-center-review-march-27-2020?social=facebook_share\" \"\" https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/field/image/RAC_Review_Header_14.jpg?itok=C1drYs1a BY Welcome to FreedomWorks Foundation’s fourth regulatory review of 2020!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Our Regulatory Action Center proudly updates you with the latest regulatory actions from the swamp.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "This week, we bring you a special coronavirus edition, highlighting some of the government regulations that have been repealed to fight the pandemic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Check back next week for the next edition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "0 03/27/2020 \"\" \"https:\\/\\/www.freedomworks.org\\/content\\/freedomworks-submits-formal-comments-end-school-veggie-mandates?social=facebook_share\" \"\" https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/field/image/Picky-eater.png?itok=x4fxtJnV BY FreedomWorks Foundation's Regulatory Action Center (RAC) submitted formal comments to the U.S. Department of Agriculture's Food and Nutrition Service (FNS) in support of their recent proposal to ease restrictions on the National School Lunch Program.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Localities should be able to determine how best to get their students the nutrients they need, instead of a one-size-fits-all \"solution\" from the federal government.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "The text of these formal comments can be found excerpted below or in the attached document: 0 03/24/2020 \"\" \"https:\\/\\/www.freedomworks.org\\/content\\/regulatory-action-center-review-march-19-2020?social=facebook_share\" \"\" https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/field/image/RAC_Review_Header_13.jpg?itok=76MhQ4e7 BY Welcome to FreedomWorks Foundation’s third regulatory review of 2020!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "Our Regulatory Action Center proudly updates you with the latest regulatory actions from the swamp.This week, we bring you a special coronavirus edition, highlighting some of the positive ways our government is responding administratively.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "Check back next week for the next edition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "0 03/19/2020 \"\" \"https:\\/\\/www.freedomworks.org\\/content\\/leftists-still-trying-bring-back-net-neutrality?social=facebook_share\" \"\" https://fw-d7-freedomworks-org.s3.amazonaws.com/styles/thumbnail/s3/field/image/1513265627_Net-neutrality-1050x590.jpg?itok=BqqKidJq BY FreedomWorks Foundation’s Regulatory Action Center (RAC) is driving comments to the Federal Communications Commission (FCC) urging them to stay the course with Chairman Ajit Pai’s Restoring Internet Freedom Order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "You can make your voice heard HERE.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Become a member today!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "* * Leave this field blank Learn how FreedomWorks’ investors enabled us to make a tremendous impact on a number of fronts during the past year – some of which will pay huge dividends in 2020.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "Learn more about FreedomWorks' new Women Win 2020 campaign!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "LEARN MORE Help stop the Democrats’ socialist Green New Deal by signing the petition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "SIGN THE PETITION FreedomWorks is proud to roll out its 2020 policy platform for the Republican Party.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "LEARN MORE To help everyone staying at home The Pardon the Disruption crew is proud to announce The Daily Disruption.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

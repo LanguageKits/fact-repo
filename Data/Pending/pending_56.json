@@ -1,0 +1,561 @@
+{
+    "document_id": -1,
+    "url": "https://slate.com/technology/2019/10/federal-net-neutrality-is-dead.html",
+    "document_category": "Blog/magazine",
+    "annotators": [],
+    "author": "April Glaser",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:39:50.230638+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to the content Log out  Follow us  Sign in Log out A federal appeals court upheld the FCC’s repeal of the open-internet rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "But it allowed for states to save them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Oct 01, 2019 6:41 PM Popular in  What It’s Like to Brace for the Coronavirus in an Empty ER  It’s confirmed: Net neutrality is legally dead.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "On Tuesday morning, a federal appeals court reaffirmed the Federal Communications Commission’s repeal of Obama-era net neutrality rules that prohibited internet providers from blocking, slowing down, or speeding up access to websites.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "In a 200-page decision, the judges on the U.S. Court of Appeals for the D.C.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Circuit agreed with FCC Chairman Ajit Pai, who in 2017 vowed to “fire up a weed whacker” and destroy the regulations, which had only been on the books for about two years at the time.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "While it’s been legal for internet providers to block access to websites since June 2018 , when the FCC’s net neutrality repeal hit the books, advocates and website owners who depend on unfettered consumer access to the web were hopeful that the court would invalidate the repeal.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Now, internet providers like Comcast, Verizon, and AT&T; can do whatever they want with their customers’ connections and web access as long as they state that they reserve the right to do so in their terms of service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "That doesn’t mean the internet is going to change tomorrow, or that Comcast will start throttling with abandon anytime soon.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "But by allowing telecom companies to sell faster speeds to the websites that can afford it, the deregulation threatens the ideal of the open web—a level playing field that allows anyone to build a website that can reach anyone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "There is a significant silver lining in Tuesday’s ruling, however: The court struck down the part of the FCC’s 2017 rules that attempted to preempt state net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "That reaffirms legislation and executive orders across the country that seek to preserve the pre-2017 status quo in which companies could not mess with websites’ and customers’ access to the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Nine states—Hawaii, Montana, New York, New Jersey, Washington, Rhode Island, California, Montana, and Vermont—have passed their own net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Another 27 states have seen legislation proposed to protect net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "More than 100 mayors of cities across the country likewise have pledged not to sign contracts with internet providers that violate net-neutrality principles.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The governor of Montana was the first to sign such an executive order in January 2018, followed by the governor of New York a couple days later.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Both states (and now several others) require all internet providers that provide services to the state government to adhere to the principles of network neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "That means, for those government services, ISPs can’t block websites, slow down or speed up websites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Later the same year, Vermont, Oregon, Washington, and California all passed laws that similarly upheld the Obama-era net neutrality laws.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "California’s law is by far the strongest , which led the Justice Department to file suit against California when the bill was signed into law last fall (the case was put on hold pending the outcome of the appeals court decision).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Now the court has made it clear that states may pass net neutrality rules of their own, more may try, leading to a patchwork of state laws that will either balkanize how the internet is used across the country, or force internet service providers to not engage in discriminatory behavior nationwide, since applying rules within one state’s lines alone isn’t always feasible when it comes to the relatively borderless internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Beyond rules against blocking, throttling, or charging websites to reach users at faster speeds, the California law also prohibits a practice called zero rating, which is when an internet provider privileges some websites and apps over others by not counting their usage against monthly data caps.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "AT&T;, for example, uses zero rating when it allows its DirectTV Now customers to watch without cutting into customers’ data plans.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "While it could be argued that these plans are good for consumers, consumer-protection advocates have long maintained that zero rating allows internet providers to pick winners and losers online.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "If watching YouTube didn’t count against your Comcast bill, for example, customers might have extra incentive to watch YouTube instead of another video streaming site, like Vimeo.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "The California law also bars internet providers from meddling with interconnection agreements that could downgrade how certain websites are able to connect to their networks, a practice all kinds of internet providers have engaged in over the years that has led to whole portions of the internet to be rendered inaccessible for some internet subscribers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "This happened in 2013 in a dispute between Verizon and Cogent, one of the nation’s largest internet and data transfer providers for websites, when Verizon demanded that Cogent pay to help upgrade Verizon’s networks, which were experiencing a tremendous uptick in traffic as a result of increased video streaming.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Cogent refused to pay and Verizon refused to increase its capacity to handle the higher level of traffic, resulting in Verizon customers experiencing serious difficultly connecting to websites that use Cogent services.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Those who sued the FCC over the net neutrality repeal—which included consumer advocates, 22 state attorneys general, and a handful of technology companies—made their arguments to the court in February.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "The challengers argued that the internet is an essential communications service, and as such should be regulated to prevent companies from discriminating against how information travels over their wires.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "This is how the internet was classified in 2015, but in 2017, Pai’s FCC argued that this was a misclassification and that the internet is actually an information service, like videoconferencing or email, and thus not subject to strong consumer protections.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "While the court upheld the deregulation, saying that the reclassification wasn’t illegal, the logic behind the move requires a bit of mental gymnastics.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "It’s essentially arguing that people sign up for Verizon in order to access email, which isn’t true.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "People sign up for Verizon to access the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "“The FCC is saying for the first time that broadband internet access has no telecommunications component,” said Gigi Sohn, who was senior adviser to former FCC Chairman Tom Wheeler, who oversaw the passage of the Obama-era protections, in an interview at the time.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "“Basically, what they’re saying is the package delivery is the package, the road to the hotel is the hotel, the pizza delivery service is the pizza,” Sohn said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Now, in all but nine states, internet service providers can start to freely discriminate against how we access websites.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Without regulations, internet service providers can charge what’s essentially a two-way toll, collecting monthly subscription fees from users and charging websites to access those users faster.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "The internet companies that are able to afford the fast lane speeds will likely end up setting the price, further entrenching their dominance while relegating the rest of the internet—inducing new websites and small news outlets—to a slower experience.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "While there weren’t net neutrality rules before 2015, there were guidelines that the internet service providers were supposed to follow and that the FCC enforced, like when the FCC found in 2007 that Comcast was wrongfully throttling peer-to-peer file sharing sites like BitTorrent.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Or when the FCC looked into how AT&T; worked with Apple in 2009 to block Skype calls to iPhones, since using the internet voice service circumvented mobile plans.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Last year, after the repeal, Verizon was found to have throttled the Santa Clara County’s fire department’s broadband service used for crisis response during the Mendocino Complex Fire, but at that time there weren’t any net neutrality rules on the books that Verizon had violated.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "One thing that could address this is federal legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "There’s a bill, the Save the Internet Act, that passed the House earlier this year and would restore net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "But right now it’s got no prospects in the Senate—Majority Leader Mitch McConnell said in April that it was “dead on arrival.” Laws like California’s, which are already on the books and prohibit internet companies from acting in non-neutral ways, may well keep the Comcasts of the world in line for the time being.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "If more states pass such laws, internet providers will surely have an even harder time enacting discriminatory policies in some states but not others.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "For now, it appears the best the hope for an open web rests with the states.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "is a partnership of  ,  , and  that examines emerging technologies, public policy, and society.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "You’ve run out of free articles for the month.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Join Slate Plus to continue reading, and you’ll get unlimited access to all our work—and support Slate’s independent journalism.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "You can cancel anytime.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "/ Podcast FAQs / Pitch guidelines About us Work with us Send us tips User agreement Privacy policy AdChoices RSS Feed  Slate relies on advertising to support our journalism.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "If you value our work, please disable your ad blocker.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "By joining Slate Plus you support our work and get exclusive content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "And you'll never see this message again.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

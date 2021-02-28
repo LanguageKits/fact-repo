@@ -1,0 +1,511 @@
+{
+    "document_id": -1,
+    "url": "https://www.cnn.com/2019/10/01/tech/net-neutrality-court-ruling/index.html",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Brian Fung",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:37:22.359971+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Dow 30 Accessibility & CC US Follow CNN Appeals court upholds net neutrality rules but provides path for states to push back , CNN Business Updated 1:43 PM ET, Tue October 1, 2019 Chat with us in Facebook Messenger.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Find out what's happening in the world as it unfolds.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "First conspiracy theorists said she started the pandemic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Now she's afraid for her life This pandemic could make video chatting with your doctor the new normal Sheryl Sandberg on how Facebook is helping map Covid-19 Amazon is assembling a lab for Covid-19 testing How Facebook is combating spread of Covid-19 misinformation Meet Apple's new -- and cheap -- iPhone SE Business owner: Zoom is helping us retain clients Twitter co-founder and CEO Jack Dorsey donates to coronavirus relief Medical supplies are limited.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Zoom founder responds to safety and privacy concerns This company tracks millions of devices worldwide.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Bill Gates: State-by-state shutdown won't work IBM CEO: Covid-19 tracking app can help modify behavior Couple uses 3D printer to create medical supplies during shortage Instagram's CEO is staying home.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": " A federal appeals court has largely upheld the Federal Communications Commission's controversial repeal of its net neutrality rules for internet providers, finding the agency didn't overreach when it decided in 2018 to deregulate companies such as ( CCZ ) and ( VZ ) .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The decision marks a victory for the Republican-led commission in light of opposition by consumer groups, tech companies and local government officials who had sued the agency in a years-long battle over the future of the open internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "But there is an important caveat: The court struck down a key aspect of the agency's order that could lead to further battles at the state level.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Tuesday's opinion by the US Court of Appeals for the DC Circuit is a win for the broadband industry, which had argued the regulations created uncertainty for internet providers and were too restrictive.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "But the decision also handed a partial victory to net neutrality advocates in that it provides a path for states to create their own net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Both sides were quick to declare victory.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "In a statement Tuesday, FCC Chairman Ajit Pai said the decision is a win \"for consumers, broadband deployment, and the free and open Internet.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "He added: \"A free and open Internet is what we have today and what we'll continue to have moving forward.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Democratic FCC commissioner Jessica Rosenworcel, a net neutrality advocate, cheered the court's decision as it \"vacates the FCC's unlawful effort to block states and localities from protecting an open internet for their citizens.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Federal officials raise concerns about White House plan to police alleged social media censorship For years, consumer groups have pushed for tough net neutrality rules .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Advocates say providers should not be allowed to slow down websites, block access to apps or give faster service to preferred partners, which could distort the market for online services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Under those principles, Verizon, for example, would not be allowed to speed up loading times for, say, Yahoo, which it owns.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Similarly, Spectrum could not downgrade Netflix as a way to deter cord-cutting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "In light of the decision, Mozilla, maker of the Firefox browser and one of the lead plaintiffs in the case, said the fight to preserve the principle of net neutrality \"is far from over.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Consumer groups succeeded in 2015 when the FCC decided to regulate internet providers much like legacy telephone companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The agency imposed clear rules banning the blocking, throttling or accelerating of Web content by internet providers and reserved the right to investigate business practices that risked violating the spirit of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Opponents charged that the rules were a gross overreach by the government.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Industry groups argued the constant danger of FCC investigations created business uncertainty and the rules opened the door to direct federal regulation of broadband prices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "House votes to restore net neutrality rules When President Trump took the White House, Republicans gained control of the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Among the first acts Pai took as the new chairman was a plan to unwind the rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Pai argued that the net neutrality regulations were heavy-handed and discouraged internet providers from upgrading their networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "In 2017, the FCC voted to repeal major parts of the rules, including the bans on blocking and slowing of websites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Internet providers say they are not interested in blocking or slowing down websites anyway.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "USTelecom, an association representing broadband providers, said the litigation showed how \"Congress must end this regulatory rinse and repeat cycle by passing a strong national framework that applies to all companies.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "But internet providers have lobbied for the freedom to strike deals with websites to provide premium service, possibly in exchange for extra fees.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Some policymakers have argued that practice, known as \"paid prioritization,\" could benefit advanced applications like self-driving cars and telemedicine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Critics worry it could become an unbearable cost for some websites and tech companies — giving wealthy, established firms the power to dominate while marginalizing smaller businesses that can't afford to pay.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Those arguments figured prominently in the legal battle over net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "A coalition of critics led by Mozilla sued the FCC in hopes of blocking Pai's deregulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The case was decided with the panel's three judges concluding the FCC acted lawfully when it decided to undo the Obama-era rules and regulate internet providers more lightly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "But the opinion also struck down efforts by the FCC to prevent state governments from enacting their own net neutrality laws and regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "The court on Tuesday rejected that approach, saying it amounted to an attempt to \"categorically abolish all fifty States' ... authority to regulate intrastate communications.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "The FCC could still seek to preempt states on a case-by-case basis, setting the stage for multiple legal tussles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Andrew Schwartzman, senior counselor for the Benton Institute for Broadband and Society, said the decision \"provides a roadmap to rules that can protect the promise of a vibrant internet that serves people, not the big cable and telcom companies.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Content by CompareCards Pay 0% interest until 2022 with a better card Don't ignore these offers if you have excellent credit Experts urge you to check out these credit cards The fastest way to pay off $10,000 in credit card debt Start fresh: transfer your debt with no interest until 2022 US 2020 Election Live TV CNN Films HLN TV Schedule CNNVR CNN Underscored CNN Store CNN Profiles CNN Leadership CNN Newsletters Work for CNN Follow CNN Most stock quote data provided by BATS.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Market indices are shown in real time, except for the DJIA, which is delayed by two minutes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "All times are ET.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Morningstar: Copyright 2018 Morningstar, Inc. All Rights Reserved.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Factset: FactSet Research Systems Inc.2018.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Chicago Mercantile Association: Certain market data is the property of Chicago Mercantile Exchange Inc. and its licensors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Dow Jones: The Dow Jones branded indices are proprietary to and are calculated, distributed and marketed by DJI Opco, a subsidiary of S&P; Dow Jones Indices LLC and have been licensed for use to S&P; Opco, LLC and CNN.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Standard & Poor's and S&P; are registered trademarks of Standard & Poor's Financial Services LLC and Dow Jones is a registered trademark of Dow Jones Trademark Holdings LLC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "All content of the Dow Jones branded indices Copyright S&P; Dow Jones Indices LLC 2018 and/or its affiliates.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Accessibility & CC AdChoices CNN Store CNN Newsource",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

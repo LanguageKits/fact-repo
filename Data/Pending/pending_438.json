@@ -1,0 +1,981 @@
+{
+    "document_id": -1,
+    "url": "https://doctordavidfriedman.com/blog/usa-today-fact-checked-me-heres-my-response",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:54:57.658946+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Toggle navigation CD Radio & TV Career TV Appearances With so much misinformation being spread about the coronavirus, it\u2019s hard to know who we can trust.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "We\u2019re being told by the media that hospitals are at capacity and the lines to be tested for the virus are wrapped around the block.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Yet people are filming these supposed \u201cat capacity hospitals\u201d and they are empty with no lines of people waiting to be tested.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Go on social media and check out the hashtag #FilmYourHospital.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "These and many other false news reports have created a lot of conspiracy theories.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Actually, this is just modus operandi for the media.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Doom and gloom fear tactics bring in more ratings for the media and that means more money from sponsors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "It\u2019s not about sharing stories of HOPE but leading with FEAR.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "When a building is burning, the media will report on the 2 people that died in the fire but fail to mention the 40 individuals and the pets that were saved by the firemen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "When \u201csocial distancing\u201d was recommended by the government, this quickly turned into a \u201cStay at Home\u201d campaign.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Celebrities, sports icons, and politicians began using the hashtag #stayathome and millions of people have been taking refuge indoors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "My neighbor boarded up his windows and barricaded his entire family inside as if he\u2019s bracing for a category 4 hurricane.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "While most people aren\u2019t going to these extremes, many do believe they can get the virus by breathing outside air.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "To set the record straight, I wrote a science-backed article called, Staying indoors increases the coronavirus risk.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "It\u2019s gone viral (pun intended) and so far, has been read by over a million people!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "In this article, I covered how viruses (including the coronavirus) don\u2019t survive well in sunshine and fresh air.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "While many people are doing the right thing by social distancing, they should not be sunshine distancing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "USA TODAY decided to \u201cfact-check\u201d my article and share with the world how wrong I was for telling people sunshine and fresh air should be our first line of defense against the coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Molly Stellino, the reporter that wrote the story, mentioned that she tried reaching out to me and claims I didn\u2019t respond.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "For the record, I never received any request from Molly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Before I share my rebuttal to USA TODAY\u2019s seriously flawed fact-checking critique of my article, please take a few minutes and read it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "------ CLICK HERE TO READ MY ARTICLE-------- First, I want to say, I\u2019m not a fearmonger.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The title of my #1 best-selling book says it all, How to Eat in a World of .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "In every chapter, I debunk common food and nutrition myths.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "This was also my mission when writing the article on how isolating yourself inside increases the risk of getting COVID-19.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "USA TODAY claims my science-backed views are unjustified and I am playing a role in all the misinformation being spread.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "When false statements were running rampant on social media claiming, \u201cIbuprofen causes an increased risk in getting COVID-19,\u201d I investigated this and came to the drug\u2019s defense .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Being a natural health physician, I\u2019m no fan of ibuprofen but I couldn\u2019t just sit back and see such unjustified information being spread.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "I have no hidden agendas for showcasing the health benefits of sunshine and fresh air.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "I do not sell an air purifier, nor do I have any affiliate links on my website trying to get people to purchase a UV device.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "In the USA TODAY fact check article , writer Molly Stellino, starts the article with: \u201cIn my opinion, keeping the beaches closed and having people quarantined inside their homes is a bad decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Getting more sunshine is a proactive step we can all take at protecting ourselves from the current coronavirus outbreak,\u201d wrote David Friedman, the author of the blog post.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "\u201cInstead of staying quarantined inside your house, go outside on your back deck and soak up some virus destroying sunshine!\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "What this reporter failed to share is, \u201cmy opinion\u201d is based on scientifically validated data which I referenced in my article.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "She conveniently left those facts out of her \u201cfact-checking\u201d article.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Here are some of the studies she failed to mention: : COVID-19 is transmitted in the same fashion as the flu and common cold: by close contact with infected people and from respiratory droplets when an infected person sneezes or coughs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "The air inside our home is up to five times more polluted than the air outside which makes us more prone to cough, asthma and viral respiratory illnesses, nausea and a suppressed immune system.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Breathing air inside our homes makes us more prone to getting a lung infection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "COVID-19 primarily affects the lungs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": ", founder of AccuWeather, considered the world\u2019s most respected authority on the effects of weather, says, \u201cUV light can damage or destroy various types of pathogens, like SARS and MERS.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Sunshine negatively impacts many similar viruses, and it may have similar effects on the coronavirus.\u201d : scientists simulated sunlight on influenza virus aerosols and found the virus half-life was significantly reduced from 31.6 min in the dark control group to just 2.4 min in simulated sunlight.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "In other words, sunlight destroyed the virus!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Published data on stability and resistance of SARS coronavirus and found that heat kills the SARS coronavirus in 15 minutes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "The SARS coronavirus happens to share 90 percent of its DNA with the current coronavirus (COVID-19.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": ": There are many similarities between severe acute respiratory syndrome (SARS) and coronavirus disease 2019 (COVID-19) from the virus homology to the origin and transmission route.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Medical Journal: Dry, cold air helps viruses stay intact and travel farther as they become airborne.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "High temperatures and in particular high humidity, slows the influenza spread, and at very high humidity levels, the virus stops spreading completely.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": ": Coronavirus spreads more effectively in regions where the average temperatures are between 41 and 52 degrees.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": ": Sunshine and fresh air have been used to successfully treat patients during the biggest viral pandemics of the last century, including the Spanish flu.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Each one was caused by a novel type A influenza virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Records from these \u201copen-air\u201d hospitals show sunshine and fresh air spared many from dying from the outbreak.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "While putting together USA TODAY\u2019s fact-checking article, Ms. Stellino reached out to Pokrath Hansasuta, assistant professor of virology at Chulalongkorn University in Bangkok, Thailand.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "The following statement was issued: \u201cUltraviolet is able to kill COVID-19 if it is exposed to the concentrated UV ray in a certain amount of time and distance.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "However, that level of UV exposure is harmful to human skin.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Most likely, it will be in the light bulb or lamp as the natural UV from the sun is not strong enough to kill it.\u201d This assistant professor of virology from Thailand must be assuming that I was recommending people use UV on their skin to destroy the virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "If that were the case, I wholeheartedly agree with the above statement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Ms. Stellino reiterates this point by stating: \u201cUV lamps should not be used to sterilize hands or other areas of skin as UV radiation can cause skin irritation,\u201d Again, my article didn\u2019t recommend that people substitute getting sunshine instead of washing their hands.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "The coronavirus is an airborne virus that circulates through the air.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "These droplets can transfer to objects like clothes, tabletops, and doorknobs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "The company out of Denmark that I featured in my article (which Ms. Stellino conveniently left out) is using UVD (Ultra Violet Disinfection) robots that kill 99.99% of bacteria in 10 minutes and \u201c will kill the coronavirus .\u201d In a video from the company demonstrating how this UV device works, you can clearly see it is not \u201charming anyone\u2019s skin\u201d as USA TODAY reported.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "In fact, this video shows these UV robots roaming the halls of hotels, hospital rooms, cafeterias, and even riding with people in elevators.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "In order for UV to kill bacteria and viruses, it doesn\u2019t require being right up against a person's skin.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "It just has to be in the same room.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "The University of Nebraska Medical Center has used UV light to disinfect rooms in the past when treating Ebola patients and they are currently using UV light to kill the coronavirus on facemasks so they can be reused due to the shortage.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "While we don\u2019t have access to a high tech UVD robot in our home or other UV light devices used by hospitals, we do have free access to the ultimate UV source outside of our home; the sun!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "The sun not only produces heat, which viruses hate, it also aids in the production of vitamin D, which helps us to build a strong immune system.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "More than 90 percent of the vitamin D in the human body is produced by sunlight, not from our diet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "In my book, I devote an entire section that shares the science of how sunshine helps to strengthen the immune system.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "Pubmed.org, the most respected source for peer-reviewed, scientific research lists 4,489 studies showing vitamin D\u2019s powerful immune-boosting properties.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "People fear the sun because of skin cancer but it\u2019s only overexposure to sunshine (when it leads to sunburn) that carries a risk of causing skin cancer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "A little goes a long way.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "Just 15-20 minutes of sunshine per day will give you enough immune-boosting vitamin D levels for 24 hours.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "And what a coincidence, a person\u2019s skin won\u2019t start to burn until after 15-20 minutes of sun exposure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "Some of the naysayers that read my article ask, \u201cIf sunshine helps decrease the spread of COVID-19, how do you explain the increase in cases we\u2019re seeing in Florida, the \u2018sunshine state\u2019?\u201d Great question.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "Florida is the number one port of entry for cruise lines in the United States.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "People travel all over the world inside these ships and Florida is their final destination.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "Cruise ships are like sardine cans, offering the complete opposite of social distancing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "Then we have to take into consideration the recirculated air people breathe while cruising (I covered this in my article.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "In addition, Florida also has more theme parks per capita than anywhere in the U.S, including Disney World, Sea World, Epcot, Busch Gardens and Universal Studios.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "While these places have recently closed, because of the coronavirus incubation period lasting two weeks, people that were infected in Florida in Feb have created a cascade effect that will need to run its course.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "I want to mention, I wasn\u2019t the only one USA TODAY fact-checked.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "Molly Stellino\u2019s article also references and debunks a video posted by U.S congressman, Greg Murphy, M.D ., who represents North Carolina\u2019s 3rd Congressional District.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "In his video posted on social media, Dr. Murphy sets the record straight and debunks several common myths about the coronavirus including gargling with hot water and vinegar kills the coronavirus, the flu vaccine protects against coronavirus, rinsing your nose with saline solution kills the coronavirus, etc.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "The only thing on his list he stated to be the truth is sunshine\u2019s ability to destroy the coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "Dr. Murphy served on the Board of the NC Urological Association, and on the Executive Board of the Judicial and Ethics Committee for the American Urological Association.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "As former Professor and Chief of Urology at the ECU School of Medicine, Dr. Murphy also spent 35 years traveling extensively, treating patients in third world countries including India, several parts of Africa, Nicaragua, and Haiti.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "For USA TODAY to selectively leave out all the research I referenced and slant my views as if I'm telling people sunshine and fresh air is the \u201ccure\u201d for people suffering from COVID-19, is simply unfounded.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "What I did convey in the article is an unbiased, fact-based perspective that gives people some needed HOPE (not fear) that exposure to sunshine and fresh air offers us a better chance of preventing and combating coronavirus than if we seek refuge indoors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "Social distancing yourself 6 feet away from someone that might be infected INDOORS is far riskier than being separated from this same person six feet away from you while OUTDOORS.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "social distancing , not sunshine distancing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "If you\u2019re tired of all the doom and gloom information you\u2019re being bombarded with, follow me on social media and sign up for my unbiased, free health newsletter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "You may also like: Dr. David Friedman is the author of the award-winning, #1 national best-selling book Dr. Friedman is a syndicated television health expert and host of To Your Good Health Radio, which has changed the face of talk radio by incorporating entertainment, shock value, and solutions to everyday health and wellness issues.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "Read more here Follow me on Twitter!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "Follow @drdavidfriedman Tweets by drdavidfriedman Sign up to get Dr. David Friedman's health and wellness tips, featured videos, articles and podcasts!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "CD Radio & TV Career TV Appearances Thank you!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "Your information has been submitted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "Feel free to continue browsing the site.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

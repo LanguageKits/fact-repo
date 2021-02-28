@@ -1,0 +1,401 @@
+{
+    "document_id": -1,
+    "url": "https://thehill.com/blogs/congress-blog/technology/482008-the-time-is-now-for-congressional-action-rather-than",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Kim Keenan",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:31:22.853611+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "The time is now for congressional action rather than neutrality 02/07/20 12:30 PM EST The views expressed by contributors are their own and not the view of The Hill Two United States senators finally decided to take action to pull us out of the net neutrality vortex.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "For over a decade, open internet policy has been lost in a circular loop that twirls endlessly but never gets anywhere.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Sen.Roger Wicker, a Republican from Mississippi, and Sen. Kyrsten Sinema, a Democrat from Arizona, are ignoring the gridlock that is Washington to put the net neutrality issue to rest.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Coronavirus surveillance concerns ramp up pressure for privacy bill .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Senators warned not to use Zoom .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Agencies ask FCC to revoke China Telecom's license Coronavirus surveillance concerns ramp up pressure to pass federal privacy law MORE , a Republican from Mississippi, and Sen. Kyrsten Sinema, a Democrat from Arizona, are ignoring the gridlock that is Washington to put the net neutrality issue to rest.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "And may it rest in peace, forever this time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Ignoring the faux urgency around the ill-named , Wicker and Sinema thoughtfully formed a bipartisan, net neutrality working group late last year.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Last week, at the annual State of the Net conference, Senator Wicker announced: “Through the Wicker-Sinema working group process, it has become clear that there is more agreement on this issue than you might think.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Most of us would agree that any legislative proposal should protect consumers, increase transparency, promote broader access to internet services and ensure that content from different sources is treated fairly.” Wicker pointedly stated the need for “uniform rules of the road for all internet companies.” The ISP-only focus is not only outdated, but it doesn’t even make sense in the modern world.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "It’s like regulating the highway’s Model Ts when everyone has a Tesla.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "While many so-called net neutrality advocates dream about the “old” days – 2015 to 2017 – when heavy-handed regulations designed for the rotary-dial telephone were grafted onto broadband communications, it’s pretty obvious that the “parade of horribles predicted by advocates of Title II regulation,” as Wicker put it, is exhausting the American public.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "High alert does not and cannot last for years on end.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Neither broadband connectivity nor online services skipped a beat with the FCC’s Restoring Internet Freedom Order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Overblown rhetoric is finally down, and broadband investment and speeds are up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "U.S. broadband providers invested $80 billion in network infrastructure in 2018 , up more than $3.1 billion from its former peak in 2017.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "The 2017 increase came after a two-year decline in investment; progress was immediate once the FCC reversed the 2015 order reclassifying broadband under Title II.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "And in 2018, broadband download speeds in the U.S. rose 35.8 percent and upload speeds climbed 22 percent from 2017, according to internet speed-test company Ookla.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Doomsday net neutrality cries put Americans to sleep.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "A quick search on Twitter reveals their disbelief that this issue is holding on.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "If Congress really wants to get their attention, they can do it by actually getting basic net neutrality rules on the books.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "It really is as simple as old-fashioned, bipartisan legislation that contains the core principles from the 2010 Open Internet Order and codifies broadband as a Title I “information service.” This is what we need to support continued investment and innovation in our broadband ecosystem.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Ultimately, it is the outcome Americans want: Give a little; get a lot done.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Now is the right time to compromise on a bipartisan bill that guarantees no blocking, no throttling, no paid prioritization – the core net neutrality principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Bipartisan rules are how we arrived at the beloved internet of our time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "The ecosystem flourished under the same light-touch rules during both the Clinton and Bush administrations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Rather than attempting to resuscitate failed policy pushes, what the American people need is a genuine effort to move the ball forward.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Wicker and Sinema are finally delivering.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "The net neutrality saga has gone on for so long that the fundamentals of the debate have changed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "The internet of today is not the internet of a decade ago.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Edge providers are all grown up, and gatekeeper power has shifted into their hands.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Neutrality rules should apply to all of the internet, not just the part that policymakers remember regulating.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "The real news flash here is that two United States senators from different sides of the aisle are breaking ranks from their blustering colleagues to reach a solution that will protect the open internet and consumers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "This is what leadership looks like: less fighting for team red or team blue and more action for the good of the red, white and blue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Kim Keenan is co-chair of the DC-based Internet Innovation Alliance (IIA).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "View the discussion thread.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "HuffPost reporter: 'Jobs that have been lost may not come back' The leading expert on women's brains says they are more likely to get Alzheimer's Trump campaign official says mainstream media can't be trusted with Tara Reade coverage Don't miss a brief.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Sign up for our daily email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "12:30 Report TheHill.com RSS The Hill 1625 K Street, NW Suite 900 Washington DC 20006 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

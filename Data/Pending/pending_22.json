@@ -1,0 +1,221 @@
+{
+    "document_id": -1,
+    "url": "https://www.theguardian.com/technology/2018/may/16/net-neutrality-us-senate-fcc-obama-era-rules",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Julia Carrie Wong",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:38:18.161374+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Search with google Make a contribution  US edition  switch to the UK edition  switch to the Australia edition  switch to the International edition  Search jobs  Search jobs  US  Elections 2020  US Politics  Net neutrality  This article is more than 1 year old Net neutrality advocates gain symbolic win as Senate votes to save Obama rules  This article is more than 1 year old But resolution requires passage in House and Trump’s signature – an unlikely outcome before FCC’s repeal goes into effect in June in San Francisco and agencies @juliacarriew  Wed 16 May 2018 17.17 EDT Last modified on Thu 17 May 2018 07.07 EDT House minority leader Nancy Pelosi, pictured with her Senate counterpart Chuck Schumer, said the FCC repeal was a ‘brazen giveaway at the expense of American families and citizens’.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Advocates for net neutrality won a symbolic victory Wednesday when the Senate voted 52-47 to preserve Obama-era regulations that require internet service providers to treat all web traffic equally.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "But the resolution also requires passage by the Republican-controlled House and Donald Trump’s signature to be enacted – an unlikely outcome before the Federal Communications Commission’s repeal of net neutrality rules goes into effect next month.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Carmen Scurato Read more  The rules bar internet service providers (ISPs) such as AT&T, Comcast and Verizon from interfering with internet traffic by picking and choosing which types of data get sent quickly, and which types are either throttled or blocked.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Without net neutrality rules in place, ISPs could discriminate against certain publishers and web services, while promoting others.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Net neutrality has been championed by congressional Democrats, who hope that their support of an open internet will appeal to young voters.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Three Republicans – Senators Susan Collins of Maine, John Kennedy of Louisiana and Lisa Murkowski of Alaska – broke with their party to support the measure.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The House minority leader, Nancy Pelosi, called the vote a “victory for a grassroots”, while characterizing the FCC repeal as a “brazen giveaway at the expense of American families and citizens”.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Opponents such as Senator John Thune, a Republican from South Dakota, said the Senate’s vote amounted to “political theater” with no prospects of approval by the GOP-controlled House.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "A similar resolution in the House, authored by Congressman Mike Doyle, a Democrat from Pennsylvania, has garnered 162 co-sponsors, all Democrats.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "At a press conference following the Senate vote, Doyle announced that he would also open a discharge petition in an effort to force a vote on the issue.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "A discharge petition is a procedure to force a debate and vote on a bill despite the opposition of the speaker of the House.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "It requires signatures from a majority of the House, or 218 members.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Telecommunications companies lobbied hard to overturn the 2015 rule, saying it discouraged investment and innovation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The FCC said in repealing it last December that it was simply restoring the “light-touch framework” that has governed the internet for most of its existence.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Thune urged Democrats to work with him on a plan that he said would incorporate the net neutrality principles they desire without onerous regulation that he said made it harder to connect more Americans to the internet and to upgrade service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "He said the internet thrived long before the Obama administration stepped in, and he predicted that when the Trump administration’s rule scrapping net neutrality goes into effect in June, consumers will not notice a change in service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "“That’s what we’re going back to: rules that were in place for two decades under a light-touch regulatory approach that allowed the internet to explode and prosper and grow,” Thune said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "They see their effort as something that will energize young voters who value unfettered access to the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "“This is our chance, our best chance to make sure the internet stays accessible and affordable to all Americans,” said Chuck Schumer, the Senate minority leader.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Net neutrality  US Senate  US Congress  news  Share on LinkedIn Share on WhatsApp Reuse this content Most popular US  Elections 2020  US Politics  About us  Contact us  Complaints & corrections  SecureDrop  Work for us  Privacy policy  Cookie policy  Terms & conditions  All topics  All writers  Digital newspaper archive  Advertise with us  Search jobs  Available for everyone, funded by readers  Back to top",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

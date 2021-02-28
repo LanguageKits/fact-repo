@@ -1,0 +1,431 @@
+{
+    "document_id": -1,
+    "url": "https://www.politico.com/story/2018/05/16/senate-democrats-net-neutrality-539275",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "John Hendel",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:55:03.288742+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Republican Susan Collins of Maine was one of three who crossed party lines, joining the Senate's full Democratic caucus in a 52-47 floor vote.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Senate Democrats score net neutrality win in bid for midterm momentum JOHN HENDEL 05/16/2018 09:53 AM EDT 05/16/2018 05:39 PM EDT Senate Democrats secured a win on net neutrality Wednesday afternoon in a showdown on the chamber floor, a development they believe will stir up passion among young voters ahead of the 2018 midterm elections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Republicans Susan Collins (Maine), Lisa Murkowski (Alaska) and John Kennedy (Louisiana) crossed party lines, joining the Senate's full Democratic caucus in a 52-47 floor vote.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "That meant approval for a resolution that would undo the FCC’s 2017 repeal of Obama-era net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "That GOP-led rollback, set to take effect June 11, targeted rules that prevented broadband providers like AT&T and Comcast from blocking and throttling internet traffic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The late addition to Murkowski and Kennedy expanded what had been a razor-thin margin of victory.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Before Wednesday afternoon, Collins had been the sole Republican pledging to vote with the Democrats, giving them the 50-49 simple majority they needed for victory in the absence of John McCain (R-Ariz.).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "With an at least nominally bipartisan victory secured — but most Republicans still opposed — the measure's backers hope it will drive momentum going into election season.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "“Pretty much every millennial supports it,” Sen. Ed Markey (D-Mass.), the lead sponsor of the resolution, told reporters last week during a news conference.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Technology news from Washington and Silicon Valley — weekday mornings, in your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "By signing up you agree to receive email newsletters or alerts from POLITICO.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "You can unsubscribe at any time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "This site is protected by reCAPTCHA and the Google and apply.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The resolution, crafted under the 1996 Congressional Review Act, still faces tough odds in the House.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "It requires 218 votes to force a vote there, and only 160 House Democrats back the measure for now.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The legislation would also require the signature of President Donald Trump, who has criticized the net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "FCC Chairman Ajit Pai, who led the repeal, said he believes the effort will run aground.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "\"It’s disappointing that Senate Democrats forced this resolution through by a narrow margin,\" he said in a statement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "\"But ultimately, I'm confident that their effort to reinstate heavy-handed government regulation of the internet will fail.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "But lawmakers advocating for firm net neutrality rules hope Wednesday's vote will reverberate in the House.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "“I think it’s increasingly clear that there’s not an issue you can find that polls this decisively in one direction,\" Brian Schatz (D-Hawaii) said Wednesday.\"There’s good momentum for net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "People didn’t think we were going to succeed in the Senate.” Regardless of the resolution's ultimate fate, Democrats say the Senate vote will put Republicans on the record on a key issue as voters approach the ballot box.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The Democratic Senatorial Campaign Committee launched a non-skippable six-second YouTube bumper ad on the issue Monday, part of what it said was an ongoing six-figure advertising buy.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Senate Minority Leader Chuck Schumer has peppered his recent remarks with references aimed at younger voters, referring to the concept of \"Netflix and chill\" and pro-net neutrality advertisements on the dating app Tinder.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Schatz has sought to rally support through posts and brief videos on his social media accounts.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "\"One thing you can do today is post something on [Facebook], twitter or [Instagram] about net neutrality, and then call your Senators about it,\" Schatz tweeted ASHLEY GOLD This vote is the latest tactical maneuver in a partisan policy battle going back more than a decade over the government's role in internet oversight.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Republicans call the Obama-era regulations burdensome and chilling to broadband infrastructure investment.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Net neutrality advocates say firm rules are necessary to protect consumers and keep broadband providers from demanding payments from web companies for fast connections while deliberately disadvantaging competitors — offering stellar quality for their own video, for instance, while degrading streams from other companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "The back-and-forth has included multiple court cases and, at times, overtures from congressional Republicans and some Democrats for bipartisan legislation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "A compromise has remained elusive.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Even Republicans are divided on some particulars of what such a compromise bill should look like.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Some, like Senate Commerce Chairman John Thune (R-S.D.), support a ban on so-called fast lanes in which broadband providers charge web companies to speed their content to consumers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Others, such as Rep. Marsha Blackburn (R-Tenn.), who chairs the House Energy and Commerce Committee's telecom panel, have suggested support for allowing fast lanes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Thune sought to bring a bill to the floor Wednesday afternoon that included bans on ISP blocking, throttling and paid prioritization deals.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Democrats wary of striking a hasty net neutrality deal blocked it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "But Schatz said he believes Wednesday's vote could ultimately bolster the prospects of legislating net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "“Passing this and demonstrating that there’s bipartisan support for net neutrality adds weight to the argument that we’ve got to settle this once and for all through legislation,” he said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Kennedy and Murkowski both told reporters after the vote that they also hope the move will pressure their colleagues into legislating.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "“Everybody talks about it, but nobody on either side does anything,\" Kennedy said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Margaret Harding McGill contributed to this report.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Sign up for POLITICO Playbook and get the latest news, every morning — in your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Trump’s top domestic policy aide resigns ‘Dirty, filthy cops’: Trump blasts Michael Flynn investigation after new FBI documents released End of Trump’s social distancing policy spurs fears of virus rebound Jump to sidebar section FAQ POWERJobs RSS Do not sell my info",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

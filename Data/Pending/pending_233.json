@@ -1,0 +1,21 @@
+{
+    "document_id": -1,
+    "url": "https://www.post-gazette.com/opinion/editorials/2019/04/03/Net-neutrality-internet-regulation-Mike-Doyle-bill-Federal-Communications-Commission-FCC/stories/201904030050",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:40:13.725147+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "8:55PM PGe PG Store MENU SUBSCRIBE LOGIN REGISTER LOG OUT MY PROFILE NEWSLETTERS MENU ACCOUNT Log out SECTIONS HOME PG Store PGe RSS Feeds NEWS COVID-19 LOCAL SPORTS OPINION PG Columnists TV & Radio LIFE Setting the SEEN BUSINESS Building PGH OTHER PGe NEWSLETTERS PG STORE ARCHIVES CLASSIFIEDS OBITUARIES JOBS LEGAL NOTICES REAL ESTATE CLASSIFIEDS EVENTS PETS CONTACT US / FAQ CONTACT US ADVERTISING CAREER OPPORTUNITIES TOP Your e-mail: Friends e-mail:",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

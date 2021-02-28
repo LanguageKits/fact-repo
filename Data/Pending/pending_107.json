@@ -1,0 +1,281 @@
+{
+    "document_id": -1,
+    "url": "https://www2.archivists.org/statements/issue-brief-net-neutrality",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Society of American Archivists/ (SAA)",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:41:56.652410+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "SAA Connect SAA-Developed Standards About SAA SAA Archives & History Fellows of SAA SAA Council SAA Foundation ARCHIVES * RECORDS 2020 FAQs Bookstore FAQs Word of the Week Feedback on a Term #AskAnArchivist Day ArchivesAWARE!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "SAA supports net neutrality in the United States and legislative proposals that would ensure that Internet providers are designated as common carriers under Title II of the Communications Act of 1934.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "In support of this position, SAA will: Advocate for pertinent agency regulations and federal or state legislation that support these goals, including prohibiting paid prioritization.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Work with other information and humanities organizations (such as the American Library Association, the Chief Officers of State Library Agencies, WITNESS, Public Knowledge, the Society of Professional Journalists, the Open Technology Institute, and the Sunlight Foundation) to promote the net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Assist in educating the public about the value of access to archives and digitized content and how this access relates to the issue of net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Net neutrality enables archives and archives workers to provide researchers with equitable and unfettered access to our shared cultural heritage.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "On April 13, 2015, the Federal Communications Commission (FCC) formally reclassified fixed and mobile broadband Internet access services as a public utility subject to regulations under Title II of the Communications Act of 1934.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "[1] Similarly, Internet service providers (ISPs) were classified as common carriers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "This ruling enabled the FCC to pre-emptively restrict ISPs from participating in anti-competitive business practices and unjustly interfering with the public’s access to information.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Title II classification allowed individual Internet users to equitably discover, access, and share information of their choosing without interference from ISPs.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "On December 4, 2017, in a letter [2] to FCC Commissioner Ajit Pai, SAA noted that, “The current FCC proposal undermines the ability of archives to provide equitable and unfettered access to our shared cultural heritage and will penalize users of archival information from many research communities….",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Accordingly, we strongly urge the FCC to preserve existing network neutrality protections.” On February 22, 2018, the FCC published a new rule, entitled “Restoring Internet Freedom” (83 FR 7852), which overturned the Title II Order of 2015.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "[3] Under this new rule, which took effect on June 11, 2018, ISPs are no longer subject to preemptive regulation by the FCC and Internet access is no longer considered a public utility subject to Title II regulations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The FCC plans to return regulatory jurisdiction to the Federal Trade Commission, which will have limited authority to penalize an ISP after receiving consumer complaints.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "On February 22, 2018, twenty-two state attorneys-general filed a lawsuit with the United States District Court of Appeals in Washington, DC, to block the FCC ruling.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "[4] Several technology companies and public interest groups have filed complementary petitions against the FCC.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "[5] , [6] , [7] , [8] Meanwhile, several states and municipalities are developing local legislation to protect net neutrality and promote ISP competition.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "[9] , [10] Archivists share a commitment to provide open and equitable access to records entrusted to our care, regardless of physical format and in accordance with our professional Code of Ethics.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Archives provide access to historical records that are essential to establishing and upholding the civil and political rights of individuals.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Additionally, archives ensure that evidence of our collective human experience is preserved for and made accessible to researchers, including attorneys, private citizens, genealogical researchers, K-12 teachers and students, historians, scientists and medical researchers, college and university professors and students, and government agencies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Archival users increasingly rely on digitized and born-digital materials that archives and libraries are making available online at an exponentially rapid pace in response to customer requests for digitized information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The principles of network neutrality are indispensable for the transparent and democratic distribution of information available online from tens of thousands of archival repositories throughout the country.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Reclassification of broadband Internet access as an information service and mobile broadband as a private mobile service undermines vital regulatory protections that prevent Internet service providers from artificially restricting or privileging access to Internet traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": ".” .” Issues and Advocacy Section of SAA, “ .” December 12, 2017.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "WIRED, “ .” March 1, 2018.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Approved by the SAA Council, June 2018.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "[1] https://www.federalregister.gov/documents/2015/04/13/2015-07841/protecting-and-promoting-the-open-internet [2] https://www2.archivists.org/news/2017/saa-urges-fcc-to-preserve-existing-net-neutrality-provisions [3] https://www.federalregister.gov/documents/2018/02/22/2018-03464/restoring-internet-freedom [4] https://ag.ny.gov/sites/default/files/petition.pdf [5] http://thehill.com/policy/technology/376794-kickstarter-etsy-others-file-net-neutrality-lawsuit [6] http://thehill.com/policy/technology/381828-video-game-industry-group-joins-lawsuit-against-​fcc-over-net-neutrality [7] https://www.freepress.net/our-response/expert-analysis/explainers/were-suing-fcc-heres-how-it-works [8] https://www.eff.org/deeplinks/2018/02/fccs-net-neutrality-order-was-just-published-so-now-fight-really-begins [9] https://www.freepress.net/our-response/expert-analysis/explainers/net-neutrality-politics-local [10] https://www.eff.org/deeplinks/2018/04/californias-legislature-seeks-protect-network-neutrality-and-promote-isp to post comments Updated: 2018-09-14 About SAA SAA Foundation MayDay!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

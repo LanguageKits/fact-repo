@@ -1,0 +1,291 @@
+{
+    "document_id": -1,
+    "url": "http://www.brookings.edu/blog/techtank/2019/10/07/in-the-net-neutrality-debate-what-might-follow-mozilla-v-fcc/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Caitlin Chin",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:50:26.841989+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Almost 18 months have passed since the Federal Communications Commission’s has come into effect.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "During this time frame, approximately 30 state legislators and four members of Congress have introduced legislation to enact some form of net neutrality provisions into law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The 2018 Order is widely known for repealing the FCC’s , which set federal regulations to prohibit internet service providers (ISPs) from blocking, throttling, or unfairly prioritizing internet traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The legal framework underlying both orders is significant: in 2015, the FCC classified ISPs as “telecommunications services” under Title II of the 1934 Communications Act, and in 2018, it classified them as “information services” under Title I.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "This is not a typographic change— Title II classification , which was created in the 1930s to monitor the Bell landline telephone monopoly, could additionally enable the FCC to regulate pricing, interconnection rates, privacy, and other practices potentially extraneous to net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Meanwhile, Title I classification would grant the FCC far less control.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "TechTank What the coronavirus reveals about the digital divide between schools and communities Tuesday, March 17, 2020 Why 5G requires new approaches to cybersecurity and Tuesday, September 3, 2019 TechTank Why paper is considered state-of-the-art voting technology and Wednesday, August 14, 2019 Like the FCC, Congress has faced some challenges in classifying ISPs under the 1934 Communications Act and 1996 Telecommunications Act frameworks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Although both parties have supported net neutrality principles, Republicans in Congress have generally opposed classifying ISPs as Title II providers, while Democrats have generally supported doing so.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "State legislatures have faced challenges as well: California, which is one of the only states to have passed a net neutrality law, will soon need to demonstrate in court that it has not violated the Constitution’s interstate commerce clause.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "In the absence of federal and state legislation, some stakeholders have looked to the courts to settle the net neutrality debate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Two months after the 2018 Order came into effect, Mozilla, joined by Public Knowledge, the Open Technology Institute, and other advocacy groups, filed a legal challenge in federal court .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "THE D.C. CIRCUIT’S DECISION IN MOZILLA V. FCC Citing the Supreme Court’s precedents in NCTA v. Brand X (2005) and Chevron v. NRDC (1984), the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Circuit ruled on Tuesday that the FCC was within its statutory authority to reclassify broadband internet service from a Title II “telecommunications service” to a Title I “information service.” In other words, the court upheld the 2018 Order’s primary legal framework.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "However, the federal appeals court rejected four specific provisions of the 2018 Order.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The court said that that the FCC needed to more adequately explain how a Title I classification might affect internet access for public safety workers; pole attachments in broadband deployment; and the eligibility of lower-income consumers to receive Lifeline benefits.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Furthermore, the court struck down a fourth provision that would have categorically preempted states from passing net neutrality laws inconsistent with the 2018 Order.",
+            "fact": true,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "NEXT STEPS FOR NET NEUTRALITY Now that the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "First, some states may continue developing or defending their own net neutrality legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "California, in particular, has an important stake in this case as it prepares to defend its net neutrality law against a Department of Justice lawsuit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Second, Congress may face additional motivation to either reach a bipartisan consensus on the classification of ISPs or to update telecommunications law altogether.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "My colleague Tom Wheeler, who chaired the Federal Communications Commission during the adoption of the 2015 Order, hints at both of these outcomes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "In an op-ed for , he writes that “the future of an open and fair internet is now in the hands of state governments and Congress.” , , and 2017 Exceptions to the Rule 2017 Edited by , , and 2017 A third possible outcome is an influx of litigation from multiple sides of the debate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Circuit ruled against the 2018 Order’s blanket preemption, it has not eliminated the possibility of striking down individual state laws —and any state net neutrality laws are likely to see legal challenges based on interstate commerce or other legal grounds.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Finally, the court’s decision in Mozilla v. FCC could still be subject to appeal by either party to the U.S. Supreme Court.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "If Congress picks up net neutrality legislation at the start of next year, it would have an opportunity to establish consistent, long-term rules for ISPs, internet companies, and consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "However, in the absence of federal legislation, these stakeholders might find themselves simultaneously juggling varying FCC regulations, state legislation, industry standards, and multi-layered litigation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Find us on Facebook Find us on Twitter Find us on YouTube Listen to our Podcast Subscribe to our RSS 中文 عربي AI    Policy 2020    WashU at Brookings    0 Get daily updates from Brookings  Post was not sent - check your email addresses!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Email check failed, please try again    Sorry, your blog cannot share posts by email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

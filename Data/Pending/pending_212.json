@@ -1,0 +1,331 @@
+{
+    "document_id": -1,
+    "url": "https://www.uticaod.com/news/20190410/house-passes-bill-to-restore-net-neutrality-rules",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Samantha Madison",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:31:52.642747+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "House passes bill to restore net neutrality rules Apr 10, 2019 at 5:46 PM Apr 10, 2019 at 6:16 PM The House of Representatives passed a bill Wednesay that would restore net neutrality rules back to what they were under President Barack Obama.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Included in the legislation is an amendment proposed by U.S. Rep. Anthony Brindisi, D-Utica, which directs the Government Accountability Office to issue a report about the ways in which the government can promote the build-out of high-speed broadband infrastructure, especially in rural and other underserved areas.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "“The free market is the cornerstone of America’s economy, and this bill would ensure that free market competition is protected on the internet,” Brindisi said on the House floor.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "“However, for many Upstate New Yorkers, basic internet access remains out of reach.” The report will include a list of recommendations to Congress and the Federal Communications Commission to ensure rural areas are provided affordable high-speed broadband access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "He said the information gathered in the report will help guide everyone on how to best expand broadband access in rural communities.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "“Too many homes in rural areas are not connected at all to high-speed broadband, and those that are online suffer from slow speeds and constant interruptions in service,” Brindisi said on the floor.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "“Customers see their bills go up month after month, and service just gets worse and worse.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Internet access is essential in today’s economy, and we need to do more to connect rural areas to high-speed broadband.” The Save the Internet Act passed the Democrat-controlled House 232-190 Wednesday, with only one Republican vote in favor, according to The Associated Press.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Senate Majority Leader Mitch McConnell said Tuesday that net neutrality is \"dead on arrival in the Senate,\" the AP reported.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The Trump administration also opposes the bill.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The 2015 net neutrality regulations stopped internet service providers, like Charter here in the Mohawk Valley, from blocking or slowing online traffic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "It also stopped those companies from charging companies, such as Facebook or Twitter, for “fast lanes,” so their sites load faster than other sites.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The rules were challenged in court, but upheld in a federal appeals court before FCC Chairman Ajit Pai took over and the commission had a Republican majority, allowing it to scrap the rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "In a statement released after the bill passed, Pai said the legislation would reinstate “heavy-handed Title II regulations” on the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "“This legislation is a big-government solution in search of a problem,” he said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "“The internet is free and open, while faster broadband is being deployed across America.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "This bill should not and will not become law.” FCC Commissioner Jessica Rosenworcel tweeted after the legislation passed the House in support of reinstating net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "“The House just voted to make #NetNeutrality the law of the land,” she said in the tweet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "“They got right what the @FCC got wrong when it rolled back open internet policies.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The American people are not done fighting for an open internet & I'm proud to stand with them in that fight.” Since net neutrality was rolled back, tech companies and nearly 24 states sued to undo the 2017 repeal and restore the rules, the AP said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "In defiance of the federal government’s decision, Gov.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "In defiance of the federal government’s decision, Gov. Andrew Cuomo signed an executive order last year to require state officials to buy their internet service only from those companies that abide by the rules of net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Steve Bullock signed a similar executive order only days before Cuomo.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "California also has a net-neutrality law which is on hold until an appeals court decision, according to the AP.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "In Congress, Republicans have introduced three other bills that net-neutrality advocates say are too weak because they don't give the FCC the power to go after potential bad behavior by ISPs aside from blocking, throttling and charging internet companies for zippier access to users, the AP said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "The Associated Press contributed to this report.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Never miss a story Choose the plan that's right for you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Digital access or digital and print delivery.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Sign up for daily e-mails Original content available for non-commercial use under a Creative Commons license, except where noted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Uticaod ~ 221 Oriskany Plaza, Utica, NY 13501 ~ ~ ~ ~ ~ ~ Gannett .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "USA TODAY NETWORK TV Guide iSpy MV All-Stars Submit your news e-Edition SUBSCRIBE TODAY Choose the plan that’s right for you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Digital access or digital and print delivery.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

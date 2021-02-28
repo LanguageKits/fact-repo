@@ -1,0 +1,621 @@
+{
+    "document_id": -1,
+    "url": "https://www.publicknowledge.org/blog/advocates-showed-friday-why-court-must-restore-net-neutrality/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "John Bergmayer",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:50:45.650258+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "February 4, 2019 On Friday, Petitioners (including Public Knowledge) finally got to make their case in court that the Federal Communications Commission’s reckless abdication of responsibility over broadband was illegal.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "For about five hours, in the ceremonial courtroom of the E. Barrett Prettyman United States Courthouse, in front of D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "For about five hours, in the ceremonial courtroom of the E. Barrett Prettyman United States Courthouse, in front of D.C.Circuit Judges Millett, Williams, and Wilkins, attorneys for Petitioners, for the FCC, and for intervenors on both sides got a grilling in a court that has become a regular forum for disputes over the status of broadband and the lawfulness of net neutrality rules .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The sheer length of the arguments presented on Friday — where each individual arguing attorney was given at least double their allotted time to make their arguments and respond to voluminous questioning — shows that this is not an open-and-shut case.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "There are many complex legal and factual arguments and claims to deal with.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Both sides got hard questions, but on balance it appears that the FCC bore the brunt of skeptical questioning from the bench, and despite Judge William's occasional softballs, it appeared unable to cope with a number of very tough but basic questions from Judge Millett in particular.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Petitioners and intervenors supporting them made many arguments as to why the FCC’s action was unlawful, of course, and those who are truly interested in the case should read the briefs , and the transcript of the argument when it is available .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "To highlight some of them: The Petitioners argued that the FCC violated the Administrative Procedure Act (APA) by failing to explain how and whether antitrust law and FTC enforcement could actually take the place of FCC rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The FCC had repeatedly asserted that competition and consumer protection laws were sufficient to protect consumers and the open internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "However, antitrust is far more limited in scope than the Communications Act when it comes to the behavior of telecommunications carriers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "For example, it is unclear if antitrust could do anything about an instance of blocking or paid prioritization without an express finding of market power, and antitrust does not promote goals of free expression and diversity as the Communications Act does.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "By failing to do this analysis, the FCC hid the ball and tried to duck responsibility for its decisions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Legally, the FCC could have concluded that antitrust could not promote the same ends as the Communications Act, but that this Commission did not feel like the values of the Communications Act were worth promoting with respect to broadband access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "This would have been a bad policy choice, but an accountable one, that Congress and the political process could act on.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Instead, the Commission simply pointed to antitrust without considering its consequences.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "This is a failure of reasoned decision-making under the APA.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "The FCC adopted a transparency rule, and much of its policy justification hinges on transparency being sufficient to allow the market, and antitrust and general consumer protection law, to work.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "But it failed to properly ground this rule in statutory authority during the rulemaking process, and the statute it did rely on was subsequently repealed .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The FCC was also unable to answer some fairly basic questions about how its rule worked and its likely efficacy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Given that the transparency rule is invalid, the entire order must be vacated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The FCC also argued that DNS and caching — which it has conceded are the only relevant “information processing” components of broadband — do not fall within the “telecommunications management exception.” But this relies on inaccurate characterizations of the FCC's own precedent, and misleading citations of decisions from the MFJ court of Judge Harold Greene.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The FCC maintained that this exception, which is just a portion of the “information service” definition stating that an information service will be considered telecommunications if it is used for the management, control, or operation of a standard telecommunications service, only applies to back-end functions that do not benefit consumers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "(Interestingly, Judge Williams, who generally appeared sympathetic to the FCC, noted the absurdity of this “benefits/does not benefit users” distinction, since the purpose of the network to begin with is to offer service to users.)",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Not only is the FCC's current view an unreasonable and unsupported reading of the law, the FCC has violated the APA by adopting it, since its own precedent holds otherwise, and it has not explained this departure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Services such as telecommunications relay services for people with speech or hearing disabilities, speed dialing, and directory assistance (which is quite analogous to DNS) all have been found to fall under the exception by the FCC for decades.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Local government intervenors noted that the FCC failed to even consider strong public safety arguments put forward by some local governments.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Not only was it required to respond to substantive comments in the record, it has a statutory responsibility to promote and protect public safety as well.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "This argument got quite a bit of traction on the bench and is particularly relevant given that Verizon throttled data services used by firefighters combating last year’s California wildfires .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "State government intervenors argued that if the FCC claims to have no authority to regulate broadband, it likewise lacks the authority to preempt states from doing so.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "After all, states have general authority to regulate whatever they want, unless a specific federal statute, an agency acting under delegated authority, or the Constitution's so-called “dormant commerce clause” preempts them.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "The only statutory authority for preemption the FCC was able to point to were the definitions section of the Communications Act, and the statutory provision granting the FCC (non-exclusive, notably) jurisdiction over interstate communications.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Of course, if the FCC had elected to keep authority over broadband, but declined to adopt any rules as a matter of policy, it would have had clear authority to preempt.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "But it chose a different course, which logically means that states are free to act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Judge Wilkins tied together the preemption and public safety arguments, noting that the FCC's actions limited even the ability of states to ensure that public safety agencies got proper treatment from broadband providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "The bench seemed receptive at least to the argument that the FCC's preemption was too broad — but of course, this point is moot if the FCC’s order is struck down on other grounds, as preemption falls with it anyway.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "As for the FCC's arguments, it hoped to start and end with the Supreme Court precedent in Brand X.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Under Brand X, under some circumstances and with the right factual findings, the FCC can classify broadband as an information service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "No one disputes this much.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "But the Petitioners’ lead argument explained how the FCC here departed from, rather than followed,Brand X , in effect deleting Title II and the definition of telecommunications out of the statute.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Fortunately for Petitioners, questions regarding the FCC’s adherence to Brand X came from the bench as well.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Judge Millett in particular pushed back on the FCC, noting that Brand X dealt with the ambiguity of the word “offer,” while the FCC's new argument — one designed to make it so that broadband must be considered an information service — centers on the word “ capability .” The FCC's current theory is that because broadband offers the capability of accessing information services (websites, etc.), it is itself an information service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "But as Judge Millett noted, this seems to make it so that there cannot be any telecommunications services at all, since any telecommunications service is capable of accessing an information service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Under her questioning, FCC General Counsel Thomas Johnson failed to distinguish broadband from something that was concededly a telecommunications service, telephony.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "His various attempts simply lacked any grounding in the statute or the logic of the FCC's reasoning.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Judge Millett’s questioning also revealed another absurdity in the FCC's position.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "If simply providing a communications conduit constitutes a “capability” under the information services definition, and since information services, again under the definition, are offered “via telecommunications,” the FCC's current statutory construction seems to amount to defining an information service as “telecommunications … offered via telecommunications.” Although agencies have wide latitude to adopt readings of statutes that they prefer, those interpretations must be reasonable, and must not be absurd or contradictory.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Further, under the Administrative Procedure Act, agencies are required to grapple with the consequences of their interpretations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Failing to meaningfully distinguish broadband from telephone service could well be held by the court to be a failure of reasoned decision-making.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Oral argument might be the most visible part of an appellate case, but it’s not necessarily the most important.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Both sides have laid out their arguments with more precision and detail in the actual briefs, and as the judges (and their clerks) dig into this over the next few weeks and months they will undoubtedly clarify their thinking.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "It is not surprising that Judge Williams was sympathetic to the FCC here, as he dissented from past decisions upholding net neutrality and the classification of broadband as telecommunications, and appears convinced of the policy merits of the FCC's position — though even he appeared receptive to certain technical and procedural arguments put forth on the other side.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Judge Millett put forth a surprising barrage of tough questions to the FCC, and though less vocal, Judge Wilkins also appeared skeptical of the breadth of the FCC's actions.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "On balance, I come away from the argument fairly confident of a victory for Petitioners, though as to how sweeping of a victory, and on what precise grounds, it is as difficult as ever to say.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Image credit: John Bergmayer is Legal Director at Public Knowledge, specializing in telecommunications, media, internet, and intellectual property issues.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "He advocates for the public interest before courts and policymakers, and works to make sure that all stakeholders — including ordinary citizens, artists, and technological innovators — have a say in shaping emerging digital policies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "RSS     04/30/2020 04/30/2020 04/28/2020 We're glad to see that following our letter to Congress yesterday, @SpeakerPelosi @WhipClyburn @FrankPallone &… https://t.co/4THChDVAZW 55 minutes ago RT @SenKamalaHarris : You can't take online classes without internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "You can't work from home without internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "You can't apply for a job o… 5 hours ago Follow us @publicknowledge ACTA amicus brief AT&T consumer protections DMCA DRM FCC FTC SOPA Title II It’s time for Congress to return control of personal data to the people providing it -- the rightful owners.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "Watch now Watch now Public Knowledge promotes freedom of expression, an open internet, and access to affordable communications tools and creative works.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "We work to shape policy on behalf of the public interest.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "This work is licensed under the Creative Commons Attribution ShareAlike 3.0 License.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

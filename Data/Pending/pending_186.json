@@ -1,0 +1,1011 @@
+{
+    "document_id": -1,
+    "url": "https://www.benton.org/blog/support-maryland-net-neutrality-act",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Gigi B. Sohn",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:30:43.519914+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to main content User menu Toggle navigation Enter your keywords Enter your keywords benton's blog Submitted on February 26, 2020 Wednesday, February 26, 2020 Chairman Davis, Vice Chair Dumais, members of the Committee, my name is Gigi Sohn and I am a Distinguished Fellow at the Georgetown Law Institute for Technology Law and Policy and a Senior Fellow with the Benton Institute for Broadband and Society.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "I have been a public interest advocate for open, affordable and accessible communications networks for over 30 years.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "I was Counselor to FCC Chairman Tom Wheeler from 2013-2016, and during that time, I helped the FCC adopt the 2015 Open Internet Order [1] , which included the strongest ever network neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The FCC voted to adopt the Order 5 years ago today.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "It was unquestionably the proudest moment of my career.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Unfortunately, less than three years later, the Trump FCC repealed the 2015 Open Internet Order [2] , leaving all Americans unprotected from anti-consumer and anticompetitive practices of broadband Internet access service (BIAS) providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "And that is why we are here today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "House Bill 957 would reinstate the 2015 Open Internet Order and provide net neutrality protections to anyone who uses the Internet in Maryland.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": " I support the bill and urge this Committee and the House of Delegates to do pass it without delay.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "To understand why HB 957 is so critical to the people of Maryland, it’s important to understand what the 2015 Open Internet Order did.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Most people focus on the net neutrality rules, which prohibited broadband Internet access providers from blocking, throttling, engaging in paid prioritization or otherwise favoring or disfavoring certain Internet traffic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "These protections, along with the part of the rules that required broadband providers to be transparent about how they managed their networks, are critical to ensuring that Internet users ,and not broadband providers, control their Internet experience.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "But the net neutrality rules were not the only, or perhaps not even the most important, part of the Open Internet Order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The Order also reclassified broadband Internet access service, or BIAS service as a “telecommunications service” under Title II of the Communications Act of 1934.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Title II has governed telephone service since 1934, and governed Internet access from its invention until 2002, when the George W. Bush FCC reclassified broadband Internet access as a virtually unregulated “information service” under Title I of the Act.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "By reclassifying broadband Internet access as a telecommunications service, the Wheeler FCC reasserted its legal authority to oversee the broadband market.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "That legal authority allowed the FCC, among other things, to pass broadband privacy rules that gave consumers control over their most sensitive personal information; fine companies that engaged in fraudulent billing and which were negligent in protecting their customers’ data; modernize the Lifeline program, which provides subsidies for low income Americans to buy broadband; require broadband providers to secure their networks against hackers and other cyberthreats; and take steps to promote sorely needed competition in the broadband market.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "On December 14, 2017, the Trump FCC repealed the 2015 Open Internet Order in what the agency called the Restoring Internet Freedom Order (RIFO).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The RIFO repealed the rules prohibiting blocking, throttling and paid prioritization, as well as the “general conduct standard” of the rules, which put most simply, bars broadband providers from finding other ways to discriminate against or favor certain traffic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "It also replaced the Open Internet Order’s strong transparency rule with one far weaker.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Importantly, the RIFO took broadband out from under the protections of Title II of the Communications Act and once again classified it as a largely unregulated “information service.” But the Trump FCC went even farther than the George W. Bush FCC.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Even as the Bush FCC limited its oversight over broadband, it believed that it still had a role to play in ensuring an open and competitive broadband marketplace, adopting a 2005 policy statement that set out principles to protect an open Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The Commission even went so far as to adopt a 2008 order finding that Comcast violated those principles for blocking peer-to-peer applications for no valid network management reason.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The Bush FCC also used another part of the law, Section 706 of the Telecommunications Act of 1996, when it wanted to assert authority over broadband providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "The Trump FCC, unlike any before it, completely abdicated its responsibility to oversee the broadband market and broadband providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "In addition to reclassifying broadband and repealing the rules with nothing to replace them, it also held that Section 706 did not give it legal authority to regulate broadband providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Instead, it purported to “give” the Federal Trade Commission authority to oversee the broadband market.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Unfortunately, the FTC has neither the technical expertise nor the legal power to stop broadband providers from blocking, throttling, engaging in paid prioritization or otherwise discriminating against or in favor of Internet traffic unless those providers tell their subscribers that they won’t engage in those activities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Needless to say, broadband providers aren’t exactly lining up to make those promises.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "The Trump FCC likes to boast that nothing bad has happened since the repeal of the Open Internet Order.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "After all, broadband speeds are faster, people are streaming more TV and cat and dog videos still dominate the web.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "The problem is an unconstrained, unregulated and unaccountable broadband industry, leaving consumers unprotected and without recourse.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "For example, since the repeal, each of the nation’s largest broadband providers have raised their prices, [5] while others charged new and unexplained fees, like for example, a monthly modem rental fee charged to customers who own their modems.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "At the same time, broadband providers have reduced investment in their networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "This is particularly ironic, since the principal rationale the Trump FCC gave for repealing the Open Internet Order was that it would lead to greater investment by broadband providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "But it gets worse.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "One of the most shocking examples [8] of how the repeal of the Open Internet Order has left Americans unprotected took place in the summer of 2018, during the Mendocino Complex fire, which at the time was the biggest in California history.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "For 8 months, as it battled wildfire in the hills, the Santa Clara County Fire Department begged Verizon to stop throttling its broadband service, which it needed to coordinate emergency response to the fire, including communicating with residents of the cities and towns affected.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Verizon refused, and only agreed to stop throttling the Fire Department’s broadband service after the department agreed to pay more than double of what it had been paying previously.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Verizon and the Trump FCC repeatedly point out that Verizon’s actions may not have risen to a violation of the 2015 rules’ prohibition against throttling.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "But the incident pointed out an even bigger problem — since the FCC abandoned its oversight over broadband providers, the Fire Department had nowhere to go to complain about what Verizon was doing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Lacking recourse, the Fire Department was forced to beg Verizon to cease its throttling and eventually to bend to its demands to pay much more.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "It is telling that once this incident made national headlines, neither the FCC nor the FTC said anything.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Neither agency claimed that if only the Fire Department had come to it, the problem would have been resolved earlier.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "The lack of FCC oversight raised its ugly head again in January 2019, when a reporter for discovered that three of the four national mobile wireless carriers, AT&T, T-Mobile and Sprint, were selling customers’ real-time location data to bounty hunters and other criminals, who could use it, for example, to track down victims of domestic violence.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Despite public outcry that forced mobile broadband providers to make public assurances that they would curtail the practice, [10] they have nonetheless continued to sell this highly sensitive data.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "In April 2019 The Federal Trade Commission sent what’s called a “6(b)” letter to broadband providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "The letter asked the providers to give the FTC details about their privacy policies, procedures and practices.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "There has been no further action from the FTC to date.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "The FCC, for its part, claims to have been investigating this violation of privacy for nearly two years .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Under enormous pressure from members of Congress, the press and the public, Chairman Pai announced just last week, without providing details or the terms of any punishment, that several of these carriers were violating the law.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Meanwhile, in the absence of net neutrality rules, BIAS providers continue to discriminate against certain Internet traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Researchers from Northeastern University and the University of Massachusetts Amherst conducted more than 650,000 tests from early 2018 through early 2019.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "The tests revealed that nearly every major mobile wireless broadband provider had been throttling video services like YouTube and Netflix even at times when their networks were not congested.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "For example, during that time period, AT&T throttled Netflix Inc. 70% of the time and Google’s YouTube service 74% of the time.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "T-Mobile throttled Amazon Prime Video 51% of the time.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "The most logical answer is to drive customers to higher, more expensive tiers of service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Of course, in the case of AT&T, it has the extra added benefit of slowing down video competitors to its own DirecTV and Time Warner content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "As long as broadband Internet access service providers like Verizon, AT&T and their cable brethren operate with little or no oversight from the federal government, they’ll not only be able to throttle and discriminate against certain Internet traffic, but they can also charge new fees, raise their prices virtually at will and treat their customers as they see fit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "These actions are likely to only get worse as household bandwidth consumption continues to rise thanks to the popularity of video streaming.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": " In a properly functioning market, robust competition could serve to moderate this kind of behavior, but as many Americans know, their choice of broadband providers are usually limited to two if they are lucky.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "When the federal government abdicates its duty to protect consumers, it is up to the states to step in and do so.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Indeed, the U.S. Court of Appeals for the District of Columbia Circuit held that the FCC could not pre-empt the states from adopting their own net neutrality laws in large part because the FCC abandoned its legal authority over the industry when it took broadband Internet access out of Title II of the Communications Act.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "HB 957 will safeguard Maryland consumers who use both wired and mobile BIAS.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "The bill will reinstate the protections of the 2015 Open Internet Order for Maryland – prohibiting BIAS providers in the state from blocking, throttling, engaging in paid prioritization or otherwise favoring or disfavoring certain Internet traffic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "It will prevent BIAS providers from engaging in discriminatory “zero rating” practices – allowing some content, but not others to be exempt from data use limitations, otherwise known as “data caps.” And it will require BIAS providers to be fully transparent with their customers about how they manage their networks.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "Importantly, HB 957 will give the state of Maryland legal authority to protect consumers in the broadband market from anti-consumer and discriminatory practices.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "When BIAS providers tell you that they “support” net neutrality but don’t support this bill, what they are really saying is that while they are comfortable with restrictions on blocking, throttling and sometimes even on paid prioritization (no national BIAS provider supports the general conduct standard), they absolutely oppose any government role in protecting consumers and competition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "But it is not only the state’s role to do so, it is its duty.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "Reinstatement of the protections of the 2015 Open Internet Order remains overwhelmingly popular across the nation regardless of party affiliation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "Indeed, some 86% of Americans opposed the Trump FCC’s repeal.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "That is because Americans do not want BIAS providers picking winners and losers on the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "Bills like HB 957 do what the federal government will not – protect Americans from anti-consumer and anticompetitive practices of BIAS providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "I want to thank Delegates Reznik, Carr and Charkoudian for sponsoring the bill and for working with me and my fellow public interest advocates to ensure that it provides strong and legally sustainable net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "The House of Delegates should pass this bill without delay.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "Gigi B. Sohn is a Distinguished Fellow, Georgetown Law Institute for Technology Law & Policy and Benton Senior Fellow and Public Advocate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "She is one of the nation’s leading public advocates for open, affordable and democratic communications networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "For nearly thirty years, she has worked across the country to defend and preserve the fundamental competition and innovation policies that have made broadband Internet access more ubiquitous, competitive, affordable, open and protective of user privacy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "[1] Fed Commc’ns Comm’n, Report and order on remand, declaratory ruling, and order (GN Docket No.14-28), https://docs.fcc.gov/public/attachments/FCC-15-24A1.pdf .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "[2] Fed Commc’ns Comm’n, declaratory ruling, Report and order, and order (WC Docket No.17-108), https://docs.fcc.gov/public/attachments/FCC-17-166A1.pdf [3] I would like to thank my Georgetown Law Institute for Technology Law & Policy colleagues Jeff Gary and DeVan Hankerson for assisting me with this testimony.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "[4] et al ), https://docs.fcc.gov/public/attachments/FCC-05-151A1.pdf [5] , Techdirt (Oct. 18, 2019), https://www.techdirt.com/articles/20191014/07525843188/att-jacks-up-broa... s ee , ArsTechnica (Oct. 11, 2019), https://arstechnica.com/tech-policy/2019/10/att-raises-prices-7-by-makin... , Inquirer (Dec. 13, 2019), https://www.inquirer.com/business/comcast/comcast-cable-bill-rise-broadc... , Techdirt (Sept. 9, 2019), https://www.techdirt.com/articles/20190828/08453242874/charter-spectrum-... .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "[6] , ArsTechnica (July 2, 2019), https://arstechnica.com/information-technology/2019/07/frontier-customer... .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "[7] , ArsTechnica (Jan. 23, 2019), https://arstechnica.com/information-technology/2019/01/sorry-ajit-comcas... (Jan. 24, 2019), https://www.vice.com/en_us/article/gyab5m/its-now-clear-none-of-the-supp... , BoingBoing (Jan. 23, 2019), https://boingboing.net/2019/01/23/3pct-lower-in-18.html; see Quartz (Oct. 3, 2019), https://qz.com/1720826/the-fccs-argument-for-repealing-net-neutrality-ha... .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "[8] , ABC (Aug. 22, 2018), https://abcnews.go.com/US/verizon-throttled-santa-clara-county-fires-dat... .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "[9] https://www.wyden.senate.gov/imo/media/doc/wyden-securus-location-tracki... , Motherboard (Jan. 8, 2019), https://motherboard.vice.com/en_us/article/nepxbz/i-gave-a-bounty-hunter... .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "[10] , Wash. Post (June 19, 2018), https://www.washingtonpost.com/news/the-switch/wp/2018/06/19/verizon-wil... [11] , Motherboard (Jan. 18, 2019), https://motherboard.vice.com/en_us/article/d3mgkv/senator-wyden-hammers-... .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "[12] Under the authority granted to the agency when it reclassified BIAS as a telecommunications service under Title II of the Communications Act, the Wheeler FCC passed the first comprehensive set of broadband privacy rules, which required mobile broadband companies to get opt-in permission from customers for giving location data to third-parties.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "Consumers would have been very unlikely to do so.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "Unfortunately, Congress repealed these rules in March 2017 before they ever went into effect.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "[13] https://www.latimes.com/business/technology/story/2019-08-19/wireless-ca... .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "[14] Vice (Nov. 29 2018), https://www.vice.com/en_us/article/qvqzd5/your-4k-netflix-streaming-is-o... .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "[15] Mozilla Corp. v. Fed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "Commc’ns Comm’n , No.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "18-051, at 121 (D.C. Cir.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "Oct. 1, 2019) (per curiam) (“We vacate the portion of the 2018 Order that expressly preempts ‘any state or local requirements that are inconsistent with [its] deregulatory approach.’ The Commission ignored binding precedent by failing to ground its sweeping Preemption Directive—which goes far beyond conflict preemption—in a lawful source of statutory authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "That failure is fatal.”) (citations omitted), https://www.cadc.uscourts.gov/internet/opinions.nsf/FA43C305E2B9A35485258486004F6D0F/$file/18-1051-1808766.pdf [16] (Apr.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "18, 2018), https://www.publicconsultation.org/united-states/overwhelming-bipartisan... .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "The Benton Institute for Broadband & Society is a non-profit organization dedicated to ensuring that all people in the U.S. have access to competitive, High-Performance Broadband regardless of where they live or who they are.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "We believe communication policy - rooted in the values of access, equity, and diversity - has the power to deliver new opportunities and strengthen communities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "For subscribe/unsubscribe info, please email headlinesATbentonDOTorg for Broadband & Society Evanston, IL 60202 847-328-3049 headlines AT benton DOT org Share this edition: benton's blog CONTACT for Broadband & Society Evanston, IL 60202 847-328-3040",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

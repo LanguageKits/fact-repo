@@ -1,0 +1,631 @@
+{
+    "document_id": -1,
+    "url": "https://techcrunch.com/2019/10/01/court-says-fccs-unhinged-net-neutrality-repeal-cant-stop-state-laws/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:40:48.409663+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Court says FCC\u2019s \u2018unhinged\u2019 net neutrality repeal can\u2019t stop state laws 'The Commission misses the technological forest for a twig.'",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "@techcrunch / 7 months   The FCC\u2019s repeal of net neutrality rules has been significantly weakened by a federal appeals court, which ruled that the Commission could not preempt state laws like those pending in California.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "And although the repeal largely survived otherwise, one judge called the logic on which it is based \u201cunhinged from the realities of modern broadband service.\u201d The outcome of this case is not final, as the issue may rise as far as the Supreme Court, whose past decisions lower courts are bound to follow, yet are increasingly shown to be out of step with the way technology and markets work today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "( You can read the full 186-page court opinion here .)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "But the threat of preempting state net neutrality rules with a weaker federal rule was a very serious one that promised a proliferation of legal battles when the inevitable state-federal conflicts arose.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Fortunately for the states, the court completely shut down the FCC\u2019s arguments that it had the authority to overrule states, completely declawing the Commission\u2019s rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Mozilla and several partners filed the lawsuit against the FCC last year, challenging Chairman Ajit Pai\u2019s \u201cRestoring Internet Freedom\u201d rulemaking on a variety of fronts.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Few of these were availing, as the court showed a marked predisposition towards taking the agency at its word on matters of, say, economic effects of previous rules, the competitive landscape of broadband providers, and suggested alternatives for consumer protection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The biggest miss was the challenge to broadband being reclassified as an information service from a telecommunications service \u2014 the distinction at the heart of this decades-long conflict .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Commission Impossible: How and why the FCC created net neutrality The court found that the FCC\u2019s explanation that DNS and caching services mean that broadband providers do more than simply move bits from place to place.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "This is a hugely disingenuous argument, as I have discussed in detail before (involving Brett Kavanaugh, now on the Supreme Court), but the court determined that it was bound by precedent to defer to the agency.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "FCC wrong on public safety, Lifeline, and state laws The court did agree with Mozilla et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "on a few fronts.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "First there are the potential threats to public safety of potential blocking and throttling by broadband providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The case last year of firefighters in California having their Verizon devices throttled in the middle of wildfire control operations showed that there are times when these threats may be matters of life and death.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Because the FCC only barely touches on this matter, the court ordered them to revisit the order and do so.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "The Commission\u2019s disregard of its duty to analyze the impact of the 2018 Order on public safety renders its decision arbitrary and capricious in that part and warrants a remand with direction to address the issues raised.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Second there is the Lifeline program , which uses federal funds to subsidize mobile and broadband access for people in underserved areas, tribal lands, and so on.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The law defining Lifeline terms these things telecommunications services, but the FCC just reclassified broadband as an information service \u2014 which basically removes the authority to run the Lifeline program at all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The lawsuit points this out, and the court agrees that it\u2019s a huge oversight for the FCC not to address it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The Commission brushed off their concern.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "That was straightforward legal error which requires remand.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Lastly and most importantly is the question of preemption.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "As I and others have noted before, the FCC in its repeal of 2015\u2019s net neutrality rules abdicated its only real authority for interfering with state rules .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "The Title II powers that govern telecommunications services would allow the FCC to regulate interstate common carriers, but it gave up those powers when it gave up Title II.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Yet it still claimed to be able to stop states from doing their own thing, which the court rightly deemed an attempt to \u201ccreate preemption authority out of thin air.\u201d The Commission ignored binding precedent by failing to ground its sweeping Preemption Directive\u2014which goes far beyond conflict preemption\u2014in a lawful source of statutory authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "That failure is fatal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "By reclassifying broadband as an information service, the Commission placed broadband outside of its Title II jurisdiction.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "As a matter of both basic agency law and federalism, the power to preempt the States\u2019 laws must be conferred by Congress.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "It cannot be a mere byproduct of self-made agency policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Not only is the Commission lacking in its own statutory authority to preempt, but its effort to kick the States out of intrastate broadband regulation also overlooks the Communications Act\u2019s vision of dual federal-state authority and cooperation in this area specifically.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "The entire preemption section of the rulemaking is therefore vacated, the court decided.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "That is huge news.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "If the federal rules, whatever they are, do not have precedence over state rules, then states are free to enact their own and expect companies to abide by them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "We\u2019ve seen how this works in some cases like Illinois, where biometric measures like facial recognition are strictly regulated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "This necessitated, for instance, Facebook making changes to its photo tagging systems that also affect users outside Illinois.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "In a similar vein, state rules focused on net neutrality and user privacy, like California\u2019s, could force companies to adjust policies at a global level.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "It would make little sense and no little trouble for Comcast to have a special \u201cCalifornia edition\u201d of its services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "This effectively makes the FCC\u2019s national rules more of a lowest possible baseline than the law of the land.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Having such inadequate and poorly justified rules in that role isn\u2019t quite as scary.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Mozilla was optimistic despite much of its complaint being thrown out.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "\u201cWe are encouraged to see the Court free states to enact net neutrality rules that protect consumers,\u201d said the company\u2019s chief legal officer, Amy Keating.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "\u201cWe are considering our next steps in the litigation around the FCC\u2019s 2018 Order, and are grateful to be a part of a broad community pressing for net neutrality protections in courts, states and in Congress.\u201d Denouncing the FCC\u2019s \u201ctechnological anachronism\u201d The court repeatedly deferred to previous Supreme Court rulings and to the FCC\u2019s freedom as an expert agency to provide \u201creasonable\u201d interpretation of the law to justify its policies, even if those interpretation is not necessarily the \u201cbest.\u201d But the FCC is testing the utmost limits of the court\u2019s favor in this, warned circuit judge Patricia Millett.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "She referred specifically to using the existence of DNS and caching as justification for claiming broadband services are more than just telecommunications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "This explanation has been set forth before by no less than Justice Brett Kavanaugh, who subsequently received a sound intellectual pummeling by his colleague, circuit judge Srinivasan.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Supreme Court nominee Brett Kavanaugh\u2019s brutal education in net neutrality Although the court was bound to allow it, Judge Millett in an extended concurring opinion that she was \u201cdeeply concerned that the result is unhinged from the realities of modern broadband service\u201d: Brand X [the relevant Supreme Court decision] was decided almost fifteen years ago, during the bygone era of iPods, AOL, and Razr flip phones.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "The market for broadband access has changed dramatically in the interim.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "In 2005, the Commission\u2019s classification decision was \u201cjust barely\u201d permissible.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Almost fifteen years later, hanging the legal status of Internet broadband services on DNS and caching blinks technological reality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "The question is whether the combination of transmission with DNS and caching alone can justify the information service classification.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "If we were writing on a clean slate, that question would seem to have only one answer given the current state of technology: No.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "By putting singular and dispositive regulatory weight on broadband\u2019s incidental offering of DNS and caching, the Commission misses the technological forest for a twig.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "(Emphasis mine.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "She laments that as a lower court they had no power to consider this, but that the Supreme Court can \u2014 and should.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Or if it won\u2019t, Congress can act and intervene to expose the FCC\u2019s threadbare logic for the sham it is.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "\u201cEither intervention would avoid trapping Internet regulation in technological anachronism,\u201d she concludes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "In other words, the FCC\u2019s entire argument rests on an increasingly flimsy legal technicality that only a higher court or Congress can address.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Until that happens the current FCC rules, much weaker than the 2015 ones, will remain in effect \u2014 but as noted earlier, states are free to enact better ones and the Commission can\u2019t do a thing about it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "That\u2019s an enormous victory for net neutrality advocates.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "\u201cWhen the FCC rolled back net neutrality it was on the wrong side of the American people and the wrong side of history.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "Today\u2019s court decision shows that the agency also got it wrong on the law,\u201d said FCC Commissioner Jessica Rosenworcel, who has consistently opposed the new rule, in a statement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "\u201cAs the FCC revisits its policies in light of the court\u2019s directives, I hope it has the courage to run an open and fair process.\u201d",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,331 @@
+{
+    "document_id": -1,
+    "url": "https://www.pbs.org/moyers/moyersonamerica/net/neutrality.html",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:39:39.639299+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "NET NEUTRALITY The debate is hot, the language heady, the metaphors many.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Op-ed pages alternately bemoan \"The End of the Internet\" or curse \"Net Neutrality Nonsense.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Allegations fly about the stifling of free speech, the holding back of progress and corporate hegemony.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Indeed, network neutrality has become something of a cause celebre in the digital world, pitting a slew of high-profile Internet content providers and consumer-advocacy groups against major phone and cable companies, and federal lawmakers against each other.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "But what exactly is net neutrality, and why does it seem to have everyone from Google and Yahoo!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "In a nutshell, the issue involves the transmission of data over broadband networks (e.g.DSL or cable internet services).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "As the number of sites on the Internet continues to grow and the quality of data becomes more sophisticated-encompassing video and audio files and other multimedia applications-broadband service providers (generally cable and phone companies) are seeking to regulate how material flows to users through their increasingly taxed networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "For most large providers, this has come down to one general desire: They could establish a tiered system of content delivery in which companies with data-heavy content can pay a fee to the providers in return for \"special treatment\" in transmission.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "An analogy: For those companies that pay the fee, their content would breeze through the fast-pass lane at the toll bridge, reaching users more quickly; those who don't pay will be stuck in the crowded, slow-moving line, and users will have to wait longer for their content to load.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "So why \"neutrality?\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Because since the Internet's inception, everyone, every site, regardless of the data load, has been given equal-i.e., neutral-treatment by providers, their content transmitted at equal speed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Net neutrality advocates argue that changing this system will give unfair advantage to deep-pocketed content providers, while start-ups, small businesses, and nonprofits who can't pay the piper will be unduly punished.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The telecom proponents of the tiered system insist that they need these new fees (in addition to those paid by their users) to recoup the costs of updating their networks to handle all the new data-heavy content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Many also object to the additional government regulation and involvement that would be necessary to enforce net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Neutrality supporters worry that without regulation, there's no guarantee that some traffic would move over the net at all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "In other words, neutrality supporters say that only with regulation would internet users be guaranteed access to whatever they want to read, listen to, or watch online, and that without regulation, large telecom companies could block or censor things they don't like without consequence.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "This past summer, Congress took up the issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Following a huge lobbying campaign by both sides, including millions spent by the cable and phone corporations, the House voted down an amendment to the Act that would have made the Federal Communications Commission responsible for enforcing neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "In the Senate, a similar amendment was defeated in committee, but net neutrality legislators managed to table a vote on the telecommunications bill indefinitely in hopes that they can somehow force the issue back to the forefront.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Some lawmakers have said they are sympathetic to the cable and phone conglomerates' assertions that regulating the Internet isn't necessary.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "\"A lot of us believe that we don't have a problem today,\" says Rep. Fred Upton, Chairman, Subcommittee on Telecommunications and the Internet, (R-MI).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "\"And we're not going to overly regulate a product ... which might stifle the entrepreneurship and the progress we want to make in the future.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "But other legislators are concerned about the implications of changing the longstanding Internet standard of neutrality, especially as the public becomes more aware and the battle heats up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The telephone and cable firms are proposing \"the rules of monopolists, the rules of duopolists,\" says Rep. Ed Markey (D-MA), who led the fight in the House for net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "\"We have to go back to the rules which created the Internet.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "What's more, the companies that deliver internet connections to most homes are increasingly in the business of generating content, as well, so supporters of neutrality worry that they'll be in a position to privilege their own content over competitors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "For example, if AT&T; decided to start its own online auction site, neutrality supporters say, the firm's customers might find themselves unable to use eBay - unless Congress protects net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Media watchers are worried that the Internet will follow the path of other media - where deregulation led to consolidation - and some would say - to fewer voices being heard.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "(Find out more about media consolidation .)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Find out more about the implications of pending legislation and the history of net neutrality-and let us hear your voice-in the MOYERS ON AMERICA Net Neutrality Citizens Class.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Hear from guest bloggers!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": ":: :: :: Bill Moyers on PBS :: :: :: TV Schedule :: DVDs/VHS ::",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

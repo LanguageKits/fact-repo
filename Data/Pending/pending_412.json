@@ -1,0 +1,91 @@
+{
+    "document_id": -1,
+    "url": "https://conservativepost.com/dr-zelenko-allegedly-treated-699-coronavirus-patients-using-hydroxychloroquine-zinc-and-z-pak/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:53:22.525244+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "HOME HOME click to comment Last weekend Dr. Vladimir Zelenko from New York state announced he found a treatment against the coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Dr. Zelenko joined Sean Hannity earlier on his radio program to discuss the results from his test.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The New York doctor also posted a video explaining his success with hydroxychloroquine and Zinc .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "His treatment resulted in the shortness of breath issue being resolved in 4 to 6 hours.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Dr. Zelenko in his study had zero deaths , zero hospitalizations and zero intubations !",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Last Monday evening Sean Hannity invited two more medical experts on to discuss Dr. Zelenko\u2019s coronavirus results.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The two doctors were cautiously optimistic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "click to comment Comments are closed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

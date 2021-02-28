@@ -1,0 +1,331 @@
+{
+    "document_id": -1,
+    "url": "https://www.smithsonianmag.com/smart-news/five-things-know-about-net-neutrality-180967317/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Julissa Treviño",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:42:47.947737+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "SUBSCRIBE RENEW GIVE A GIFT SmartNews  How the Smithsonian is Chronicling COVID Photo of the Day  KenKen  Save 84% off the newsstand price!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Yesterday, Federal Communications Commission Chairman Ajit Pai set forth a proposal to repeal regulations protecting net neutrality, the idea that all internet providers must treat internet data equally.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Enacted in 2015, the regulations have championed “open internet,” but Pai, President Donald Trump’s appointed FCC chairman , has long been a critic of net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The FCC will decide on December 14 whether to repeal net neutrality under Pai’s proposal, called Restoring Internet Freedom Order.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "A reversal of net neutrality will not only impact internet providers like AT&T but it’s also expected to have wide-reaching implications for consumers and businesses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Here’s a breakdown of net neutrality and what a repeal would mean.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The 2015 regulations made the internet a public utility The net neutrality rules reclassify the internet as a public utility, after regulations passed in 2015.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "That means high-speed internet is now considered telecommunications rather than an information service, so providers must follow a provision that states carriers can’t make “unjust or unreasonable discrimination in charges, practices, classifications, regulations, facilities, or services,” according to The Daily Dot.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Repealing net neutrality will change the online experience Because the internet is governed by telecommunication regulations, internet providers, or ISPs, must charge all content providers equally and deliver the same bandwidth for all sites.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Reversal of these rules, however, can impact consumers' online experience, Aimee Picchi reports for CBS News’ MoneyWatch .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "“For instance, an ISP could demand higher fees from content companies like Netflix in exchange for preferential treatment,” Picchi writes, a practice known as paid prioritization.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "It could also just slow down Netflix, YouTube or another competitor, making those services unwatchable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "If an ISP charges Netflix or another site more, those additional costs could be shifted to the consumer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Pai suggests that the reversal would spur competition in the market, meaning providers could offer more cost-effective bundles with different price and service options.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Either way, consumers are likely to see a new experience if net neutrality regulations are repealed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "If the proposal passes, net neutrality would likely become voluntary While a detailed plan of Pai’s hasn’t yet been released, news reports have all but established that ISPs would be expected to self-regulate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "As Gigi Sohn at reported earlier this year, ISPs would be asked to commit to net neutrality-like principles in their terms of service—essentially, that they won’t discriminate against or block certain content providers and that they won’t practice “harmful” paid prioritization.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "However, Comcast and AT&T have already come out in favor for some paid prioritization, according to , saying that an outright ban on these practices is harmful for \"latency-sensitive applications\" like self-driving cars.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Before net neutrality regulations, the Federal Trade Commission had authority over internet providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "If a reversal was approved, the FTC would resume that role but only police violations of terms of service, rather than take preemptive actions, reports Alina Selyukh at NPR .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Most content providers and consumers are in favor of net neutrality Though ISPs are largely favor of the FTC’s plan to repeal net neutrality regulations, most content providers agree that the regulations are important.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Amazon, Google, Facebook, Netflix and Reddit all oppose a repeal, reports.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The majority of American consumers are also in support of net neutrality, as shown by a recent survey.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Only 16 percent of those surveyed oppose net neutrality, and 27 percent did not state an opinion.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Some states and cities could try to impose their own versions of net neutrality, but experts expect Pai to try to block these efforts, reports Margaret Harding McGill of .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "However, she writes, the Dec. 14 decision is likely to wind up in another court battle.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "SIGN UP for our newsletter , Julissa Treviño is a writer and journalist based in Texas.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "She has written for and Read more from this author .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Follow @JulissaTrevino US Government Comment on this Story Please enable JavaScript to view the comments powered by Disqus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "comments powered by Photo of the day Photo of the Day » May 2020 Save 84% off the newsstand price!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Address 1 Address 2 AL AK AS AE AA AE AP AZ AR CA CO CT DE DC FL GA GU HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND MP OH OK OR PW PA PR RI SC SD TN TX UT VT VI VA WA WV WI WY Enter your email address or Get the best of magazine by email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Keep up-to-date on: Enter your email address Sign up SmartNews RSS",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

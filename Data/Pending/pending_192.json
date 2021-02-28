@@ -1,0 +1,461 @@
+{
+    "document_id": -1,
+    "url": "https://www.fiercewireless.com/wireless/industry-voices-entner-back-to-future-net-neutrality",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Roger Entner",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:30:58.311932+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to main content LinkedIn Enclose phrases in quotes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Use a + to require a term in results and - to exclude terms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Industry Voices—Entner: Back to the future on net neutrality ",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Oct 4, 2019 10:33am The worst thing for the United States’ economy is for regulatory uncertainty to prevail in the tech sector.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "(Pixabay) The D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The D.C.Circuit Court of Appeals affirmed the Federal Communications Commission’s order in which the agency adopted a light touch regulatory framework to ensure net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The court agreed with the FCC’s decision to classify broadband as an information service rather than as a common carrier service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "In doing this, the FCC puts the ISPs on the same competitive footing as their platform competitors, for the most part.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The court disagreed with the FCC on two points: The court did not uphold the agency’s wholesale pre-emption of state regulations regarding the internet, and found lacking the agency’s review of the impact net neutrality regulations could have on public safety, Lifeline service and pole attachments.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Activists hailed the order barring the wholesale pre-emption of state regulations as a major victory, apparently hoping that some U.S. state will institute Title II–based net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "But what the activists seem to ignore is that the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "But what the activists seem to ignore is that the D.C. Circuit Court did not prohibit the FCC from pre-empting states on a case-by-case basis.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "What happens next is to be determined.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The tech companies are rather busy fighting off anti-trust investigations, penalties for privacy violations and an otherwise wholesale attack on their business models from regulators across the globe.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Thursday, May 14, 2020 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Join our roundtable of industry experts to learn about value-rich 5G network-slicing use cases and how to ensure successful monetization.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "The seemingly arcane DNS-over-HTTPS (DOH) issue is a similar topic that will turn on companies like Google.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "In order to fix a minor privacy issue, Google plans to blind everyone else to the destination of internet traffic, making it even harder to find and prosecute child pornographers while not properly assisting law enforcement in their investigations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "It’s literally putting profits before the common good and the well-being of children.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The court’s point regarding public safety needs to be addressed, but will become ever smaller as more and more public safety institutions will switch to FirstNet, where public safety is prioritized over any other user.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The court’s decision is also an opportunity to properly address the Lifeline program.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Lifeline is one of the best intended and worst executed programs in Washington.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Providing connectivity to those who can afford it the least is a noble and economically beneficial objective.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The corruption and fraud that has occurred, however, from small companies to large companies like Sprint, is unacceptable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "While the economy is booming, now is the time to properly restructure the program, bring it in line with what it’s intended to be so that it is ready to help Americans when the economy inevitably slows down and more Americans depend on Lifeline to use technology to find a job.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Finally, the pole attachment rule is one of those institutional rivalry situations where the country would benefit economically from a uniform rule but the division of political power among the regulators involved with the issue seems to be the objective.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "For the good and bad, Americans will receive the internet they voted for in their local elections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Counties that vote for local representatives that prefer fewer pole attachments will have slower internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "The key here is to get ahead of the issue and help Americans understand why their internet is slower than it could be when they vote to prevent new infrastructure from going into their town.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Ultimately, the lawsuit showed that we need Congress to step in and enshrine net neutrality principles.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "The worst thing for the United States’ economy is for regulatory uncertainty to prevail in the tech sector.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Equally problematic is to allow consumers to remain unprotected from abuses of their user data.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Privacy is just as pressing an issue as NN, and Congress needs to step up its game.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "The country deserves better.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Roger Entner is the founder and analyst at .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "He received an honorary doctor of science degree from Heriot-Watt University.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Recon Analytics specializes in fact-based research and the analysis of disparate data sources to provide unprecedented insights into the world of telecommunications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Follow Roger on Twitter @rogerentner .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "\"Industry Voices\" are opinion columns written by outside contributors—often industry experts or analysts—who are invited to the conversation by Fierce staff.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "They do not represent the opinions of Fierce.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Read more on net neutrality FCC FirstNet Nokia claims China Unicom win, lowers 2020 guidance Suri said, “We have consistently said we take a prudent approach to share in China.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "by Apr 30, 2020 12:53pm Qualcomm upbeat on 5G smartphones despite COVID-19 Qualcomm is sticking with its previous guidance calling for 5G worldwide device shipments of 175 million to 225 million in 2020. by Apr 30, 2020 11:59am Watch Communications taps Ericsson EPC, readies for rural 5G Ericsson will provide its 3GPP-standardized cloud packet core for Watch's markets in Ohio, Indiana, Illinois, and Kentucky.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "by Apr 30, 2020 10:23am GET THE NEWSLETTER Subscribe to FierceWireless to get wireless industry news and updates delivered to your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "I acknowledge that I may receive emails from FierceWireless and on behalf of their trusted partners.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "GENERAL RSS CONTACT NEWSLETTERS Reproduction in whole or part is prohibited.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

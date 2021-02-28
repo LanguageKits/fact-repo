@@ -1,0 +1,671 @@
+{
+    "document_id": -1,
+    "url": "https://www.newsmax.com/newsmax-tv/samadi-hcq-twitter/2020/07/29/id/979655/",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Marisa Herman",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 18:00:14.592388+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Wednesday, 29 July 2020 05:03 PM More ways to share... LinkedIn Tell my politician .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "When Dr. David Samadi, M.D., lead medical contributor for Newsmax TV, logged onto his Twitter account on Wednesday, he noticed something was different.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "He couldn’t tweet out any messages.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Then he checked his email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "In his inbox, an email from Twitter telling him his account “has been locked for violating the Twitter Rules.” Samadi, a nationally renowned physician and surgeon dubbed one of New York City’s “top doctors” by New York Magazine, was placed on 24-hour Twitter timeout for breaking the social media platform’s policy on “spreading misleading and potentially harmful information related to COVID-19.” This, for offering his professional opinion that hydroxychloroquine (HCQ) treatment can be effective against COVID-19.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "In one of the tweets flagged by Twitter, Samadi wrote, “Hydroxychloroquine works and has worked.” Over the past several weeks, he said, he has tweeted about the coronavirus treatment HCQ – which has drawn opposition on the left, in part because of President Donald Trump’s support for it -- because Samadi has seen studies showing the anti-malaria drug can work if it used early on in a patient’s coronavirus diagnosis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Several tweets about the medication appear to have landed Samadi in Twitter jail.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "“If this medication can help one person, then I am all for it,” he said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "In a third flagged tweet, he ripped the media for not embracing the notion that hydroxychloroquine is an effective COVID-19 treatment.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "This should be worldwide breaking news met with celebration!” he wrote.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "“It’s major censorship,” he told Newsmax.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "“I have been in the media for 12 or 13 years and this is the first time I have been shut down.” In another tweet, he called out The New York Times for calling the drug “unproven” even though “we’ve now gotten proof that hydroxychloroquine works.” He also posted: “Why do you think the most important world leaders would be taking medicine if it didn’t work?” GOP political consultant Anthony Angelini called Twitter’s move to lock Samadi’s account “extremely dangerous.” “Why are they so afraid of this news getting out?” he asked.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "“What do they have to fear?” Kris Ruby, CEO of Ruby Media Group, which specializes in health care public relations for doctors and social media marketing for doctors, said she believes that Twitter has “a long history of censoring conservative content.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Samadi currently serves as the director of men's health and urologic oncology at St. Francis Hospital in Roslyn, New York.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "He has in excess of 250,000 Twitter followers, doing medical commentaries on Fox News and other media outlets.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "He said he can’t tweet or send any of his followers a message while his account is locked.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "His account is still active and Twitter users can still read his existing tweets.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "As a surgeon who deals with life and death daily, he said he is always fighting for his patients' lives.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "After seeing reports that using HCQ with azithromycin can help patients avoid being placed on a ventilator, he said he began supporting the use of the drug as a treatment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "He said patients should be given the option of being treated with the medication; government should stay out of the discussion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "“This medication has been around for decades,” he said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "“It is a safe medication.” Touted by Trump early on in the coronavirus outbreak as a “game changer” in fighting COVID-19, the antimalaria drug has been labeled by some experts as non-effective and even dangerous.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The Food and Drug Administration pulled its emergency-use authorization for hydroxychloroquine on June 15 after several studies showed it could increase the risk for cardiovascular complications.",
+            "fact": true,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "But many reports knocking the drug have subsequently been discredited.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Samadi said people with lupus and arthritis have been on the medication for years without any reports of deadly heart conditions.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "He said the medication would have been pulled if it were dangerous.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Other studies have shown a positive outcome in patients who took the drug.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "A study conducted by doctors at Henry Ford Health System in Michigan found that 26% of patients who did not receive the antimalarial drug died, compared to 13% of patients who received hydroxychloroquine during their hospital stay.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "A French study yielded similar results and indicated the drug could be a “potentially life-saving therapeutic strategy at a larger scale.” Angelini said the Twitter censors overstepped for the simple reason that “You can immediately fact check something on your own.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "It shouldn't be up to Facebook or Twitter to do that. \"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "He said it is legal for the platform to censor content, per its user agreements, but he said in the marketplace of free ideas it is a dangerous practice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Samadi said he has been noticing changes on his account before he was locked out of it on Wednesday.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Since July 4, videos he posted on the site that once had hundreds of thousands of views and likes suddenly had far fewer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "He said he has seen the amount of followers he has dwindle, chunk by chunk.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "He said some of the posts that had altered views and likes were interviews he posted with Newsmax TV’s Greg Kelly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "“There is something going on,” he said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "“They are playing with my account big time.” Ruby said it’s likely Samadi’s account was flagged because his posts contained information about hydroxychloroquine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "“Every doctor across the board regardless of their political spectrum has to be extremely careful with the COVID-19 content they post right now,” she said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "“This content is getting flagged and a lot of it is getting incorrectly flagged at times, too.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "The algorithms are specifically looking for keywords like COVID or hydroxychloroquine.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "If you want to get your account flagged or blocked, that is a surefire way to do it.” She said medical doctors are at “high risk” for being censored because their content is looked at more carefully.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "“Big tech has a big problem right now with censorship and free speech,” she said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "“If you have a large following and you tweet anything pertaining to COVID, you are more likely to be flagged right now.” Carl Szabo, VP and general counsel of NetChoice, a nonprofit advocate for online free speech, said social media platforms are “much more willing to push a pause button” on coronavirus related content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "“These platforms get it wrong sometimes,” he said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "“Sometimes they are overly aggressive and sometimes they are under aggressive.” Samadi said his tweets are all very well thought out before he posts because he knows the “whole world is watching.” “Every thing is very well thought out, not because of Twitter, but because I know other doctors are watching,” he said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "“Health ministers from around the world are watching my account.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "They are saying it is helping them and then they shut it down.” He said he isn’t endorsing anything and doesn’t benefit in any way from writing about HCQ.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "But if the treatment can save one life, he said, it is worth tweeting about.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Twitter has deployed a plan to flag and even remove any information from the platform that it deems “misleading” about COVID-19.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Per Twitter, the company determines if claims are false or misleading if they have been flagged as false by experts like public health officials, or if the post can confuse or deceive people who read it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "A post must meet all three of the criteria for it be considered for removal from the site.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "If accounts repeatedly violate the rule, they can be permanently suspended.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "A Twitter spokesperson declined to comment and directed Newsmax to the company’s COVID-19 policies, applicable to \"everyone on the service.” To put an end to the social media platform’s censorship of posts, Rep. Paul Gosar, R-Ariz., introduced the “Stop the Censorship Act of 2020” on Wednesday.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "“Freedom of speech is paramount to the fabric of America.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "No one should have the power to censor political speech, including ‘Big Tech,’” co-signer Rep. Lance Gooden, R-Texas, said in a release announcing the bill.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "“I can’t believe this is happening,” Samadi said of his frozen account.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "“This is America.”",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "He couldn't tweet out any messages.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "Then he checked his email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "In his inbox, an email from Twitter telling him his account... samadi, hcq, twitter 1399 Wednesday, 29 July 2020 05:03 PM 2020-03-29 Wednesday, 29 July 2020 05:03 PM Please review before posting a comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "Keep discussions on topic, avoid personal attacks and threats of any kind.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "Links will not be permitted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Please read our before commenting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": ": We never share your email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "2020 Elections Saturday, 21 Nov 2020 21:49 PM President Donald Trump's attorney Rudy Giuliani was \"brilliant\" with his argument and press conference earlier this week .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "Saturday, 21 Nov 2020 21:15 PM Levying explosive claims of widespread voter fraud specifically tied to Dominion Voting Systems and potentially a pay-fo .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

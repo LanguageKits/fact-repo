@@ -1,0 +1,3481 @@
+{
+    "document_id": -1,
+    "url": "https://buffalochronicle.com/2020/03/27/cuomo-considers-banning-cigarette-sales-for-six-weeks-amid-coronavirus-outbreak/",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:51:13.762567+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "NY Senate NY Assembly NY Comptroller NY GOP US Senate US House 26th District Cuomo considers banning cigarette sales for six weeks amid Coronavirus outbreak March 27, 2020 is considering a temporary six-week ban on the sale of combustible cigarettes in order to reduce the State\u2019s Coronavirus death count, a source familiar with his thinking tells The ban could come as soon as Monday and is expected to be included in a budget measure already scheduled to be announced.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "New data out of Italy suggest that the nation\u2019s whopping Coronavirus death rate \u2014 now approaching 10% of those who test positive \u2014 is highly correlated to cigarette use.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Italian men smoke cigarettes at rates that far outpace most other developed countries, and the extreme shortage of ventilators there has been the cause of death for tens of thousands of smokers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "According to Italy\u2019s National Health Institute, smokers with COVID-19 were one-third more likely to have a serious clinical situation than non-smokers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Half of these smokers required a ventilator.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "For many weeks, it was observed that women in Italy are better able to overcome the virus than men.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Italian doctors now believe that the statistical difference is attributable to smoking-related gender norms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "COVID-19 kills its victims by compromising the respiratory system and reducing oxygen levels in the blood.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Regular cigarette use damages the airways and small air sacs in the lungs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Combustible cigarettes weaken smokers\u2019 lungs by filling them with smoke and tar.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "\u201cWhen a smoker contracts COVID-19, he or she will be far more likely to suffer respiratory system failure, thereby exacerbating New York\u2019s ventilator shortage,\u201d Cuomo plans to say in remarks prepared for Monday.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "\u201cFortunately, medical science informs us that ex-smokers experience significant recovery in lung function and oxygen absorption as soon as they quit smoking.\u201d Former smokers recover 30% of their lung function just two weeks after quitting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "\u201cAny ex-smoker can tell you how, just days after quitting, they were noticeably less out of breath after walking up a flight of stairs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Personally, I have heard hundreds of these stories,\u201d he writes in draft remarks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": ", the Commissioner of Health, is prodding Cuomo to issue the temporary ban and discussed the issue with him privately earlier this week.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Zucker has long advocated for additional restrictions on combustible cigarette sales, which causes more than 443,000 deaths annually \u2014 more deaths each year than from murder, car accidents, alcohol or drug use, suicides, and HIV combined.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "It\u2019s estimated that 81,000 people will die from COVID-19.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Zucker argues that a ban on cigarette sales for the duration of the outbreak will save thousands of lives and will reduce the State\u2019s shortage of ventilators, perhaps by several thousand during its peak \u2014 expected to hit the State 21 days from today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Therefore, the Governor\u2019s advisors postulate, if New York takes immediate action and temporarily bans combustible cigarette sales during this public health crisis, ex-smokers\u2019 respiratory systems will make significant recovery at the very same time that COVID-19 cases are peaking in New York.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "\u201cThis will save lives, and not just the lives of smokers,\u201d the Governor plans to say.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "\u201cEvery former smoker that gets sick, but does not need a ventilator, means one more ventilator is available to keep our aging parents and grandparents alive.\u201d \u201cImportantly, we must also recognize that failing to temporarily ban combustible cigarettes immediately will cause a disproportionate increase in COVID-19 fatalities in minority communities, given the higher prevalence of immuno-deficiencies in these communities,\u201d he plans to note.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The Governor\u2019s supporters argue that it is more important now than ever to address the public health cost of combustible cigarettes \u2014 not just to save the lives of smokers, but to save the lives of all New Yorkers by mitigating the severity of a ventilator shortage.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "WhatsApp NY Assembly    Hawley calls on Governor to halt bail reform laws during riots   June 5, 2020 Assemblyman Steve Hawley (R \u2013 Batavia) has called on Governor Andrew Cuomo to consider changing his position on bail reform in the wake of mass looting and riots following the tragic murder of George Floyd in Minneapolis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "May 26, 2020 In recent weeks Governor Andrew Cuomo has repeatedly said that the economy is unlikely to \u201cjust bounce back\u201d from the COVID-19 pandemic shut down.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "He has been arguing that the government will need to \u201cthink big\u201d in efforts to rebuild WhatsApp 129 Comments     says: March 28, 2020 at 9:57 am        That is so wrong!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "It isnt his choice if people want 2 smoke.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "They should be allowed to says: March 28, 2020 at 2:54 pm        For the people who smokes if he stops it there\u2019s going to be riot the world\u2019s gun turn upside down people can have anger issues.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Not going to be a good thing says: March 29, 2020 at 10:47 am        When I quit smoking I got so sick.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "So did my husband.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "I\u2019m not sure of the science behind it but many of my friends had similar experiences.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Doesn\u2019t seem like the right approach.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "You can\u2019t make people quit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "You\u2019re just going to drive them to go out of state and contaminated more people.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "says: March 30, 2020 at 10:29 am        My aunt died right after she was told yo quit smoking.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "It\u2019s time for public officials to quit trying to control our lives !!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Its no wonder most people dislike and distrust our government says: April 2, 2020 at 3:01 pm        The government and politicians are trying to take over every aspect of our lives.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "I would never have believed I would live to see anything like this.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "It seems like everyday some new right is being taken, most of which have nothing to do with CoVid19 or any other virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "God help us all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "says: March 28, 2020 at 10:12 pm        I think he needs to get the f*** out of here people want to smoke that\u2019s their f****** choice what you trying to f****** be like Donald Trump and f****** shut every f****** thing down and telling people they got to be locked in the house and we got to quit smoking for 6 walking weeks wait a motherfuking jail motherfukers says: March 29, 2020 at 8:22 am        Yeah I agree with you\u2026.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Now I am look at Governor Cuomo is Democratic Party and President Trump is Republican Party that can\u2019t be follow the same rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "If if the Governor Cuomo (D) agree with President Trump (R) to go ahead banned cigarrette for 6 weeks!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "F**k Trump signed the bill and now I can\u2019t agree with Governor Cuomo make a deal!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Come on Democratic!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Y\u2019all both President and Governor screwed up!!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "says: March 29, 2020 at 7:38 pm        Just to let you know TRUMP had nothing to do with a cigarette ban not combustible any way you can still support that piece of shit new York hating, criminal releasing ,unsafe ,ventilator hoarding scumbag you call a governor TRUMP 2020 HQ says: March 29, 2020 at 10:25 am        swearing at a politician online makes you look incredibly uneducated \ud83d\ude41 you may make an excellent point, but it gets lost amid its poor translation clarence herington says: March 29, 2020 at 8:07 pm        It probably doesn\u2019t help but what makes you look truly uneducated that all these supposedly intelligent people we have running this country on the certain points have lost their common sense, !!!!!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "That is a saddest fact of all,!!!!!!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "\ud83d\ude20 says: March 30, 2020 at 12:37 am        Quitting smoking cigarettes WILL cause severe withdrawal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "It\u2019s a fact nicotine withdrawal is worse then coming off of Herion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "I\u2019m am a substance counselor have been for 30yrs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "People will get very sick sometimes will get pneumonia and suffer from severe anxiety, become very anxious this is not the time to do this to people, especially people with mental health issues.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "By the way Cuomo \u2018s methadone program is and will not.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "He knows nothing about addiction!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "says: March 30, 2020 at 12:42 am        The methadone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Program is now running in 5 state correctional facilities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "And inmate transfers are in full swing, which means they are traveling from rikers from NYC all across my state.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "says: March 30, 2020 at 7:19 am        The CO\u2019S are not allowed to have masks when transporting because the inmates can use them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "So again the inmates have more safety then the staff.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "Believe me they have plenty of places they hide their drugs and weapons in.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "says: March 30, 2020 at 1:08 am        Have you ever came off heroin .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "get over the lies i smoke for 28 yes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "Quit in a day.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "No withdrawals says: March 30, 2020 at 1:25 am        It\u2019s not a lie do your homework.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "Some people can quit with no issues but my experience it is not that easy for everyone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "To answer your question I watched my son overdosed three times.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "Each time he made it through.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "Then when my friend quit smoking it was just as bad or worse she ended up with double pneumonia and her Dr. said it was from quitting smoking this happens as well as other illnesses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "All from quitting smoking.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "I encourage you to read about nicotine and learn about the 5,000 chemical s that are in just the filter alone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "Wouldn\u2019tyouliketoknow says: April 3, 2020 at 4:57 pm        I came off heroin and OxyContin the real oc from back in the day not the weak stuff they have now.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "Not proud that I spent over 1.75 million in ten years, I\u2019ll never see that amount of money again.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "I\u2019m just putting the depth of my addiction in perspective.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "I finally kicked dope, I\u2019m almost 8 years clean.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "I continue to try and quit smoking but it is a nightmare.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "So good for you and your will power for others it\u2019s way harder.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "I went from 2 packs a day to now less than half most days.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "Still if someone tried to take my cigarettes there would be problems.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "I know people that quit overnight but they only smoked a couple a day to begin with.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "The power of addiction is real not just for drugs or cigarettes and the like.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "You very well may be addicted to commenting on things with only seeing your side and making stupid comments like you are better than everyone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "I.E addiction, I\u2019m sure you can\u2019t pass up the chance to respond to this and tell me how wrong I am.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "Which would prove my point you\u2019re addiction is making stupid comments.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "says: March 31, 2020 at 1:29 pm        You are absolutely retarded.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "I have cold Turkey come off of tobacco many times when sent to jail and didn\u2019t even notice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "I have also withdrawaled off heroin many times and you feel like your body is being ripped apart from the inside.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "Can\u2019t regulate your body temp.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "Shivering while dripping sweat.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "Puking and shitting your pants at the same time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "No sleep for 2 weeks straight till you get delirious.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "You sound stupid trying to compare nicotine and opiate withdrawal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "says: May 15, 2020 at 3:26 am        Cigarettes is not an adiction , it\u201ds a habid.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "LytchZam says: March 29, 2020 at 2:10 pm        You seem upset.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "You might want to go outside for awhile.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "Just take in some clean, fresh air.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "says: March 30, 2020 at 1:08 am        Your funny I like your sense of sarcastic humor.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "says: March 29, 2020 at 10:52 pm        FO U LIBTARD ASSHOLE says: March 30, 2020 at 3:01 am        Your language is terrible god have mercy on u says: March 29, 2020 at 9:04 am        Governor Cuomo \u2013 I hope you understand the fear of facing withdrawal is greater than the fear of infecting others.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "Within 6 hours of your ban warning, almost all gas stations in the state were sold out of cigarettes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "That buys the smokers enough time to drive across state lines to get more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "The ban will endanger more lives than it will save.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "says: April 1, 2020 at 11:37 am        As a gas attendant, I\u2019m honestly more scared of how people will react and treat me if the ban goes into effect.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": "I\u2019m also a smoker and I would rather go through withdrawal myself than have customers increased rage directed at me because of this.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "Gun sales went up because everyone is thinking were in the end of days.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "Nicotine withdrawal is no joke, and people will lose their shit, but that combined with people who already take our their anger on customer service workers\u2026 I\u2019m already scared to go to work because of this virus, now I will just be all around terrified for myself and my coworkers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": "says: March 29, 2020 at 11:30 am        I\u2019m not a smoker, but I know that you cannot tell a smoker that he cannot smoke.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "Put two smokers in a closed up house without their cigarettes and there will probably be violence.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 105,
+            "sentence": "Anger comes to the fore when you cannot continue with a habit, whether it be good for you or not.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 106,
+            "sentence": "This may be well intentioned, but I don\u2019t think it will work.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 107,
+            "sentence": "says: March 29, 2020 at 4:08 pm        I am cigarette free for 1/2 year \u2013 but I must say I don\u2019t believe this is the right time for this action.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 108,
+            "sentence": "The withdrawal was horrendous \u2013 I never understood (or basically denied) the addiction \u2013 it\u2019s really no better than alcohol or drugs .. the nightmares, sweats, lack of patience is magnified \u2013 this could like you stated cause more harm than good with people living in basic isolation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 109,
+            "sentence": "I am happy I the \u201cchoice\u201d but you can\u2019t force this on people who are not ready to take the agonizing step \u2026 says: March 30, 2020 at 6:58 am        Congratulation s on your success for quitting smoking and you are right this is not the time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 110,
+            "sentence": "says: March 29, 2020 at 4:39 pm        Un-Constitutional\u2026.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 111,
+            "sentence": "This Dictator can\u2019t just go around and arbitrarily ban things\u2026 BUT, Us fools will just stand by and let him get away with whatever he wants us puppets to do\u2026 He\u2019s more concerned with grandstanding then our health and safety.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 112,
+            "sentence": "Like we need a Nanny or something\u2026 clarence herington says: March 29, 2020 at 8:09 pm        Super correct,!!!!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 113,
+            "sentence": "\ud83d\udc4d\ud83d\ude20 dj says: March 31, 2020 at 10:19 am        Non smokers have rights also!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 114,
+            "sentence": "Not to breath in the pollution you generate!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 115,
+            "sentence": "You always manage to skip over that truth when you go on your rants.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 116,
+            "sentence": "says: March 31, 2020 at 2:40 pm        If all the smokers banned together and voted as one we could vote Cuomo OUT says: March 29, 2020 at 7:46 pm        I agree its your own choice to do what you want we don\u2019t live in damn New York City I.live in a rural county were its nice and there are plenty of trees giving oxygen off around my home on my dead end road.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 117,
+            "sentence": "In the country I don\u2019t feel I should be forced by ANY.government official to do what I don\u2019t wish to do when its a legal substance .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 118,
+            "sentence": "its my damn right as an American .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 119,
+            "sentence": "says: March 29, 2020 at 8:17 pm        It\u2019s only 42 day\u2019s come on people let\u2019s all just get along and come together through this\u2026 says: March 31, 2020 at 5:53 pm        Land of liberty my butt.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 120,
+            "sentence": "It is stressful enough without worrying about this.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 121,
+            "sentence": "says: April 5, 2020 at 12:11 pm        People don\u2019t have 30% lung recovery in 2 weeks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 122,
+            "sentence": "It\u2019s an addiction.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 123,
+            "sentence": "You will make people sicker.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 124,
+            "sentence": "Those that have quit but not before they have lung disease that requires oxygen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 125,
+            "sentence": "Ventilators are a last resort.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 126,
+            "sentence": "75 % of people on ventilators don\u2019t come off which means it may extend your life a few days but won\u2019t save it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 127,
+            "sentence": "You have a Dr Zelenko who has used hydroxycloriquine, arthimycin and zinc successfully on 699 patients with covid and cured them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 128,
+            "sentence": "Your governor has banned its use until studies complete but it\u2019s approved off label and 6200 doctors worldwide endorse it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 129,
+            "sentence": "You won\u2019t hear this on you governor\u2019s briefings.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 130,
+            "sentence": "says: April 16, 2020 at 6:25 pm        Taking away more choices to no choices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 131,
+            "sentence": "I have to have to government save me.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 132,
+            "sentence": "The United States makes 12.46 billion dollars off of Tobacco and 9.99 billion off of alcohol.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 133,
+            "sentence": "Do you think 22 million unemployed people paid by EDD will last forever.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 134,
+            "sentence": "You better re-think that tank you call a brain again Communist Cuomo.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 135,
+            "sentence": "steve says: March 28, 2020 at 11:00 am        several things will happen if you ban cigarette sales for several weeks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 136,
+            "sentence": "Those that can afford to stock up,will.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 137,
+            "sentence": "You must give smokers a safer alternative to vape products, I can\u2019t imagine what would happen when you force thousands to go cold turkey.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 138,
+            "sentence": "Chaos would surely ensue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 139,
+            "sentence": "Black market will thrive with cigareets from neighboring states.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 140,
+            "sentence": "says: March 28, 2020 at 11:02 am        I\u2019m a smoker & I think that they should be banned immediately but forever.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 141,
+            "sentence": "It would save a lot lives says: March 28, 2020 at 3:50 pm        YOU are the definition of a hypocrite.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 142,
+            "sentence": "Ban yourself it you think it\u2019s such a great idea.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 143,
+            "sentence": "says: March 28, 2020 at 3:52 pm        Worry about yourself, quit if you want to.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 144,
+            "sentence": "People are allowed to make their own choices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 145,
+            "sentence": "We have severe anxiety issues and just making us quit cold turkey can have devastating results.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 146,
+            "sentence": "And y don\u2019t u make it so every county has to release the records of those who have recovered.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 147,
+            "sentence": "I know a few and most have said this virus isn\u2019t as bad as the flu!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 148,
+            "sentence": "One lives in the same town I live.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 149,
+            "sentence": "Government needs to quit scaring the Americans and start being more honest!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 150,
+            "sentence": "says: March 28, 2020 at 11:26 am        Then u can stop selling beer and licure and wine to says: March 28, 2020 at 7:40 pm        and pot says: March 28, 2020 at 8:13 pm        Those don\u2019t impair your breathing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 151,
+            "sentence": "LytchZam says: March 29, 2020 at 2:13 pm        They must have banned spelling lessons at yer skoul.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 152,
+            "sentence": "says: March 29, 2020 at 3:10 pm        Just wait, it\u2019s coming.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 153,
+            "sentence": "says: March 29, 2020 at 10:42 pm        Not my licure!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 154,
+            "sentence": "says: March 28, 2020 at 11:53 am        Democratic idiots!!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 155,
+            "sentence": "says: March 29, 2020 at 2:38 am        I agree with you 100% says: March 28, 2020 at 1:12 pm        Then you need to stop selling beer and liquor as well!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 156,
+            "sentence": "You can\u2019t just make people quit cold turkey that is redicious and causes more issues!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 157,
+            "sentence": "says: March 28, 2020 at 1:25 pm        There\u2019s already a problem with abuse because people are staying inside together \u2013 take away smoking and and then there will be more killings.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 158,
+            "sentence": "You can\u2019t just take something away that\u2019s addictive.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 159,
+            "sentence": "They really have to think through.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 160,
+            "sentence": "says: March 28, 2020 at 1:34 pm        This will lead to loss of jobs and income that far outweigh the \u201cpossible\u201d effects on health.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 161,
+            "sentence": "hundreds of businesses will close and thousands of people will lose their homes and not be able to survive.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 162,
+            "sentence": "This can\u2019t happen!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 163,
+            "sentence": "says: March 28, 2020 at 2:13 pm        Agree we are already suffering as it is, I\u2019m stressed take away cigarettes for six weeks will make me even more overwhelmed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 164,
+            "sentence": "And side effects of withdrawing from cigarettes can be deadly trying to quit cold Turkey.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 165,
+            "sentence": "says: March 28, 2020 at 2:59 pm        says: March 28, 2020 at 2:16 pm        I understand the idea behind this, but again the poor suffer because those who have the money will stock up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 166,
+            "sentence": "There r people who are severely addicted and I can see looting of stores that might still have a supply, people buying in bulk and selling them at ridiculous prices and worst of all smokers going out and picking up other people\u2019s cigarette butts and that raises the risk of infection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 167,
+            "sentence": "Fights will break out.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 168,
+            "sentence": "It will be more detrimental in my opinion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 169,
+            "sentence": "Steven woodard says: March 28, 2020 at 2:21 pm        It totally sounds like to me that the handout they are giving out is in play here by banning ciggeretts here in ny the surrounding states will rise like crazy in sales and to the tune of 4 to 5 dollers per pack of sales tax thet will put a big dent back in there pocket book.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 170,
+            "sentence": "And besides just stop lying and be honest it\u2019s not near as bad as they are proclaiming I cant imagine what would happen over this ridiculous decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 171,
+            "sentence": "says: March 28, 2020 at 10:03 pm        Ok.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 172,
+            "sentence": "So you can cigarettes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 173,
+            "sentence": "Those people that smoke.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 174,
+            "sentence": "They\u2019re still smokers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 175,
+            "sentence": "They have the lungs of smokers and would have the same risk no matter what.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 176,
+            "sentence": "Just because you ban a product doesn\u2019t mean that a person\u2019s lungs are clean.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 177,
+            "sentence": "says: March 28, 2020 at 11:22 pm        Yeah you are right it is worse!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 178,
+            "sentence": "It is insane how many people are dying the staff at the hospital can not keep up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 179,
+            "sentence": "The ambulances keep going out as soon as they come back they have to go right back out.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 180,
+            "sentence": "There is no more room anywhere.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 181,
+            "sentence": "No one gets sleep or breaks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 182,
+            "sentence": "Staying in today saves peoples lives.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 183,
+            "sentence": "Stop overwhelming the hospitals more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 184,
+            "sentence": "says: March 28, 2020 at 2:25 pm        So far Cuomo has done a remarkable job handling this outbreak but if he bans cigarette sales he will force smokers to travel & expose others.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 185,
+            "sentence": "People who smoke do not want to be forced to stop.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 186,
+            "sentence": "This would lose him a lot of supporters.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 187,
+            "sentence": "He should have worried about doing something in NYC long before he did.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 188,
+            "sentence": "Hardly a remarkable job, you\u2019re putting too much stock in listening to his daily brainwashing conferences.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 189,
+            "sentence": "says: March 28, 2020 at 3:25 pm        Fuck you cummo says: March 28, 2020 at 3:27 pm        everyone freaking out over this.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 190,
+            "sentence": "You can still make rollies calm down.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 191,
+            "sentence": "Hes banning cigarettes not tobacco.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 192,
+            "sentence": "says: March 28, 2020 at 4:28 pm        People here in North Country will just go to the Rez.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 193,
+            "sentence": "The Rez is not part of our government, therefore they cannot be made to ban cigarettes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 194,
+            "sentence": "says: March 29, 2020 at 2:35 am        The Rez is closed says: March 29, 2020 at 10:42 am        The rez is not closed!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 195,
+            "sentence": "says: March 29, 2020 at 10:47 am        THE REZ IS NOT CLOSED!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 196,
+            "sentence": "AT LEAST NOT THE ONE I LIVE ON.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 197,
+            "sentence": "I EVEN WORK IN A SMOKE SHOP!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 198,
+            "sentence": "says: March 30, 2020 at 7:11 am        Where because I think rez .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 199,
+            "sentence": "Is closed here and the only other one was leveled to the ground at 2am fighting going on.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 200,
+            "sentence": "They leveled the daycare, the school, the gas station and other buildings.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 201,
+            "sentence": "These poor people they lost their jobs and have been afraid this will happen to their homes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 202,
+            "sentence": "It is so sad.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 203,
+            "sentence": "says: March 30, 2020 at 10:16 am        Salamanca, NY Allegany Reservation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 204,
+            "sentence": "I live and work here on the Rez.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 205,
+            "sentence": "We are not closed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 206,
+            "sentence": "says: March 30, 2020 at 10:20 am        Cattaraugus Rez is not closed either.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 207,
+            "sentence": "retiredfather says: March 28, 2020 at 4:54 pm        People are stressed out enough because of quarantine, Banning cigarette sales is a ticket to mayhem.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 208,
+            "sentence": "says: March 28, 2020 at 6:04 pm        Lol.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 209,
+            "sentence": "He has a budget due April 1st.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 210,
+            "sentence": "We can\u2019t afford to turn down the tax revenue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 211,
+            "sentence": "Let the smokers continue to deal with their addiction on their own terms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 212,
+            "sentence": "And yes, been their, done that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 213,
+            "sentence": "says: March 28, 2020 at 6:56 pm        All your going to do is Force people to drive to other surrounding States to buy them \u2026 Thus spreading the Virus all over again .. People can not just Stop Smoking because someone is Waving a Magic Wand .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 214,
+            "sentence": "They are ready to Snap now being locked in their homes and not able to see Family and Friends .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 215,
+            "sentence": "Add in No Cigarettes and it\u2019s a recipe for Disaster !!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 216,
+            "sentence": "This is Not the time to try and Make NYS a Smoke Free State !",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 217,
+            "sentence": "New york sucks says: March 28, 2020 at 6:56 pm        New York is always trying to punish the smokers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 218,
+            "sentence": "How about picking on the drunks for awhile and adding a ridiculous tax to alcohol.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 219,
+            "sentence": "It\u2019s not the goverments business to tell anyone if they should smoke or not.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 220,
+            "sentence": "says: March 28, 2020 at 11:24 pm        The smokes are the ones all dying in the hospitals.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 221,
+            "sentence": "He is actually trying to save you guys.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 222,
+            "sentence": "anonymous227 says: March 29, 2020 at 10:14 am        If people want to quit, they\u2019ll do it on their own, not because the dictator tells you too.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 223,
+            "sentence": "He\u2019s not trying to save smokers, he\u2019s trying to win a nomination.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 224,
+            "sentence": "says: March 29, 2020 at 3:32 pm        You and Cuomo don\u2019t get it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 225,
+            "sentence": "Smoking damages the lungs over YEARS.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 226,
+            "sentence": "The damage is already done to a smoker.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 227,
+            "sentence": "Quitting for 6 weeks is NOT going to undo the damage.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 228,
+            "sentence": "The reason smokers are at higher risk is the damage to the lungs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 229,
+            "sentence": "says: March 29, 2020 at 10:58 pm        ANONYMOUS IS A DUMB ASS FUCKHEAD says: March 30, 2020 at 12:55 am        You are absolutely correct.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 230,
+            "sentence": "Some people are very ignorant!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 231,
+            "sentence": "says: March 28, 2020 at 8:30 pm        Replace Covid-19 deaths with murders.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 232,
+            "sentence": "Besides that there are some who have smoked their whole lives with heath issues that quitting would trigger stroke, heart attack, death.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 233,
+            "sentence": "My mother\u2019s doctor told her at this point if she quit she would die.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 234,
+            "sentence": "This \u201ccorona virus\u201d was created to scare everyone, control everyone and to make these officials look good that they are helping.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 235,
+            "sentence": "This virus is real and so many more people are dying everyday.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 236,
+            "sentence": "By staying in you are stopping the spread and saving lives.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 237,
+            "sentence": "The hospitals can not save everyone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 238,
+            "sentence": "There is no room anymore to fit everyone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 239,
+            "sentence": "You don\u2019t even have time to cry about a patient dying because you need to keep moving to try to save the next one.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 240,
+            "sentence": "It Is the worst virus I have ever seen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 241,
+            "sentence": "says: March 28, 2020 at 8:48 pm        Mr. Cuomo, stop trying to legislate morality and find something constructive to do with your time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 242,
+            "sentence": "You, like your father before you, are an idiot and it\u2019s because of you that I\u2019ll be leaving this state as soon as I retire.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 243,
+            "sentence": "says: March 28, 2020 at 11:54 pm        I think the Gov.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 244,
+            "sentence": "Using scare tactics to Coerce the public to capitulate to his edicts is not a good job.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 245,
+            "sentence": "He is a governor, not a king.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 246,
+            "sentence": "He doesn\u2019t or shouldn\u2019t have the right to make so many restrictive measures.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 247,
+            "sentence": "Due to the virus, events over 500 people cut in half, gave that a day, not good enough, venues had to cut capacity to 50%.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 248,
+            "sentence": "That was given a few days, but too many people were still out ( even though they were within the 1/2 capacity) the big boys pouted\u2026 close restaurants and bars to seating, workforce\u2026 50%, 8 hrs later> not good enough\u2026.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 249,
+            "sentence": "8 hrs later> 100%\u2026.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 250,
+            "sentence": "essential only and everyone get on your high horse and report whoever You THINK is not complying.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 251,
+            "sentence": "Now we still need to make ourselves look like we\u2019re saving the world\u2026 no cigarettes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 252,
+            "sentence": "Like ALL rushed legislation, filled with flaws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 253,
+            "sentence": "Many people need to smoke, i.e.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 254,
+            "sentence": "some mental health patients, like schizophrenics are calmed by nicotine , some people are addicted and will not be able to just quit because \u201cking cuomo\u201d makes another edict.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 255,
+            "sentence": "No offense to people with the disease , but 728 people out of 20,000,000 in our state is .00364% of the population.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 256,
+            "sentence": "That is ~630 a week, pretty close numbers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 257,
+            "sentence": "There are a myriad of different ways for people to die, YES there should be some measures in place to protect the spread, but some of the ones in place are too much!!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 258,
+            "sentence": "You cannot and should not regulate how people choose to live their lives.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 259,
+            "sentence": "\u201cThose who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety.~ Ben Franklin.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 260,
+            "sentence": "says: March 30, 2020 at 7:00 am        Would love to talk to you about other issues as well.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 261,
+            "sentence": "You are right on the money.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 262,
+            "sentence": "says: March 29, 2020 at 3:46 am        Then we will see a lot of Crazy going on !!!!!!!!!!!!!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 263,
+            "sentence": "says: March 29, 2020 at 9:32 am        Maybe if he did not put all that money in for immigration he.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 264,
+            "sentence": "The smokers lungs are already compromised from smoking and to stop selling tobacco for 6 weeks is not gonna help and a person who smokes will have withdrawls from nicotine I truly understand both sides but this could cause more problems then it should says: March 29, 2020 at 11:57 am        It\u2019s our choice if we want to smoke, the last time I checked I\u2019m free.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 265,
+            "sentence": "I\u2019m not a criminal and even if I was it\u2019s still my right.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 266,
+            "sentence": "A smokers lungs begin to improve immediately upon quitting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 267,
+            "sentence": "The ban won\u2019t work, for we live in a free country where people can, unfortunately, make unhealthy decisions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 268,
+            "sentence": "But the theory is correct that the smokers would have healthier lungs and less need for ventilators should they become sick.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 269,
+            "sentence": "says: March 29, 2020 at 1:57 pm        I work in the hospital\u2026 so many people saying \u201coh it\u2019s the smokers who are dieing,\u201d yes they are along with the diabetics not controlling thier insulin, the alcoholics withdrawing, the suicidals, the over doses etc.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 270,
+            "sentence": "Taking away cigarettes isnt going to decrease death rates it might actually increase because alot of people will get stressed possibly suicidal, they may convert to other drugs resulting in od, or violence against others could lead to murder.. says: March 29, 2020 at 2:11 pm        Right..",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 271,
+            "sentence": "Lets tell everyone go home then stop working then we\u2019ll add ur kids then we\u2019ll take away ability to escape n access to boos or friends n then now lets rid smoking too.. For those of us single moms who do not drink and have to now home teach need to escape outside to smoke now n then just for ourselves.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 272,
+            "sentence": "I understnd their reasons n numbers are horrible but really ?!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 273,
+            "sentence": "Next will be the ban to our house with spouses and kids and no reprieve\u2026 They hurting themselves now they have no casinos or bars being able to generate income but i feel like the lawyers etc in the world n police will all of a sudden be more predominant.. Lol shawn says: March 29, 2020 at 2:32 pm        I am sorry for one new York keeps trying to push out smokers first of if you look at it from any end the us is lower in smoking the China we have more case then they do but I am sorry to say that cigarettes aren\u2019t the cause and they aren\u2019t the answer to stopping the spread.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 274,
+            "sentence": "What happened to our rights as individuals don\u2019t we have a say its just like our Religion we can\u2019t say everyone\u2019s going to be the religion if i see someone smoking thats their choice if i see a fat person only eating all the time at a fast food place their choice if you are always a the gym your choice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 275,
+            "sentence": "Quitting smoking cold turkey is not like quitting drinking, you will not die from it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 276,
+            "sentence": "Some people absolutely need to be told what\u2019s best for them, look at how many idiots never wore a seat belt until it was the law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 277,
+            "sentence": "Even now some people still don\u2019t, but I just consider that Darwin\u2019s Law \u2026Good riddance.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 278,
+            "sentence": "says: March 29, 2020 at 3:54 pm        He needs to take care of the real problem and leave ppl alone says: March 29, 2020 at 4:34 pm        Lawsuit people..the rights of the people shall not be infringed upon.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 279,
+            "sentence": "says: March 29, 2020 at 6:24 pm        It\u2019s not a right to smoke.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 280,
+            "sentence": "There have been multiple federal court cases ruling that it is not a right but a privilege .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 281,
+            "sentence": "says: March 29, 2020 at 5:08 pm        awkasne reservation in upstate ny is open, just bought 6 cartons for the wife and I how ever not sure if they can be forced to stop sales but they could still shut down on there own terms unrelated to the ban, so stock up on cigs regardless asap.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 282,
+            "sentence": "and stock up on other items as well .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 283,
+            "sentence": "covid 19 may not be as bad as we are told or it may feel that way to some but i think personaly Its much worse I think the government is hiding something tho many have hardly no symptoms but the spread is ferocious and its hard to say who will get severe symptoms I feel the virus is already effecting millions we just haven\u2019t been tested basically no one has been on a scale of things but out of the ones who have it seems a third is positive but what actually are they hiding what is there agenda the virus might be just a scape goat or a cover story or a reason to convince the public to stay inside and isolate people a reason to lock down states shut business down and might be leading to them taking more rights away who knows maybe marshal law is around the corner or theres a hidden war taking place between nations and we are all facing the blow back says: March 29, 2020 at 5:39 pm        Go to the reservations near you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 284,
+            "sentence": "He can\u2019t ban them there.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 285,
+            "sentence": "says: March 29, 2020 at 6:22 pm        Just so you all know, there have been federal court rulings that smoking is not your right but a privilege !",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 286,
+            "sentence": "People already have lung damage wether if its thru smoking or inhaling air oustide or cancer etc.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 287,
+            "sentence": "\u2026..u cant ban personal freedoms of people\u2026ventilators will be there\u2026your gonna need more regardless if u ban cigs or not\u2026im a nurse\u2026just like going outside the risk is there ur gonna be killed by a car..but its still your choice to go outside..we dont need to go down the path of choosing for others what they do..its personal freedom..dont go down that path gov cuomo\u2026 says: March 29, 2020 at 8:24 pm        What happen to be a free country I\u2019m sure the ones who vote for 5his don\u2019t smoke.if people kept home other than going to the shop for food.and shelfs are all ways clean off Give mask and gloves .when there putting food on shelfs wear gloves and a mask around servinhg food.so much for American people of being free It stress full anofe what this covid What next how much food you can buy says: March 29, 2020 at 9:49 pm        I smoke but I totally agree save our people that\u2019s what hes thinking about fuck how you feel says: March 29, 2020 at 9:59 pm        Totally disagree\u2026 cigarette smoking caused so much health related problems before this situation, so why ban cigarettes now all of a sudden?\u2026 It\u2019s synonymous to banning people from intercourse because if the health risks and the shortage of condoms\u2026By the way, this is your indirect fault for not implementing better preventative measures of the potential of a health crisis at our airports, by simply checking body temperatures for indications of infection, Governor Cuomo\u2026.and President Trump\u2026maybe if we had sent our doctors and scientists to help China\u2019s initial outbreaks back in November, then we would have gathered scientific data from before it ever reached the USA, but of course politics block the global comradinism that is needed to protect the little human beings everywhere\u2026.Politics vs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 288,
+            "sentence": "says: March 29, 2020 at 11:05 pm        Last time I checked it with our own decision to make if we want to smoke where not to smoke last time I checked the governor didn\u2019t make that decision to destroy our lungs says: March 30, 2020 at 3:07 am        I can see from the comments people are addicted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 289,
+            "sentence": "An addict is an addict no matter the substance.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 290,
+            "sentence": "In case some of you were not aware smoking is bad for your health.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 291,
+            "sentence": "That\u2019s fine!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 292,
+            "sentence": "Let\u2019s be logical though, if you continue to smoke, get covid19, and end up requiring a ventilator, smokers should be last in line.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 293,
+            "sentence": "Be better off just breaking that weak addiction.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 294,
+            "sentence": "says: March 30, 2020 at 8:35 am        people r already stressed out\u2026they need their cigarettes\u2026.leave them alone..if they die\u2026they die\u2026their choice says: March 30, 2020 at 9:55 am        I\u2019m sick of the government telling me how to life my life says: March 30, 2020 at 10:43 am        I honestly think this is bulshit to think you(cuomo) have the right to forcibly make people quit smoking all because its hand to mouth well guess what so is eating drinking brushing your teeth washing your face, so in reality all your actually doing is making people go through withdrawals, and I bet this idea of your is going to end up causing riots.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 295,
+            "sentence": "says: March 30, 2020 at 11:42 am        If you want mass mayhem this is how you do it , idiot.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 296,
+            "sentence": "says: March 30, 2020 at 11:58 am        hopefully they plan on providing nicotine patches or something, people are not going to handle this very well.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 297,
+            "sentence": "I\u2019d be very surprised it it actually goes through, but stranger things have happened.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 298,
+            "sentence": "says: March 30, 2020 at 12:35 pm        The governor has to leave the prisoners down there we don\u2019t want them here more so now than ever says: March 31, 2020 at 2:37 am        It\u2019s interesting how many people complain this is an effort to make them quit smoking, or to force you to change how you die.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 299,
+            "sentence": "The point is, if you are hospitalized with a ventilator, you\u2019re using it up for someone else.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 300,
+            "sentence": "Get it from something that doesn\u2019t combust.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 301,
+            "sentence": "says: March 31, 2020 at 11:41 am        Once again fuck Cuomo says: March 31, 2020 at 3:57 pm        Maybe Cuomo could give up his Cocane addiction.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 302,
+            "sentence": "If anything stop the citiots from going upstate and infecting all of our counties.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 303,
+            "sentence": "Those fucks are too entitled to quarantine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 304,
+            "sentence": "says: March 31, 2020 at 5:55 pm        If this happens how are people going to get past the withdrawal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 305,
+            "sentence": "Oh yea we cant get near a hospital.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 306,
+            "sentence": "And i sapose he is putting a ban on Alcohol too.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 307,
+            "sentence": "says: March 31, 2020 at 8:01 pm        I don\u2019t think many read the article.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 308,
+            "sentence": "It\u2019s not to take away someone\u2019s Rights or Liberties.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 309,
+            "sentence": "This is to slow the death rate and to prevent the over usage of ventilators.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 310,
+            "sentence": "Only in America that a person still wants their rights at the deaths of others.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 311,
+            "sentence": "Can we just come together and follow the one direction we all (Rich or Poor, Fortunate or Not) need to march towards for we can see this infection decrease.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 312,
+            "sentence": "But if we continue to be selfish, we all perish!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 313,
+            "sentence": "says: April 1, 2020 at 11:43 am        I\u2019m a smoker, and want to quit myself, pretty seriously.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 314,
+            "sentence": "On one hand, I would be okay with this as it would force me to quit, and I see the merit behind temp banning for the greater good.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 315,
+            "sentence": "In a perfect world, sure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 316,
+            "sentence": "But this isn\u2019t a perfect world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 317,
+            "sentence": "A large majority of people are mentally ill or have severe anger issues.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 318,
+            "sentence": "Take away their cigarettes, one of the symptoms of withdrawal are increased levels of anxiety aggression and irritability.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 319,
+            "sentence": "Imagine these essential workers at gas stations and grocery stores that used to sell tobacco that can\u2019t anymore\u2026 The violence and harassment that they could face because unstable people went out and bought a weapon, but then had their only source of stress release taken from them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 320,
+            "sentence": "People already disrespect customer service associates and speak to them as if all these policy changes are their choice or anything they can change.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 321,
+            "sentence": "Just look at half of these comments on this article talking about the DISCUSSION of taking away tobacco.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 322,
+            "sentence": "I\u2019m just so scared for the state of the world, and the people in it who have no voice, and nothing to do with the changes that are happening but have to work to get by.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 323,
+            "sentence": "We\u2019re all facing the same challenges, and the same risks, but we\u2019re all thinking of ourselves instead of our fellow human being.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 324,
+            "sentence": "It just makes me sad.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 325,
+            "sentence": "says: April 1, 2020 at 1:48 pm        Well I am a smoker and I dont think it is a good idea to ban the cigarettes or any thing that is related to that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 326,
+            "sentence": "I myself look forward to every morning for my cigarette and coffee.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 327,
+            "sentence": "I have been smoking for a very long time and I believe that Cuomo just needs to get his head out of his ass and realize that the only reason why he is doing this is because nobody with give him all the ventilators that he wants so now he has to punish the US because shit isn\u2019t going his way.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 328,
+            "sentence": "Anonymous 1 says: April 1, 2020 at 2:57 pm        Syracuse NY rez is CLOSED\u2026..Has been for weeks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 329,
+            "sentence": "If you need to stock up closest one is Buffalo NY.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 330,
+            "sentence": "I\u2019m not a smoker personally but my hubby is.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 331,
+            "sentence": "I would hate to see him go through withdrawl.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 332,
+            "sentence": "He gets bad anxiety if he doesn\u2019t have them for a few days.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 333,
+            "sentence": "And being that we have to shelter-in-place, it will only make it worse.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 334,
+            "sentence": "My county is actually fining people $250 for not adhering to the social distancing, not having paperwork for work purposes or not having a reason to be out.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 335,
+            "sentence": "Unfortunately for addicts you cannot force them to quit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 336,
+            "sentence": "It only works when THEY are ready.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 337,
+            "sentence": "says: April 1, 2020 at 3:18 pm        I agree I have a lot of anxiety and other mental issues.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 338,
+            "sentence": "The smoking thing calms me down and I just dont think it is a good idea to take something away from a lot people that have been doing it for a very long time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 339,
+            "sentence": "I believe that if Cuomo wants to banned anything it shouldn\u2019t be tobacco products.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 340,
+            "sentence": "He should understand that people across the US have a lot of health issues and the majority of it doesn\u2019t just have to do with tobacco use.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 341,
+            "sentence": "It has to do with drugs and alcohol.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 342,
+            "sentence": "So he should probably try to do the statistics on it again.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 343,
+            "sentence": "I know the rez out this way is still opened for now so hopefully I can get some before they close down for awhile.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 344,
+            "sentence": "says: October 25, 2020 at 5:18 pm        I know this article is old, but I welcome any opportunity to call Cuomo the f**king moron that he is.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 345,
+            "sentence": "Cancel reply Mohammad bin Salman is considering a $50m, 10% stake in The Chronicle to expand Canadian coverage          November 22, 2020 Rep. Sharice Davids is being vetted for Secretary of Agriculture \u2014 would be first gay cabinet nominee          November 21, 2020 New York\u2019s rising COVID curve casts doubt on Cuomo\u2019s \u2018micro-cluster\u2019 strategy          November 20, 2020 Roger Stone: Trump needs five Democrat votes to be elected Speaker of the House          November 19, 2020 November 19, 2020 Search for: Post was not sent - check your email addresses!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 346,
+            "sentence": "Email check failed, please try again    Sorry, your blog cannot share posts by email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

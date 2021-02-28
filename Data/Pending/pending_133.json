@@ -1,0 +1,641 @@
+{
+    "document_id": -1,
+    "url": "https://helenair.com/opinion/columnists/secure-permanent-nationwide-protections-for-the-open-internet/article_e083a4dc-aaa9-587c-ad07-3494d5a2a92c.html",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "KEV HAMM",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:43:04.574208+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": " Saved items COVID-19 406 Politics Share a story Submit a letter TV Listings E-edition Today's Deal Newsletter sign-up Contact us YouTube .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Saved items COVID-19 WhatsApp SMS Secure permanent, nationwide protections for the open internet 0 comments  Share this WhatsApp SMS GUEST VIEW Secure permanent, nationwide protections for the open internet KEV HAMM  Mar 31, 2020 Mar 31, 2020 0 × You have run out of free articles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "You can support our newsroom by joining at our lowest rate!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Log in or Activate your account .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Loading&hellp; {{title}} {{start_at_rate}} {{format_dollars}} {{start_price}} {{format_cents}} {{term}} {{promotional_format_dollars}}{{promotional_price}}{{promotional_format_cents}} {{term}} {{html}} {{action_button}} Thanks for being a subscriber.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Sorry, your subscription does not include this content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Please call 800-523-2272 to upgrade your subscription.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "× Register for more free articles Stay logged in to skip the surveys Log in Sign up {{featured_button_text}} {{featured_button_text}} WhatsApp SMS The free flow of information is the ultimate equalizer, and it’s a value as American as motherhood and apple pie.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "While the internet brings us more than its fair share of misinformation, the cure for this is more and better information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "That’s why protecting an open internet is so crucial.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Big broadband providers and Big Tech gatekeepers should not have the ability to manipulate how we get our information online in order to fatten their profits by blocking competitors or driving consumers to their favored products and services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Protecting consumers through smart legislation is the only way to achieve this.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "I am the COO of a small ISP in Helena, Montana, and my business partners and I vocally opposed the Federal Communications Commission’s (FCC’s) attempts to remove net neutrality in 2017.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "We continue to fight for keeping and open and unrestricted internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "In 2018, we were one of only a handful of ISPs who supported Gov.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Bullock’s executive order making net neutrality a requirement of contracting with the state of Montana.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "We appreciate his leadership on this issue and continue to be amazed at the shortsightedness of critics who fight against common-sense regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "But this approach – a patchwork quilt, state-by-state mishmash of various requirements and sometimes weird conflicts, isn’t helpful either.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "It’s pretty easy for our company to comply for now, as we only serve customers in Montana – but that won’t be the case forever, and there are other small ISPs who cross state lines and are faced with competing regulations that make it harder to serve customers well.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "It’s not efficient, and it’s just plain stupid.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Without net neutrality protections, consumers risk being forced to pay additional fees for services like streaming (on top of the fees the streaming services charge) or social media (on top of being the product for those companies) and many other sites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Imagine being told that you can’t go to the website for your local bookstore because Amazon worked a deal with Verizon or Google to drive all the book site requests to Amazon’s online store.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Net neutrality prevents this from happening, and it’s why we need a nationwide law, today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "For more than a decade, progressives have led the fight in D.C. for net neutrality rules from the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Instead, we’ve gotten the usual Beltway two-step: every step-forward effort has been followed by a loss in the courts or a reversal by a successive Republican administration.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Last October, a federal court affirmed the FCC’s most recent repeal of open internet rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "This continued fight – with a win here and a loss there – is good business for lobbyists, but it’s exhausting and ridiculous for the rest of us.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "The only way to permanently protect the open internet for all Americans is through bipartisan legislation.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "House Democrats passed a bill last year to do this, but of course, it stalled in the Senate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "That bill definitely gave very strong protections to consumers, which is needed – but it also reclassified broadband providers under the rules and regulations of 1930s telephone laws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "And let’s be clear – your internet is not the same as your great-grandfather’s phone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "This well-intentioned but not well-thought-out approach means that even our company, a tiny ISP that upholds net neutrality and is just trying to provide our customers great internet service, would face significant new hurdles before we could offer new services or change our network management technologies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "We would face a massive pile of new reporting, red tape, and money to lawyers and consultants, all of which diverts us from expanding into new areas and serving more customers, which is a negative all around.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "That bill is basically a case study in unintended consequences combined with overzealous advocacy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "The current situation is that net neutrality is caught in the valley of death between the two political parties.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The conservatives claim that any regulation will impede business, while the progressives see the need for a bill but have embraced an approach that is dead on arrival in the Senate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "In the end, consumers are the ones who lose, because we don’t have these protections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "It’s time for members of both parties, in both the House and the Senate, to put down their battle-axes and instead start hammering out a new piece of legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Democrats must insist on clear, enforceable rules against the blocking, throttling or preferences to any and all internet traffic by ISPs, Big Tech giants, or any other entity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "And so long as this is included, they should be pragmatic enough to get it passed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Protecting net neutrality should be the law of the land.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Most importantly, it can be passed and enforced as its own thing, without the ridiculous rules and regulations developed for telephones and railroads in the early part of the last century.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "In fact, majorities on both sides support this – it’s just the foolish posturing and purity tests that are blocking a solution.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Montana has a long legacy of leading on issues like this, and our senators, Jon Tester and Steve Daines, have an opportunity to offer bipartisan leadership.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Our senators should work to break the gridlock and finally secure permanent, nationwide protections for the open internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Kev Hamm is the chief operating officer for Treasure State Internet and Telegraph in Helena.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Provided photo  0 comments  2 4 0 0 1 Catch the latest in Opinion Get opinion pieces, letters and editorials sent directly to your inbox weekly!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "* I understand and agree that registration on or use of this site constitutes agreement to its user agreement and privacy policy .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Related to this story A responsible path to reopening Apr 26, 2020 Over the past several weeks, Montanans have faced unprecedented challenges.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Our way of life has changed rapidly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Like every corner of our coun… It's too early to loosen pandemic restrictions in Montana Apr 28, 2020 Vicky Byrd is the CEO of the Montana Nurses Association.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Gianforte will get state government working again Apr 24, 2020 For 16 years Helena Democrats have controlled our state with many state agencies having little if any accountability.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Recent examples of overr… Constitution permits government response in times of crisis Apr 28, 2020 I'm a skeptic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "I always have been.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "I think a healthy dose of skepticism is incredibly valuable and that we should oversee our government.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Thro… Vigilance is key in the fight against COVID-19 Apr 24, 2020 As we take steps to reopen businesses and services in our community, we must remember the important responsibility we have to protect one anot… Rep. Dunwell endorses Cooney for governor Apr 29, 2020 I remember meeting Mike Cooney for the first time back in 2013.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "I was knocking doors to meet folks early in my first campaign for Legislature.… Apr 27, 2020 I’ve had the honor of working with both Lt. Gov.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Mike Cooney, who is running for governor, and Casey Schreiner, his running mate, when I serve… Former state Sen. Balyeat: I tested positive for COVID-19 Apr 19, 2020 I tested COVID-19 positive last week, after 10 days’ symptoms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "My family completely isolated ourselves for more than a month after several mem… Highly recommend Chris Noel for school board Apr 28, 2020 My name is Chris Riccardo and I am the executive director of the Holter Museum of Art.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "I am writing this letter of recommendation on behalf of… Remember local nonprofits during Greater Helena Gives event Apr 29, 2020 While this is undeniably a strange and incredibly challenging time for all of us in the Helena community, we are all standing and putting one … Provided photo  WhatsApp SMS YouTube 20 Under 40 e-Edition Work here , 2222 Washington St. Helena, MT .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "Powered by from TownNews.com .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "{{title}} {{summary}} You don't have any notifications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Get up-to-the-minute news sent straight to your device.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

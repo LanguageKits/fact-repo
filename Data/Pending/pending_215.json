@@ -1,0 +1,401 @@
+{
+    "document_id": -1,
+    "url": "https://www.amnestyusa.org/net-neutrality-save-the-internet-from-corporate-censorship/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Sarah Aird",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:32:00.519946+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Amnesty International activists know how important the Internet is for sharing news, information, and strategy about human rights abuses around the world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "From satellite images of Darfur to Amnesty reports documenting Shell Oil’s involvement in human rights abuses in the Niger Delta, from correspondence among Amnesty’s country specialists to online urgent actions in support of Aung Sun Suu Kyi, the Internet is critical to our work.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "But today, the Internet as we know it is at risk .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "In the last 15 years the Internet has become the most democratic communications tool ever created.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "In the United States, the Internet is an open network, meaning no company or government body has centralized control over the free flow of information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Yet today we’re facing what has the potential to become one of the greatest threats to the work of nongovernmental organizations (NGOs) like Amnesty International and to free speech and democracy in this country – corporate control of the Web.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "From its creation, the Internet in the United States operated under the principle of , which guarantees that all sources of data are treated equally, whether the content comes from FOX News or Amnesty International.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Foreign and domestic sites, big corporate home pages and low-traffic blogs are all equally accessible to the Internet user.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "This has ensured that activists and NGOs of all shapes and sizes are able to bring important stories to light and help shape the political agenda.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "For years, large Internet and telecommunications companies have sought to dominate the Internet, and since 2002 they’ve had growing success in reversing Internet nondiscrimination principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "They would like to see a tiered Internet in which some content providers pay a toll to speed delivery of their data, at the expense of others’ (“paid prioritization”).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Since not all content providers will be able to pay such a toll, the result will be a super access highway for websites of large corporations and the wealthy and a winding dirt road for others .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Major news outlets will, for example, be able to pay the toll; visitors to their site will not experience delays or access difficulties.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "In addition to discriminatory tolls for content providers, the tiered system will also require Internet users to pay additional fees.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The Internet is likely to look more like cable TV with network owners charging fees for specific packages of services and applications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Under this tiered system, network owners would determine not only which Websites go fast or slow but also what content is available to users according to the pre-determined packages they offer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "A tiered Internet discriminates against low-income households who cannot pay for better access to the Internet and will result in increased economic stratification.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "It also risks undermining political discourse in the United States, as the same media conglomerates that dominate TV, radio, and cable consolidate control over Internet content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Reports of corporate Internet censorship abound.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "According to news reports and testimony from a 2008 hearing on “Net Neutrality and Free Speech on the Internet” before the Task Force on Competition Policy and Antitrust Laws of the House Committee on the Judiciary, in 2007, Verizon Wireless prevented NARAL ProChoice America supporters from receiving text messages they had requested from the pro-choice organization.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "In response to public outcry, Verizon asserted it would not service programs from any group “that seeks to promote an agenda or distribute content that, in [Verizon’s] discretion, may be seen as controversial or unsavory.” That same year, AT&T is alleged to have muted the sound during a Webcast of a Pearl Jam concert at the moment lead singer Eddie Vedder made critical comments regarding George W. Bush.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "According to the 2008 testimony before the Judiciary Committee, both AT&T and Verizon attempted to change their Terms of Agreements to give the companies a right to terminate a customer’s DSL service for any activity they consider “damaging” to the telecom’s reputation, or that of its parents, affiliates, or subsidiaries.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "BellSouth reportedly blocked customers in Tennessee and Florida from accessing MySpace and YouTube.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "These are only a few of the reported instances of corporate censorship on the Internet, and without Net Neutrality, it will only get worse.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "After months of public pressure, Federal Communications Commission (FCC) Chairman Julius Genachowski is finally convening the Commission to consider the question of Net Neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "On December 1, Chairman Genachowski announced circulation of a draft Net Neutrality order to be voted on by FCC Commissioners at a hearing scheduled for Tuesday, December 21 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Activists concerned about Net Neutrality have sounded the alarm that the draft order under consideration doesn’t reflect acceptable standards of Net Neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "The circulated draft order provides few Net Neutrality protections, especially for wireless Internet users; permits “paid prioritization” schemes; and fails to reclassify broadband Internet from an “information service” to a “telecommunications service,” which would give the FCC the strongest legal authority to institute Net Neutrality principles for both wired and wireless Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "During his campaign, President Obama declared he would “take a back seat to no one” in support of Net Neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "It’s time to ask President Obama to back up that statement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Concerned readers can join activists throughout the United States who will be calling on the White House to take a stand today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "and ask for President Obama’s Chief Technology Officer Aneesh Chopra.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Explain how important it is that the FCC adopt strong Net Neutrality rules and urge President Obama to ask Chairman Genachowski to reclassify broadband Internet as a Title II “telecommunications service” to ensure that the FCC has the authority to protect against content discrimination and other forms of internet censorship.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Learn more about the importance of .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Sarah Aird is an attorney currently working as State Field Campaigner/Organizer for the 185-member coalition Californians for Pesticide Reform.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "She is also a current member of Amnesty International USA’s Board of Directors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "COVID-19 CRISIS: YOUR GIFT MATCHED DONATE X2 JOIN OUR MOVEMENT Fight injustice and help create a world where human rights are enjoyed by all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "SIGN UP TO TAKE ACTION FAQ We use cookies to ensure that we give you the best experience on our website.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "If you continue to use this site we will assume that you are happy with it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

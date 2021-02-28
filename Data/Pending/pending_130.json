@@ -1,0 +1,581 @@
+{
+    "document_id": -1,
+    "url": "https://www.opendemocracy.net/en/internet-equality-in-question-again-perspectives-on-net-neutrality/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Matthew Linares",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:42:56.748335+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "The coronavirus crisis affects us all Help us hold our leaders to account and plan for a future beyond lockdown.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Internet equality in question again: perspectives on Net Neutrality As the US regulator seeks to erase Net Neutrality, we ask a number of commentators to share their views on this momentous decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "12 December 2017  Share this URL copied to clipboard Read more!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Net Neutrality is the principle that Internet Service Providers (ISP) should not decide what content web users get when they connect to the internet – if I pay for internet bandwidth then decide to visit YouTube or a personal blog or openDemocracy, then I get to see whichever of those sites I request, so long as I haven’t run out of my agreed bandwidth allowance.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Its proponents say that it is what allows web users to see all web sites at the same speed – no site gets to pay an ISP to load preferentially on the web, which would be a major advantage.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "It’s what makes any site, big or small, rich or poor, accessible to all – it’s what lets good sites and good ideas rise up no matter who runs them, they say.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The US regulator in charge of enforcing Net Neutrality regulations is pushing to dismantle legal protections for it with a vote this Thursday 14th of December.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Civil society organisations are fiercely opposing it .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "If the US makes this change, a serious precedent will be set to reverse Net Neutrality globally and the open web could change for good.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "We sought a few perspectives, for and against, on this critical issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "“Net Neutrality is once again under attack.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Ajit Pai, Chairman of the FCC, has announced his plan to “restore internet freedom” which is, as it turns out is not your freedom as a consumer to use the bandwidth you have purchased as you see fit, but rather the freedom of your ISP to charge you for whatever it wants to.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "“So if you don’t want to wind up with the Portugal situation from above, go ahead and call Congress.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Thankfully the website Battle for the Net makes this super easy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Do it !” , Technology writer and investor This infographic shows how commercial providers might break down internet packages without Net Neutrality protections to stop them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "“Net neutrality was attractive in the early web because we knew back then the damage to creativity that market power could confer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "We had seen Microsoft stifle the PC market through its operating system stranglehold, some of us had experience of the supplier barriers to entry on the otherwise brilliant and pioneering Minitel.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "We hated Compuserve and its walled garden.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The open, free internet, with the ethos that is so brilliantly captured by Jonathan Zittrain in \"The Future of the Internet and How to Stop It\", was a delicate flower trying to burst forth.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "We could see that the telecoms companies - slow, statist, unimaginative, captured by securocrats, hooked on fixed rates of return - would trample that flower bed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "“So Net Neutrality was the nitrogen fix that our efflorescence needed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The Internet - not just the Web ... Usenet, Email, Gopher were all part of it - before the first dotcom boom was an ecosystem that produced a wonder of diversity and invention, and no doubt network operators would have nipped every promising plant in the bud.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "When Web2.0 started to emerge out of the dot com boom, enthusiasts tended to think that this would be the same wondrous jungle, but with better graphics and smoother load-times.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "“But the snake had entered the garden in the form of the advertising based revenue model and the hoovering of all data for ad-targeting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "We had protected the early web from monopolists who could control data only to hand it over to data-controllers who thereby became monopolists.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "The efflorescence has now gone, replaced by the monotony of AI-grown knot-weed whose fertiliser is attention.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "So Net Neutrality was an important and liberating anti-monopoly tool in the growth of the web; but it allowed us to take our eye off its purpose - to limit control by any large corporate interests - and to focus on what was merely a historically contingent means to it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "“The problem today is not packet-discrimination by network operators; it is granular attention-discrimination by out-of-control advertising fuelled behemoths.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "And in fact, we can regulate network operators much more readily than the now all-too-powerful data monopolists ... so it could be that we should think about a policy combination which involves an abandonment of net neutrality; public control over the networks; and packet-discrimination policy operated for the public good.” Anton Kurz is a London-based policy wonk “Net neutrality echoes engineering arguments about network design that took place in the 1980s.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Most engineers came to realize that modern networks need flexibility to support diverse applications, so the losing side turned to the legal/policy community to force its preferences on ISPs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "“The public, largely oblivious to the technical costs neutrality imposes on innovation, incorrectly sees Title II as a protector of free speech.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Our experience of the Internet shows that its major problems come from advertising-supported platforms such as Twitter and Facebook that censor speech and reward trolls.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Net neutrality doesn’t solve any real problems.” Supporters of net neutrality protest outside a Federal Building in Los Angeles, California on November 28, 2017.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "The activists gathered in protest of the Federal Communications Commission Chairman, Ajit Pai’s, plan to repeal the Obama era net neutrality regulations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "“There’s roughly 6,000 internet and telecommunications providers in Ukraine.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "But national legislation does not in any way directly regulate net neutrality, and domestic providers of internet services operate as they see fit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Several of them directly violate the principle of net neutrality: for instance, for several years in a row Ukrainian mobile operators have offered tariff plans whereby users do not have to pay for social network traffic or streaming services (or if they do, then at a reduced rate).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "This gives the advantage to the big services — Facebook, Twitter, Youtube.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "One important detail: until recently, Russian internet companies were also part of this group, but in May 2017 the authorities blocked the Russian social networks VKontakte, Odnoklassniki, the Yandex search engine and email service Mail.ru.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Access to these online resources is now blocked at the provider level.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "So now we can say that Facebook has strengthened its monopoly, having become the main social media provider for Ukrainian internet providers.” Vitalii Atanasov, Ukrainian journalist and administrator of a Telegram channel on digital capitalism.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "“The Internet was born neutral and therefore open, non-discriminatory, diverse and free.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Net neutrality is essential to guarantee that everyone has the freedom to choose what information seeks, receives and imparts on the Internet and that everyone has access to the same opportunities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "The neutral digital ecosystem, where everyone is able to innovate without asking for permission, has grown to become what it is today thanks to that fundamental principle.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Tenants falling behind on rent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Migrants unable to claim benefits.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Families already in debt.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Low-paid workers facing pay cuts or job losses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "The UK government has promised help for some – but millions more still have little or safety net.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Coronavirus has exposed the inadequacy of the UK benefits system, with the most vulnerable hit hardest by the pandemic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Join us at 5pm BST/6pm CET.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "All articles by: All articles by: Published in: Net neutrality at a crossroads: why India’s policy process has important lessons for the US  All articles by: Published in: The future of US net neutrality under Trump  All articles by: Published in: digitaLiberties The billionaire, big data and net neutrality: Facebook and democracy in India  All articles by: Published in: openDemocracyUK Big media and big money in 2017 - from Disney/Murdoch to Net Neutrality  All articles by: Published in: digitaLiberties Internet equality is about to get Trumped – let’s build a wall to defend it  All articles by: Published in: digitaLiberties Why you should know about Germany's new surveillance law  All articles by: Published in: digitaLiberties Breaking ideological gridlock from the bottom up  All articles by: We encourage anyone to comment, please consult the oD commenting guidelines if you have any questions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Please enable JavaScript to view the comments powered by Disqus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Net neutrality Media & communications This article is published under a Creative Commons Attribution-NonCommercial 4.0 International licence .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "If you have any queries about republishing please contact us .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Please check individual images for licensing details.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "All our projects Write for us Privacy notice Log in",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

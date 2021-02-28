@@ -1,0 +1,581 @@
+{
+    "document_id": -1,
+    "url": "https://www.nytimes.com/2018/06/11/technology/net-neutrality-repeal.html",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Keith Collins",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:37:34.678898+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "SEARCH Skip to content Skip to site index Today’s Paper .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Ajit Pai, the chairman of the Federal Communications Commission, has long opposed net neutrality regulations, saying they impeded innovation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "June 11, 2018 It’s official.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The Federal Communications Commission’s repeal of net neutrality rules, which had required internet service providers to offer equal access to all web content, took effect on Monday.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The rules, enacted by the administration of President Barack Obama in 2015, prohibited internet providers from charging more for certain content or from giving preferential treatment to certain websites.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "After the commission voted to repeal the rules in December, it faced a public outcry, legal challenges from state attorneys general and public interest groups, and a push by Democratic lawmakers to overturn the decision .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The opponents argued that the repeal would open the door for service providers to censor content online or charge additional fees for better service — something that could hurt small companies — and several states have taken steps to impose the rules on a local level.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Still, the repeal was a big win for Ajit Pai, the F.C.C.’s chairman, who has long opposed the regulations, saying they impeded innovation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "He once said they were based on “hypothetical harms and hysterical prophecies of doom.” In an op-ed column published on CNET Monday, Mr. Pai argued that the repeal was good for consumers because it restored the Federal Trade Commission’s authority over internet service providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "“In 2015, the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "— the nation’s premier consumer protection agency — of its authority over internet service providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "This was a loss for consumers and a mistake we have reversed,” Mr. Pai wrote.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The F.C.C. voted to dismantle rules that require internet providers to give consumers equal access to all content online.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Here’s how net neutrality works.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "[“I’m no longer surprised that there was a fight over this,” writes our columnist .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "“Net neutrality was too good for us.”] These are the rules that were repealed The original rules laid out a regulatory plan that addressed a rapidly changing internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Under those regulations, broadband service was considered a utility under Title II of the Communications Act, giving the F.C.C.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "broad power over internet providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The rules prohibited these practices: BLOCKING Internet service providers could not discriminate against any lawful content by blocking websites or apps.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "THROTTLING Service providers could not slow the transmission of data because of the nature of the content, as long as it was legal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "PAID PRIORITIZATION Service providers could not create an internet fast lane for companies and consumers who paid premiums, and a slow lane for those who didn’t.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Many consumer advocates argued that once the rules were scrapped, broadband providers would begin selling the internet in bundles, not unlike cable television packages.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Under a bundling system, getting on those sites could require paying for a premium social media package.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Another major concern is that consumers could suffer from pay-to-play deals .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Without rules prohibiting paid prioritization, a fast lane could be occupied by big internet and media companies, as well as affluent households, while everyone else would be left in the slow lane.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Some small-business owners are worried , too, that industry giants could pay to get an edge and leave them on an unfair playing field.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "E-commerce start-ups have feared that they could end up on the losing end of paid prioritization, with their websites and services loading more slowly than those run by internet behemoths.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Remote workers of all kinds, including freelancers and franchisees in the so-called gig economy , could similarly face higher costs to do their jobs from home.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "“Internet service providers now have the power to block websites, throttle services and censor online content,” , a Democratic member of the commission who voted against the repeal, said in an emailed statement Monday.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "“They will have the right to discriminate and favor the internet traffic of those companies with whom they have pay-for-play arrangements and the right to consign all others to a slow and bumpy road.” Why it may not matter to you Several states have taken measures to ensure the rules stay in effect.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "For example, in March, Gov.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Jay Inslee of Washington, a Democrat, signed a law that effectively replaced the federal rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Others, including the governors of Montana and New York, used executive orders to force net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "As of late May, 29 state legislatures had introduced bills meant to ensure net neutrality, according to the National Conference of State Legislatures.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Still, several of these measures have failed, some are still pending, and not every state has taken such actions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The argument against the rules The F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "said it had repealed the rules because they restrained broadband providers like Verizon and Comcast from experimenting with new business models and investing in new technology.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Its chairman has long argued against the rules , pointing out that before they were put into effect in 2015, service providers had not engaged in any of the practices the rules prohibited.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "“America’s internet economy became the envy of the world thanks to a market-based approach that began in the mid-1990s,” Mr. Pai said in a speech at the Mobile World Congress in February.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "“The United States is simply making a shift from pre-emptive regulation, which foolishly presumes that every last wireless company is an anti-competitive monopolist, to targeted enforcement based on actual market failure or anti-competitive conduct,” he said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "In Monday’s op-ed , he repeated his argument that the internet thrived without net neutrality rules in place for most of its existence.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "“President Clinton and a Republican Congress agreed on a light-touch framework to regulating the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Under that approach, the internet was open and free.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Network investment topped $1.5 trillion,” he wrote.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Several internet providers made public pledges that they would not block or throttle sites once the rules were repealed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "The companies argued that Title II gave the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "too much control over their business, and that the regulations made it hard to expand their networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "#NetNeutrality trending Democratic lawmakers who are opposed to the repeal took to social media, promising to reinstate the regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Barbara Underwood, New York’s attorney general, noted that lawsuits opposing the repeal were still pending.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "“The people saying we can’t pass the resolution to #SaveTheInternet in the House are the same people who were saying we couldn’t do it in the Senate,” Sen. Ed Markey of Massachusetts wrote on Twitter.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Just keep fighting.” Still, others cheered the rollback.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Brendan Carr, a Republican member of the FCC, said on Twitter: “Americans are passionate about the free and open internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "We don’t want to be blocked or throttled or have our online experience subject to the whims of an internet provider.” The internet was already changed Perhaps the repeal won’t change the direction of the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "On Monday, argued in his New York Times column that “by the time Tom Wheeler, an F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "chief under President Barack Obama, handed down rules to protect neutrality in 2015 , we had already strayed quite far from the internet of the early 2000s, where upstarts ruled our lives.” “Today, the internet is run by giants.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "A handful of American tech behemoths — Amazon, Apple, Facebook, Google and Microsoft — control the most important digital infrastructure, while a handful of broadband companies — AT&T, Charter, Comcast and Verizon — control most of the internet connections in the United States,” he wrote.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Continue reading the main story 2020 NYTCo Work with us",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

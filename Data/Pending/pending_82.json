@@ -1,0 +1,231 @@
+{
+    "document_id": -1,
+    "url": "https://thehill.com/policy/technology/474484-groups-file-appeal-over-net-neutrality-ruling",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Charis Mills Roodrigo",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:40:50.735046+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "A number of web companies and advocacy groups on Friday filed an appeal urging a federal court to rehear a decision upholding the Federal Communications Commission's (FCC) repeal of the Obama-era net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "They are requesting that the full D.C.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Circuit Court of Appeals review the decision from a three-judge panel in October.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Mozilla, which was the original lead in the lawsuit against the FCC, said the ruling conflicts with both a Supreme Court decision and a prior ruling from the D.C. court.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Their petition says the judges misinterpreted legal precedent over the agency’s regulatory powers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": " The 2015 net neutrality rules classified Internet Service Providers (ISPs) as common carriers, similar to telecommunications providers, who are not allowed to discriminate against traffic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The FCC under Republican Commissioner Ajit Pai repealed those rules and also barred states from passing their own net neutrality regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Under the FCC's current classification, there are no restrictions on ISPs against blocking or throttling web traffic, though the FCC has argued that most discriminatory behavior would be blocked by existing antitrust and consumer protection law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Pai's action was challenged in court but was upheld by a district court and then by the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The circuit court, though, struck down the measure blocking states from implementing their own net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "\"Alongside fellow petitioners, we are filing for rehearing in response to the D.C.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Circuit decision on net neutrality handed down in October,” Amy Keating, the chief legal officer at Mozilla, said in a statement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "“As we said then, the fight is far from over.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The decision raises issues of exceptional importance to protecting consumers and the open internet, and we look forward to continuing the fight to preserve net neutrality as a fundamental digital right.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "If the D.C. court grants the rehearing petition, the full appeals court will rehear the case.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The FCC did not immediately respond to a request for comment on the rehearing request.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Friday marked the deadline for groups to ask for an appeal.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The National Hispanic Media Coalition argued in a separate filing that the appeal’s court decision from October contradicts previous decisions and that the FCC violated the agency's own procedural rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Net neutrality View the discussion thread.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "HuffPost reporter: 'Jobs that have been lost may not come back' The leading expert on women's brains says they are more likely to get Alzheimer's Trump campaign official says mainstream media can't be trusted with Tara Reade coverage Don't miss a brief.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Sign up for our daily email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "12:30 Report TheHill.com RSS The Hill 1625 K Street, NW Suite 900 Washington DC 20006 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

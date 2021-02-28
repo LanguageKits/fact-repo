@@ -1,0 +1,531 @@
+{
+    "document_id": -1,
+    "url": "https://www.ncsl.org/research/telecommunications-and-information-technology/the-debate-over-net-neutrality.aspx",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:38:20.319594+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Get Involved with NCSL Mason's Manual StateConnect Directory Telecommunication and IT NCSL IN D.C. e-Newsletters LegisBriefs TELECOMMUNICATIONS & INFORMATION TECHNOLOGY Download free PDF NCSL Bookstore NCSL Contact Danielle Dean .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "202-624-8698 By Danielle Dean .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": ", placing internet service providers under the authority of Federal Trade Commission (FTC) and a new regulatory framework focused on consumer protection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Governors in five states\u2014 , , , , \u2014have signed executive orders limiting state contracts to internet service providers that adhere to net neutrality principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Twenty-one states and the District of Columbia attorneys general filed a protective petition for review against the FCC \u2019s recent ruling reversing net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Net neutrality is the concept that all data traffic on a network should be treated indiscriminately, where internet service providers (ISPs) would be restricted from blocking, slowing down or speeding up the delivery of online content at their discretion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The current debate surrounding net neutrality is principally about how ISPs should be regulated and what role the federal government should play in overseeing their network management practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Proponents of the 2015 Open Internet Order issued by the Federal Communications Commission (FCC) under the Obama administration argue for stringent regulatory oversight that prohibit ISPs from certain network practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Opponents, including many internet service providers, say the 2015 Order stymies investment and competition, and that transparency is sufficient to protect against abusive practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Under the , issued by current FCC Chairman Ajit Pai in January, ISPs are required to disclose information about their network management practices, performance characteristics and commercial terms of service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "It would allow the Federal Trade Commission (FTC) to provide uniform online protections against unfair, deceptive and anticompetitive practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "reverses FCC jurisdiction over internet service providers\u2019 network management practices, restoring authority to the FTC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The order essentially deregulates ISPs, allowing them more flexible network management practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "They are still required to publicly disclose their practices and are subject to fraud and abuse regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The FCC order pre-empts states from imposing state-level public utility-style regulations that mirror the rescinded net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "However, it does maintain state responsibility for enforcing consumer protection rules and laws, such as fraud and tax violations\u2014as well as overseeing telecommunication carrier designations\u2014as long as they do not interfere with federal regulatory objectives.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "There has been some congressional activity aimed at restoring net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "U.S. Representative Carolyn Maloney (D-N.Y.) introduced the last December.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The bill was referred to the House Energy and Commerce Subcommittee on Communications and Technology and has yet to be advanced beyond committee.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "in late December 2017.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Referred to the Subcommittee on Communications and Technology, it has yet to advance.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The bill does not reinstitute the Obama administration\u2019s regulatory framework, but it does aim to prohibit ISPs from blocking and degrading web traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Opponents of the bill believe the legislation does not sufficiently regulate ISPs and places too many restrictions on the FCC from regulating ISPs in the future.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The bill would also pre-empt state net neutrality laws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": ", which would amend the Communications Act of 1934 to prohibit blocking lawful content, applications, services and non-harmful devices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "It would limit the authority of the FCC and pre-empt states from imposing their own standards.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "The Senate is considering a resolution of disapproval of the Restoring Internet Freedom Order, invoking the Congressional Review Act (CRA), under which Congress may disapprove a broad range of regulatory rules issued by federal agencies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "If passed out of the Senate and House and signed by the president, the order will void the FCC's action and prohibit the FCC from reissuing similar rules in the future.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Legislators in 28 states [DD1] have introduced 65 bills requiring internet service providers to put in place various net neutrality principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Most bills require ISPs to disclose network management practices either online, or to a state commission or utility commission, for public dissemination.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "The legislation broadly encompasses all ISP providers that deliver broadband internet service in the state.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "A few bills give direct authority to the state attorney general for enforcing the bills\u2019 provisions and provide additional funding for the attorney general\u2019s use.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "adopted legislation creating a special Senate committee to review the FCC order and make recommendations on a state response.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "The committee issued its findings in an official report at the end of March, followed by the introduction of a net neutrality bill .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "a law that requires ISPs and other entities that provide broadband internet service to publicly disclose their network management practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The disclosure must enable consumers to make informed choices about purchasing and using their services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "It also prohibits blocking or otherwise impairing lawful content or applications, and instituting \u201cpaid prioritization\u201d\u2014prioritizing internet content in return for payment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "In addition, the Washington treasury will create a fund for the attorney general to use to pursue lawsuits related to the state Consumer Protection Act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Oregon\u2019s legislature passed a bill that would prohibit public agencies from contracting with broadband service providers that engage in paid prioritization, content blocking and other network management activities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Twelve state legislatures\u2014Alaska, California, Delaware, Georgia, Hawaii, Illinois, Michigan, Missouri, New Jersey, New Mexico, Ohio and Vermont\u2014and the District of Columbia introduced or adopted 14 resolutions with two main purposes: supporting net neutrality principles in the state, or requesting Congress or the president to permanently instate net neutrality rules on internet service providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "The Legislature is considering a bill that would allow the committee of jurisdiction to conduct an interim study of net neutrality and provide the Legislature with recommendations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Legislators in at least four states\u2014Illinois, , and \u2014have introduced legislation that would grant public utility commissions primary oversight over ISP network practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Legislation in two states, and , would set aside funds for establishing municipal broadband that would also be required to adhere to net neutrality principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "A bill would create a task force to consider the costs and benefits of a state-owned public utility company.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Legislation in 12 states\u2014California, Connecticut, Illinois, Kansas, Minnesota, Nebraska, New Jersey, New York, Oklahoma, Rhode Island, Vermont and West Virginia\u2014would limit contract awards or procurements only to ISPs that adhere to principles of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Other legislation directs state agencies to prohibit an internet service provider from installing broadband telecommunications infrastructure on any government property, or grant access to any right-of-way belonging to that agency, unless the provider agrees to adhere to a set of net neutrality principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Legislation introduced in would prohibit the state from contracting with any provider that impairs internet traffic or engages in paid prioritization, among other practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Of the bills introduced but not enacted, very few have advanced beyond the committee of jurisdiction.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Only , , Maryland and voted legislation out of one chamber.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "We are the nation's most respected bipartisan organization providing states support, ideas, connections and a strong voice on Capitol Hill.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "StateConnect Directory NCSL Bookstore 1-800-659-2656 or 711 NCSL in the News Go 32315 Denver, CO 80230 Tel: 303-364-7700 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Fax: 303-364-7800 Tel: 202-624-5400 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,491 @@
+{
+    "document_id": -1,
+    "url": "https://www.theguardian.com/technology/2017/nov/22/net-neutrality-internet-why-americans-so-worried-about-it-being-scrapped",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:56:31.033637+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "No, if you are a tech monopoly \u2013 but yes if you don\u2019t want a two-tier internet @alexhern  Wed 22 Nov 2017 09.09 EST Last modified on Fri 29 Dec 2017 03.18 EST Net neutrality is the idea that internet service providers should not interfere in the information they transmit to consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Photograph: UPI / Barcroft Images  Ajit Pai, head of the US telecoms regulator, revealed sweeping changes on Tuesday to overturn rules designed to protect an open internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The regulations, put in place by the Obama administration in 2015, enshrined the principle of \u201cnet neutrality\u201d in US law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Net neutrality is the idea that internet service providers should not interfere in the information they transmit to consumers, but should instead simply act as \u201cdumb pipes\u201d that treat all uses, from streaming video to sending tweets, interchangeably.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Net neutrality is unpopular with internet service providers (ISPs), who struggle to differentiate themselves in a world where all they can offer are faster speeds or higher bandwidth caps, and who have been leading the push to abandon the regulations in the US.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "On the other side of the battle are companies relying on the internet to connect to customers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Their fear is that in an unregulated internet, ISPs may charge customers extra to visit certain websites, demand fees from the sites themselves to be delivered at full-speed, or privilege their own services over those of competitors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The fear is well-founded.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Outside the US, where net neutrality laws are weaker and rarely enforced, ISPs have been experimenting with the sorts of favouritism that a low-regulation environment permits.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "mobile carrier MEO offers regular data packages , but it also offers, for \u20ac4.99 a month, 10GB \u201cSmart Net\u201d packages.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "One such package for video provides 10GB of data exclusively for YouTube, Netflix, Periscope and Twitch, while one for messaging bundles six apps including Skype, WhatsApp and FaceTime.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "(@RoKhanna) In Portugal, with no net neutrality, internet providers are starting to split the net into packages.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "pic.twitter.com/TlLYGezmv6 October 27, 2017 Vodafone offers a similar service : for a daily, weekly, or monthly fee, users can exempt bundles of apps from their monthly cap.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "A \u201cSocial Pass\u201d offers unlimited Facebook, Instagram, Snapchat and Twitter for NZ$10 for 28 days, while a \u201cVideo Pass\u201d gives five streaming services \u2013 including Netflix but not YouTube \u2013 for $20 a month.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Even British carriers are experimenting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Virgin Mobile doesn\u2019t charge extra for its packages, but does offer free data on three apps \u2013 Facebook Messenger, Twitter and WhatsApp \u2013 for subscribers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Three\u2019s \u201c \u201d plans do similar having \u201cteamed up with Netflix, TVPlayer, Deezer, SoundCloud and Apple Music\u201d to exclude them from data caps.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Two-speed internet Supporters of net neutrality cite two major concerns about these practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The first is that breaking the internet down into packages renders pricing confusing and difficult to compare, providing cover for mobile operators and ISPs to increase overall costs and pocket the difference.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The second is more systemic: an exclusive list of apps and services that receive preferential treatment divides the internet into haves and have-nots.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Sometimes referred to as a \u201ctwo-speed internet\u201d, this runs the risk of entrenching incumbents at the top of the field, while making it very hard for startups to grow to the same scale.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Consider, for instance, trying to advertise a new video-streaming service to New Zealand\u2019s Vodafone customers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "As well as beating Netflix on its own terms, perhaps by offering better programming or a cheaper subscription, the new service would have to deal with the fact that some Vodafone subscribers will get Netflix without affecting their data caps, but streaming from the startup will eat up their limit very quickly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "A glance at Reddit, the self-proclaimed front page of the internet, reveals the scale of the response: 16 of the 25 stories on the site\u2019s homepage are about net neutrality, with all but two of them linking to the exact same page.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "As San Francisco-based, British-born, venture capitalist Benedict Evans noted, the biggest distinction is competition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "\u201cWhen I lived in London I had a choice of a dozen broadband providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "That made net neutrality a much more theoretical issue,\u201d Evans wrote .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "In the US, much of the population has essentially no choice over who to buy broadband from, with local monopolies enshrined in law and a nationwide duopoly providing access to high-speed connections for three quarters of the nation .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "That gives ISPs much more power to wield net neutrality in an extractive fashion, forcing customers to pay extra to access their favourite sites at full speed \u2013 or forcing companies to pay for access to customers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "The power dynamic has shifted Barack Obama speaks at a town hall meeting at Google\u2019s California headquarters in November 2007 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "In his visit Obama spoke on his position of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Photograph: Kimberly White/Getty Images  This back and forth has been going on for over a decade, with the term net neutrality coined in 2003, but in recent years the landscape has changed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "The most obvious driver has been the election of a US President whose largest motivation for policy decisions appears to be simply undoing the actions of his predecessor.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "But the power dynamics between the large internet firms and ISPs has also shifted, in a way that has lessened the institutional support for net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "In May 2017 Netflix CEO Reed Hastings, once one of the largest proponents of the principle, noted that it didn\u2019t really matter for the firm anymore .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "\u201cNeutrality is really important for the Netflix of 10 years ago, and it\u2019s important for society, it\u2019s important for innovation, it\u2019s important for entrepreneurs \u2026 It\u2019s not our primary battle at this point.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "\u201c[For] other people it is, and that\u2019s an important thing, and we\u2019re supportive through the industry association, but ... we don\u2019t have the special vulnerability to it.\u201d If an ISP slows down the traffic to a small startup, that startup looks bad.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "If it slows down the traffic to Netflix, though, it\u2019s the ISP that looks incompetent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Other internet giants have an even weaker support for the principle.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Facebook has actively contributed to the erosion of net neutrality in the developing world, through its Internet.org Free Basics programme.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "That offers free internet access, but only to a selected list of low-bandwidth websites (Facebook, naturally, is included).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "For the company that wants to ensure that all human communication is piped through its channels, whether or not other websites have good connections isn\u2019t a great concern.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "With the US regulations scrapped, the door is open for service providers to begin experimenting with their offerings.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "The new normal may go no further than those packages offered in the UK or New Zealand, or it may finally realise the nightmares the campaigners have been warning about all this time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "This article contains affiliate links, which means we may earn a small commission if a reader clicks through and makes a purchase.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "All our journalism is independent and is in no way influenced by any advertiser or commercial initiative.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "By clicking on an affiliate link, you accept that third-party cookies will be set.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Net neutrality  ISPs  Telecommunications industry  analysis  Share on LinkedIn Share on WhatsApp Reuse this content Most popular US  Elections 2020  US Politics  About us  Contact us  Complaints & corrections  SecureDrop  Work for us  Privacy policy  Cookie policy  Terms & conditions  All topics  All writers  Digital newspaper archive  Advertise with us  Search jobs  Available for everyone, funded by readers  Back to top",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "document_id": -1,
+    "url": "https://www.timesunion.com/opinion/article/Editorial-Net-neutrality-must-stay-12923716.php",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:32:31.810192+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Editorial: Net neutrality must stay THE ISSUE: The U.S. Senate votes against a government move to give internet service providers more control over online traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The U.S. Senate finally saw through the dishonest rhetoric clouding the debate over net neutrality and voted Wednesday to preserve the competition that has helped foster creativity, entrepreneurship and access on the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Whether the House of Representatives will do the same in time remains to be seen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The Senate vote — however narrow it may have been — marked a triumph of consumer protection over powerful corporate interests.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Three Republicans — Susan Collins of Maine, John Kennedy of Louisiana and Lisa Murkowski of Alaska — joined Democrats in a resolution disapproving the Federal Communications Commission's plan to roll back Obama-era rules that restrict the nation's relatively few internet service providers from using their virtual monopoly over the internet's infrastructure to control access to specific sites, services, and apps.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The FCC, with a majority of appointees from President Donald Trump, plans to scrap rules that would prevent ISPs — the cable and wireless companies that provide internet service to customers — from selectively slowing down or speeding up traffic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The rules were put in place to prevent ISPs like Spectrum, AT&T and Verizon from throttling back certain services or charging them high fees in order to give themselves a competitive advantage.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "A cable provider that offers both internet access and pay-per-view movies, for example, might slow down a streaming service like Netflix or demand exorbitant payment from the company to give its traffic equal priority through its lines.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The FCC and its defenders in Congress portray net neutrality rules as a \"government takeover,\" and assert that the free market would correct the kinds of abuses feared by consumers and companies that rely on the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Consumers, they argue, would simply change providers if their ISPs started manipulating traffic in ways that diminished their access and enjoyment of the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "In a true free market that argument might hold water, but the reality is that the internet today is not a free market at all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Many places, such as upstate New York, have just one ISP.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Far from being a government takeover, net neutrality offers some simple consumer-friendly rules in the absence of competition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "ISPs and their allies have counted on the anti-government, free-market tropes to polarize the debate, but polls have found consumers of all political stripes see through it, especially those who say they actually understand the issue and don't just rely on politicians and ideologues to tell them what to think about it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "There is, unfortunately, less optimism for a similarly bipartisan vote in the House.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "So we look to New York Republican representatives — many of whom, like John Faso of Kinderhook and Elise Stefanik of Willsboro, have constituents without a choice of internet providers — to follow the lead of their colleagues in the Senate who were able to see beyond ideological and partisan lines, and do the right thing for consumers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "To comment: tuletters@timesunion.com 112th Assembly candidate to host virtual town hall 'Back to Business' roundtable looks at capital sources Shouting matches, insults, curses upend Berne's Zoom meeting Fourth-generation grocer launches delivery business Read: Cuomo’s daily briefing on COVID-19 (April 30) Vatican archives reveal what Pope Pius XII knew about Nazis massacres Cuomo: New York is building a \"tracing army\" to slow COVID-19 spread CSEA rallies outside U.S. reps' offices urging federal aid support Jackpot-winning lottery ticket sold in Saratoga County Albany County facing challenges of reopening amid coronavirus Return to Jobs at the TU iPad app eEdition",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

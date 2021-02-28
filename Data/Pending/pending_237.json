@@ -1,0 +1,381 @@
+{
+    "document_id": -1,
+    "url": "https://www.publishersweekly.com/pw/by-topic/columns-and-blogs/editorials/article/75856-it-s-time-for-publishers-to-join-the-fight-for-net-neutrality.html",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:43:06.092911+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Supporters of net neutrality marked two important developments in recent days.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "On Tuesday, January 16, it was revealed that 50 senators have now committed to a bill that would block the Federal Communications Commission’s (FCC) December repeal of net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "In addition, as the reported , more than 20 states have now begun a battle in the courts to block the FCC’s repeal.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Codified by the FCC in 2015 , net neutrality rules were created to keep Internet service providers from favoring certain websites or content over others.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "But, as the Electronic Frontier Foundation’s Corynne McSherry explains , the FCC’s repeal last month now paves the way “for an Internet that works more like cable television;” a “pay-for-play” system where content providers could be forced to “negotiate with multiple ISPs to avoid their content being buried, degraded, or even blocked.” Polls and public comments show the move to repeal net neutrality is broadly unpopular.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "It is also potentially dangerous.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "In comments to the FCC, a coalition of the nation’s top library associations stressed that preserving an open Internet is “essential to our nation’s freedom of speech.” And, in a letter to the FCC, 1,838 members of the Authors Guild demonstrated that American authors also unequivocally recognize the danger of the FCC’s action.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "“As authors, we rely on the Internet to make our voices heard,” the guild letter states, concluding that the FCC’s repeal of net neutrality protections “will harm the free speech of American writers.” “ As widely recognized champions of free speech, a strong, unified statement from America’s book publishers can make a critical difference.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "” But a key voice remains noticeably absent from the net neutrality debate: publishers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Despite widely expressed concerns that the FCC’s action could negatively impact free speech, and in contrast to concerted efforts to preserve net neutrality by others in the publishing ecosystem—i ncluding the library community , authors groups , and dozens of media and public advocacy organizations , including PEN America—the Association of American Publishers has yet to release a single statement on the issue and has taken no formal position.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "We recognize that publishers and the AAP have limited resources and must prioritize the issues they choose to take on.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "However, supporting free speech is one of the AAP’s core policy areas.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Which is why publishers can no longer sit this one out.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Following the FCC’s repeal, restoring net neutrality protections is going to be an uphill political battle.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "But it is not too late for publishers to stand up for free speech, and to stand with their readers, their authors, and the library community.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "With the battle headed to Congress , now is the time to make that stand.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "AAP president and CEO Maria Pallante is widely known for her policy acumen and her relationships in Congress.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "And as widely recognized champions of free speech, a strong, unified statement from America’s book publishers can make a critical difference.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "A version of this article appeared in the 01/22/2018 issue of under the headline: ADVERTISEMENT More from pw PW Picks: Books of the Week .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "FAQ BookExpo Children's BookLife Children's BookLife Children's Announcements Content / e-books ShelfTalker Stay ahead with     Free newsletter: the hottest new books, features and more     Parts of this site are only available to paying PW subscribers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Subscribers: to set up your digital access click here .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "To subscribe, click here .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "PW “All Access” site license members have access to PW ’s subscriber-only website content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Simply close and relaunch your preferred browser to log-in.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "To find out more about PW ’s site license subscription options please email: pw@pubservice.com .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "If you have questions or need assistance setting up your account please email pw@pubservice.com or call 1-800-278-2991 (U.S.) or 1-818-487-2069 (all other countries), Monday-Friday between 5am and 5pm Pacific time for assistance.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Thank you for visiting .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "There are 3 possible reasons you were unable to login and get access our premium online pages.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "You are NOT a current subscriber to magazine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "To get immediate access to all of our Premium Digital Content try a monthly subscription for as little as $18.95 per month.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "You may cancel at any time with no questions asked.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Click here for details about Publishers Weekly’s monthly subscription plans.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "You are a subscriber but you have not yet set up your account for premium online access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "your preferred email address and password to your account.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "You forgot your password and you need to retrieve it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "here to access the password we have on file for you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "If you have questions:    pw@pubservice.com Call: 1-800-278-2991 (US) or 1-818-487-2069 (Outside US/Canada) 5 a.m. - 5 p.m. Mon-Fri (Pacific)   Click here .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

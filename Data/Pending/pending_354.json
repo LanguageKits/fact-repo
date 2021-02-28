@@ -1,0 +1,891 @@
+{
+    "document_id": -1,
+    "url": "https://www.americanthinker.com/articles/2020/03/the_wuhan_virus_escaped_from_a_chinese_lab.html",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:50:13.127950+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "March 14, 2020 First of all, Wuhan is a place and not a race, and to identify the coronavirus by its place of origin, like naming the Ebola Virus for a river in Zaire, is not racist or xenophobic \u2014 it's merely accurate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "There is no racism or xenophobia in labeling an infection \"Rocky Mountain Spotted Fever\" or calling something \"Lyme Disease\" after a nearby town in Connecticut.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "What calling this latest virus the Wuhan Virus is is a reminder of the multiple contagions China has spawned and released on an unsuspecting world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Nor is connecting some very big, ugly, and obvious dots just another conspiracy theory to be dismissed out of hand.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "From the beginning China has been less than forthcoming about this virus and resisted sharing critical data and access to WHO and CDC specialists.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "He would later die of the disease he tried to warn us about and the Chinese tried to keep under wraps : In an interview with the Communist Party\u2013controlled Beijing Youth Daily newspaper in late January, Dr. Li recalled seeing reports in December of an unusual cluster of pneumonia cases linked to an animal market in Wuhan.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "On Dec. 30, Dr. Li told the newspaper, he sent a message to former classmates on WeChat, a popular messaging app, warning them of new cases of severe acute respiratory syndrome, or SARS.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "He later corrected that, saying it was an unknown coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Dr. Li was later interrogated by party disciplinary officials and hospital management, who accused him of spreading rumors and forced him to write a self-criticism, he told the newspaper.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "\"They told me not to publish any information about this online,\" Dr. Li told the Beijing Youth Daily in late January.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "\"Later, the epidemic started to spread noticeably.I'd personally been treating someone who was infected, and whose family got infected, and so then I got infected.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "In speaking out about the virus and about government efforts to silence him, Dr. Li drew comparisons to Jiang Yanyong, a surgeon who became a hero after blowing the whistle on Beijing's efforts to cover up the extent of the SARS crisis in 2003.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Initially, a live animal market in Wuhan, where exotic animals are sold for food, was blamed as the source of the virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "It may yet be proven to be the epicenter of the outbreak, but it was not the source of the virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "That honor goes to the Wuhan National Biosafety Laboratory, housed at the Wuhan Institute of Virology, a scant 20 miles away from Wuhan's live animal market.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "It was set up in the wake of previous leaks of the SARS virus from Chinese labs and to do research on the world's most dangerous viruses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "As the : It was the first ever lab in the country designed to meet biosafety-level-4 (BSL-4) standards \u2014 the highest biohazard level, meaning that it would be qualified to handle the most dangerous pathogens.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "BSL-4 labs have to be equipped with airtight hazmat suits or special 'cabinet' work spaces that confine viruses and bacteria that can be transmitted through the air to sealed boxes that scientists reach into using attached high-grade gloves[.]",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Upon opening, it planned to first take up a project that required only BSL-3 precautions to be in place: a tick-borne virus that causes Crimean-Congo hemorrhagic fever.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "It's a highly fatal disease, killing 10 to 40 percent of those it infects.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "SARS, too, is a BSL-3 virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "According to Nature's interview with the lab's director, Yuan Zhimin, the Wuhan National Biosafety Laboratory planned to study the SARS virus[.]",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "... 'After a laboratory leak incident of SARS in 2004, the former Ministry of Health of China initiated the construction of preservation laboratories for high-level pathogens such as SARS, coronavirus, and pandemic influenza virus,' wrote Guizhen Wu.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The Wuhan lab is also equipped for animal research.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "To be clear, this is not to say the Wuhan Virus was part of any biological weapons program or that its release was intentional.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "It could just be that it was the result of Chernobyl-like sloppiness resulting from a bizarre blend of Chinese culture and global ambition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Indications of military involvement in the Wuhan lab are there and troubling.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": ", Steven W. Mosher, president of the Population Research Institute and the author of , documents the linkage connecting the Wuhan lab, the nearby live animal market, and the spread of the Wuhan Virus: At an emergency meeting in Beijing held last Friday, Chinese leader Xi Jinping spoke about the need to contain the coronavirus and set up a system to prevent similar epidemics in the future.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "A national system to control biosecurity risks must be put in place \"to protect the people's health,\" Xi said, because lab safety is a \"national security\" issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "What Xi didn't say is that the coronavirus that has sickened more than 76,000 and claimed more than 2,200 lives escaped from one of the country's bioresearch labs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "But the very next day, evidence emerged suggesting that this is what happened, as the Chinese Ministry of Science and Technology released a new directive entitled \"Instructions on strengthening biosecurity management in microbiology labs that handle advanced viruses like the novel coronavirus.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "As Mosher points out, not only is the Wuhan lab China's first level-4 facility, but it is the only one, and it is under close and active supervision by the Chinese military : [T]he People's Liberation Army's top expert in biological warfare, Maj. Gen. Chen Wei, was dispatched to Wuhan at the end of January to help with the effort to contain the outbreak.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "According to the PLA Daily, Chen has been researching coronaviruses since the SARS outbreak of 2003, as well as Ebola and anthrax.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "This would not be her first trip to the Wuhan Institute of Virology either, since it is one of only two bioweapons research labs in all of China.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Clearly, this People's Liberation Army officer was there not just to preserve the public order after something went awry in their quest to find a cure for the common cold.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "You don't need a general doing research on coronaviruses at bioweapons research labs to impose a quarantine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Worse yet, the virus may have been released by underpaid researchers who sold contaminated lab animals to make a little extra cash on the side : And then there is this little-known fact: Some Chinese researchers are believed to sell laboratory animals to street vendors after they have finished experimenting on them[.]",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Instead of properly disposing of infected animals by cremation, as the law requires, they sell them on the side to make a little extra cash.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Or, in some cases, a lot of extra cash.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "One Beijing researcher, now in jail, made the equivalent of a million dollars selling monkeys and rats on the live animal market, whence they likely wound up in someone's stomach.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "This isn't the first made-in-China virus Beijing has sprung on the world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "And it won't be the last unless we stop worrying about political correctness and sanction China for what amounts to economic warfare and negligent homicide on a global scale.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Correction: Lyme disease originated in Connecticut, not Ohio.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "is a former editorial writer for Investor's Business Daily and freelance writer whose pieces have appeared in Human Events, Reason Magazine, and the Chicago Sun-Times among other publications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "First of all, Wuhan is a place and not a race, and to identify the coronavirus by its place of origin, like naming the Ebola Virus for a river in Zaire, is not racist or xenophobic \u2014 it's merely accurate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "There is no racism or xenophobia in labeling an infection \"Rocky Mountain Spotted Fever\" or calling something \"Lyme Disease\" after a nearby town in Connecticut.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "What calling this latest virus the Wuhan Virus is is a reminder of the multiple contagions China has spawned and released on an unsuspecting world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Nor is connecting some very big, ugly, and obvious dots just another conspiracy theory to be dismissed out of hand.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "From the beginning China has been less than forthcoming about this virus and resisted sharing critical data and access to WHO and CDC specialists.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "He would later die of the disease he tried to warn us about and the Chinese tried to keep under wraps : In an interview with the Communist Party\u2013controlled Beijing Youth Daily newspaper in late January, Dr. Li recalled seeing reports in December of an unusual cluster of pneumonia cases linked to an animal market in Wuhan.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "On Dec. 30, Dr. Li told the newspaper, he sent a message to former classmates on WeChat, a popular messaging app, warning them of new cases of severe acute respiratory syndrome, or SARS.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "He later corrected that, saying it was an unknown coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Dr. Li was later interrogated by party disciplinary officials and hospital management, who accused him of spreading rumors and forced him to write a self-criticism, he told the newspaper.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "\"They told me not to publish any information about this online,\" Dr. Li told the Beijing Youth Daily in late January.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "\"Later, the epidemic started to spread noticeably.I'd personally been treating someone who was infected, and whose family got infected, and so then I got infected.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "In speaking out about the virus and about government efforts to silence him, Dr. Li drew comparisons to Jiang Yanyong, a surgeon who became a hero after blowing the whistle on Beijing's efforts to cover up the extent of the SARS crisis in 2003.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Initially, a live animal market in Wuhan, where exotic animals are sold for food, was blamed as the source of the virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "It may yet be proven to be the epicenter of the outbreak, but it was not the source of the virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "That honor goes to the Wuhan National Biosafety Laboratory, housed at the Wuhan Institute of Virology, a scant 20 miles away from Wuhan's live animal market.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "It was set up in the wake of previous leaks of the SARS virus from Chinese labs and to do research on the world's most dangerous viruses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "As the : It was the first ever lab in the country designed to meet biosafety-level-4 (BSL-4) standards \u2014 the highest biohazard level, meaning that it would be qualified to handle the most dangerous pathogens.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "BSL-4 labs have to be equipped with airtight hazmat suits or special 'cabinet' work spaces that confine viruses and bacteria that can be transmitted through the air to sealed boxes that scientists reach into using attached high-grade gloves[.]",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Upon opening, it planned to first take up a project that required only BSL-3 precautions to be in place: a tick-borne virus that causes Crimean-Congo hemorrhagic fever.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "It's a highly fatal disease, killing 10 to 40 percent of those it infects.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "SARS, too, is a BSL-3 virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "According to Nature's interview with the lab's director, Yuan Zhimin, the Wuhan National Biosafety Laboratory planned to study the SARS virus[.]",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "... 'After a laboratory leak incident of SARS in 2004, the former Ministry of Health of China initiated the construction of preservation laboratories for high-level pathogens such as SARS, coronavirus, and pandemic influenza virus,' wrote Guizhen Wu.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "The Wuhan lab is also equipped for animal research.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "To be clear, this is not to say the Wuhan Virus was part of any biological weapons program or that its release was intentional.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "It could just be that it was the result of Chernobyl-like sloppiness resulting from a bizarre blend of Chinese culture and global ambition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "Indications of military involvement in the Wuhan lab are there and troubling.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": ", Steven W. Mosher, president of the Population Research Institute and the author of , documents the linkage connecting the Wuhan lab, the nearby live animal market, and the spread of the Wuhan Virus: At an emergency meeting in Beijing held last Friday, Chinese leader Xi Jinping spoke about the need to contain the coronavirus and set up a system to prevent similar epidemics in the future.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "A national system to control biosecurity risks must be put in place \"to protect the people's health,\" Xi said, because lab safety is a \"national security\" issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "What Xi didn't say is that the coronavirus that has sickened more than 76,000 and claimed more than 2,200 lives escaped from one of the country's bioresearch labs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "But the very next day, evidence emerged suggesting that this is what happened, as the Chinese Ministry of Science and Technology released a new directive entitled \"Instructions on strengthening biosecurity management in microbiology labs that handle advanced viruses like the novel coronavirus.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "As Mosher points out, not only is the Wuhan lab China's first level-4 facility, but it is the only one, and it is under close and active supervision by the Chinese military : [T]he People's Liberation Army's top expert in biological warfare, Maj. Gen. Chen Wei, was dispatched to Wuhan at the end of January to help with the effort to contain the outbreak.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "According to the PLA Daily, Chen has been researching coronaviruses since the SARS outbreak of 2003, as well as Ebola and anthrax.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "This would not be her first trip to the Wuhan Institute of Virology either, since it is one of only two bioweapons research labs in all of China.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "Clearly, this People's Liberation Army officer was there not just to preserve the public order after something went awry in their quest to find a cure for the common cold.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "You don't need a general doing research on coronaviruses at bioweapons research labs to impose a quarantine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "Worse yet, the virus may have been released by underpaid researchers who sold contaminated lab animals to make a little extra cash on the side : And then there is this little-known fact: Some Chinese researchers are believed to sell laboratory animals to street vendors after they have finished experimenting on them[.]",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "Instead of properly disposing of infected animals by cremation, as the law requires, they sell them on the side to make a little extra cash.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "Or, in some cases, a lot of extra cash.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "One Beijing researcher, now in jail, made the equivalent of a million dollars selling monkeys and rats on the live animal market, whence they likely wound up in someone's stomach.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "This isn't the first made-in-China virus Beijing has sprung on the world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "And it won't be the last unless we stop worrying about political correctness and sanction China for what amounts to economic warfare and negligent homicide on a global scale.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "Correction: Lyme disease originated in Connecticut, not Ohio.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "is a former editorial writer for Investor's Business Daily and freelance writer whose pieces have appeared in Human Events, Reason Magazine, and the Chicago Sun-Times among other publications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

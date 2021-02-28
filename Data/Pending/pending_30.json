@@ -1,0 +1,311 @@
+{
+    "document_id": -1,
+    "url": "https://www.vice.com/en_us/article/qjdvex/atandt-lied-about-everything-it-promised-to-do-if-it-got-a-tax-cut",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Karl Bode",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:38:38.856936+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "SKIP TO MAIN CONTENT en TV Election 2020 VICE Magazine AT&T said a net neutrality repeal and tax cut would result in new jobs and more broadband investment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "It's cut tens of thousands of jobs and is spending less than ever.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "by Jan 30 2020, 1:00pm Back in 2017, AT&T told anybody who’d listen that the then-looming Trump tax cuts would result in billions in new investment and thousands of new, high paying jobs.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "“By immediately lowering the corporate tax rate to 20 percent, this bill will stimulate investment, job creation and economic growth in the United States,” AT&T CEO Randall Stephenson said at the time.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "“Research tells us that every $1 billion in capital invested in telecom creates about 7,000 good jobs for the middle class,” the CEO proclaimed.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Yeah, about that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "AT&T’s earnings report released Wednesday makes it clear that AT&T’s promised tax-cut driven investment never occurred.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Despite a steady parade of government favors, the company’s network investment has been steadily declining since 2016, dropping to $3.8 billion in the fourth quarter of 2019—the lowest levels in roughly a decade.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "AT&T has told investors that the company’s shrinking investment is slated to continue in 2020, with the telecom giant spending $3 billion less in capital expenditures this year.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The Tax Cuts and Jobs Act (TCJA) provided an incredible windfall to AT&T and other giant corporations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Estimates suggest AT&T will net upwards of $42 billion from the new law, which reduced the top corporate tax rate from 35 percent to 21 percent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Little if any of that savings appears to have found its way to employees, customers, or the company’s network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The Communications Workers of America, the telecom sector’s biggest union, says AT&T’s promised jobs never arrived either.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Union officials today complained that AT&T earnings show the company has laid off 37,818 employees worldwide since the tax cut was passed in 2018, with 4,040 pink slips sent out to employees worldwide in the fourth quarter of 2019 alone.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "“The list of communities being destroyed all across America continues to grow with the elimination of jobs at AT&T, despite promises of job creation from company executives,” CWA President Chris Shelton said in a statement provided to Motherboard.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "“Like any business, we must align our workforce with the needs of our customers and the business,\" An AT&T spokesperson said in a statement.\"To the extent possible, we manage these staff adjustments through retirements and voluntary departures, and we help affected employees find other positions within the company.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "For those who can’t, we offer them severance pay and outplacement services.” AT&T’s job and network investment promises weren’t just affixed to the Trump tax cuts.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "As it lobbied the FCC to kill net neutrality and most other broadband consumer protections in 2017, the company again repeatedly promised that doing so would result in new jobs and a massive boost in overall investment in the company’s networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The repeal of net neutrality “will foster innovation and investment in broadband infrastructure without creating any threat to internet freedoms,” the company promised.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "It’s not just consumers, consumer groups and unions that have grown tired of AT&T’s empty promises.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The telecom giant has also faced a growing backlash among investors who say AT&T’s parade of recent mergers haven’t delivered the results the company promised.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Since 2015, AT&T has spent $157 billion to acquire DirecTV and Time Warner in a bid to dominate the pay TV market.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Here too, AT&T executives promised lawmakers billions in expanded U.S. investment in exchange for regulatory approval of the deals.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "But both megamergers loaded AT&T with so much debt, the company began raising prices on consumers to recoup its losses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Those customers then headed for the exits; the company’s Q4 earnings show AT&T lost 4.1 million TV subscribers in 2019 alone.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "In turn, investor activist organizations like Elliott Management Corp have pressured CEO Randall Stephenson—who made an estimated $25,600,312 in 2018—to lay off even more U.S. employees, shifting an even greater number of support positions overseas.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "“AT&T is using its profits to enrich wealthy shareholders instead of investing in building the next generation networks that Americans, especially in rural and underserved areas, so desperately need,” Shelton said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "“CWA members and our allies will keep fighting until the company stops eliminating jobs so that they can provide the high-quality service that customers deserve.” America seems intent on playing an endless game of Charlie Brown and Lucy football with companies like AT&T, doling out untold billions in regulatory favors, tax breaks, and other perks in exchange for jobs and other benefits that routinely fail to materialize.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "telecom AT&T big telecom Get a personalized roundup of VICE's best stories in your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Subscribe to VICE Content Funding on VICE 2020 VICE MEDIA LLC",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

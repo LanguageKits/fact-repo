@@ -1,0 +1,1281 @@
+{
+    "document_id": -1,
+    "url": "https://www.internetsociety.org/resources/doc/2019/net-neutrality-process-report/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:31:41.131198+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "History of the Internet What we’re doing MANRS What you can do Attend an event Become an individual member Grants and awards Find a chapter Become an organization member Online learning Watch a tutorial Resource library IXP Toolkit MANRS IETF Meetings InterCommunity NDSS Symposium Internet Society in the news Read the Internet Society’s roadmap for our work ahead – and let’s join together to support our vision that the Internet is for everyone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "In the first-ever Internet Society Impact Report, we present some of our important work in 2019.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Community networks — networks built, managed, and used by local communities — are cornerstones of the Internet Society’s work.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Read our open job descriptions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "At the Internet Society, we believe that encryption is an essential part of the trusted Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Debates about net neutrality regulation in the United States have been ongoing for over a decade.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "In 2005, the Federal Communications Commission (FCC) classified Internet transmitted over the telephone lines as a Title I information service, and issued a outlining principles for an open Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Advocates have since debated exactly what an open Internet looks like in the United States and how it should be enforced.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The debates intensified after the Associated Press launched and published the results of an investigation into Comcast Corp.’s blocking and delaying of traffic to BitTorrent , a file sharing service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "As a result of this revelation, the FCC issued Comcast a cease-and-desist order , to which Comcast responded by suing the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "In 2010, The United States Court of Appeals for the District of Columbia Circuit ruled in Comcast’s favor , saying the FCC did not have the authority to regulate broadband services.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "In response, the FCC voted in favor of the , which put net neutrality rules into effect.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The Order prohibited blocking or slowing Internet traffic and required service providers to be transparent about network management practices.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "In turn, Verizon sued the FCC, arguing the agency still did not have the authority to regulate broadband services.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "In 2014, The United States Court of Appeals for the District of Columbia Circuit ruled in Verizon’s favor , arguing that while FCC does have the ability to regulate these kind of telecommunication issues, it has not classified broadband providers as common carriers and therefore could not establish common carrier obligations on them.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The FCC then passed the 2015 Open Internet Order, reclassifying broadband service providers as Title II common carriers and reinstating net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Similar to the 2010 Order, the latter prohibited companies from blocking or slowing Internet traffic.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "It also went a step further, restricting service provider’s ability to offer paid prioritization.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "In response, the United States Telecom Association sued the FCC , saying it had overstepped its authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The FCC returned to court, but this time the United States Court of Appeals for the District of Columbia Circuit upheld the FCC’s Open Internet Order in full.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "However, under new leadership in 2017, the FCC passed the , which replaced the 2015 Open Internet Order and revoked the FCC’s authority to regulate broadband service providers as common carriers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Several public interest groups and 21 states responded by suing the FCC Congressional Democrats unsuccessfully attempted to overturn the 2017 Order through a Congressional Review Act (CRA), while others attempted to repeal it via judiciary review.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "[1] This kind of political ping pong is damaging to companies and the public interest writ large.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The uncertainty that comes with every rulemaking and court case has caused consumers to question whether they have neutral access to all of the legal content they want, and Internet service providers report it has hurt their ability to make long-term investments in Internet infrastructure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "The Internet needs a stable policy environment to thrive.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "With regards to net neutrality, this means creating a sustainable solution that upholds the core values of the global and open Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Given the shortcomings of the traditional regulatory processes to develop a lasting solution, the Internet Society initiated a collaborative process to help create a long-term, concrete, and comprehensive net neutrality policy in the United States.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "The Internet Society believed that a collaborative approach could help experts find common ground on a complex issue to develop a clear, sustainable and fair legal framework for net neutrality – one that reflects the dynamic nature of the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "In 2018, the Internet Society began convening and engaging an ideologically diverse group of experts in an attempt to create a baseline set of principles in the United States for an open Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "The Net Neutrality Experts’ Roundtable series included experts from the technical community, edge providers, academia, Internet service providers, industry associations, and both left- and right-leaning civil society groups.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Over ten months, participants discussed how to create a permanent solution for net neutrality that protects the interests of Internet users while fostering an environment that encourages investment and innovation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "At the outset of this meeting series, the Internet Society posted a blog outlining why this process was important, how the participants were brought together, and what their initial conversation covered.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "However, public reports were not published after subsequent meetings as participants stressed than in order for them to speak candidly and openly with each other, they needed assurances that the conversations in the room were kept in the room.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "The Chatham House Rule was established in the first meeting; but by enhancing that rule to exclude external publications of any kind, participants felt they would be able to discuss more candidly difficult issues, and to make concessions, than they would be in a more public-facing forum.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "While the Internet Society was disappointed that this process could not be more open, as would be necessary for a truly multistakeholder process, we recognized the need to respect the participants’ request for privacy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The group met in person seven times and a representative working group met an additional five times to produce a set of Net Neutrality Principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "[2] Participants agreed that there was an urgent need for this initiative, and were willing to work together to reach a compromise on many of the most contentious issues regarding net neutrality policy to date.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Ultimately, the participants successfully created a high-level document that addresses the following aspects of net neutrality legislation: general principles; rules, standards, and definitions; scope; institutional attributes; statutory authority over the Internet; enforcement and authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Many participants of the Net Neutrality Experts’ Roundtable series expressed a desire for the principles to be used by Congressional members to draft and pass long-term, consensus-driven net neutrality legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Download the full report The Internet Society has long refrained from participating in the legal and political back-and-forth regarding net neutrality in the United States.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Globally, we have been staunch proponents of principles that support the global Internet , but we realized that many of the conversations about how to protect an open Internet in the United States have veered from technical debates to statutory ones.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "However, as these conversations have dragged on and intensified, the Internet Society felt that there was an opportunity to apply a collaborative approach to the debates and see whether a way forward might emerge.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Having monitored the open Internet debates in the United States and across the globe, we saw both the real and perceived impact that the lack of clarity and longevity of any law has had on users, and the confusion and disruption it has caused.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "The United States needs an approach that upholds the core principles of an open Internet and provides market stability; it also needs a solution that puts consumer rights at the center and promotes further opportunities for innovation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "The Internet Society is a longstanding champion of using a collaborative approach for decision-making.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "The rules, standards, and policies developed by individuals from a diverse group of organizations, institutions, agencies, and universities are more likely to lead to sustainable outcomes, as they are built with an inherent level of buy-in from across the community.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "For that reason, when considering an appropriate approach to an open Internet compromise in the United States, the Internet Society believes that a long-lasting solution must be created through a collaborative process that prioritizes the needs of end-users.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "We recognize that all stakeholders must work together to preserve the open Internet, and the vibrant and innovative markets it supports.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "The Internet Society began by convening a small group of selected experts and key stakeholders in June 2018 for a facilitated discussion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "The discussion followed a modified Chatham House Rule and was facilitated by Larry Strickling, then Executive Director of the Collaborative Governance Project at the Internet Society.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "The Internet Society reiterated throughout the process that Internet Society staff members were merely facilitators and coordinators of the project and that any output would not represent the Internet Society’s official stance on net neutrality in the United States.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "The Internet Society made sincere efforts to ensure stakeholders represented a balance of viewpoints – those for and against net neutrality legislation, for and against Title II classification, from left- and right-leaning organizations, and from organizations including technical experts, FTC and FCC legal experts, civil society, Internet service providers, edge providers, academics, and others.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Over 100 experts from nearly seventy organizations were engaged for participation in this series, and ultimately over fifty individuals from over forty organizations participated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "[3] At the initial meeting in July 2018, participants established rules for engagement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "They agreed that the Chatham House Rule would be followed throughout the process and that, in addition, participants would agree not to discuss any aspect of the discussions over social media.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Participants also determined that if the meetings were to be productive, they would need to be advertised only to active net neutrality experts, as opposed to a wider audience.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "They recognized that for the process to be successful, they would need to make concessions and negotiations privately that they had not previously made publicly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "A wider audience would increase the chances of that information could be leaked outside the group, hampering the project.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "As such, an initial report was posted on the Internet Society’s website announcing the start of the series, but no other reports were published publicly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "While the Internet Society was disappointed that a truly multistakeholder process would not be possible in this context, we respected the fact that these individuals were willing to come together to have meaningful conversations about finding a path forward.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "We knew that opening the conversations too widely would have ultimately hindered the deliberations, putting the process at risk.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "In the first meeting, participants agreed there was an important need for this initiative and committed to work together to try reach consensus on open Internet principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "They began by discussing high-level principles and ultimately agreed that should serve as a baseline.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "The first meeting served as an opportunity to discuss which aspects of net neutrality would be covered by this process.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "In the next two meetings both held in July 2018, participants continued to develop and improve the rules for engagement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "This included a rule that silence would not constitute consent during meetings, and that all participants should have the opportunity to review any public outputs prior to publication.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "[4] In the first three meetings, participants spent the majority of the time deliberating high-level principles of an open Internet, the scope of the discussion, a general conduct standard, agency enforcement, how blocking and throttling should be defined, what aspects of paid prioritization should be considered, and the lessons learned from the project.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "Importantly, participants agreed that the key output this group should strive for was to create a means to protect both the open Internet and consumer expectations, to ensure Internet users are able to access the legal content they want, when they want.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "The group also agreed that they would like to create principles that Congressional members could use as a base for legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "At the end of the third meeting, participants agreed that to move forward more quickly and effectively, they should create a working group with a representative from many of the participating stakeholder groups to draft specific language for the principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "This working group included a representative from a left-leaning public interest group, a right-leaning public interest group, an Internet service provider, an industry association, a technical expert, and an academic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "This working group met in August and ultimately created a draft document, Net Neutrality Legislation: A Framework for Legislative Consensus, which was discussed at length at the fourth roundtable meeting in September.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "Participants took a deeper dive on issues such as rules and standards, a general conduct standard, paid prioritization, price regulation, and a choice of agency.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "At the end of the meeting, the working group was tasked with taking participant feedback and incorporating it into their draft document.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "The working group met for the second time in late-September and created a color-coded document of principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "In areas where there was significant consensus among all participants, the text was coded in green.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "Where there was some agreement, it was coded in yellow, and where there was no agreement it was coded in red.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "This helped participants at the fifth meeting in October move past sections where there was already agreement more easily to focus on areas where there was not consensus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "By the end of the fifth meeting, some participants felt it would be helpful to draft more specific legislative language and tasked the working group to produce this document.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "The working group met two additional times to develop and refine this document before the planned December roundtable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "However, the meeting was ultimately cancelled and rescheduled for February, once everyone had returned from winter holidays.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "Despite the cancelation, the draft legislative language document was circulated for review in December and the working group met once more in February 2019 to review and incorporate feedback before the sixth roundtable in February.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "At the sixth meeting, participants decided that this legislative document would need to be very specific in order to be effective, and by making it more specific the group would not be able to reach consensus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "Instead of pursuing the production of this document along with the principles, they decided to include aspects of the legislative text in the principles document.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "Participants also discussed and concluded conversations about all high-level principles, and agreed to meet one final time to finalize the document.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "At the seventh and final roundtable in late-February, participants reviewed the principles document one last time, made edits to the wording of the text, and discussed next steps, including publication.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "They decided that all participants, both those present at the final meeting and those that had participated in past meetings, would have an opportunity to internally review the principles before publication.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "Participants also had the opportunity to review a draft proposal from the Internet Society regarding how the principles would be presented.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "The group agreed that the Internet Society would reiterate that while this was a consensus-driven process, the Net Neutrality Principles do not represent or replace the existing positions of any participating organization.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "They also do not represent the position of the Internet Society.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "Instead, the Net Neutrality Principles reflect the conversations held over the past year in consultation with net neutrality experts of diverse ideological backgrounds.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "Participants emphasized they all believe there should be one comprehensive and sustainable policy regarding net neutrality in the United States, and many believe the basis for this legislation should come from these Principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "It was also agreed in the seventh meeting that the Internet Society would publish the Net Neutrality Principles and this process report to highlight the need for a sustainable net neutrality policy in the United States, and the importance and effectiveness of a diverse, collaborative model to create such a policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "Upon publication, all participants are at liberty to use and share the Principles with their own partners and colleagues as they see fit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "As a result of this process, a group of over fifty individuals, each representing often vastly different viewpoints on what constitutes an open Internet, were able to successfully create a set of Principles through a consensus driven process.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "The Net Neutrality Principles show that there is significant agreement among stakeholders, primarily when it comes to the purpose of legislation – to “ensur[e] that Internet users are able to access the content they want, when they want” and that “there should be a legislative framework for net neutrality that clearly and explicitly protects the interests of Internet users while fostering an environment that encourages investment in innovation.” The Principles also show that there is considerable support for many of the baseline issues that have been debated over the past decade – mainly, no blocking, no throttling, and no paid prioritization.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "Interestingly, participants also determined that given the expansion and reach of edge providers today, the scope of net neutrality legislation should be expanded.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "The Principles state: “any legislation should make clear that no party, including edge providers, shall be permitted to intentionally block or throttle consumer access to any lawful content based on the BIAS provider used by the consumer, subject to reasonable network management, nor should any party be permitted to block or throttle access to any lawful content that harms competition in the transmission of BIAS.” The group also spent considerable time discussing which agency should be tasked with enforcing any net neutrality legislation – the Federal Trade Commission, Federal Communications Commission, or a newly developed Commission (the FxC).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "Ultimately, the group was unable to reach consensus on which agency would be best prepared to manage net neutrality enforcement, so instead of naming an agency it outlined the specific attributes an agency should have.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "However, they agreed there should only be one agency with authority (as opposed to splitting authority between agencies).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": "They also reached consensus regarding the agency’s institutional attributes, statutory authority, enforcement, and authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "Many participants of the Net Neutrality Experts’ Roundtable series expressed their desire that the outcome of their work would provide Congressional members a set of baseline principles with which to draft and pass long-term, consensus-driven net neutrality legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "The Internet Society facilitated the Net Neutrality Experts’ Roundtable Series in the hopes that it would be possible, through a collaborative approach, to reach consensus among diverse experts on one of the most contentious issues in telecommunications politics in the United States.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": "Ultimately, through over a dozen in-person and virtual meetings with experts from a wide variety of stakeholder groups, we determined that it is possible, to an extent.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "There are several issues on which all experts can agree, including the need to protect against blocking, throttling, and paid prioritization.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 105,
+            "sentence": "All experts also agreed that one agency should be tasked to ensure the open Internet principles are upheld and that the regulatory agency should have a certain set of institutional attributes, statutory authorities, and enforcement mechanisms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 106,
+            "sentence": "However, there was no agreement on which agency –the FTC, FCC, or FxC – should be charged with regulatory oversight.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 107,
+            "sentence": "Several experts believed selecting an agency and defining some of the terms used to explain its powers (such as the statutes upon which a general conduct standard would rely) were issues of ideology, not policy, and therefore they would never be able to come to consensus on them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 108,
+            "sentence": "As we moved further in the process and conversations about these kinds of ideological differences developed, the meetings became more difficult.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 109,
+            "sentence": "By the fifth meeting, participants had already given up half their day four times over as many months.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 110,
+            "sentence": "It was harder to convince some participants that it was worthwhile to continue dedicating this time to the project, especially as doing so meant they would need to come to the table and compromise with people they may disagree with.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 111,
+            "sentence": "For this reason, significant effort was dedicated to stakeholder outreach and preparation for the last two meetings in order to ensure that those coming to the round tables were prepared and dedicated to the process’ success.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 112,
+            "sentence": "There were a few areas of ideological difference, but these represented the minority of issues potentially affected by an open Internet policy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 113,
+            "sentence": "While these areas are important and need to be addressed, they should not prohibit policymakers from moving forward with a concrete, sustainable rulemaking or law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 114,
+            "sentence": "We hope policymakers will use the Net Neutrality Principles as a starting point for legislation, recognizing the areas in which consensus already exists and focusing solely on addressing the ideological sticking points.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 115,
+            "sentence": "The Internet Society also believes this process was largely successful because of the diverse group of stakeholders involved.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 116,
+            "sentence": "The Net Neutrality Principles would not be nearly so comprehensive or strong without the support and dedication of the dozens of organizations and individuals that created them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 117,
+            "sentence": "We hope this report will serve as inspiration and motivation as a way to find common ground on other contentious telecommunication policy issues in the United States.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 118,
+            "sentence": "We would like to sincerely thank all participants of this process for their time, effort, and dedication.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 119,
+            "sentence": "Appendices can be found in the PDF version of the report .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 120,
+            "sentence": "[1] Several court cases are still being carried out.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 121,
+            "sentence": "[2] It is important to note that while the Internet Society served as a convener and facilitator of these meetings, the Net Neutrality Principles do not represent a position of the Internet Society.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 122,
+            "sentence": "Rather, they represent the conversations held over the past year in consultation with the net neutrality experts.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 123,
+            "sentence": "[3] For more information on stakeholder engagement and participation, see Appendix I.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 124,
+            "sentence": "[4] All participants were given an opportunity to review all public documents, including this report, prior to publication",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 125,
+            "sentence": "By continuing to use this site, you agree to the use of cookies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 126,
+            "sentence": "To learn more about how you can control use of cookies   see our Cookie Policy",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

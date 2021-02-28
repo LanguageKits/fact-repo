@@ -1,0 +1,251 @@
+{
+    "document_id": -1,
+    "url": "https://www.multichannel.com/news/report-cos-working-for-isp-backed-group-scammed-net-neutrality-docket",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "John Eggerton",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:31:47.490703+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "BuzzFeed investigation calls out millions of pro-ISP dereg comments filed with FCC Publish date: Oct 3, 2019 BuzzFeed was reporting Thursday (Oct. 3) that a years-long investigation had uncovered millions of bogus comments favoring ISP deregulation filed by two companies working for Broadband for America, the pro ISP-deregulation group which claims the major ISP trade groups--NCTA-The Internet & Television Association, CTIA, USTelecom, and ISPs AT&T, Comcast, Charter and Cox among its members.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The story did not suggest BFA orchestrated the use of bogus comments, only that the companies working for it appeared to have generated them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "There were bogus comments aplenty on both sides of the net neutrality issue in the FCC docket, which contained a record-shattering 22 million comments, millions of which have since been exposed as fraudulent.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The Buzzfeed story cites data scientist Jeff Kao who estimated that 99.7% of the “organic” comments--not prewritten or duplicate comments, favored retaining the Obama-era rules against blocking, throttling and paid prioritization, rules that the FCC under Ajit Pai successfully overturned, a decision a federal court upheld two days before Buzzfeed published its investigative piece.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Broadband for America had said it commissioned its own study back in 2017, the chief takeaway from which was that 69.9% of the comments were in favor of repealing Title II, when \"fake and unverifiable\" international comments were factored out.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "But that was focused on international comments.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "NCTA declined to comment on the BuzzFeed story.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "BFA, and other companies and associations identified as members by BFA, had not returned requests for comment at press time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Free Press, which opposed the ISP deregulation and has had big questions about the legitimacy of the net neutrality comment process , weighed in on the story.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "“We had long suspected the broadband industry was behind the illegal effort to fake public opposition to Net Neutrality,\" said Free Press Senior Director of Strategy and Communications Timothy Karr.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "\"Thanks to this invaluable investigative reporting, we can see the money trail that reportedly leads from the largest cable and phone companies through their front group Broadband for America and into the hands of those paid to defraud the public.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "“This is not only outrageous, it’s exactly the kind of violation that federal and state authorities have been investigating.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The proper authorities must take the next step and hold those involved to account.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "And Congress must demand answers from Chairman Pai on what he’s doing to prevent fraud and evaluate real public input.”",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "“As the D.C.Circuit recognized this week, the FCC’s decision to abandon the heavy-handed, utility-style Internet regulations imposed under the prior Administration was well-grounded in the law and the facts contained in the record,\" said a spokesperson for FCC Chairman Pai.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "\"The Restoring Internet Freedom Order was based on a careful examination of the law and the facts, not substance-free form letters, such as the nearly 8 million identical one-sentence comments supporting Title II regulation that were tied to email addresses from FakeMailGenerator.com.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "The FCC's net neutrality comment docket has been a flashpoint for net neutrality activists and the subject of outside investigations, including by the New York State Attorney General and the FBI.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Pai has conceded there were opportunities for mischief in the docket—which ultimately manifested itself in bogus comments, including ones from a Russian addresses—but he signaled that was the price of erring on the side of inclusiveness.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "But just how many were filed, and what the FCC's procedures for at least trying to verify their veracity, became an ongoing dialog, though some Dems would say monologue, with the FCC in the run-up to the FCC's December 2017 vote to roll back net neutrality regs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "In a letter to the Hill, Pai had explained that to enable the filing of bulk comments, the FCC system in 2016 was reconfigured to allow automated submissions, and that while it uses commercially available tools to protect the system from cyber attacks, it \"is fundamentally an open, public-facing system, which limits our ability to shut down inappropriate bots accessing [it].\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "There is also no limit to the number of comments that can be filed, other than a size limit of 25 MB for each comment, and five files per submission, including attachments.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The FCC is expected to take public comments into consideration, though in an age of millions of such comments, it is arguably a practical impossibility.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Fortunately, how many comments are filed is not supposed to be a determinative factor in decision-making, any more than the loudest voice or the biggest pockets are supposed to decide whether or not a policy is good or bad.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "terms: FCC NCTA ISPs USTelecom CTIA House Republicans seek input on past approaches Say potential FCC rollback could moot appeal FCC Say, like California, state's rereg efforts are preempted FCC Says FCC must cooperate fully with GAO investigation But comments remain focused on general dislike of deregulation Want Pai to detail how rules rollback decision was made But says may need more to enforce edge providers privacy and data security FCC Tens of thousands posted in last day alone RSS",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

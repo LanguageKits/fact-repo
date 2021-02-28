@@ -1,0 +1,31 @@
+{
+    "document_id": -1,
+    "url": "https://www.charismamag.com/life/culture/45454-lifting-the-veil-of-deception-surrounding-covid-19-conspiracies-ungodly-agendas",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:51:44.969964+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "  Your browser does not support JavaScript!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Please enable JavaScript and reload this page.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

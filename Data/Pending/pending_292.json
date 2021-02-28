@@ -1,0 +1,301 @@
+{
+    "document_id": -1,
+    "url": "https://www.independent.org/news/article.asp?id=10507",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Adam B. Summers",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:54:41.217688+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Energy and the Environment eBooks Subscribe to Event DVDs Donorâs Bill of Rights En EspaÃ±ol En EspaÃ±ol Energy and the Environment eBooks Subscribe to Event DVDs Donorâs Bill of Rights ← NEWS   COMMENTARY  September 12, 2018  Also published in (CA) Wed. September 12, 2018 , (CA) Wed. September 12, 2018, Wed. September 12, 2018, (CA) Wed. September 12, 2018, (CA) Wed. September 12, 2018, (CA) Wed. September 12, 2018, (CA) Wed. September 12, 2018, (CA) Wed. September 12, 2018, (CA) Sat.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "September 15, 2018, (CA) Sat.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "September 15, 2018, (CA) Sat.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "September 15, 2018, and (CA) Tue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "September 18, 2018 One of the more controversial of the flurry of bills just passed by the Legislature is a state-based network neutrality measure governing internet service providers handling of content and applications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "But if Gov. Jerry Brown truly wants to preserve a free and open internet and Silicon Valley's remarkable innovation, he should recognize that government control is not the way to accomplish it, and veto the bill.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "After many years of debate and failed efforts to impose net neutrality at the federal level, the Federal Communications Commission in 2015 reclassified ISPs from \"information services\" to \"common carrier services\" so that it could regulate them like public utility monopolies under the Communications Act of 1934.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "But when the Democrats' 3-2 edge on the commission changed to a 3-2 Republican advantage during the Trump administration, the FCC reversed this position, repealing the 2015 order in December with a new order that went into effect in June.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "California, and a number of other blue states, responded with proposals to reintroduce net neutrality rules within the boundaries of their state authority.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Just how much authority states have to impose such restrictions will doubtless be the subject of costly and lengthy litigation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The FCC's December order asserts that it preempts \"any state or local measures that would effectively impose rules or requirements that we have repealed or decided to refrain from imposing in this order or that would impose more stringent requirements for any aspect of broadband service that we address in this order.\" At the heart of the matter is whether ISPs should have the ability to block content or applications, reduce their data transfer speeds, known as bandwidth throttling, or otherwise prioritize them for financial, ideological or other reasons.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Incidents violating net neutrality principles have been pretty rare, and generally have occurred as ISPs sought to manage network congestion, as increased video streaming, online gaming, and other bandwidth-intensive activities stress bandwidth capacity to the point that it degrades services for other users.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "After the California Senate in May approved Senate Bill 822, authored by state Sens.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Scott Wiener (D-San Francisco) and Kevin de Leon (D-Los Angeles), Sen. Wiener stated that \"the role of internet service providers is to provide neutral access to the internet, not to pick winners and losers by deciding (based on financial payments or otherwise) which websites or applications will be easy or hard to access, which will have fast or slow access, and which will be blocked entirely.\" So, naturally, his solution is to have the government pick winners and losers, rather than the numerous ISPs in a highly competitive market and the millions of consumers who can easily switch to providers that better meet their needs if they do not like their existing provider's services or policies.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "It is precisely because the internet, and the high-tech sector broadly, have thus far remained largely unregulated that they have seen such remarkable growth and innovation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "It is in this unfettered atmosphere that e-commerce has offered consumers a wider choice of goods and services at lower costs, almost unlimited information and instantaneous communication has been expanded to nearly everyone, and access to the internet has continued its rapid increase.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Having the government dictate pricing policies and other business practices would violate the right of contract, property rights and perhaps the Takings Clause of the Fifth Amendment-hardly the \"free and open internet\" mantra that net neutrality proponents claim.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Besides, even if ISPs, who have spent billions of dollars building out their internet infrastructure, were to adopt a tiered or variable pricing model for internet usage, this user fee model could represent a fair and reasonable way of allocating scarce resources, ensuring that those who use their infrastructure the most pay more for doing so, and would provide additional revenue with which to invest in further bandwidth expansions to better serve their customers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Cutting off this option ensures that less will be invested in expanding bandwidth, and that bandwidth hogs will lead to the degradation of internet services for everyone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Nevertheless, the profit motive of ISPs gives them a strong incentive to ensure access to the internet sites and services consumers want, or else they will seek out other providers that will.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "In any case, whether price structures are fair or content practices are reasonable should be determined by customers, not politicians.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "If this were not enough, it is the height of hypocrisy that many of the same people supporting net neutrality are simultaneously cheering on the censorship of conservatives and libertarians by tech companies such as Facebook, Google (which owns YouTube) and Twitter-which, though I may disagree with their political biases, have every right to do so as private companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Simply put, free markets are far more efficient at offering services, determining appropriate prices, fostering innovation, and allocating scarce resources than government control.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Those who advocate most for government restrictions such as net neutrality not only violate the rights of ISPs and consumers to voluntarily enter into contracts for their mutual benefit, they may also find that they are not so enthusiastic for governmental control when those with whom they disagree hold the reins of political power.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "We would do much better to place our trust in the pressures put on providers by their millions of customers and numerous competitors eager to steal their market share by better serving customers than in a handful of politicians and bureaucrats in Washington, D.C., or Sacramento.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "is a Research Fellow at the Independent Institute.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Before posting, please read our .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Please enable JavaScript to view the comments powered by Disqus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Get the latest updates straight to your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

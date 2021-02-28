@@ -1,0 +1,321 @@
+{
+    "document_id": -1,
+    "url": "https://www.northwestgeorgianews.com/catoosa_walker_news/lifestyles/dwight-watt-what-is-net-neutrality/article_8c208048-621e-11ea-8674-9350cb7c687f.html",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Dwight Watt",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:30:10.124472+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": " Saved items 58° (30728) A mix of clouds and sun.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Slight chance of a rain shower.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Winds WNW at 5 to 10 mph..",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Winds NW at 5 to 10 mph.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": " Net neutrality is once again in the news.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "In 2015 the FCC implemented net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Then a basic repeal (some parts repealed and some modified) took effect in June 2018.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Now there are lawsuits coming to the forefront in the courts with rulings expected soon.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Net neutrality is simply a rule to prevent Internet Service Providers (ISPs) from charging providers of content for sending it faster through their net or slowing the speed of content from providers that do not pay or that the ISP wishes to penalize.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The ISP is the company (such as Comcast, Charter, Pineland, etc.)",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "that provides you with your access to the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Content is anything that is delivered across the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "By either providing faster or slower services, then the ISP could decide for instance that Disney would pay them extra for delivering Disney+ faster; and since Netflix may not pay, they would cut their speed, which then means Disney+ works better than Netflix (each of products and companies named in article are just random examples and I have no knowledge of them doing anything adverse in this realm to consumers.).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Net neutrality does not stop ISPs from charging different rates for different speeds of service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "It also would not have made a difference with the fire department in California when the large fires that bought a limited cell service plan and when they exceeded their usage amount for the month their speed was reduced making it harder to coordinate firefighters.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "That was lack of planning on the fire department’s part to either have gotten a larger plan or struck a deal with ISP/cell provider that if they exceeded plan at any point they would be increased on plan for month at a higher fee.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Another comparison is the express lanes in Atlanta now on I-75.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "If we had highway neutrality those lanes could be used by all vehicles and not just those paying to use them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "As it is there is no highway neutrality so when I go along I-75 in the Atlanta area since I will not pay for using the lanes, I cannot use them, and I have to go where more traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "But cars who pay deliver their content (drivers and passengers) quicker to their destination.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Dwight Watt does computer work for businesses, individuals and organizations and teaches about computers at a college in Northwest Georgia.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "His website is www.dwightwatt.com His email address is dwight@dwightwatt.com .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "WhatsApp SMS Send your questions ...",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Send your questions about computers to my email: dwight@dwightwatt.com.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "I will pick a question to answer each week.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Recommended for you  Latest e-Edition  To view our latest e-Edition click the image on the left.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Latest e-Edition  To view our latest e-Edition click the image on the left.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Argument turns deadly in Acworth, Bartow investigators seeking suspect in stabbing Apr 26, 2020 Bartow County Sheriff's Office searching for suspect in fatal stabbing Apr 26, 2020 +2 Bartow to build another ramp on the Etowah River Apr 18, 2020 Wall Street pulls back as dismal economic data piles higher 30 million have sought US unemployment aid since virus hit Biden assault allegation prompts GOP attacks, Dem worries Trump praise of 'tormented' Flynn raises pardon speculation Surf's down in California: Governor set to close beaches Poll: Many Americans feel lonely and anxious during pandemic US intel: Coronavirus not manmade, still studying lab theory We're always interested in hearing about news in our community.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Let us know what's going on!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Go to form Rome man charged with human trafficking for sex Wreck leads to felony drug charges against Rome woman Georgia State Patrol investigation continues into fatal wreck that killed 2 Local family members in quarantine after father dies from COVID-19 Police: Rome woman had heroin at ER 'I feel like God broke the mold with him' -- Businessman Jimmy Payne praised after death Some open, some choose to hold off Calhoun Health Care Center: 23 COVID-19 patients, 5 deaths; 7 staff also positive Closed down too late and opened up too soon COVID-19 Update: After flat figures, Polk County positives jump past 40 as statewide cases jump past 22,000 Ringgold, GA 30736  706-935-2621 catoosacountynews@npco.com × Ads are being blocked by your browser.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "disable your ad blocker, whitelist our site, or purchase a subscription",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

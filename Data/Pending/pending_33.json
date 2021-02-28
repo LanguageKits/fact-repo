@@ -1,0 +1,21 @@
+{
+    "document_id": -1,
+    "url": "https://actionnetwork.org/petitions/these-states-are-fighting-for-net-neutrality-is-yours-one-of-them",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:38:47.198965+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "This is a campaign by: A version of this action that uses less javacript and may be usable for those who don't use javascript is available at https://actionnetwork.org/petitions/these-states-are-fighting-for-net-neutrality-is-yours-one-of-them?nowrapper=true&referrer;=&source;= This is a campaign by: 508-474-5248 / Other:  support@fightforthefuture.org /",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

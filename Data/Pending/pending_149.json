@@ -1,0 +1,301 @@
+{
+    "document_id": -1,
+    "url": "https://www.mediamatters.org/hill/hill-dumping-ground-anti-net-neutrality-pieces-backed-undisclosed-telecom-money",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "ERIC HANANOKI",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:29:09.171819+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Writers backed by telecommunications money who are looking to attack current net neutrality rules have found an easy venue to place op-eds and hide their funding: the editorial page of .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "In 2015, the FCC enacted net neutrality rules that protect consumers by prohibiting “internet service providers like AT&T, Comcast and Verizon from speeding up, slowing down or blocking any content, applications or websites you want to use.” In a gift to the telecom industry, Republican chairman Ajit Pai last month unveiled his plans to undo those open-internet rules .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The telecom industry has heavily funded organizations that seek to turn public and lawmaker opinions against those Obama-era rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The sector’s lead trade and lobbying groups include NCTA – The Internet & Television Association, CTIA, and Broadband for America.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": ", a D.C.-based outlet that caters to Capitol Hill, has become a favorite dumping ground for telecom-backed opinion pieces that benefit their corporate funders.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Editor-in-Chief Bob Cusack told in a May 26 email that “oped writers sign official forms that require them to disclose any such funding and/or conflict of interests.” After sent him a list of op-eds that had undisclosed conflicts of interest, Cusack said the publication would look into the matter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "A follow-up question on the status of that review has not been answered as of posting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "has documented other instances in which the media have failed to disclose conflicts of interest in the debate over net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Here are eight recent examples of running anti-net neutrality pieces without disclosing the telecom financing behind the writers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "(Funding searches were conducted through the Center for Public Integrity's Nonprofit Network tool.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Harold Ford Jr., honorary chairman of , wrote a May 24 opinion piece praising Pai for trying “to repeal burdensome public utility regulations.” Broadband for America is backed by telecommunications companies like AT&T and associations such as CTIA and NCTA.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Ford’s limited liability company received $345,000 in consulting fees from Broadband for America for the fiscal year ending in June 2015, according to the group’s IRS 990 form.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Theodore Bolema and Michael Horney, who work for the Free State Foundation, wrote a May 15 opinion piece pushing for “light touch regulation of broadband.” The piece positively cited CTIA.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Free State Foundation has received funding from NCTA and CTIA.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "piece headlined “American innovation is the winner as the FCC tackles net neutrality” that specifically praised telecom companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Citizens Against Government Waste has received funds from NCTA.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Paige Agostin, a senior policy analyst at Americans for Prosperity, wrote a May 5 opinion piece praising Pai for issuing “a welcome response to an all-too-typical exercise in regulatory overreach.” Americans for Prosperity has received funds from NCTA.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Thomas M. Lenard, a senior fellow and president emeritus at the Technology Policy Institute, wrote an April 28 opinion piece which praised Pai and defended internet service providers against concerns over content blocking.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Lenard’s group states on its website that its supporters include AT&T, Charter, Comcast, and NCTA.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The group has received funds from NCTA and CTIA, according to its 990 forms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "April 28 piece attacking the Obama administration’s net neutrality rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "ALEC has received funding from NCTA and CTIA .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Tom Giovanetti, president of the Institute for Policy Innovation (IPI), wrote an April 27 opinion piece praising Pai for helping to eliminate “harmful regulation.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "IPI has received funds from NCTA and MyWireless.org (now ACTwireless ), which is a project of CTIA.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Doug Brake, a senior telecommunications policy analyst at the (ITIF), wrote an April 27 opinion piece praising Pai for “moving in the right direction” with his net neutrality plans.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "The ITIF has received funding from NCTA and CTIA.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Laura Ingraham used to be a leading promoter of public mask usage.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Now she frames it as a media conspiracy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "04/30/20 3:07 PM EDT YouTube took down a coronavirus conspiracy theory video for violating its rules, but it's making money through ads on reuploads 04/30/20 2:05 PM EDT Brian Kilmeade accidentally reveals the cruel implications of Fox's coronavirus coverage 04/30/20 11:43 AM EDT NRA board member encouraged people to attend protest against social distancing: “They can’t arrest all of us” 04/30/20 10:48 AM EDT Fox host suggests Democratic governors are making people stay at home to hurt Trump 04/30/20 10:27 AM EDT 0 Comments 0 The Hill's John Solomon review: Newspaper tries to wash its hands of Fox News contributor 02/19/20 3:39 PM EST Evidence from Giuliani associate Lev Parnas reveals context of John Solomon's involvement in Ukraine plot 01/15/20 3:10 PM EST Mainstream news organizations repeat Trump's evidence-free claim about Iran and U.S. embassy 01/09/20 5:25 PM EST Sign up for email updates Footer menu",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

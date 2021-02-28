@@ -1,0 +1,441 @@
+{
+    "document_id": -1,
+    "url": "https://www.mercatus.org/bridge/commentary/does-net-neutrality-increase-online-freedom",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Brent Skorup",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:41:00.472144+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to main content Follow everything happening at the Mercatus Center from week to week by subscribing to This Week at Mercatus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "* YouTube COVID-19 COVID-19 Get the latest in research, commentary, and more from Mercatus scholars.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Until recently, I wasn’t familiar with Freedom House’s Freedom on the Net reports.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Freedom House has useful recommendations for Internet non-regulation and for protecting freedom of speech .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Their Freedom on the Net Reports make an attempt at grading a complex subject: national online freedoms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "However, their latest US report came to my attention.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Tech publications like TechCrunch and Internet regulation advocates were trumpeting the report because it touched on net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Freedom House penalized the US score in the US report because the FCC a few months ago repealed the so-called net neutrality rules from 2015.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The authors of the US report reached a curious conclusion: Internet deregulation means a loss of online freedom.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "In 2015, the FCC classified Internet services as a “Title II” common carrier service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "In 2018, the FCC, reversed course, and shifted Internet services from one of the most-regulated industries in the US to one of least-regulated industries.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "This 2018 deregulation, according to the Freedom House US report, creates an “obstacle to access” and, while the US is still “free,” regulation repeal moves the US slightly in the direction of “digital authoritarianism.” The authors of the US report resort to net neutrality platitudes and don’t actually examine the 2015 Title II order.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "It’s never encouraging when a substantive report begins with an inaccurate summation of the 2015 Order: that the Order “ensured that internet service providers treated internet traffic equally.” That’s not what the Order does .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "(The “treat all traffic equally” aspiration is “ happy little bunny rabbit dreams, ” in the words of early Internet developer David Clark.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Despite branding efforts by Internet regulation advocates, the 2015 Order wouldn’t be recognizable as net neutrality to the average net neutrality supporter.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The Obama FCC was quite clear that the Order allowed ISP content blocking and prioritization of services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Relatedly, as pro-net neutrality publications like TechCrunch have noted , the net neutrality policies in the 2015 Order are optional for ISPs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "\"[A] tiny ISP in Texas called Alamo .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "wanted to offer a “family-friendly” edited subset of the internet to its customers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "\"Funnily enough, this is permitted!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "And by publicly stating that it has no intention of providing access to “substantially all Internet endpoints,” Alamo would exempt itself from the net neutrality rules!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Yes, you read that correctly—an ISP can opt out of the rules by changing its business model.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The current FCC cited this optional nature of the 2015 rules as a good reason to repeal the rules: \"In practice, the deregulates curated Internet access relative to conventional Internet access and may induce ISPs to filter content more often, rendering the no-blocking and no-throttling rules ineffectual as long as an ISP disclosed it was offering curated services.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "I noticed that this report isn’t the first time that advocate talking points have clouded what should be substantive regulatory analysis from Freedom House.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "In November 2017, Freedom House issued a statement when the FCC announced plans to repeal the 2015 Title II order: ",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "\"This change ...could also set a dangerous precedent for countries that model their policy on Washington’s.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "In less democratic countries, where most providers of online content are state-owned and censored, authorities would have an excuse to give faster lanes of access to progovernment outlets.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Their apparent unfamiliarity with US telecom laws means they got this exactly backwards.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "It was the 2015 Title II order that increased the amount of control that the President of the US has over Internet access, as Berin Szoka has explained .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "If there was a model to would-be despots around the world, it was the Title II classification in 2015, which gave greater war power authority to the President to prioritize the President’s favored communications over the Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "(Left unexplained by Freedom House: why the FCC’s non-Title II policy from roughly 1996 to 2015 had not already inspired authoritarians.)",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "The 2018 deregulation reduced Presidential power over Internet services.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Yet, according to Freedom House, the President’s loss of power to prioritize communications is also a loss of freedom to Internet users.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "The Freedom House US report omits these details, uncritically endorses net neutrality maxims, and therefore slightly downgrades the US score to 22 (lower is better).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "That puts the US in the same class as the UK (score: 23), a country that is arresting thousands of online trolls and posters annually for “grossly offensive” social media posts.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "This includes convictions for a teenage girl who posted the lyrics from Snap Dogg’s I’m Trippin’ to pay tribute to a boy who died in a road crash.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "a young man’s tasteless attempt to annoy his girlfriend, including by teaching her pug to do a Nazi salute.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Needless to say, nothing in the US, and certainly not the recent Internet deregulation, compares to these mass arrests and convictions for online behavior.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Ironically, the Freedom House US Internet report reveals the same deficiency as the 2015 Internet regulations: creating a standard that is aspirational, occasionally internally inconsistent , and multi-factor means that, too often, advocates can reach whatever pre-determined result they wish.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "What's Next on the Bridge Follow everything happening at the Mercatus Center from week to week by subscribing to This Week at Mercatus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Each week, we will send you the latest in publications, media, and events featuring Mercatus research and scholars.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "* Your support allows us to continue bridging the gap between academic ideas and real-world policy solutions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "YouTube PhD Fellowship MA Fellowship YouTube RSS Toll-free Phone: (800) 815-5711 (703) 993-4930 -  Fax: (703) 993-4935 -  Media: (703) 993-4881",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

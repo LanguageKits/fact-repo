@@ -1,0 +1,541 @@
+{
+    "document_id": -1,
+    "url": "https://cumberlink.com/news/local/govt-and-politics/bill_tracker/bill-tracker-bringing-net-neutrality-back-to-pennsylvania/article_709b962c-8e86-5e11-a183-853f1fb686ea.html",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Daniel Walmer",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:30:50.820393+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": " Saved items COVID-19 Share a story Submit a letter TV Guide Sheriff's Sale Teen of the Week E-edition LiveWell CV Newsletter sign-up Contact us YouTube .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Saved items E-edition WhatsApp SMS Bill Tracker: Bringing net neutrality back to Pennsylvania Share this WhatsApp SMS Bill Tracker: Bringing net neutrality back to Pennsylvania Sep 24, 2019 Sep 24, 2019 × You have run out of free articles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "You can support our newsroom by joining at our lowest rate!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Log in or Activate your account .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Loading&hellp; {{title}} {{start_at_rate}} {{format_dollars}} {{start_price}} {{format_cents}} {{term}} {{promotional_format_dollars}}{{promotional_price}}{{promotional_format_cents}} {{term}} {{html}} {{action_button}} Thanks for being a subscriber.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Sorry, your subscription does not include this content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Please call (866) 589-4469 to upgrade your subscription.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "× Keep reading for FREE!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Enjoy more articles by signing up or logging in.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "No credit card required.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Log in Sign up {{featured_button_text}} {{featured_button_text}} WhatsApp SMS Each legislative session thousands of bills and amendments are introduced in the Pennsylvania Legislature.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Only a fraction become law, and an even smaller portion receive wide media coverage.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "These bills impact the lives of people living in Pennsylvania every day.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Each week The Sentinel will highlight one bill that has not received widespread attention.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "About the bill When net neutrality advocates lost a fight at the Federal Communications Commission in December 2017, states entered the battlefield.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "One bill supporting net neutrality in the Pennsylvania Legislature would have the state join the fight in opposition to the Trump administration.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Net neutrality is the principle that internet providers like AT&T or Verizon must act in a manner analogous to phone service providers, which provide the same connection regardless of who is calling.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Some computer scientists and security experts worry that without net neutrality a small number of internet service providers could block or delay content they don’t like.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "In response to those concerns, an Obama-era regulation forbade internet providers from blocking or slowing websites or offering faster speeds to websites willing to pay more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "However, net neutrality also has opposition from the telecommunications giants and free market advocates, who say it could increase costs that providers pass along to consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "They also argue the policy is unnecessary because internet service providers would likely take a public relations hit if they deliberately slowed internet speeds.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "rescinded the net neutrality rules by a 3-2 party-line vote.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "This led California and several other states to pass their own net neutrality bills.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "As of May 2019, there had been net neutrality bills or resolutions introduced in 29 states, according to the National Conference of State Legislatures.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "However, state bills that have passed have run into still-ongoing legal disputes with the Trump administration over whether states can legally contradict FCC policy with their own net neutrality regulations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Rep. Elizabeth Fiedler’s Pennsylvania bill would prohibit internet service providers from blocking or impairing lawful internet content or giving preferable treatment to content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "It would also define internet service providers as public utilities, granting the Public Utility Commission authority to enforce the net neutrality law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "“Most people get their internet access from a handful of big companies, including AT&T, Comcast and Verizon.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Under current law, the company you pay for your internet service could prevent you from going to a competitor’s website, interfere with speech that criticizes the company, or even block your access to a union website during a labor conflict at work,” Fiedler said in a news release.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "“We rely on the internet for so much of our communication with work, school, government and family, and for financial transactions including purchases and bill paying.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "We need to protect our equal access to information on the internet.” Of course, state bills also run into opposition from opponents of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "For example, the libertarian Cato Institute blasted a 2018 Pennsylvania Senate bill, saying it would financially handcuff internet service providers and likely lead them to raise costs or reduce efforts to upgrade their networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Fiedler’s bill has not received a committee vote in the Republican-controlled House.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Daniel Walmer covers public safety for The Sentinel.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "You can reach him by email at dwalmer@cumberlink.com or by phone at 717-218-0021.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Local co-sponsors: Date introduced: Feb. 19, 2019 This bill is sitting in the House Consumer Affairs Committee.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "0 0 0 0 0 Bill-tracker Get Government & Politics updates in your inbox!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Stay up-to-date on the latest in local and national government and political topics with our newsletter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "* I understand and agree that registration on or use of this site constitutes agreement to its user agreement and privacy policy .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Related to this story Bill Tracker: Applying the “lemon law” to motorcycles Sep 18, 2019 Each legislative session thousands of bills and amendments are introduced in the Pennsylvania Legislature.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Only a fraction become law, and an … Bill Tracker: 'Gag clauses' stop pharmacists from telling you how to save money Sep 10, 2019 One survey found that at least 20 percent of pharmacists are frequently affected by gag clauses, according to the Associated Press.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "+2 Bill Tracker: Banning pet stores from selling animals from puppy mills Aug 27, 2019 Pet shops will additionally be required to keep records of the source of each dog, cat or rabbit acquired for at least two years.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Bill Tracker: Human trafficking hotline signs in every bathroom stall Aug 20, 2019 Each legislative session thousands of bills and amendments are introduced in the Pennsylvania Legislature.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Only a fraction become law, and an … Bill Tracker: Raising the age to purchase tobacco products to 21 Aug 13, 2019 Two recent scientific studies found that so-called tobacco-21 laws have been effective in reducing the amount of people aged 18-20 who smoke.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Bill Tracker: Keeping juveniles out of adult prison Oct 1, 2019 Juveniles detained in adult prison are more likely to die by suicide and be sexually assaulted in prison, and have decreased access to school and mental health services, the bill's sponsor said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "+2 Bill Tracker: Banning safe drug injection sites in Pennsylvania Oct 8, 2019 \"In the midst of an epidemic, we should not be providing spaces for users to continue to use without requiring treatment,\" two state senators said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Bill Tracker: Joining the movement for college athlete compensation Oct 15, 2019 State Reps. Ed Gainey and Dan Miller said their Pennsylvania bill will “largely mirror” California’s new law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Bill Tracker update: Underage tobacco use, volunteer firefighter and electric car proposals make progress Oct 29, 2019 One bill featured by The Sentinel this year has already become law, while others have made progress in the legislative process.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Bill Tracker: Airbnb registration could aid in collection of hotel tax Nov 12, 2019 House Bill 787 would require platforms such as Airbnb to register with the Pennsylvania Department of Revenue and provide a list every three months of all hosts using their platform to rent their properties.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "WhatsApp SMS YouTube , 327 B St. Carlisle, PA .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Powered by from TownNews.com .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "{{title}} {{summary}} You don't have any notifications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Get up-to-the-minute news sent straight to your device.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

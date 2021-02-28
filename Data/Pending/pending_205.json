@@ -1,0 +1,651 @@
+{
+    "document_id": -1,
+    "url": "https://arstechnica.com/tech-policy/2020/02/trump-report-bizarrely-claims-net-neutrality-repeal-raised-incomes-50b-a-year/",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "JON BRODKIN",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:31:34.685893+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to main content Biz & IT RSS Feeds Filter by topic  Biz & IT Front page layout Site theme Black on white White on black Sign in  Comment activity  Sign up or login to join the discussions!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Trump report bizarrely claims net neutrality repeal raised incomes $50B a year Trump economic report relies on \"pseudo-economics.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "A new White House report claims without convincing evidence that eliminating consumer-protection rules in the broadband industry has boosted real incomes by tens of billions of dollars per year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Including a supposed improvement to \"consumer welfare,\" the report claims an annual benefit of more than $100 billion from killing net neutrality and privacy rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The February 2020 \"Economic Report of the President\" claims that \"the Trump Administration's 'Restoring Internet Freedom' order will increase real incomes by more than $50 billion per year and consumer welfare by almost $40 billion per year.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "That's in reference to the Federal Communications Commission's repeal of net neutrality rules and its related deregulation of the broadband industry.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The White House report also claims a decision by Congress and President Trump to eliminate broadband privacy rules created \"additional real income of about $11 billion per year.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "That financial benefit will double over the years, the report claims, saying that \"After 5 to 10 years when these effects are fully realized, the total impact on real incomes is estimated to be $22 billion.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The president's report covers all these claims in a little more than three pages in a section titled \"Consumer savings on Internet access.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The report claims that Obama-era net neutrality rules harmed Americans in this paragraph: Before the Trump Administration, another FCC rule adopted in 2015 restricted the vertical pricing arrangements of ISPs—that is, monetary transactions between ISPs and the providers of Internet content such as Netflix and Yahoo.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The 2015 rule also imposed government oversight on communication services, making it difficult for these companies to quickly respond to competition and provide new goods and services on the market.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "These vertical pricing and other restrictions are being removed by the FCC through its \"Restoring Internet Freedom\" order, returning to regulating ISPs under Title I of the Communications Act.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "How did removing those rules create a $50-billion-per-year increase in \"real incomes\" and a $40-billion-per-year increase in \"consumer welfare?\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The White House report supported that conclusion by pointing to a 2008 study on DSL line sharing, which the White House describes as follows: Previous research shows that vertical pricing restrictions in broadband significantly reduce the quantity and quality of services received by broadband consumers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Hazlett and Caliskan (2008), for example, looked at \"open access\" restrictions that were applied to US Digital Subscriber Line service (DSL) but not Cable Modem (CM) access.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "They found that three years after restrictions on DSL services were relaxed, in 2003 and 2005, US DSL subscriptions grew by about 31 percent relative to the trend, while US CM subscriptions increased slightly relative to the trend.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Average revenue per DSL subscriber fell, while average revenue per CM subscriber was constant (although quality increased).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "At the same time, DSL and CM subscriptions in Canada, which was not experiencing the regulatory changes, did not increase relative to the trend.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Applying these findings to ISPs in the years 2017–27, we find that, by removing vertical pricing regulations, the Trump Administration's \"Restoring Internet Freedom\" order will increase real incomes by more than $50 billion per year and consumer welfare by almost $40 billion per year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "But the FCC's net neutrality rules were hardly similar to the old DSL line-sharing requirements .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The line-sharing rules let DSL Internet providers offer service over the phone lines controlled by incumbent telephone companies, letting consumers choose from many DSL providers instead of just one.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Unlike line sharing, the net neutrality rules didn't address the competition problem that today leaves many Americans with a choice of just one or two high-speed providers .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Instead, the rules prohibited certain kinds of anti-consumer behavior that ISPs are more likely to pursue when they have virtual monopolies over Internet access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The Obama-era rules banned blocking, throttling, and paid prioritization; forced ISPs to be more transparent about prices and the consequences of going over data caps; and gave consumers more legal avenues to complain about harmful business practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Title II hasn’t hurt network investment, according to the ISPs themselves Ajit Pai says he’s fixed giant FCC error that exaggerated broadband growth In addition to clumsily equating line sharing with net neutrality, the White House analysis ignored what happened during the years net neutrality rules were in effect.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "FCC Chairman Ajit Pai claims that net neutrality rules reduced investment in broadband networks and that repealing the rules caused providers to expand their networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "In reality, industry data touted by the cable industry shows that broadband speeds soared while net neutrality rules were enforced , and major ISPs admitted to investors that the net neutrality rules didn't affect network spending.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "FCC data shows that broadband networks grew at about the same rate before and after the net neutrality repeal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Even that modest growth is now in jeopardy because AT&T , , and Charter have cut capital investment .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "If anything, the evidence points to regulation and deregulation having little effect on broadband growth.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "As AT&T told the FCC in 2010 , capital investments are based on technology upgrade cycles and should not be expected to rise year after year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Capital investments are naturally \"lumpy,\" rising and falling from one year to the next based on specific needs at specific times, AT&T said at the time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Step 1: Kill privacy rule.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Step 3: Profit The evidence for the White House's claim on privacy rules is similarly thin.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "The FCC privacy rules approved during the Obama administration would have required home Internet and mobile broadband providers to get consumers' opt-in consent before using, sharing, or selling Web browsing history, app usage history, and other private information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "For sale: Your private browsing history But the opt-in provision never took effect because the Republican-led Congress in March 2017 voted to eliminate the rule before it was enforced, and Trump signed off on the repeal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Since the rule never took effect, ISPs were never forced to change their business practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Had Congress and the White House taken no action, the opt-in rule would have taken effect in December 2017 or later.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Here's how the new White House report describes the rule change: Before 2016, ISPs were permitted to, and often did, use and share customer personal data, such as Internet browsing history, unless the consumer \"opted out\" of data sharing.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "With so many consumers staying with the default sharing option, ISPs could earn revenue both from subscriber fees, which are tracked by the industry's consumer price index (CPI), and from using or sharing customer data.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Equivalently, the receipt of customer data allowed ISPs to earn the same profits with a lower subscriber fee.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "In effect, consumers paid for their subscription part with money and part by providing personal data.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "The report then claims that \"Overturning the FCC's opt-in rule resulted in lower prices for wired and wireless Internet service.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Using Consumer Price Index (CPI) data, the report says the wired and wireless declines \"are about $40 per subscriber over the life of the subscription.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "But the White House report doesn't explain why Congress's action to prevent enforcement of a privacy rule that never took effect would be the sole factor leading to a price decrease.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "The report also doesn't note that the CPI broadband data excludes rural services , relying only on prices in urban areas.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Additionally, a White House chart only includes 2016 and 2017 data, failing to mention that the government's CPI data shows that Internet prices have gone back up since 2018 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "The same data used in the White House report also \"indicates that wired broadband prices fell 3.6 percent during the 2015-2017 period of Title II [net neutrality rules], and rose 3.8 percent since the Trump FCC voted to reverse the Obama FCC's policy,\" Research Director Derek Turner of consumer-advocacy group Free Press told Ars today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Turner also described problems in the White House's claim about wireless prices dropping: Though the White House is also claiming credit for the decline in the quality-adjusted price of wireless services, the reality here is that this index showed a steady decline since the end of the Great Recession during the early first Obama term, and a very sharp drop at the start of 2017.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "But this drop is not because of industry's feelings about Title II regulation, but because this price index was heavily impacted by the return of unlimited data plans, which T-Mobile and Sprint brought back in Fall of 2016 with AT&T and Verizon following a few months later.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "However, the White House again didn't mention or factor in the data after 2017, showing the rate of declining wireless prices taking a 180 turn, with the pending T-Mobile/Sprint merger heralding an end to the so called price-war.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Despite all those problems, the White House estimated \"an aggregate annual savings in subscription fees of $11 billion\" and attributed the savings entirely to elimination of the privacy rule.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "“Pseudo-economics” \"One of the fun things about how folks use pseudo-economics in public policy is that you can use it to justify all kinds of price gouging and other consumer harms as 'efficiencies' and then make up a model that produces some suitably impressive number of 'consumer surplus' that makes it all seem OK,\" Harold Feld, a broadband-industry expert who is senior VP of consumer-advocacy group , told Ars today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "\"This report is like a master class in the genre.Somehow, despite the fact that everyone paying for broadband can tell you their bill keeps going up, we are supposed to believe that when you look at the bill the right way you are actually paying less.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Feld also pointed out that \"much of the supposed 'consumer surplus' and 'cost reduction' comes from behaviors that ISPs claim they are not doing and would never do,\" such as prioritizing Internet content in exchange for payment and favoring their own affiliates.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Even if the report was accurate, \"it still misses the point that these 'efficiencies' and 'consumer surplus' are achieved by letting ISPs exploit their market power and exploit their access to our personal information,\" Feld said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "\"To put this in economic terms, the supposed efficiency gains and consequent consumer surplus is entirely captured by the oligopoly.To translate to English, you're getting ripped off and being told to love it.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "reader comments 234 with 142 posters participating Share this story Jon is Ars Technica's senior IT reporter, covering the FCC and broadband, telecommunications, wireless technology, and more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "jon.brodkin@arstechnica.com // @JBrodkin You must login or create an account to comment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "← Previous story Next story → Powered by RSS Feeds Advertise with us Join the Ars Orbital Transmission mailing list to get weekly updates delivered to your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "Sign me up → CNMN Collection (updated 1/1/20) and (updated 1/1/20) and (effective 8/21/2018).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "Ars may earn compensation on sales from links on this site.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Read our affiliate link policy .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

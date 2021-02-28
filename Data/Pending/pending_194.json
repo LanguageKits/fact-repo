@@ -1,0 +1,291 @@
+{
+    "document_id": -1,
+    "url": "https://www.courthousenews.com/dc-circuit-hands-fcc-partial-victory-over-net-neutrality/",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Tim Ryan",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:31:04.681124+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "October 1, 2019 October 2, 2019 TIM RYAN , FCC , internet , net neutrality , regulation , Trump administration WASHINGTON (CN) – The D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "WASHINGTON (CN) – The D.C.Circuit on Tuesday largely upheld the Trump administration’s rollback of Obama-era net neutrality rules, saying the Federal Communications Commission was within its authority to redefine broadband internet services for regulatory purposes but cannot block states from implementing their own rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Demonstrators rally in support of net neutrality outside a Verizon store in New York on Dec. 7, 2017.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "In 2015, the FCC issued its so-called net neutrality order, classifying broadband internet services as telecommunications services under the Telecommunications Act.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "This definition treated internet service as a public utility for regulatory purposes, barring providers from throttling speeds or treating content differently online.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "But in 2018, the FCC under President Donald Trump formally reversed that definition, choosing instead to classify the internet as an information service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "This subjected internet service providers to less stringent regulation and launched a host of legal challenges from states, nonprofits and companies like Mozilla, which lead the challenge.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The D.C.Circuit largely struck down the challenges in a 146-page, unsigned opinion Tuesday, much as it did in 2016 when it upheld the initial net neutrality order.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The court held it needed to defer to the FCC under , the cornerstone administrative law test that holds federal agencies are entitled to deference from courts when interpreting ambiguous laws they administer so long as their interpretation is reasonable.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The three-judge panel also held it needed to follow the Supreme Court’s decision in the 2005 case National Cable & Telecommunications Association v. Brand X, in which the high court upheld the FCC’s decision not to classify cable broadband as a telecommunications service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "As the justices did in that case, the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "As the justices did in that case, the D.C. Circuit held functionalities like the domain name system (DNS) and caching allow the FCC to keep broadband under the information service regulatory umbrella, rather than requiring it to be defined as a telecommunications service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "While it largely kept the rollback of regulations intact, the court struck down a portion of the order that barred states from putting in place their own regulations that go beyond what the federal government requires.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "“At bottom, the commission lacked the legal authority to categorically abolish all fifty states’ statutorily conferred authority to regulate intrastate communications,” the opinion states.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The court also instructed the FCC to take a second look at the order’s potential impacts on public safety and explain how it would interact with other regulations and federal programs.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "FCC Chairman Ajit Pai called the opinion a “victory for consumers” in a statement Tuesday.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "“A free and open internet is what we have today and what we’ll continue to have moving forward,” Pai said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "“We look forward to addressing on remand the narrow issues that the court identified.” Lisa Hayes, general counsel of the Center for Democracy & Technology, a nonprofit that challenged the FCC’s order, said in a statement that the D.C. Circuit’s decision shifts the fight over net neutrality to Congress and the states.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "“The FCC was wrong to depart from the protections of the open internet order,” Hayes said in a statement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "“The American public overwhelmingly supports strong and enforceable rules protecting an open internet and today’s opinion highlights the need for Congress and the states to act quickly to restore net neutrality protections.” In a concurring opinion, Millett said while she joined the majority’s holding, she is concerned the Brand X precedent is outdated.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "She said the Supreme Court could reconsider its earlier holding, or Congress could update the laws on which the FCC’s order rests to reflect new realities of how the internet operates.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "“Brand X was decided almost fifteen years ago, during the bygone era of iPods, AOL, and Razr flip phones,” Millett wrote.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "“The market for broadband access has changed dramatically in the interim.” Quoting \"Macbeth\" and dissenting in part from the majority opinion, Judge Williams faulted his colleagues for axing the order’s prohibition on further state regulations on the internet, saying it effectively makes the FCC’s order “meaningless.” “The enactors of the 2018 order, though surely no Macbeths, might nonetheless feel a certain kinship, being told that they acted lawfully in rejecting the heavy hand of Title II for the internet, but that each of the 50 states is free to impose just that,” Williams wrote.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Pantelis Michalopoulos, who represented Mozilla in the dispute, said it is too early to say what the future holds for the legal fight, but noted both Millett and Wilkins invited the Supreme Court to reconsider the Brand X decision.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "“Clearly two of the three judges that decided the decision itself thought this was far from over, or believed that it should not be over,” Michalopoulos said in an interview.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Like this: ← → .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Theme: ColorMag by ThemeGrill .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "%d bloggers like this:",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

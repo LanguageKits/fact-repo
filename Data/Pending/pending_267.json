@@ -1,0 +1,651 @@
+{
+    "document_id": -1,
+    "url": "https://twitter.com/gigibsohn/status/1243249848683573248",
+    "document_category": "Social Media",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:51:40.289736+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "We've detected that JavaScript is disabled in your browser.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Skip to content Home, current page.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Moments, current page.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Sign up  gigibsohn's profile @ gigibsohn @ gigibsohn Fellow @ Georgetown Law & Benton Institute.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Mostly broadband, media & tech law & policy, sometimes politics & sports.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "http:// gigisohn.com Washington, DC   Privacy policy Ads info Go to a person's profile Saved searches In this conversation Verified account @ Suggested users  Verified account @ Verified account @ Tweet with a location You can add location information to your Tweets, such as your city or precise location, from the web and via third-party applications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "You always have the option to delete your Tweet location history.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Learn more Turn on Not now Your lists Create a new list List name Under 100 characters, optional · Anyone can follow this list  · Only you can access this list  Save list Copy link to Tweet Here's the URL for this Tweet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Copy it to easily share with friends.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Add this Tweet to your website by copying the code below.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Learn more Add this video to your website by copying the code below.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Learn more Hmm, there was a problem reaching the server.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Include media  By embedding Twitter content in your website or app, you are agreeing to the Twitter and .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Sign up, tune into the things you care about, and get updates as they happen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Log in » Two-way (sending and receiving) short codes: For customers of 40404 (any) 21212 (any) 86444 40404 Nextel, TIM 40404 51210 53000 89887 AXIS, 3, Telkomsel, Indosat, XL Axiata 4880804 3424486444 » See SMS short codes for other countries Skip all  Welcome home!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "This timeline is where you’ll spend most of your time, getting instant updates about what matters to you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Hover over the profile pic and click the Following button to unfollow any account.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Say a lot with a little  When you see a Tweet you love, tap the heart — it lets the person who wrote it know you shared the love.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Spread the word  The fastest way to share someone else’s Tweet with your followers is with a Retweet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Tap the icon to send it instantly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Join the conversation  Add your thoughts about any Tweet with a Reply.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Find a topic you’re passionate about, and jump right in.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Learn the latest  Get instant insight into what people are talking about now.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Get more of what you love  Follow more accounts to get instant updates about topics you care about.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Find what's happening  See the latest conversations about any topic instantly.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Never miss a Moment  Catch up instantly on the best stories happening as they unfold.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Next Tweet from user ‏ @ gigibsohn Mar 26 @ gigibsohn @ gigibsohn @ gigibsohn @ gigibsohn @ gigibsohn Pending follow request from @ gigibsohn Cancel your follow request to @ gigibsohn Copy link to Tweet @ FCC abdicated its legal authority over # broadband in 2017, it blocked itself from doing more 2 connect Americans during the # COVID19 crisis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "My latest in @ verge : https://www.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "theverge.com/2020/3/26/2119 5760/fcc-internet-connection-social-distancing-gigi-sohn-coronavirus … # NetNeutrality 11:53 AM - 26 Mar 2020 31 42 11 replies 31 retweets 42 likes 11 31 31 42 42 Katie McAuliffe ‏ @ DigitalLiberty Mar 26 Copy link to Tweet Replying to @ gigibsohn @ FCC @ verge If the # covid Crisis is teaching us anything.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Its that we didn’t need # netneutrality rules or the heavy hand of government, nothing’s blocked, & providers are stepping up everywhere - opening # WiFi hotspots, lifting # datacaps , & not disconnecting service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "# KeepAmericansConnected 0 replies 5 retweets 16 likes 5 5 16 16 Thanks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Twitter will use this to make your timeline better.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "New conversation ‏ @ Schneider_DC Mar 26 Copy link to Tweet Replying to @ gigibsohn @ FCC @ verge The private sector has created a virtual miracle, but socialists have to socialize.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "5 replies 3 retweets 5 likes 5 3 3 5 5 $$ Honest NCTA $$ ‏ @ Honest_NCTA Mar 27 Copy link to Tweet Replying to @ Schneider_DC @ gigibsohn and 2 others Daniel, we need to deregulate so the free market can innovate synergies in a synergistic way that maximizes innovative synergies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "1 reply 1 retweet 1 like 1 1 1 1 1 1 more reply ‏ @ tpapres Mar 26 Copy link to Tweet Replying to @ gigibsohn @ FCC @ verge Private sector is stepping up to the plate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "@ comcast has internet essentials.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "@ ATT has Access and Charter has a service.The @ FCC needs to step away and let the private sector flourish.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Government-owned networks are failing at an alarming rate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "thecentersquare.com/national/op-ed -congress-shouldn-t-bow-to-pressure-regarding-government/article_6641d88a-6de6-11ea-b2fa-27aa05870396.html … 0 replies 4 retweets 8 likes 4 4 8 8 Thanks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Twitter will use this to make your timeline better.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Katie McAuliffe ‏ @ DigitalLiberty Mar 26 Copy link to Tweet Replying to @ gigibsohn @ FCC @ verge This Congress & Adminstration allotted Billions of dollars to rural # broadband over the last 2yrs it’s going to take time to rollout, which I imagine will happen much faster after # COVID .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "# NetNeutrality would not have made that rollout faster # KeepAmericansConnected 0 replies 1 retweet 2 likes 1 1 2 2 Thanks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Twitter will use this to make your timeline better.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "‏ @ neil_chilson Mar 26 Copy link to Tweet Replying to @ gigibsohn @ FCC @ verge https:// twitter.com/neil_chilson/s tatus/1243295295410233346?s=20 … @ neil_chilson Ooh, let me try: \"When the US rejected British monarchy and adopted a government of limited powers, it blocked itself from doing more to address the # COVID2019 crisis.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "You're thinking too small!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Imagine what a national dictator could accomplish.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "https:// twitter.com/gigibsohn/stat us/1243249848683573248 … 0 replies 0 retweets 4 likes 4 4 Thanks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Twitter will use this to make your timeline better.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "LibertyTalk FM ‏ @ LT_FM Mar 26 Copy link to Tweet Replying to @ gigibsohn @ FCC @ verge LMAO you want the same STATE torturing/tortured # JulianAssange and @ xychelsea and whose licensure of # OldMedia led to consolidation to 6 big media companies to enforce # NetNeutrality Ah radical left # communists , always trying to amass more power for the STATE.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "0 replies 0 retweets 0 likes Thanks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Twitter will use this to make your timeline better.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "‏ @ YaelOss Mar 26 Copy link to Tweet Replying to @ gigibsohn @ FCC @ verge TL;DR Companies are providing fast and cheap internet, especially now.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "The FCC should force them to provide fast and cheap internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Consumers are leading the charge and demanding better, it’s not by government mandate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "0 replies 0 retweets 0 likes Thanks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Twitter will use this to make your timeline better.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "‏ @ RoslynLayton Mar 27 Copy link to Tweet Replying to @ gigibsohn @ FCC @ verge True to form, Gigi never wastes a crisis to advance her political agenda.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "For a rebuttal of her points, see  https://www.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "aei.org/research-produ cts/report/how-title-ii-harms-consumers-and-innovators/ … Without hyperbole 0 replies 0 retweets 0 likes Thanks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "Twitter will use this to make your timeline better.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "New conversation 🌐 ‏ @ BerinSzoka Mar 26 Copy link to Tweet Replying to @ gigibsohn @ FCC @ verge Gigi, as you know first-hand, in 2015, the FCC reclassified only \"mass-market retail\" broadband, excluding Internet access service sold to business or gov't customers The 2017 RIFO reversed only that decision, so didn't affect doctor's offices, hospitals, fire stations etc 2 replies 3 retweets 10 likes 2 3 3 10 10 🌐 ‏ @ BerinSzoka Mar 26 Copy link to Tweet Replying to @ BerinSzoka @ gigibsohn and 2 others I overstated what the 2015 order said: \"mass-market retail\" included small biz/agencies (eg doctor's offices & at least some fire departments) but NOT larger enterprises that negotiate \"customized or individually negotiated arrangements\" (big agencies, utilities, hospitals) pic.twitter.com/l4Xy93knNb 1 reply 0 retweets 0 likes 1 8 more replies Back to top ↑ Loading seems to be taking a while.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "Twitter may be over capacity or experiencing a momentary hiccup.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Try again or visit for more information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "false Privacy policy Ads info",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

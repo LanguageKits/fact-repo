@@ -1,0 +1,291 @@
+{
+    "document_id": -1,
+    "url": "https://hilo.hawaii.edu/news/kekalahea/editorial-net-neutrality-2018",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Clara Scheidle",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:32:36.384677+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "As of December 14th, the Federal Communications Commission has repealed net neutrality guidelines.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "It is no question that we are living through the digital age.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Though use may vary from person to person, it would be very difficult to go a day without using the internet, whether this is for social media, school, or just trying to navigate somewhere downtown.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Recently, the Federal Communications Commission made the decision to repeal net neutrality rules, which are the propositions that state that internet service providers cannot affect browsing speeds or block any websites or applications from their users.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "John Wessel, a retired computer scientist who taught for twelve years at the University of Hawaiʻi at Hilo, puts this in very simple terms.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "“Internet providers will be able to control content and pricing of internet and cell phone access.” As if your phone bill wasn’t enough already, without net neutrality, companies such as Verizon and Comcast can charge you for very basic internet usage.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "It wasn’t always like this.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "United States Senator Mazie Hirono recalls Obama-era net neutrality rules, which were “regulations to protect both land-based and wireless internet,” she says, and which went into effect on June 12, 2015.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The FCC’s chairman, Ajit Pai, announced his plans to repeal net neutrality earlier this year on April 18th.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Since then, a survey done by the University of Maryland shows that 83% of Americans are opposed to this decision.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Senator Hirono says that she joined “38 of [her] Senate colleagues in signing…[a] letter urging Chairman Pai to abandon his plan.” She is especially concerned about the impact of the proposal on “small businesses, educational institutions, [and] libraries.” Sarafina Chamul, a student at UHH, says, “At first, I didn’t give too much thought on this issue because I didn’t really think [it would] actually affect me because I’m not too into debates or even social media.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "But then I realized…it’s a place for me to be informed on everything that’s going on in the world as well as people’s opinions on issues.” Being informed, as Chamul said, would be a lot harder if “these companies can now slow down their competitors’ content or block political opinions they disagree with,” which Wessel says could be the case if the repeal takes effect.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "This gives internet service providers and the companies they partner with the ability to mold the internet’s contents to fit their own bias.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Some would argue that creating such manipulation would put a damper on freedom of expression.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Katherine Kolesar, a fellow student, agrees.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "“Many of my friends are artists and advertise their art on social media,” she says.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "“Limiting access to these platforms will be devastating to those forms of art and free speech.” Limiting freedom of speech in this day and age could also be detrimental to minority groups that have just begun to find their voice and cause.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "It is especially bad for communities of color, as the internet is so widely used as a mode of communication between people all over the globe.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "“The open internet allows people of color to tell their own stories and organize for racial justice.” Wessel comments, “When activists are able to turn out thousands of people in the streets at a moment’s notice, it’s because ISPs aren’t allowed to block their messages or websites.” And if any of these protests or other such gatherings that are being spoken of are against the agenda or interests of the internet service companies, they will be able to virtually stop any of it before it even begins, by making sure that no one will be able to see it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "While the new ruling has yet to go into effect, it is possible that when it does, internet service providers will start slowing down internet speeds or charging more for access to certain websites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "If this happens, it’s entirely possible that simple internet browsing, whether for research, leisure, or the sake of learning new things, will be something only the rich can afford.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Kolesar says that in a “worst case scenario, access to basic knowledge and information will be limited to the select few who can afford to pay for better access.” This will lead to not only a gap in finances, but a gap of learning and growth between the lower and upper classes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "“Across the board we are in an age of the wealthy and powerful [taking] it to the less fortunate,” affirms Dr. Lawrence Heintz, who works as a professor at UH Hilo and has a PhD in Philosophy.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Not all hope is lost, however.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Wessel notes that “Congress could…pass a resolution rejecting what this FCC has done.” For example, Senator Hirono states that she “[supports] a free and open internet system,” and that “in response to the FCC's action, Senator Edward Markey (D-MA) has announced that he intends to introduce a Congressional Review Act resolution that would overturn the FCC's recent action if passed.” This is good news; it means that although the FFC may have voted to end net neutrality, our democratic system of government is designed to let the people have a voice.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Thus, everyone this repeal targets, particularly students, minority groups, and the average-everyday internet users will be able to have a say in whether or not this will affect them and their future surfing the web through the actions of their representatives.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "It seems that although net neutrality was a terrifying topic, seemingly ending the year 2017 on a bad note, there is a realistic hope that the years to come will bring us, once again, a neutral net.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Spring 2018: January 8th Issue 1 Skip sidebar to footer University of Hawaiʻi at Hilo , an institution and a campus of the University of Hawaiʻi system .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

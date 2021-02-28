@@ -1,0 +1,561 @@
+{
+    "document_id": -1,
+    "url": "https://voxeu.org/article/net-neutrality-goals-and-challenges",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Joshua Gans",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:43:11.455292+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "VOX Research-based policy analysis and commentary from leading economists Create account .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Netflix recently agreed to pay Comcast for faster access to Comcast’s customers, intensifying the debate over ‘net neutrality’ – the principle that internet service providers should treat all data equally.",
+            "fact": true,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "This column argues that without net neutrality regulation, ISPs can capture the benefits of higher-quality content, thereby discouraging innovation from content providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "To be effective, net-neutrality regulation must prevent content-based price discrimination on both sides of the market.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": " Net neutrality has a simple goal – to ensure that consumers face an undistorted choice in choosing where to devote their attention on the Internet.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The rationale for that goal is to ensure a ‘level playing field’ for those who provide content, applications, or anything else via the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "It is in the US that this has become a hot political issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "(Indeed, why net neutrality isn’t as big an issue elsewhere is a genuine puzzle, but outside the scope of this column.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The Federal Communications Commission (FCC) is currently grappling with what, if anything, to do about net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The debate came to a head recently when Comcast – perhaps the largest internet service provider (ISP) – negotiated an arrangement with Netflix – perhaps the largest content provider in terms of bandwidth – to ensure a faster download speed to Comcast customers who use Netflix.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Technically, Comcast were not offering Netflix anything that it would not offer others.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "However, the fact that content providers have to choose at all raises the spectre of distortions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Put simply, it appears that the entry toll for other entrepreneurs who might compete with Netflix for consumer attention has been raised.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Economic perspectives on net neutrality The recent economics literature on net neutrality has focused on a market structure that does not apply to the Comcast-Netflix issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "For instance, Choi and Kim (2010), Economides and Hermalin (2012), and Economides and Tag (2012) each examine situations in which content providers earn revenues from sources other than consumers (e.g.advertisers), and assess the impact of net neutrality regulations that prevent ISPs from charging content providers different prices to access consumers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "They demonstrate that such regulations can facilitate a transfer of profits from ISPs to consumers, but that the investment impacts of that change are hard to predict.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "For the current debate, the issue is that, in each of these models, consumers and content providers do not have a direct monetary relationship.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "But it was the very fact that Netflix has to convince consumers to part with a monthly subscription fee – above and beyond what they pay to Comcast – that makes this situation different.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "For if Comcast can charge Netflix for higher-quality access to their customers, then it is Netflix rather than Comcast that has to sell consumers on paying for higher-quality access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Preventing content-based price discrimination My recent paper (Gans 2014) closes the gap by providing a simple model that includes a direct pricing relationship between content providers and consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The paper confirms that, in the absence of net neutrality regulation, an ISP with market power can engage in content-based price discrimination (for instance, charging consumers more to access Netflix, or charging Netflix more to access consumers) to appropriate rents from content providers most valuable to consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Consequently, for entrepreneurs investing in content for consumers, there is a spectre of hold-up in the long-term.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The question then is whether net neutrality regulation can help prevent this situation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The paper provides two avenues by which content-based price discrimination may emerge (in ISP charges to consumers and content providers respectively).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "If, say, ISPs are prevented in discriminating on one of these (what I term weak net neutrality), I demonstrate that the effects of this can be undone by discrimination on the other.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "For instance, if the FCC were to prevent Comcast from charging Netflix more for quality or access than others, then Comcast could, by charging consumers more for Netflix (something that could be implicitly done with download caps), force Netflix to lower prices to consumers – appropriating any rents it generated through higher consumer charges.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "It is only by enacting strong net neutrality – that prevents all content-based price discrimination – that real effects emerge.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Specifically, the mechanisms by which rents from content providers can pass through to ISPs are muted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "The conclusion here is that, if the goal of net neutrality regulation is to level the playing field for content providers and prevent their hold-up, regulators must work hard to close off all paths by which content-based price discrimination can emerge.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Of course, it is also worth noting that this task is made easier where consumers and content providers do not have a direct monetary relationship.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "In this situation, weak net neutrality – preventing price discrimination to content providers – can have real effects.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "However, the missing price itself is no great benefit, as that price also plays a role in ensuring that consumers allocate their attention in a socially optimal way – and net neutrality regulation may harm that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Addressing concerns about net neutrality regulation This framework also speaks to two concerns with net neutrality that have been raised in the debate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "The first is that ISPs will have insufficient incentives to invest in higher-quality networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "The paper demonstrates that regardless of whether there is net neutrality regulation (in any of its forms) or not, the incentives for ISPs to invest in quality are unchanged.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Put simply, so long as ISPs can charge consumers for higher quality, they can obtain a return to that quality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Of course, if that quality matters for some content providers more than others (say, faster downloads for movies), then net neutrality regulation can alter the incentives to invest in quality networks – although in that case, it is by engaging in a targeted appropriation of rents from high-valued content providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "The second concern is that net neutrality regulation is not of value if there is ISP competition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "The argument is that policymakers should focus on ensuring that competition instead (Becker et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "The logic is that if consumers are displeased with how their current ISP is engaging in content-based price discrimination, they can switch to another.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "The difficulty with this argument is that it presumes that consumers will not want the ISP to engage in such discrimination.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "However, that is not entirely clear.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "This is because, in competition with one another for consumers, ISPs want to offer consumers the best deal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "If engaging in content-based price discrimination allows ISPs to transfer rents from content providers to themselves, ISP competition will ensure those rents flow back to consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Hence, an ISP may become the consumer’s agent in exercising monopoly power, and so content providers may still be subject to hold-up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "In this situation, strong net neutrality may short-circuit that flow of rents.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Concluding remarks What all this shows is that in a two-sided market in which ISPs bring content providers to consumers, regulation of pricing practices is a challenge and requires an extensive, whole-of-market approach.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Moreover, in such markets, the forces of competition do not necessarily operate to ‘make all data equal’ in the manner net neutrality advocates are hoping for.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Of course, as with any theoretical approach, it is difficult to say at this stage what the empirical relevance of the effects discussed here are.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Nonetheless, it appears that, in the US at least, some experiments with content-based price discrimination are emerging that may very well yield those insights for the future and for other countries.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": ", 6(3): 497–519.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "RAND Journal of Economics , 41(3): 446–471.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Economides, N and B Hermalin (2012), “The economics of network neutrality”, RAND Journal of Economics , 43(4): 602–629.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": ", 24(2): 91–104.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "The economics of insurance and its borders with general finance Maturity mismatch stretching: Banking has taken a wrong turn @VoxEU RSS Feeds",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

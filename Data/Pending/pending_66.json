@@ -1,0 +1,181 @@
+{
+    "document_id": -1,
+    "url": "https://www.broadcastingcable.com/news/senate-duo-wicker-sinema-net-neutrality-prompt-hill-action",
+    "document_category": "Blog/magazine",
+    "annotators": [],
+    "author": "John Eggerton",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:40:11.377942+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "House members also call for legislation, but focus on bill GOP opposes Publish date: Oct 1, 2019 Congress is on a two-week hiatus for district work days, but that did not stop legislators from weighing in on the federal court decision upholding the FCC's decision to deregulate internet access, including the bipartisan duo heading up a working group looking to fashion compromise net neutrality legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Senate Commerce Committee chairman Roger Wicker (R-Miss.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "and Sen. Kyrsten Sinema (D-Ariz.), who together lead that working group, put out a joint statement that avoided taking sides on the decision, instead talking about finding some path forward.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "“Today’s ruling makes clear that Title II regulations are not required for maintaining an open internet,\" said Wicker.\"It is incumbent on Congress to pass federal net neutrality standards that will protect consumers, promote broader access to the internet, and ensure internet providers treat content from all sources fairly.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "We need straightforward guidelines that will not change based on who occupies the White House.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "I look forward to continuing to work toward these goals with Senator Sinema as we seek to find common ground on this important issue.” \"Net neutrality is critical to maintaining a vibrant internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "We need a modern, internet-specific framework that encourages the freedom and innovation that make the internet the vital tool it is today,” said Sinema.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "“Today's court decision makes clear Congress must pass a bipartisan, comprehensive net neutrality solution that offers certainty to consumers and providers.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Another joint statement, this one from two Democrats on the House side, also were calling for legislation, but the that would restore the rules under Title II, a nonstarter for most Republicans.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "“The Trump Administration’s decision to abandon net neutrality continues to harm consumers and small businesses, leaving a few large corporations in control of an essential component of modern life,\" said House Energy & Commerce Committee Chairman Frank Pallone (D-N.J.) and Communications Subcommittee Chairman Mike Doyle (D-Pa.).\"In April, the House passed the Save the Internet Act to restore basic consumer protections online and preserve a free and open internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "This decision reiterates that the Senate needs to act quickly to pass that legislation to put Americans, not corporations, first.” The Congressional Budget Office has provided a succinct description of what the Save the Internet Act would do: \"H.R.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "1644 would require the Federal Communications Commission (FCC) to return to the regulatory framework for internet service providers (ISPs) that was in effect as of Jan. 19, 2017.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The bill would effectively shift the oversight of ISPs from the Federal Trade Commission (FTC) and the Department of Justice (DOJ) to the FCC by re-designating mobile and fixed-broadband internet access services as telecommunications services subject to common-carrier laws under title II of the Communications Act of 1934.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Thus, the FCC could take enforcement action regarding any unjust, unreasonable, or discriminatory ISP practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "1644 would repeal the Restoring Internet Freedom Order (FCC 17-166) adopted by the FCC on Dec. 14, 2017, and prohibit its re-issuance in substantially the same form.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The bill would restore the Open Internet Order (FCC 15-24) adopted by the FCC on Feb. 26, 2015, and any subsequent regulations in effect on Jan. 19, 2017.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "terms: Next TV Form working group to try to find bipartisan path forward on legislation Fight for the Future sponsors billboard calling out legislator Activists pledge to fight on; dereg fans praise court call Advise against 'watering down' with amendments Joins in call for House diversity caucuses to back net neutrality CRA Heads to House for vote next week Says there are still moderates that can be turned toward Save the Internet Act Activists plan small business outreach day RSS",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

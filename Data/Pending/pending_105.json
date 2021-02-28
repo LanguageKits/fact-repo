@@ -1,0 +1,51 @@
+{
+    "document_id": -1,
+    "url": "https://www.bloomberg.com/quicktake/net-neutrality",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Gerry Smith and Todd Shields",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:41:50.880055+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Contact us We've detected unusual activity from your computer network To continue, please click the box below to let us know you're not a robot.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Please make sure your browser supports JavaScript and cookies and that you are not blocking them from loading.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "For more information you can review our and .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "For inquiries related to this message please contact our support team and provide the reference ID below.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

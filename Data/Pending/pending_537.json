@@ -1,0 +1,51 @@
+{
+    "document_id": -1,
+    "url": "https://www.newsmax.com/t/newsmax/article/963512/18",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 18:00:16.880940+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": " WATCH TV LIVE MENU LIVE This page uses Javascript.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Your browser either doesn't support Javascript or you have it turned off.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "To see this page as it is meant to appear please use a Javascript enabled browser.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "NEWSMAX.COM America's News Page",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,1821 @@
+{
+    "document_id": -1,
+    "url": "https://www.ageofautism.com/2020/01/coronavirus-can-be-caused-by-viral-interference-a-known-result-of-flu-vaccines.html",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:49:22.324145+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "  Subscribe to RSS Subscribe to RSS Women's March in LA Proves Exclusive & Vicious News and articles about CORONAVIRUS are everywhere but our article, here on Age Of Autism, may be much different from what we are reading and seeing elsewhere.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "It is interesting to observe the business side of all of this talk of health.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "This from Business Insider, for example: The flu is a far bigger threat to most people in the US than the Wuhan coronavirus .",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Although the CDC considers this coronavirus (whose scientific name is 2019-nCoV) to be a serious public-health concern, the agency said in a statement Friday that \"the immediate health risk from 2019-nCoV to the general American public is considered low at this time.\"",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "A graver health risk for Americans — not just right now, but every year — is the flu…..\"When we think about the relative danger of this new coronavirus and influenza, there's just no comparison,\" William Schaffner, a vaccine expert at Vanderbilt University Medical Center, .",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "\"Coronavirus will be a blip on the horizon in comparison.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The risk is trivial.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "\"....So far, experts report that the median age of those who have died from the Wuhan coronavirus is around 75.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Many of these individuals had other health issues like high blood pressure, diabetes, and Parkinson's disease…..Currently, the fatality rate for the coronavirus is about 3%.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "While the flu's fatality rate is lower than that, the CDC is still far more concerned about protecting Americans from influenza.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "And there you have it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Like Ralphie in it’s all about selling Ovaltine, but in this case, it’s the flu vaccine, which can be ineffective, we are told https://www.scientificamerican.com/article/flu-vaccine-selections-suggest-this-years-shot-may-be-off-the-mark/ .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "As a result, you can bet lots of money is being lost and it sure looks like this virus in China has become a good excuse to get rid of these flu vaccines.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Another business piece that is obviously revving up, is to invent a coronavirus vaccine .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Honestly, just reading up on both influenza and coronavirus brings up some interesting reading.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "For starters, it appears in China, that this year, there were twice as many flu shots being given: The supply of flu vaccines in China this year will be twice as large as last year to ensure demand is met, the top health authority said on Wednesday, adding it is well prepared for the arrival of flu season.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "There does seems to be connections to flu shots and acute respiratory infections, like coronavirus: We investigated the incidence of acute upper respiratory tract infections (URTIs) associated with virologically confirmed respiratory virus infections in a randomized controlled trial of influenza vaccination.,,, TIV ( trivalent inactivated influenza vaccine ) recipients had higher risk of confirmed noninfluenza respiratory virus infection (RR, 3.46; 95% CI, 1.19–10.1)....c Including positive detections of coronavirus, human metapneumovirus, parainfluenza, respiratory syncytial virus (RSV)...we were able to observe a statistically significant increased risk of confirmed noninfluenza respiratory virus infection among TIV recipients.. That was 2012.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Six years later, this study came out: Assessment of temporally-related acute respiratory illness following influenza vaccination Among children, there was an increase in the hazard of ARI (acute respiratory infection) caused by non-influenza respiratory pathogens post-influenza vaccination compared to unvaccinated children during the same period.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Potential mechanisms for this association warrant further investigation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Future research could investigate whether medical decision-making surrounding influenza vaccination may be improved by acknowledging patient experiences, counseling regarding different types of ARI, and correcting the misperception that all ARI occurring after vaccination are caused by influenza.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The conclusion, after saying that indeed those who are vaccinated DO get more acute pathogen-creating illness, like CORONAVIRUS, that should make us all wonder if there are any connections here.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The acknowledging that patients DO get ill after flu shots from these other viruses (VIRAL INTERFERENCE) is priceless yet disturbing.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Basically patients have been made to feel like they were wrong for decades.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "I am sure deaths too, have been involved but to correctly blame it on the vaccine has been taboo.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Mutating bacteria and viruses are possible for sure and vaccines can also be responsible for that We can end here, with a recent study, freshly out and pertinent: Vaccine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "2020 Jan 10;38(2):350-354. doi: 10.1016/j.vaccine.2019.10.005.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Epub 2019 Oct 10.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Influenza vaccination and respiratory virus interference among Department of Defense personnel during the 2017-2018 influenza season .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Receiving influenza vaccination may increase the risk of other respiratory viruses, a phenomenon known as virus interference.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Vaccine derived virus interference was significantly associated with coronavirus and human metapneumovirus….. We will read that this Coronavirus is from “ bats, pigs and small mammals ”, Biowarfare labs , yet you can bet vaccines will be dismissed in a heartbeat.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Posted by on January 29, 2020 at 05:59 AM in , .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Comments (27) .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "This is exactly the thought line I wandered into during my commute.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Well there's something common of the elderly in nursing homes, and people with diabetes, heart disease... Their doctors tell them to get flu shots.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Posted by:   Joe in 10 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "April 14, 2020 at 09:26 PM There is another reason why vaccines in general could make a Cov-2 infection worse and thus more likely to be fatal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "These researchers (linked below) have found (all be it with a small case study) that a reliable indicator of which patents will need intubation are those with elevated levels of IL-6.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "https://www.medrxiv.org/content/10.1101/2020.04.01.20047381v1.full.pdf Whilst they point out that it is unclear whether IL-6 merely represents a biomarker or a central parthenogenetic element of severe COVID-19, we know here, that adjuvants raise IL-6 levels leading to vaccine injuries.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Also, many covid-19 fatalities are amongst those with lupus and other co-morbidities which feature high IL-6 levels.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "IL-6 was discovered around 1986.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "Which is the same time that pharmaceutical companies suddenly decided they would pull out of manufacturing human vaccines unless given financial immunity from prosecution ( I.e.they knew of the implications this discovery uncovered).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "For anyone stumbling across AoA for the first time, here’s a link with lots of references: http://theothersideofvaccines.com/2019/11/il-6-the-smoking-gun-of-vaccine-damage/ And one from , specifically about the effect of .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Although it only mentions IL-10 in the title, it covers the whole cocktail in the text.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "https://academic.oup.com/jid/article/211/7/1174/838329 We really need to know the vaccine status of the victims and time since last vaccination to get hard figures, from which to ascertain to what extent the healthcare political/industrial complex is killing us (and taking away our freedoms).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "The MSM wont do it — it’s up to us.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Posted by:   Pogo .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "(before wifi was widely available) April 05, 2020 at 03:04 PM There is direct correlation between the proliferation of wifi across the world and the rising cases of autism.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "If you compare both graphs they are practically indistinguishable from each other.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "It has also been suggested with good scientific reasoning that wifi suppresses the immune system in humans coupled with the above expertly written article I believe that we all have very good reason to be alarmed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "April 05, 2020 at 11:10 AM Perhaps the bits that haven’t aged well are the reports from the CDC and vaccinologist William Schaffner.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "The likelihood that routine flu vaccination might reduce resistance to other infections is published science.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "I am not sure at the present time, 30 years after the Cold War, whether we have any more reason to trust the US government or the British government than the Chinese government, or the Soviet government of yore.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "If we get passed the stage where citizens think for themselves a bit and rely on the words of Anthony Fauci or Bill Gates we have really had it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "We seem to live preeminently in a time of shaming and sometimes it freezes people’s ability to think.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "April 05, 2020 at 03:43 AM While you should be ashamed of pushing these theories to begin with, this article certainly hasn’t aged well.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Posted by:   Bonnie .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "April 05, 2020 at 12:22 AM Thanks, Tom Rothsey.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "As has long been the folk lore, having had a cold one's immunity is boosted against further colds for a period of time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "It's interesting but perhaps not surprising that a flu vaccination causes the opposite effect.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "March 15, 2020 at 08:24 AM Further to virus interference, and respiratory viruses in particular, it is generally accepted that in natural acquired immunity from infection of a naive host by a wild virus, virus interference works to PROTECT the host from further infection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "In the case where a form of immunity has come via the unnatural route of vaccination, then virus interference works to make the host MORE VULNERABLE to co-infection with more virulent pathogens.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "In this case, your flu vaccine, which may or may not contain the correct strains for any given flu season, will increases your risk of coronavirus infection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "The current corona virus going around is SARS-CoV-2, which causes CoViD-19, so a statement of fact is that based on a study conducted by the US military, getting vaccinated for flu will increase your chances of developing CoViD-19 by 36%.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "March 14, 2020 at 06:28 PM Blademan9999, in this instance, I'm afraid you are not quite correct.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "The paper you refer to is from an obscure journal in 1975, and that statement \"Viral interference is a phenomenon for which a cell infected by a virus becomes resistant toward a second outcoming infection by a superinfectant virus.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "is only half of the definition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "Then we have a 2019/2020 paper in arguably the most prestigious journal dealing with vaccines that is using the term viral interference in exactly the opposite way.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "Or so it seems.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "The fact is, the mechanism of viral interference also works the other way, to increase secondary infection risk.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "The way it is being used is generally abundantly clear by context.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "March 14, 2020 at 06:14 PM The Chinese government/economy is being impacted negatively by this recent coronavirus outbreak.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "Most medical experts are on the fence one way or another regarding the severity and implications of this new strain.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "The cycle for drawing reasonable conclusions is actually 4 to 8 weeks (sometime in March).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "The WHO declared this outbreak a global health emergency just to be on the safe side.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "All things considered, when the final results come in and the scientists can make firm statements and recommendations for doctors to share with the general public, be vigilant and take care of your health by worrying less and getting plenty of rest :) Posted by:    .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "February 04, 2020 at 01:37 PM https://www.ncbi.nlm.nih.gov/m/pubmed/778995/ \"Viral interference is a phenomenon for which a cell infected by a virus becomes resistant toward a second outcoming infection by a superinfectant virus.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "In other words, Viral interference makes you MORE resistant to further infections, not less.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "You really have no clue what you're talking about.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "Posted by:   Blademan9999 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "February 03, 2020 at 10:32 PM Typical fearmongering covering up the real threats such as the rise of the superbugs like MRSA.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "Even health \"authorities\" admit the age of antibiotics is coming to an end... We're facing new extremely dangerous diseases as well as the old ones like tuberculosis coming back with a vengeance.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "Not to mention the chronic disorders already prevalent, of course.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "Basically, vaccines and other pharmaceuticals along with industrial food system has weakened our immune system and can't even offer anything to help us anymore.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "But somehow no one seems to be concerned much.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "Posted by:   Natalie .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "January 30, 2020 at 10:24 PM I found an article at NCBI.NLM.NIH.gov called Ribavirin and Interferon therapy...at Int J Inf Dis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "It said that all the patients reviewed in the study were already critically ill with MERS before treatment was begun with Ribavirin or interferon.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "The median length of time between admission to the hospital was 19 days, in every case being between 10 and 22 days.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "All of them died.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "The article concludes by saying it seems not to be a good idea to start these therapies on patients who are already critically ill.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "I don’t think it could be assumed that they would have recovered if they had not received the therapies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "I think the type of coronavirus called MERS is unusually virulent (dromedaries were its vector), killing about a third of those who got it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "Posted by:   Cia .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "January 30, 2020 at 04:54 PM CORRECTION: The wrong url was on my previous comment; Here is the correct one.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "http://www.centerforhealthsecurity.org/cbn/2005/cbnreport_071805.html Please pardon, too many references, scrambled sometimes!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "david burd Posted by:   david m burd .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "January 30, 2020 at 11:57 AM Here is a definitive Johns Hopkins report citing the antiviral drug ribavirin (originated as a cancer chemotherapy many decades ago, but never employed for cancer treatments due to its lethal \"side-effects\" killing red blood cells).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "http://www.centerforhealthsecurity.org/cbn/2005/cbnreport_071805.html This lethal drug was extensively employed not only in Canada, but also across China and SE Asia where 99.7% of SARS deaths took place, and almost exclusively in elderly adults.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "This new \"Coronavirus\" Epidemic Hysteria is founded on the orchestrated farce of SARS back in 2002-2003.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "With toxic/deadly treatment drugs being a principle cause of death.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": "By the way, of eleven million people in today's chinese epicenter, each week over 3,000 thousand deaths are normally expected; it would be no surprise that the current 32 deaths per week attributed to the coronavirus is mainly substituted in place of other common pneumonia deaths.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "Our Medical Hysteria Mongers and their Pharma Partners keep making it up as they go along; Yet a ray of truth comes from the Johns Hopkins report cited above - please pull it up.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "PS: Cia keeps beating the fear-drum of the MERS Coronavirus victims: Many documents cite the drug ribavirin was extensively used on ALL these Mid-East patients.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": "No wonder they died, but, of course blamed on a new coronavirus varient.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "The medical-fearmongers forever promote their new toxic vaccines and drugs, that will endlessly create new iatrogenic \"pandemics.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 105,
+            "sentence": "Posted by:   david m burd .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 106,
+            "sentence": "January 30, 2020 at 11:45 AM The number of actual people who are infected with the coronavirus are vastly understated since they are asymptomatic or have mild symptoms, especially younger people.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 107,
+            "sentence": "https://www.bloomberg.com/news/articles/2020-01-29/10-year-old-boy-raises-fears-wuhan-virus-could-spread-undetected So the case mortality rate is way under 2%, perhaps as low as 0.02% Something to avoid if elderly or having other health conditions, but for most people just another cold virus Eat well, get some sun if possible (vitamin D), and dont stress out (stress depresses the immune system.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 108,
+            "sentence": "Anyone who has studied any immunology knows how incredibly power and diverse our immune system is.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 109,
+            "sentence": "We are learning more every day.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 110,
+            "sentence": "The innate immune system can be trained and has memory, some T cells act as part of the innate system and can respond immediately unlike those of the adoptive immune system, and a type of immune cell that acts like a T-Helper cell has receptors that allows them to participate in the immediate innate responses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 111,
+            "sentence": "These were unknown 10 years ago.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 112,
+            "sentence": "The idea you need vaccines to defeat most pathogens is an antiquated idea.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 113,
+            "sentence": "Vaccines as a tool were developed at a time when immunology as a science was in its infancy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 114,
+            "sentence": "Not that they can not be of use in certain circumstances (eg biological weapons) One older idea that has been dropped due to the influence of the vaccine industry , which focuses mostly on humoral (antibody) immunity , is transfer agents produced as part of a persons cellar immunity that is developed after a natural infection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 115,
+            "sentence": "These agents could be taken from the blood of those who have been known to have been exposed to a given infection and given to someone fighting that infection whose immune system might not be as robust and is more susceptible to complications (eg infants, elderly, immune compromised).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 116,
+            "sentence": "Some flawed studies at a time when the science was not developed led science astray.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 117,
+            "sentence": "Posted by:   Pft .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 118,
+            "sentence": "January 30, 2020 at 12:17 AM The mainstream news will remain \"Wuhan, Wuhan, Wuhan\" until the NIH requests about Two-Billion dollars to create a world-wide effort to get ready for something that will not happen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 119,
+            "sentence": "The money will then be passed out to those who voted to provide the \"killer coronavirus\" funding.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 120,
+            "sentence": "Posted by:   go Trump .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 121,
+            "sentence": "January 29, 2020 at 10:45 PM I read that a healthy thirty seven year old called li in Wuhan died of this coronavirus He had been hospitalized and given antivirals and antibiotics.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 122,
+            "sentence": "I don’t know if the drugs contributed to his death As with all the coronaviruses the lethal danger is the pneumonia which often ensues, making honeycomb- shaped lesions in the lungs Posted by:   Cia .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 123,
+            "sentence": "January 29, 2020 at 10:16 PM Oh, even Ralphie knew a crumby advertisement, and he was probably only 8 or 9. https://www.bing.com/videos/search?q=christmas+story+ovatine+scene&view=detail&mid=63F78F8A88834FB4C23763F78F8A88834FB4C237&FORM=VIRE Posted by:    .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 124,
+            "sentence": "January 29, 2020 at 03:52 PM It will be interesting to see how this Corona discussion evolves over the next 1 week, 2-weeks etc.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 125,
+            "sentence": "The \"bats, pigs and small mammals\" link didn't work for me.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 126,
+            "sentence": "Posted by:    michael .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 127,
+            "sentence": "January 29, 2020 at 03:27 PM Its a joke https://jyllands-posten.dk/debat/ECE11905179/jyllandsposten-presents-view-on-cartoon-in-english-and-mandarin/ MMR RIP January 29, 2020 at 02:32 PM I just looked up the reports from today and found that reported cases were up to 5,974 and deaths 132, which is 2.2% mortality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 128,
+            "sentence": "I'd like to know the ages of those reported to have gotten it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 129,
+            "sentence": "If most young and middle-aged people are recovering from it, it means that a much higher percentage of elderly people are dying of it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 130,
+            "sentence": "I felt uneasy at having been dismissive of the seriousness of the virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 131,
+            "sentence": "We really don't have enough information to assess it accurately.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 132,
+            "sentence": "Since its relative MERS has about 33% mortality, it may turn out that this coronavirus is really much more dangerous than normal flu, instead of less, as I read the other day.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 133,
+            "sentence": "Posted by:   cia .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 134,
+            "sentence": "January 29, 2020 at 01:29 PM So far, these are the corroborated stats (various news sources including the NY Times).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 135,
+            "sentence": "A) Fatalities' average age: 75 years old.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 136,
+            "sentence": "No fatalities under 55 years old.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 137,
+            "sentence": "Gender; mostly men, with serious pre-existing health conditions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 138,
+            "sentence": "It should be noted lifetime heavy cigarette smoking is very popular.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 139,
+            "sentence": "Lethal antiviral treatment drugs (such as ribavirin) that were stupidly employed back in China in 2003 are most likely employed today, thus causing hemolytic anemia, bringing iatrogenic (medically caused) death.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 140,
+            "sentence": "If someone purposely WANTED to generate worldwide phoney, needless hysteria and fear-mongering they could not outdo what is transpiring today.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 141,
+            "sentence": "Posted by:   David m burd .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 142,
+            "sentence": "January 29, 2020 at 11:58 AM I think the animals which carry their own forms of coronavirus can become vectors capable of transmitting the disease to humans, as in the cases of flu and Ebola, when the viruses undergo mutation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 143,
+            "sentence": "We already knew that every vaccine weakens the immune system probably for about a month, so, certainly, the flu vaccine would do so as well.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 144,
+            "sentence": "So far this coronavirus doesn’t seem to be particularly deadly, but that may change.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 145,
+            "sentence": "And it may get less virulent the further it gets from China and its original host species.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 146,
+            "sentence": "It’s interesting, but I think it’s being used to scare people and make them think how vulnerable they are without a vaccine for it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 147,
+            "sentence": "Posted by:   Cia .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 148,
+            "sentence": "January 29, 2020 at 10:28 AM A few years ago The American Lung Association published dramatic statistics, with their source being the CDC (as noted).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 149,
+            "sentence": "It is an easy read with statistics and a Bar Chart showing the overwhelming majority of fatalities are the elderly, with flu vaccination participation among the elderly being 60-70% (not cited in this Report, but in many other annual reports).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 150,
+            "sentence": "https://www.lung.org/assets/documents/research/pi-trend-report.pdf A logical conclusion is the flu vaccine is not only useless; but its annual cumulative ethylmercury toxicities are logically implicated in a great percentage of senior-citizen fatal outcomes including Alzheimer's, Parkinsons, Multiple Sclerosis, ALS, other degrees of dementia and neurological failure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 151,
+            "sentence": "The current coronavirus hysteria and fear-mongering will of course prompt the most vulnerable (our elderly) to get flu shots, and of course be a target group for any new coronavirus vaccine (with its new toxicities).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 152,
+            "sentence": "Posted by:   david m burd .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 153,
+            "sentence": "January 29, 2020 at 09:35 AM Priming your immune system with influenza vaccine can make you more susceptible to infection from other viral and bacterial pathogens.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 154,
+            "sentence": "This phenomenon is an effect inherent in what’s known as “heterologous immunity.” 1) https://medium.com/@andreangelantoni/there-are-several-significant-errors-the-doctor-includes-in-her-article-6dfc196afd9b 2) https://medicalxpress.com/news/2013-08-vaccination-flu-worse-exposed-strain.html 3) http://vaccinepapers.org/influenza-vaccine-immune-suppression/ The C.D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 155,
+            "sentence": "is urging the public to get flu shots, to help reduce the number of people seeking treatment for symptoms that might be mistaken for the new coronavirus but which may increase the potential risk of coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 156,
+            "sentence": "https://www.nytimes.com/2020/01/26/world/china-coronavirus.html The flu vaccine is effective for preventing influenza if it is matched to the circulating strain.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 157,
+            "sentence": "But researchers at The Institute for Genomic Research (TIGR) in Rockville, Md., tracked the evolution of more garden-variety flu strains for five years in New York State, discovering that the virus can re-assort or mutate even during the same flu season.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 158,
+            "sentence": "The researchers found at least three distinct subpopulations of the flu virus over the five years, and in some cases, they were circulating at the same time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 159,
+            "sentence": "The variants were even able to swap genetic materials so its constantly changing and can therefore create a mismatch to whats contained in the vaccine.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 160,
+            "sentence": "https://www.medpagetoday.org/infectiousdisease/uritheflu/1877?vpass=1 and https://www.upi.com/Health_News/2020/01/16/Partially-effective-flu-vaccine-better-than-nothing-experts-say/9161579101188/ Even that does not tell the whole story, because vaccination as mentioned in the article increases the risk for non influenza illnesses and it appears can increase susceptibility to and severity of non matched influenza strains.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 161,
+            "sentence": "Vaccination, unlike a natural infection is mentioned that it does not currently produce NA antibody protection which naturally provide robust and broad protection against divergent influenza strains.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 162,
+            "sentence": "These NA-reactive antibodies the body produces from natural infection display broad binding activity spanning the entire history of influenza A virus circulation in humans.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 163,
+            "sentence": "https://www.ncbi.nlm.nih.gov/pubmed/29625056 January 29, 2020 at 09:07 AM No, vaccines will not be dismissed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 164,
+            "sentence": "The next move will be emergency mandates with no exemptions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 165,
+            "sentence": "https://www.reuters.com/article/us-china-health-vaccines-idUSKBN1ZN2J8 Posted by:   We're screwed .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 166,
+            "sentence": "January 29, 2020 at 08:19 AM Posted by: .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 167,
+            "sentence": "This is only a preview.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 168,
+            "sentence": "Your comment has not yet been posted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 169,
+            "sentence": "Your comment could not be posted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 170,
+            "sentence": "Error type: Your comment has been saved.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 171,
+            "sentence": "Comments are moderated and will not appear until approved by the author.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 172,
+            "sentence": "Post another comment The letters and numbers you entered did not match the image.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 173,
+            "sentence": "As a final step before posting your comment, enter the letters and numbers you see in the image below.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 174,
+            "sentence": "This prevents automated programs from posting comments.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 175,
+            "sentence": "Post a comment Comments are moderated, and will not appear until the author has approved them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 176,
+            "sentence": "Comment below or sign in with and more... You are currently signed in as  (nobody) .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 177,
+            "sentence": "(You can use HTML tags like <b> <i> and <ul> to style your text.URLs automatically linked.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 178,
+            "sentence": "(Name and email address are required.Email address will not be displayed with the comment.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 179,
+            "sentence": "Name is required to post a comment Please enter a valid email address Invalid URL Please enable JavaScript if you would like to comment on this blog.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 180,
+            "sentence": "Payable to Autism Age PO Box 110546 Trumbull, CT 06611 on on on on on greyone on on on on go Trump on Dan Olmsted, Founder 2007 - 2017 Find over 6,000 archived articles since 2007 WWW ageofautism.com •",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

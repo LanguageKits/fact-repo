@@ -1,0 +1,721 @@
+{
+    "document_id": -1,
+    "url": "https://www.nationalreview.com/2019/06/net-neutrality-apocalypse-fails-to-pass/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Christopher Tremoglie",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:41:17.011345+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to content Give NR as a Gift NRPLUS Film & TV PC Culture FAQ NR Institute ... Apr.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "June 17, 2019 12:08 PM FCC chairman Ajit Pai One year ago this month, opponents of the FCC’s decision to loosen Title II regulations told us the Internet as we know it would end.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "It didn’t.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "June 11, 2018, was to be a date that would live in infamy, when the Federal Communications Commission (FCC) repealed the Obama-era net-neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "It was a decision met with widespread criticism throughout the country.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Fire, brimstone, throttled Internet speeds, the silencing of minority voices, attacks on the LGBTQ community, and the end of the internet as we know it were all imminent, according to liberals.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "We would be getting the Internet “one word at a time.” One year after the “day the Internet died,” let’s conduct a post-mortem on the post-mortem.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Starting with Bernie Sanders (I., Vt.), who declared that repealing net neutrality would be “the end of the internet as we know it.” He added that it would be “a disastrous decision, it will impact every American.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Meanwhile, Senate minority leader Chuck Schumer predicted that the Restoring Internet Freedom Order, as the administration called it, would make it impossible to stream content on your phone, and would cause shows to lag on Netflix.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Ask Netflix whether its business has taken a hit: The Sandra Bullock thriller obliterated its records this past December.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "That self-appointed bastion of truth in journalism, CNN, echoed Senator Sanders’s opinion in a headline, opining that with the repeal of net neutrality, it was the “end of the Internet as we know it.”",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Senator Ed Markey (D., Mass.) said that repealing net neutrality would “create a digital oligarchy that serves the wealthy few.” Senator Tom Udall (D., N.M.) said that “ISPs would create internet toll lanes” and would stifle innovation and competition.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Senator Richard Blumenthal, who has exaggerated once or twice in his life, said that students, innovators, consumers, and entrepreneurs would all suffer because of the repeal.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The Twitter account for the Senate Democrats sent a vertically aligned tweet, separated by paragraph breaks, in a hyperbolic attempt to show how burdensome an Internet without net neutrality would become.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The culture industry got in on the act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Hollywood stalwarts such as Cher, actor Mark Ruffalo, and Alyssa Milano sought to convince the masses that the net-neutrality rules were necessary for Americans to enjoy a throttle-free, open Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "The tone was apocalyptic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "ACLU piled on, saying that the quality of Internet connection and the content available on the Internet were “at risk of falling victim to the profit-seeking whims of powerful telecommunication giants.” Inserting class warfare into the fervor, they declared that the FCC could “favor the content providers who have the money to pay for better access.” Anything but net neutrality, we were told, would result in “authoritarian” rule of the World Wide Web.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Yet we’ve seen the opposite of the Internet Armageddon these sages predicted.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Internet speeds actually increased by 40 percent in the United States last year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The data show that there has been a record number of broadband deployment in U.S. homes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Investment continued to grow in 2018, as the country, says the U.S. Telecom association, an opponent of Title II regulations, “expanded on the momentum shift we saw in 2017 when the FCC initially signaled its intention to restore a forward-looking regulatory framework for broadband.” As the United States progress toward 5G, utility-style Internet regulations impede the development of new technology.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The stubborn fact is that Americans have access to faster Internet than ever before.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "A year after the Restoring Internet Freedom Order went into effect, there have not been any attempts to limit access of content providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "ISPs have not changed the way they charge customers, and the doomsday scenario has not come to pass of an Internet where content is provided only on an à la carte basis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Opponents of net neutrality could have made their case without channeling a dark, ominous, apocalyptic future.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "For example, some have argued that net-neutrality repeal would permit ISPs greater authority to promote their own services, limiting consumer choice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "However, concerns such as these were all too rarely expressed in political rhetoric.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Equating the repeal of net neutrality to an attack on the LGBTQ community, an attempt to silence marginalized people, or cutting off access to reproductive rights was an outlandish attempt to mobilize the Left’s political base.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "A year’s time has revealed as much.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Christopher Tremoglie is an Intercollegiate Studies Institute intern at and a student at the University of Pennsylvania.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "@chris_tremoglie       More in Politics happens.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Stay current with NR Daily.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Get our conservative analysis delivered right to you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "32 29 43 ‘America Strong’ over NYC Law & the Courts ‘Why was the FBI investigating General Flynn?” That is a question I posed more than three years ago, in the days immediately after President Trump fired Michael Flynn -- fleetingly, his first national-security adviser -- in February 2017.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "There was never a good answer to that question.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "That has always been ...               Law & the Courts ‘Why was the FBI investigating General Flynn?” That is a question I posed more than three years ago, in the days immediately after President Trump fired Michael Flynn -- fleetingly, his first national-security adviser -- in February 2017.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "There was never a good answer to that question.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "That has always been ...               We do not know whether the accusations that Tara Reade has leveled against Joe Biden are true or false.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "That is a question of evidence and of inquiry that might be answered as time rolls on.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "We do know, by contrast, that the double standard that has been exhibited by Biden’s campaign and by the political press ...               We do not know whether the accusations that Tara Reade has leveled against Joe Biden are true or false.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "That is a question of evidence and of inquiry that might be answered as time rolls on.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "We do know, by contrast, that the double standard that has been exhibited by Biden’s campaign and by the political press ...               Kat Timpf explains why a 16-year-old Maryland girl shouldn't be charged with child-porn distribution after making a video of herself.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Kat Timpf explains why a 16-year-old Maryland girl shouldn't be charged with child-porn distribution after making a video of herself.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Law & the Courts Author’s Note: What follows is an excerpt from my book Ball of Collusion: The Plot to Rig and Election and Destroy a Presidency, published in August 2019.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "The endnotes have been omitted, though I have included supporting links to several relevant reports that are cited in the endnotes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "The excerpt contends that ...               Law & the Courts Author’s Note: What follows is an excerpt from my book Ball of Collusion: The Plot to Rig and Election and Destroy a Presidency, published in August 2019.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "The endnotes have been omitted, though I have included supporting links to several relevant reports that are cited in the endnotes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "The excerpt contends that ...",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Almost the entire country is relieved that the president has shortened his daily press briefings and reduced his own role in them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Those who support the president feel that he has made the point that he is completely unintimidated by media hostility and has no significant trouble fielding their questions, no ...",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Almost the entire country is relieved that the president has shortened his daily press briefings and reduced his own role in them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Part of it is political expediency, of course.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Most of it, though, is completely understandable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Part of it is political expediency, of course.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Most of it, though, is completely understandable.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Even when Trump badly mangles science, journalists, who spend vast amounts of their time ...               Every Thursday at 8:00 p.m., British homes rouse from their lockdown slumber and empty into the streets for a few minutes of clapping, pot-banging, and drumming in support of workers in the National Health Service (NHS).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "The weekly ruckus has caused quite a stir in my peaceful idyll of Virginia Water, where ...               Every Thursday at 8:00 p.m., British homes rouse from their lockdown slumber and empty into the streets for a few minutes of clapping, pot-banging, and drumming in support of workers in the National Health Service (NHS).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "The weekly ruckus has caused quite a stir in my peaceful idyll of Virginia Water, where ...               Mairead McArdle Senate Majority Leader Mitch McConnell said Monday that it is “highly likely” the next emergency coronavirus package Congress passes will include funding for state and local governments, but cautioned that the relief will come with a condition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "“We probably will do another bill.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "What I’m saying is it ...               Mairead McArdle Senate Majority Leader Mitch McConnell said Monday that it is “highly likely” the next emergency coronavirus package Congress passes will include funding for state and local governments, but cautioned that the relief will come with a condition.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "“We probably will do another bill.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "What I’m saying is it ...",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "That would be a peculiar position for Biden’s chief adviser on medical issues and a member of the candidate’s Public Health Advisory Committee to take.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "But if we accept the reasoning behind Emanuel’s infamous 2014 essay, Biden is ...",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "That would be a peculiar position for Biden’s chief adviser on medical issues and a member of the candidate’s Public Health Advisory Committee to take.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "But if we accept the reasoning behind Emanuel’s infamous 2014 essay, Biden is ...",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "Senator Kirsten Gillibrand (D., N.Y.) on Tuesday said she supported Joe Biden following former Biden staffer Tara Reade's allegations that the presidential candidate sexually assaulted her.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "\"I stand by [former] vice president Biden,\" Gillibrand said in response to a question from JustTheNews during a ...",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "Senator Kirsten Gillibrand (D., N.Y.) on Tuesday said she supported Joe Biden following former Biden staffer Tara Reade's allegations that the presidential candidate sexually assaulted her.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "\"I stand by [former] vice president Biden,\" Gillibrand said in response to a question from JustTheNews during a ...               How Democrats blew up #MeToo         ... Film & TV PC Culture Gve NR as a Gift NRPLUS NR Institute E-mails & Alerts",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

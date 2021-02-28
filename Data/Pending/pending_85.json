@@ -1,0 +1,201 @@
+{
+    "document_id": -1,
+    "url": "https://www.mercatus.org/bridge/commentary/appeals-court-upholds-fcc-net-neutrality-repeal",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Krista Chavez",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:40:57.721215+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to main content Follow everything happening at the Mercatus Center from week to week by subscribing to This Week at Mercatus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "* YouTube COVID-19 COVID-19 Get the latest in research, commentary, and more from Mercatus scholars.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Last week, the US Circuit Court of Appeals for the DC Circuit mostly upheld the 2017 Federal Communications Commission (FCC) decision to repeal 2015 Open Internet Order and Title II regulation of the Internet, or “net neutrality.” Although the definition of “net neutrality” as a phrase has changed over time, industry professionals now use it to refer to the 2015 FCC rules, which used outdated phone regulations from the 1934 Communications Act to regulate the internet, gave the FCC wide-sweeping authority, and required many internet service-providers (ISPs) to obtain the Commission’s approval before providing new products and services to the public.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "In a statement, Mercatus Center technology and regulatory expert said: “Net neutrality has been the subject of litigation for a decade.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Today, in Mozilla v. FCC , the DC Circuit Court of Appeals largely upheld the Trump FCC’s 2017 decision to restore the deregulatory legal framework for the Internet that was in place until 2015.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The Trump FCC decided that the 2015 Open Internet Order created too many unnecessary restrictions for speech online and new Internet services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "“The 2015 rules, particularly the vague “general conduct standard,” served merely as an invitation to regulators and special interests to design the Internet and new services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The 2015 rules also incentivized Internet service providers to filter online content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Fortunately—for now—the FCC has revived the national policy from Congress that the Internet should be “unfettered by Federal and State regulation.” Innovators in Silicon Valley and across America should determine how the Internet evolves, not lawyers and lobbyists in Washington, DC.” held that the FCC lacked authority to preempt state net neutrality regulations absent more fact-finding: \"No matter how desirous of protecting their policy judgments, agency officials cannot invest themselves with power that Congress has not conferred.” This decision to let the states regulate will likely lead to further litigation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The Justice Department recently sued the state of California for its own legislation on the law, which attempts to prevent ISPs from blocking websites, intentionally slowing down its websites and apps, or accepting payments that would make online services move faster.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "\"Even on a quick reading, it is clear that the fight over net neutrality is just beginning,\" , consumer-law advocate who represented the Benton Institute for Broadband and Society in challenging the Commission.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "\"The FCC can try to fix its mistakes, but the court made it clear that the Commission cannot block states from passing their own net neutrality statutes and issuing executive orders.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Those will have to be reviewed case by case.” This debate over access to the internet actually goes back to the Clinton-era.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "In 1996, President Bill Clinton passed a bipartisan law which emphasized that Internet access should be, “unfettered from Federal or State regulation.” Skorup previously noted that Chairman Pai’s proposal would, “be a welcome return to the hands-off policy that prevailed for twenty years and turned the United States into a global leader in technology and broadband investment.” As the fight over free and open access continues, innovators have the ability to determine how the internet will evolve—for now.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Even though this fight remains politically heated, advocates on all sides agree that the internet should be free, open, and innovative.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "What's Next on the Bridge Follow everything happening at the Mercatus Center from week to week by subscribing to This Week at Mercatus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Each week, we will send you the latest in publications, media, and events featuring Mercatus research and scholars.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "* Your support allows us to continue bridging the gap between academic ideas and real-world policy solutions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "YouTube PhD Fellowship MA Fellowship YouTube RSS Toll-free Phone: (800) 815-5711 (703) 993-4930 -  Fax: (703) 993-4935 -  Media: (703) 993-4881",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

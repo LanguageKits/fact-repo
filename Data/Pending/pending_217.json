@@ -1,0 +1,361 @@
+{
+    "document_id": -1,
+    "url": "https://www.axios.com/where-the-net-neutrality-fight-goes-next-17add414-1c98-4cbe-b783-db678359c4fb.html",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Kim Hart",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:32:06.812754+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to main content Sign up Driving the news: The coronavirus pandemic 2020 Election Data privacy Automation and AI Stock market Trade war Health care costs Public health Climate change Alternative energy Oil companies Electric vehicles Extreme weather NFL, NBA, MLB & NHL NCAA Sports betting 2020 Olympics Axios gets you smarter, faster with news & information that matters.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Court rulings often bring clarity to thorny policy issues — but a mixed decision yesterday on the FCC’s handling of net neutrality rules only deepens a bitter internet policy debate that’s been raging in Washington for over a decade.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Why it matters: While the ruling allowed both sides to claim some level of victory, it also opens up 50 potential new fights over state rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The decision upheld many parts of the FCC’s move to wipe net neutrality rules from the books, but overturned the commission’s attempt to prevent states from implementing their own rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The court also directed the agency to rethink how removing the protections would impact public safety and low-income consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Here’s why this next phase of the net neutrality fight could play out differently than in the past.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Silicon Valley is distracted: 10 years ago, when companies like Google, Facebook, Netflix and Amazon were just starting to build Washington operations, net neutrality was a major focus of their efforts.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "They advocated for equal treatment of all online traffic, arguing that the broadband providers that own internet pipes should not be allowed to slow down, block or charge extra for competitors' content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Today, net neutrality is the least of Silicon Valley’s worries.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Tech companies are facing much larger regulatory threats to their businesses — ranging from antitrust investigations spurred by calls to break them up, to proposals to end a \"safe harbor\" provision that has protected them from liability for user-contributed content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "While they still support the concept of net neutrality, the biggest tech platforms also don’t necessarily need the protections they once championed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Google’s YouTube, Facebook, Netflix, and Amazon, for example, have enough market leverage on their own when negotiating with the major ISPs like Verizon, AT&T, Comcast and Charter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Yes, but: Tech workers still care deeply about net neutrality, and the next generation of internet platforms like Vimeo and Etsy will likely be pushing for rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Power of streaming: Video streaming services are much more robust and popular now, which may change the business dynamic between the tech companies and telecom companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Trying to compete with the tech giants, ISPs have launched their own streaming services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "That means that, in some cases, the telecom giants may be arguing for dual business interests — for control over traffic on their own broadband networks and against discriminatory behavior by other network operators.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "( Yes, but: The telcos' own streaming services are still relatively small compared to the tech industry's properties.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Other new streaming services, like those being launched by Apple and Disney, could bring those companies off the sidelines of the debate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Fight moves to the states — and Congress: The court confirmed states' ability to pass their own rules governing how broadband providers treat web traffic within their borders, opening the doors for some progressive states to implement rules that may go even further than the Obama-era rules that the Trump FCC reversed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "\"The court gave a green light for states to regulate,\" said Alan Davidson, vice president of global policy, trust and security at Mozilla, which filed the lawsuit against the FCC for repealing the 2015 rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "\"This isn't going away because people really want to control what happens on their internet connection.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Broadband providers, who say they support open internet principles, would face serious headaches from a state-by-state patchwork of different net neutrality laws.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "They'll renew their push for Congress to codify a national law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "\"Congress must end this regulatory rinse-and-repeat cycle by passing a strong national framework that applies to all companies, maintains our dynamic and open internet, and sustains our global digital leadership for the next generation and beyond,\" said Jonathan Spalter, CEO of US Telecom, in a statement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Go deeper Trump and FCC's Pai lunched after net neutrality decision President Donald Trump and FCC Chairman Ajit Pai had lunch at the White House the day the FCC won a major legal battle over its repeal of net neutrality regulations, according to two people familiar with the gathering.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Why it matters: Interactions between FCC leaders and the White House have drawn intense scrutiny because the FCC is an independent agency.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Both people described the gathering as a \"family\" event.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Go deeper Oct 8, 2019 Barak Ravid of Israel's Channel 13 news West Bank annexations must come in context of Palestinian state, White House tells Israel Netanyahu (L) at the unveiling of Trump's plan.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Photo: Sarah Silbiger/Getty Images The Trump administration has told Israel it won't support annexations in the West Bank unless Israel agrees to negotiate over a Palestinian state and fully endorses President Trump's Middle East peace plan, U.S. and Israeli officials tell me.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Why it matters: Prime Minister Benjamin Netanyahu has promised to move ahead with annexations, but the White House is urging him not to do so without accepting its broader package, which calls for a Palestinian state after several criteria are met.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Go deeper (2 min.read) 3 mins ago - The coming clash over the first coronavirus vaccines Global demand will be high for a successful COVID-19 vaccine, even if it's years down the road before any become available.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "State of play: There will not be enough vaccines to meet initial demand, experts say.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "That’s left nations racing to secure future supplies and international organizations scrambling to make sure there is equitable access to any vaccines for the novel coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Go deeper (2 min.read) 3 mins ago - Axios gets you smarter, faster with news & information that matters.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Advertise with us Axios on HBO Privacy and terms Online tracking choices Contact us Axios newsletters Axios app",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

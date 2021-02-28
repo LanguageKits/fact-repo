@@ -1,0 +1,341 @@
+{
+    "document_id": -1,
+    "url": "https://libraries.idaho.gov/net-neutrality-repealed/",
+    "document_category": "Government",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:54:50.885780+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to content Idaho.gov Logo TBS ICFL Programs LiLI STACKS eBranch STEM Services NASA at My Library Summer STEM LiLAC SPLAT COVID-19 Resources NEW!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "LiLI \u2013 Research Database Search for: ICFL Programs eBranch LiLI STACKS CE Grants LiLAC SPLAT Search for: .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "June 15th, 2018 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "On June 11, 2018, the Federal Communications Commission (FCC) repealed the internet\u2019s net neutrality rules, which went into effect in 2015.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Like most hot topics, it depends on whom you ask.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Under those regulations, broadband service was considered a utility under Title II of the Communications Act, which gave the FCC broad power over internet providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Net neutrality required internet service providers to offer equal access to all web content and prohibited internet providers from charging more for certain content or from giving preferential treatment to certain websites or their own content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Net neutrality prohibited: Blocking \u2014 internet service providers could not discriminate against any lawful content by blocking websites or apps.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Throttling \u2014 service providers could not slow the transmission of data because of the nature of the content, as long as it was legal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Paid Prioritization \u2014 service providers could not create an internet \u201cfast lane\u201d for companies and consumers who paid premiums and a slow lane for those who didn\u2019t.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Proponents of net neutrality fear that without the regulations, broadband providers will sell the internet in bundles, similar to cable TV packages, and that the internet\u2019s \u201cfast lane\u201d will be occupied and accessible only by the affluent \u2014 leaving everyone else in the \u201cslow lane.\u201d With the repeal, oversight of internet protections will shift from the FCC to the Federal Trade Commission (FTC).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The FTC oversees consumer protection and competition in broad sectors of the economy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Providers will be required to publicly disclose any instance of blocking, throttling, or paid prioritization.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "A press release issued by the FCC states that the repeal does away with \u201cunnecessary, heavy-handed regulations\u201d and replaces them with \u201ccommon-sense regulations that will promote investment and broadband deployment.\u201d Whether you agree with the repeal or not, net neutrality is over \u2014 for now.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "(An effort to restore net neutrality continues on the federal front, and several states have adopted their own rules.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "At this point, maybe not much \u2014 other than to serve as a reminder that you can do something to increase your library\u2019s internet bandwidth and get higher-quality internet connections, at an affordable cost.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "There is federal and state funding available for public libraries to improve their internet service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "E-rate funding (the federal mechanism) is administered as a discount from the service provider.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "It ranges from 20 to 90 percent of the cost of the services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The portion of the costs not discounted (covered) under E-rate can then be eligible for reimbursement under the State of Idaho\u2019s Education Opportunity Resource (EOR) Act.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Through EOR , a public library can be reimbursed for the non-E-rate portion of its internet services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Granted, to receive the funding, you must fill out and submit certain forms each year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "But my colleague Tiffany Duke and I can help you or your staff with that process.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "I even have a screen-sharing tool that would allow me to see exactly what you are looking at (and maybe struggling with) on your computer screen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "E-rate and EOR give public libraries the ability to increase bandwidth and have a higher quality connection \u2014 without being limited by budget.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Please email or call me, if you would like to know more about broadband funding, net neutrality, or all things internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "I\u2019d love to help you have the best internet available for your patrons and staff.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "My email is: dylan.baker@libraries.idaho.gov or my direct line is: 208-639-4167. facebook twitter linkedin pinterest April 21st, 2020 August 8th, 2019 July 25th, 2019 Children's Programs ICFL News LiLI News STEM News TBS News October 29th, 2018 March 3rd, 2020 September 15th, 2018 COVID-19 News & Updates (Week of April 20th) April 24th, 2020 Your feedback is needed on CARES Act funding April 23rd, 2020 April 22nd, 2020 April 28, 2:00 pm - 3:00 pm MDT April 29, 9:00 am - 4:00 pm MDT April 2020 March 2020 February 2020 January 2020 December 2019 November 2019 October 2019 September 2019 August 2019 July 2019 June 2019 May 2019 April 2019 March 2019 February 2019 January 2019 December 2018 November 2018 October 2018 September 2018 August 2018 July 2018 June 2018 May 2018 April 2018 March 2018 February 2018 January 2018 December 2017 November 2017 October 2017 September 2017 August 2017 July 2017 June 2017 May 2017 April 2017 March 2017 February 2017 January 2017 About ICfL MAIN OFFICE Boise, ID 83702 Phone: (208) 334-2150 Toll Free: (800) 458-3271 Fax: (208) 334-4016 STEM Programs NORTHERN OFFICE 220 E 5th St., Ste.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "307 Moscow, ID 83843 Phone: (208) 882-8882 Toll Free: (866) 212-0646 LiLI Databases EASTERN OFFICE 1820 E. 17th St., Ste.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "130 Idaho Falls, ID 83404 Phone: (208) 525-7211 Toll Free: (800) 548-6212 CONNECT WITH US Idaho.gov Boise, ID 83702 Phone: (208) 334-2150 Fax: (208) 334-4016 Toll Free: (800) 458-3271 1820 E. 17th St., Ste.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "130 Idaho Falls, ID 83404 Phone: (208) 525-7211 Fax: (208) 334-4016 Toll Free: (800) 548-6212 220 E 5th St., Ste.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "307 Moscow, ID 83843 Phone: (208) 882-8882 Fax: (208) 334-4016 Toll Free: (866) 212-0646 Copyright 2020.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "This website and other programs and services of the Idaho Commission for Libraries (ICfL) are funded with state funds, appropriated by the Idaho State Legislature; federal funds, granted by the Institute of Museum and Library Services (IMLS), through its Library Services and Technology Act (LSTA); and contributions from individuals and corporations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,821 @@
+{
+    "document_id": -1,
+    "url": "https://lifehacker.com/an-introduction-to-net-neutrality-what-it-is-what-it-5720407",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Whitson Gordon",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:43:02.121747+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Do everything better Tech 911 coronavirus Do everything better Tech 911 coronavirus may also like Yesterday 5:15PM Today 11:40AM Today 10:15AM Read on Read on Read on I'm Playing Read on Daily tips, tricks & shortcuts delivered to your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "We've dropped the net neutrality term around here a few times , but you may not entirely understand what it's all about.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Here's a primer on what net neutrality is, how it might affect you, and what you can do about it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Wired points out that the FCC is even going so far as to say that net neutrality should extend to… Read more Photo remixed from an original by As its name indicates, net neutrality is about creating a neutral internet .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The basic principle driving net neutrality is that the internet should be a free and open platform, almost like any other utility we use in our home (like electricity).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Users should be able to use their bandwidth however they want (as long as it's legal), and internet service providers should not be able to provide priority service to any corner of the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Every web site (whether it's Google, Netflix, Amazon, or UnknownStartup.com) should all be treated the same when it comes to giving users the bandwidth to reach the internet-connected services they prefer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Your electric company has no say over how you use your electricity—they only get to charge you for providing the electricity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Net neutrality aims to do something similar with your internet pipes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Those against net neutrality—commonly including internet service providers (ISPs), like Comcast or AT&T—believe that, as providers of internet access, they should be able to distribute bandwidth differently depending on the service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "They'd prefer, for example, to create tiers of internet service that's more about paying for priority access than for bandwidth speeds.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "As such, in theory, they could charge high-bandwidth services—like Netflix, for example—extra money, since their service costs more for Comcast to provide to its customers—or they could charge users, like you and me, extra to access Netflix.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "They can also provide certain services to you at different speeds.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "For example, perhaps your ISP might give preferential treatment to Hulu, so it streams Hulu videos quickly and for free, while Netflix is stuck running slowly (or we have to pay extra to access it).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Proponents of net neutrality don't want to give the ISPs too much power because it could easily be abused.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Imagine that Verizon or AT&T don't like the idea of Google Voice, because it allows you to send text messages for free using your data connection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Your cellphone carrier could block access to Google Voice from your smartphone so you're forced to pay for a texting plan from them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Or, they see that a lot of people are using Facebook on their smartphone, so even if they have the bandwidth to carry that traffic, they decide to charge you extra to access Facebook, just because they know it's in high demand and that they can make a profit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Hit the link for the full image .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Similarly,Comcast recently got in a tiff with Netflix over its streaming video offerings, essentially telling Netflix's partners that they'd need to pay if they wanted their content delivered on their network.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Comcast argued that streaming Netflix is a huge traffic burden, and if they're going to provide that service they'll need to update their infrastructure.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Netflix's argument was that Comcast provides the internet, and it's Comcasts users that have requested that extra bandwidth for the services they want.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Another way to look at it: Comcast also has their own On Demand service which directly competes with Netflix—and if Comcast is allowed to divide up their service as they please, the option to give preferential treatment to their own service isn't exactly fair just because they're the internet provider.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "And, with Comcast and NBC looking to merge , the waters can get even murkier.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "The resulting superpower could give preference to all of NBC's content too, thus leaving other content providers out in the cold.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Another problem here is that while big services like Netflix could, in theory, afford to pay Comcast for using extra bandwidth, the small, lesser-known services—that could be big one day but aren't yet— can't .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Really great web sites or internet services might never gain popularity merely because ISPs would have control over what kind of access users like you and me have to that service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "That could greatly stifle innovation, and we'd likely miss out on a lot of cool new services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Anti-net neutrality activists argue that internet service providers have a right to distribute their network differently among services, and that in fact, it's the ISPs that are innovating.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "They argue that giving preferential treatment to different services isn't a bad thing; in fact, sometimes it's necessary.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "In the recent Comcast/Netflix debate, they point out that if Netflix is sucking up all their bandwidth, they should be the ones to pay for the necessary updates that Comcast's systems will require because of it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Many free market proponents are also against the idea of net neutrality, noting that Comcast and AT&T are companies like any other that should be able to compete freely, without government regulation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "They themselves aren't \"the internet\"—they're merely a gateway the internet, and if they're each allowed to manage their networks differently, you're more likely to have competition between service providers which ultimately, they claim, is better for the users.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "If you don't like the fact that Netflix is slower on Comcast than it is on AT&T, you can switch to AT&T.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "The problem, however, is still that ISPs could always favor their own services over others, leaving services with no connection to the ISP out in the cold.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Furthermore, most people don't have much choice in who their ISP is, since in any given location there may be only one or two ISPs providing internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "The Federal Communications (FCC) released a new set of net neutrality rules on December 21, 2010 for internet service providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Here's the state of net neutrality regulation as of right now: First and foremost, the FCC requires that ISPs publicly disclose all their network management practices, so that users can make informed decisions when purchasing internet service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "That means they'd have to say what speeds it offers, what types of applications would work over that speed, how it inspects traffic, and so on.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "It does not necessarily mean that those disclosures will be understandable by non-tech savvy individuals—in fact, we've already seen how ISPs try to spin their \"what you'll get\" charts to you purchase the most expensive internet (see the misleading image above)—so this rule doesn't necessarily mean a lot to the average consumer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "You thought AT&T was screwing unsuspecting customers into paying obscene bandwidth bills with… Read more Wired ISPs—that is, providers of the internet in your home—are not allowed to outright block any legal web content, applications, or services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "The FCC also notes that they aren't allowed to slow down traffic either, as this often renders a service unusable and thus is no different from outright blocking.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "For example, Comcast has always throttled BitTorrent downloads, but it didn't block them completely—it just slowed them down to a crawl.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Under these new rules, that wouldn't be allowed either.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "The new rules also do not allow wired ISPs to discriminate against legal network traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "This means that Comcast cannot, in fact, discriminate against competitive services like Netflix or stifle free speech (by, say, discriminating against political outlets that have views different from the ISP or its parent company).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Mobile ISPs, on the other hand, are not subject to the same rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "The FCC believes mobile broadband—that is, the data plan you have on your cellphone—is still young enough that it may need heavier network management than wired broadband.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "As such, they haven't made any broad net neutrality rules as of yet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Mobile ISPs are still prohibited from blocking services on the web that compete directly with their own, but they can continue to discriminate—which means that at any given point, you could find an internet service blocked or deliberately slowed down when accessing it from your smartphone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Furthermore, if the ISPs so choose, they could charge you extra to access certain services, like Facebook or Netflix.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "App stores are exempt from these rules, so the App Store and Android Market can be as closed as they want to be.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "So, if Apple decided that they no longer wanted Google Voice to be available in the App Store, they could remove it—even though it's a service that directly competes with AT&T.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "The other group exempt from the rules are managed services—services that companies pay extra for, and thus require a higher level of service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "A good example is AT&T's IPTV service—they provide television and on demand services through the internet instead of over cable or radio frequencies, and they dedicate a certain amount of their bandwidth for just those services, leaving less bandwidth for everything else.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Again, this isn't intrinsically bad, but giving ISPs unlimited power to do this can lead to dangerous territory.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "The rules as I've laid them out above offer a pretty condensed summary of the main points in the FCC's latest release, and while they seem like a big step forward (namely the neutrality rules in place for wired connections), a lot of net neutrality proponents are still unhappy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "The exception for mobile broadband is a pretty big complaint, as are the exceptions for managed services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "A lot of folks also argue that loopholes abound in the new rules, like the fact that all the rules are subject to \"reasonable network management\", which isn't very well defined.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "To be fair, neither side is happy with the current rules —which is to be expected in such a heavily debated issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "Proponents think the rules aren't strict enough and that the ISPs have gotten \"exactly what they wanted\", while the anti-net neutrality camp think that the internet companies are being too heavily regulated.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "In the end, it's all about the control you, as a user, have over how you use the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "While net neutrality's opponents argue that tiered service creates more control for the user, most of us don't see it that way—we'd like to be able to access all internet services equally, instead of having certain services given preferential treatment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "After the passing of these rules, the wired internet in our homes is a bit safer, but the internet we access from our smartphones isn't.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "ISPs could still block, discriminate against, or charge extra for web sites and services we get on-the-go, taking control out of your hands.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "If you really want to argue about the finer points, you'll want to dig into the actual FCC release , as this or any other summary isn't going to provide the nuances and specifics nearly well enough.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "But in general, this should give you a good idea of where we are now.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "If you're reading this and foaming at the mouth in anger, there are a few things you can do .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "The FCC has a complaint system set up for citizens to voice their issues on communications-related topics.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "Submitting an informal complaint is easy, as it's all done online, and anyone can do it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "Right now, the form isn't exactly friendly—there don't seem to be any specific sections about the new net neutrality rules—but the FCC says they'll be making resources available for net neutrality-specific complaints.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "For now, Ars Technica recommends hitting \"Internet Service and VoIP\", then heading to \"Billing, Service, Availability\" and going to the online form from there.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "End users can't submit formal complaints, but if you're a company or public interest group that's very concerned about the new rules (and you've got $200 to spend on the filing fee), you can file a formal complaint, which is often like a court hearing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "You'll probably need a lawyer, and for most of us, the informal route is the best bet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "But Ars has more information on formal complaints if you're interested.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "Net neutrality's a complicated issue, and a lot of people still aren't informed about what's going on.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "Explain the issue to your friends and family—the more people know about it, the more people that might be affected and might speak out.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "You can also check out each side's respective organization, SavetheInternet.com for pro-net neutrality voices and HandsOff.org for anti-net neutrality voices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "They've each got a ton of links to other ways you can talk to your congresspeople, write letters and sign petitions to make your voice heard.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "We here at Lifehacker are open supporters of net neutrality, but we know it's a very hot-button issue, and many of you probably have your own opinions on the subject—whether you agree with us or not.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "So let's get some discussion started in the comments below.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

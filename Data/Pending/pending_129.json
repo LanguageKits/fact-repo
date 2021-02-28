@@ -1,0 +1,921 @@
+{
+    "document_id": -1,
+    "url": "https://www.networkworld.com/article/3154091/the-loss-of-net-neutrality-say-goodbye-to-a-free-and-open-internet.html",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Tom Henderson",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:42:53.587256+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "network world UNITED STATES !",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Here are the latest Insider stories.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Review: 5 top videoconferencing services put to the test Network World 2020 State of the Network: SD-WAN, edge networking and security are hot Private cloud reimagined as equal partner in multi-cloud world Enterprises roll out private 5G while standards, devices, coverage evolve NEW FROM IDG NEW PRO          What the new Cisco certification requirements mean for you The VPN is dying, long live zero trust SSD vs. HDD: Choosing between solid-state and hard-disk drives What women want in the IT workplace: 6 key factors for hiring and retention NEW FROM IDG NEW FROM IDG Subscribe to access expert insight on business technology - in an ad-free environment..",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Check out the latest Insider stories here.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "More from the IDG Network .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Tom Henderson is an enterprise cloud/virtualization/containerizing/workload systems researcher at ExtremeLabs, Inc., author, lecturer, ham radio experimenter, and a very skeptical geek.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The loss of net neutrality: Say goodbye to a free and open internet The effort to restore net neutrality advanced after the U.S. Senate voted to reinstate the rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The motion still has a battle ahead of it, though.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "If it fails, you can expect these long-lasting problems to surface.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Following the U.S. Senate’s 52-47 vote to reinstate net neutrality rules, U.S. Rep. Mike Doyle (D-Pa.) announced the House of Representatives will attempt to also force a vote on the issue under the Congressional Review Act (CRA).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "“I have introduced a companion CRA in the House,” Doyle said during a press conference yesterday, “but I’m also going to begin a discharge petition, which we will have open for signature tomorrow morning.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "And I urge every member who supports a free and open internet to join me and sign this petition, so we can bring this legislation to the floor.” To force a vote in the House, the petition needs 218 signatures.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The Democrats hold only 193 seats there, so they need 25 Republicans to switch sides.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Update May 16, 2018 U.S. Senate voted 52-47 to reinstate the net neutrality rules .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Republican Senators Susan Collins (Maine), Lisa Murkowski (Alaska) and John Kennedy (La.)",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "broke party lines and voted with all Senate Democrats to overturn the FCC’s decision to repeal the 2015 Obama-era rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "The measure now moves to the House of Representatives, where it faces a significant battle.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Republicans hold a 236-193 majority in the House.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "If it receives a simple majority there, it then moves to the President for his signature.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Update May 10, 2018: The effort to restore net neutrality advanced yesterday when the U.S. Senate forced a vote on a new resolution restore the rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Sen. Ed Markey (D-Mass.)",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "and 32 other Democrats submitted a new discharge petition under the Congressional Review Act (CRA) to restore the 2015 Open Internet Order — net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The petition has the power to force the U.S. Senate to vote on the resolution, which Markey said he hopes will happen next week.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "“This is the fight for the internet,” Sen. Markey said during a press conference.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "“By passing this resolution, we can send a clear message that this Congress won’t fall to the special interest agenda of President Trump and his broadband baron allies, but rather will do right by the people that send us here.” ",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Get regularly scheduled insights by signing up for Network World newsletters . ]",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "The CRA allows Congress to roll back regulations within 60 legislative days of introduction, which would apply to the internet rules FCC Chairman Ajit Pai introduced in December.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Those rules reversed the 2015 Open Internet Order, which had explicitly banned blocking, throttling, and paid prioritization by internet providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "To undo Pai’s rules and restore net neutrality, the resolution needs a bare majority in the House of Representatives and the Senate, as well as the President’s signature.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "So far, 50 senators have said they’re in favor of the bill.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "They include all 48 of the Democratic senators, as well as Sen. Angus King (I-Maine) and Sen. Susan Collins (R-Maine).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Activists hope to persuade moderate Republicans Sen. Lisa Murkowski (R-Alaska), Sen. John Kennedy (R-La.), and Sen.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Rob Portman (R-Ohio) to also support the bill.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Update Dec. 14, 2017: In a 3-to-2 vote along party lines, the Federal Communications Commission has repealed the net neutrality regulations that prevented internet service providers (ISPs) from charging customers more for higher-quality content and other services and prevented them from blocking websites.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "The federal government also will no longer regulate internet service as if it were a utility.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "FCC Chairman Ajit Pai said the rollback of the rules, which were put in place in 2015 during the Obama administration, would \"eventually help consumers because broadband providers like AT&T and Comcast could offer people a wider variety of service options,\" .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "“We are helping consumers and promoting competition.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Broadband providers will have more incentive to build networks, especially to underserved areas,” Pai said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Update Nov. 21, 2017: The Federal Communications Commission announced today it plans to repeal net neutrality, regulations that ensure equal access to the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "The move clears the way for internet service providers (ISPs) to charge customers more and block access to websites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "The rules, put in place by the Obama administration, prohibited ISPs from blocking or slowing streaming services or from charging extra for faster service.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "FCC Chairman Ajit Pai said the move is to stop the federal government from \"micromanaging the internet.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "“Instead, the FCC would simply require internet service providers to be transparent about their practices so that consumers can buy the service plan that’s best for them and entrepreneurs and other small businesses can have the technical information they need to innovate,” Pai said in a statement.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "The proposal is expected to be approved by the commission Dec. 14 in a 3-2 vote, with the five commissioners voting along party lines.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "--------------------------------------------- What will happen without net neutrality rules First: I’m not a lawyer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Net neutrality—the principle that no online traffic has priority over other traffic, not even for pay —might go away.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "If it does, big money will be behind its demise.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "The end of network neutrality will create many lasting problems, including these specific issues: 1.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "The lawyers win Every conceivable new theory about how one organization should have priority will ensue, and the courts will be clogged deciding the outcome.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Today, the principle is simple: all traffic gets the same priority, and multimedia can have isochronous priority, but it’s not guaranteed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "+ Without net neutrality, we will enter an era where ISPs, telcos, carriers and interconnects will all demand that THEIR traffic has priority, and yours does not—unless you pay.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Let the litigation begin, and the courts glow in the dark in an attempt to sort out what theories of law now hold sway.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Insert wallet, here.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Traffic is allowed to be throttled, even trampled Across every backbone will be preferential treatment, and crossing some backbones may come with a toll charge.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "What is now a fairly egalitarian treatment of traffic might even mean micro-tolls as traffic crosses international boundaries.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "With net neutrality, all services go at the same rate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Without it, we’ll have fourth-class email.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Streaming data will dominate The U.S. is far behind the rest of the top-world economies in terms of both commercial and residential connection speeds and accessibility.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "But everyone will want to become a cable company.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "Phone consumption of HD movies is already controversial in terms of how it has affected data plans and has contributed to the lies the telcos and mobile network operators have been able to tell about plan caps and “unlimited data.” When you start streaming episodes of your favorite TV shows in HD, the data costs will climb.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "These networks weren’t designed to deliver millions and millions of concurrent data streams, so bandwidth-hungry apps will cause a re-thinking of data plans and of what kind of media types will be throttled, and in what way.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "Add in the rapid popularity of ultra-high definition/4K resolution, and it won’t be long until phone messaging will become secondary and the smartphone becomes the smart player in terms of media consumption and how it’s tariffed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Tor will be a pariah Peer-to-peer networks such as The Onion Router/TOR are difficult to control, and they eat up available bandwidth.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "Add in the influence of the Recording Industry Association of America and Motion Picture Association of America, and the Tor network will be demoted to the same as the fourth-class email, throttled until you can’t share anything .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "Hierarchical control will be complete, and the internet will devolve into a star-like network instead of well, an internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "Networks will become empires incarnate The ISPs now have enormous connections whose interconnections aren’t throttled.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "Any ISP could attempt to charge any carrier or other ISP to enter their routers at a non-throttled speed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "Smaller operators risk being swallowed up by larger ones merely by throttling smaller operator’s traffic to the detriment of the smaller operator’s customers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "What are somewhat large investments will allow today’s large operators to bind into consortiums, creating tiers of privileged traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "The largest impact will be cable cutters and other high multimedia users.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "Without net neutrality, anyone’s stream can be stepped on like a garden hose, arbitrarily, probably until you pay more for the privilege of having the heel removed from the stream.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "Metering and unthrottled control will cost, and it’s the death of free Wi-Fi Because of pay for play, larger resources are favored over small business and residential users—as well as organizations that offer free Wi-Fi in places like coffee shops, restaurants and auto repair lounges.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "Roving gamers and media users will also find that a mobile carrier’s services will be prioritized over all others, much in the same way that AT&T and Verizon are attempting to let their own services ride their LTE services for “free” while charging for other data uses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "Competition becomes mightily stanched.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "You’ll want to use Comcast’s apps because they’re cheaper than Microsoft’s—or perhaps Apple’s will be offered at a lower cost because of “partnering agreements.” 7.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "Measuring SLAs becomes gruesome As post-net neutrality metering and throttling become commonplace, discovering exactly if you’re getting what you pay for becomes highly complex.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "Proving a tiered SLA will be breathtakingly difficult to prove, audit and find actual value.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "Metering will cause nightmares and litigation Let’s say you’re now metered, but some services are (supposedly) free.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "Interconnection creates islands Turfs currently controlled by one or two carriers, often a cable company and a telco, already create an uncompetitive environment where prices soar and customer service can be measured in Zantac consumption.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "Everywhere on the internet are demarcations that are the coupling of assets in and among carriers and telcos and desired points of interconnected presence.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "This is a network.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "Content delivery networks and other specialty interconnections ease the pain and prevent clogging of busy network wires between junction points.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "The disparity of areas in terms of performance for both business, global and the tiniest home networks can increase in gaps because favoritism in carriage will inevitably ensue when new network tiers mandate cross-network connectivity at ostensibly guaranteed (by extra $$) agreements.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "This means some networks will have faster speeds and more available bandwidth, while other networks will be overloaded carrying “non-priority” traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "One of the benefits of net neutrality today is that the principle prevents these types of potential clogs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "“Emergency traffic” mandates will arise Other traffic will become more important than yours, no matter who you are.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "Once net neutrality is gone, nothing prevents your government from declaring themselves to be more important, followed by their largest campaign contributors, companies with deep pockets, and everyone but you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "This perhaps is the most onerous problem of the death of network neutrality: Unless you have some kind of clout or lots of money, be prepared to get the speed of unwashed masses of your fellow un-influentials.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "Join the Network World communities on and LinkedIn to comment on topics that are top of mind.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "Tom Henderson is dojo of ExtremeLabs, researcher at Network World, world traveler, and friend to many.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "The results are in Follow us IDG Careers E-commerce Links Explore the IDG Network descend CIO CSO IDC IDG IDG Connect InfoWorld JavaWorld",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

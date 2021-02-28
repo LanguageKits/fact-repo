@@ -1,0 +1,521 @@
+{
+    "document_id": -1,
+    "url": "https://www.cbsnews.com/news/opinion-wholl-really-benefit-from-net-neutrality-regulation/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Adam Thierer",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:56:34.033427+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": " December 21, 2010 / 6:11 PM / CBS News  (This guest column was authored by Adam Thierer, a senior research fellow at the Mercatus Center at George Mason University.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "No one disagrees that the Internet's openness is what made it great, or that consumers benefit from the free flow of traffic and applications over broadband networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "That's why saying anything negative about today's 3-2 vote by the Federal Communications Commission (FCC) to approve so-called \"Net Neutrality\" rules will, no doubt, make me a pariah in the eyes of some.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "History suggests otherwise since it is littered with examples of \"regulatory capture\" and what economist call \"rent-seeking\": Special interests and Washington insiders have repeatedly co-opted regulatory programs and process to achieve their own ends.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "As Tim Wu, the man who coined the term \"Net neutrality,\" notes in his new book, The Master Switch: \"Again and again in the histories I have recounted, the state has shown itself an inferior arbiter of what is good for the information industries.The federal government's role in radio and television from the 1920s through the 1960s, for instance, was nothing short of a disgrace.... Government's tendency to protect large market players amounts to an illegitimate complicity ... [particularly its] sense of obligation to protect big industries irrespective of their having become uncompetitive.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Wu is correct and he's not the only progressive who has identified this problem.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Don't you see that they must capture the government, in order not to be restrained too much by it?\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "In other words, all the wishful thinking in the world isn't going to change the fact that any government agency or process big enough to control a major sector of our economy will be prone to influence by those most affected by it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Even film critic Roger Ebert, a vociferous Net Neutrality supporter, pointed out this problem in a Tweet on Monday night, saying: \"Both Left and Right slam FCC on Net Neutrality.Only the lobbyists like it, possibly because their jobs depend on it.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "This is why it was liberal Democrats -- not business-friendly Republicans -- who took the lead in America's most sweeping deregulatory push of the past quarter century.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The effort to liberalize transportation markets in the 1970s was led by officials in the Carter Administration and on Capitol Hill (including the late Sen. Ted Kennedy, and future Supreme Court Justice Stephen Breyer, who worked for Kennedy at the time).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Consumer crusader Ralph Nader was also on board.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "So, too, was self-described \"good liberal Democrat\" Alfred Kahn, an economist who was appointed Chairman of the Civil Aeronautics Board and set to work with these other progressives to dismantle anti-consumer cartels that had been sustained by government regulation.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "These men understood that consumer welfare was better served by innovative, competitive markets than by captured regulators, who talked a big game about serving \"the public interest\" but who were typically busy stifling innovation and market entry.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Some will argue that things have changed and that a better breed of bureaucrat and legislator now is in charge, immune from such influence.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "It's a hard case to make, though, especially when Washington is teeming with telecom, media, and technology lobbyists and lawyers hungry to grow the regulatory state in various ways.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Thus, for all the talk we hear about how the FCC's move to impose Net Neutrality regulation is about \"putting consumers first\" or \"preserving Net freedom and openness,\" it's difficult to ignore the small armies of special interests who stand ready to exploit this new regulatory regime the same way they did telecom and broadcast industry regulation during decades past.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The opinions expressed in this commentary are solely those of the author.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "First published on December 21, 2010 / 6:11 PM CBSN: 24/7 Live Stream ICYMI: A look back at Sunday's 60 Minutes  This week on 60 Minutes: How GM and Ford switched from building vehicles to making medical supplies; Then, using artificial intelligence to track the coronavirus pandemic; And, protecting the U.S. military from coronavirus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Apr 27 Tracking the coronavirus pandemic with AI  On New Year's Eve, a small company in Canada was among the first to raise the alarm about an infectious disease outbreak.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Its computer algorithm calculated where the virus might spread next.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The technology could change the way we fight another contagion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Apr 27 Ford, GM join fight against coronavirus  America's two biggest carmakers aren't rolling sedans off their assembly lines right now, they're churning out ventilators.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "And they're doing it with new practices that prioritize keeping workers safe.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Apr 27 Protecting the U.S. military from coronavirus  The U.S. military is changing its procedures and training to combat the spread of COVID-19.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "David Martin reports on what's being done to protect those keeping the country safe.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Apr 26 Do-it-yourself hair color: A quarantine quandary  Life during lockdown is not all black-and-white – it's gray!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "But as Faith Salie discovers, gaining a touch of control in your out-of-control life may be rooted in coloring your own hair.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "If someone tells you “Drink bleach,” or tries to sell you a “coronavirus prevention pill,” run away!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Correspondent Mo Rocca talks with “Quackery” co-author Dr. Lydia Kang, and with Dr. Stephen Barrett (who runs the Quackwatch website), about the history of quack medicine, and of charlatans and snake oil salesmen who use fears about medical conditions to separate fools from their money with almost surgical precision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Apr 26 06:59  As a teenager Claire Danes expressed her ambition in life as being “a sane person … who acts.” The star of “Homeland” (now concluding its eighth and final season) and a three-time Emmy-winner, Danes talks with correspondent Holly Williams about her portrayal of CIA officer Carrie Mathison, and the blockbuster film role she doesn’t regret turning down.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "News stories of a mysterious novel coronavirus outbreak spreading in Wuhan, China began appearing in America in early January.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Correspondent Martha Teichner talks with Pulitzer Prize-winning science writer Laurie Garrett (“The Coming Plague”); Ashish Jha, director of the Harvard Global Health Institute; and Beth Cameron, who was once in charge of pandemic preparedness for the National Security Council, about the Trump administration’s response to COVID-19.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Apr 26 08:05  NYC’s Potter’s field on Hart Island  Hart Island, located in Long Island Sound, is where the City of New York inters the unknown, the unclaimed, or those too poor to afford a burial.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "It’s the largest Potter's field in the country, one which is now the final resting place for scores of COVID-19 victims.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "“48 Hours” correspondent Erin Moriarty made a pilgrimage to the site now much in the news, with a woman whose infant daughter was laid to rest there 42 years ago.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Apr 26 06:34  Sanitizers vs. disinfectants: Expert explains the difference  \"You just don't want to make a mistake under these circumstances, especially if you're living with someone or yourself is a part of the vulnerable population,\" Keri Lestage said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "28M ago Roger Stone to appeal sentence, denial of new trial  Stone's attorneys filed a notice of appeal with the federal district court in Washington.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "39M ago \"COVID toes\" may be coronavirus symptom  \"I have seen more toes in the past two weeks in my clinic than I have in my entire previous career combined,\" one dermatologist told CBS News.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "43M ago A recap of latest polls and data-driven studies from the CBS News Election & Survey Unit  48M ago Trump claims China \"will do anything they can\" to hurt reelection bid  Mr. Trump told Reuters in an interview Beijing \"will do anything\" for him to lose reelection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "These are the top films available on the streaming platform.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Apr 10 46 photos  Pandemic: New Orleans, before and after lockdown  Photojournalist Sophia Germer, of The Times-Picayune/New Orleans Advocate, offers a view of the effect of coronavirus on the Big Easy  Apr 19 12 photos  Notable deaths in 2020  A look back at the esteemed personalities who've left us this year, who'd touched us with their innovation, creativity and humanity  Apr 3 58 photos  \"Kindness 101\": Children write letters to their heroes  Steve Hartman held an online class, \"Kindness 101,\" to educate and entertain children.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "They thanked the people they admire the most.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Here are letters from their heroes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Mar 27 9 photos  Sanitizers vs. disinfectants: Expert explains the difference  \"You just don't want to make a mistake under these circumstances, especially if you're living with someone or yourself is a part of the vulnerable population,\" Keri Lestage said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "28M ago Coronavirus updates: More than 30 million Americans have filed jobless claims  Potential COVID-19 treatments and vaccines continue to show promise as the number of Americans put out of work amid the pandemic hits 30 million.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "36M ago Roger Stone to appeal sentence, denial of new trial  Stone's attorneys filed a notice of appeal with the federal district court in Washington.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "39M ago \"COVID toes\" may be coronavirus symptom  \"I have seen more toes in the past two weeks in my clinic than I have in my entire previous career combined,\" one dermatologist told CBS News.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "43M ago Trump claims China \"will do anything they can\" to hurt reelection bid  Mr. Trump told Reuters in an interview Beijing \"will do anything\" for him to lose reelection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "48M ago Britney Spears burned down her home gym with candles  The pop star just put the \"Oops!\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "in \"I did it again.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,331 @@
+{
+    "document_id": -1,
+    "url": "https://www.multichannel.com/blog/only-congress-can-end-the-net-neutrality-war",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Rick Boucher",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:50:29.418914+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "2015 ruling caused a great deal of uncertainty among carriers ",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "That’s the name of the game for those anticipating the U.S. Court of Appeals for the D.C. Circuit’s decision on the Federal Communications Commission's Restoring Internet Freedom order repealing Title II rules for broadband.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The case was argued on Feb. 1 of this year, so the D.C. Circuit could hand down a ruling any day now.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Circuit could hand down a ruling any day now.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "But regardless of whether the decision is uphold or overturn, Americans deserve action on net neutrality from Congress.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Statutory permanence for internet openness is the only way to end the ongoing uncertainty shrouding the internet ecosystem due to ever-changing rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "As we await the D.C. Circuit’s decision, it’s worth recalling what’s at stake.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "In 2015, the FCC ruled that broadband is a Title II telecommunications service, subject to the common-carrier rules developed for the predigital age of monopoly-controlled telephones.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "With this ruling, the FCC abandoned the previous 20 years of light-touch regulation of broadband first adopted during the Clinton administration.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "During those two decades of regulatory certainty, America experienced a golden age of broadband investment that made our communications network the envy of the world.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "With the FCC’s 2015 ruling, investment in broadband networks declined for an understandable reason: Carriers simply did not know which of the FCC’s Title II authorities would be imposed upon them and when.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The regulatory uncertainty created by the 2015 rule placed a severe damper on investment at the very time when mobile broadband carriers are preparing to deploy 5G networks, which will require unprecedented levels of investment and enable advances such as autonomous driving and Internet of Things (IoT) connectivity.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Recognizing the mistake of the 2015 order, in 2018 the FCC restored the status of broadband as a Title I information service subject to the light-touch regulation that had prevailed with bipartisan support from the first commercialization of the internet until 2015.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Further, the FCC made the right call to exercise preemption of conflicting state and local regulations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "So, for that matter, did the FCC in 2015 when it included preemption in its order imposing monopoly-style telephone service regulation on the broadband internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The internet doesn’t recognize state lines, and in a national digital economy, uniform national regulation is essential.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Circuit is giving careful consideration to the question of whether the 2018 FCC order is valid.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Whatever the outcome, the matter should not rest with the court’s decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "It’s essential that Congress put to rest the net neutrality debate, which has now raged since 2003.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "A simple formula for a statutory resolution would include the codification of net neutrality protections along the lines of the FCC’s 2010 Open Internet Order, which was endorsed by broadband providers and by companies that provide content at the internet edge.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "The statute would also designate broadband as a Title I information service in recognition of the regulatory construct that prevailed for all but two years of the past two decades.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "The regulatory certainty of that statutory permanence would open the door to the tens of billions of dollars of investment required to build our 5G future.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "If Congress fails to act, we can anticipate a never-ending seesaw between Title I and Title II status for broadband with every change in administration.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Despite the passion of the net neutrality debate, I believe compromise is possible.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Many prominent Republicans have now accepted the need for the core protections of net neutrality (one Republican bill is modeled after former Democratic Rep. Henry Waxman’s net neutrality bill from 2010).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "And senior Democrats should accept information services status for broadband if the core net neutrality protections are embedded in statute.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Congressional action would put the issue behind us, obviate the need for further attention from the courts, and set the internet on course for another decade of growth.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "The stage would then be set for Congress to adopt other needed online protections for consumers, including a uniform requirement that all participants in the internet ecosystem — from edge providers to the ISPs that connect users to the network — protect the privacy of internet users.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Only Congress can, at last, bring an end to the longest running and most intense telecommunications debate of the 21 century.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Rick Boucher was a member of the U.S. House of Representatives for 28 years and was chairman of the House Energy and Commerce Committee&apos;s Subcommittee on Communications and the Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "He is honorary chairman of the Internet Innovation Alliance (IIA) and a partner in the Washington, D.C., office of law firm Sidley Austin.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "terms: IOT Title II FCC Video sharing website campaigns for free, open 'and weird' Internet 'we know and love' FCC's Title II rollback proposal lays groundwork for legislative solution FFTF calls for voting out legislators who don't vote to nullify rules rollback Said legislation mandating enforceable rules can clear up cloudy issue Says legislation modeled on 2010 regs is win-win Despite bipartisan talk, consensus on legislative solution continues to elude legislators D.C. Circuit’s ruling suggests common-carrier rules didn’t do as intended RSS",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

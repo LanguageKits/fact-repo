@@ -1,0 +1,481 @@
+{
+    "document_id": -1,
+    "url": "https://www.marketplace.org/2017/07/10/net-neutrality-explained-imagine-internet-pizza/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Molly Wood",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:42:43.231169+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to content FAQs COVID-19 Your browser does not support the audio format.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "0:00 / 0:00 0% played Net neutrality explained: \"Imagine internet is pizza …\" Jul 10, 2017 LinkedIn HTML EMBED: COPY Debate on net neutrality can get a little tangled, like these network cables.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Net neutrality explained: \"Imagine internet is pizza …\" Jul 10, 2017 Debate on net neutrality can get a little tangled, like these network cables.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "This Wednesday, tech companies such as Facebook, Google, Amazon, Netflix and Reddit will be participating in an event called the Day of Action to Save Net Neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Net neutrality is the belief that internet service providers should treat all content, applications and websites the same, without favoring or blocking specific ones.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The issue has been a contentious topic for regulators and companies alike.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "While many tech companies are in support of it, telecom companies and internet service providers — big and small — have come out against it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "According to them, net neutrality regulations stifle competition and innovation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "We asked experts on both sides of the issue to explain by using metaphors, but only received responses from proponents of net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Here is what they said: “A world without net neutrality would be like UPS delivering packages from Amazon faster than ones from Walmart.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "It would be like a freeway with a special lane for Hondas but not Toyotas.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "It would be like your mother serving Thanksgiving dinner faster to your brother than to you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "It would be like a taxi service that picked up some passengers quicker than others and drove slower to some destinations than others.” Evan Greer, campaign director at Fight for the Future “If a local mafia can show up at a small business and threaten to burn them down if they don’t pay protection money, that’s essentially an illegitimate tax on everyone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Net neutrality rules prevent big cable and telephone companies from engaging in a digital version of this type of extortion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "It’s what stops internet service providers like Comcast and AT&T from threatening to make small businesses’ websites slow and unusable unless they pay special fees — or from shaking down internet users for more money to access the content we want.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "If you get rid of Title II — the legal framework for net neutrality — it would be a disaster for the economy and give a small group of powerful businesses an unprecedented control over everything we do on the internet.” “We all have different tastes: Things we adore — like fresh peaches — and things we find a bit more suspect — like boiled okra.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "There is only one thing that we all agree — we are a diverse nation with a diversity of differing likes and dislikes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "So maybe you really love basil and tomatoes or maybe you’re a wild-flower kinda guy — either way, a gardener is a master of her domain!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Your garden is yours to do with as you please — whether you want to plant okra or peaches.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Network neutrality protects our virtual realm — putting us in full control of our digital domains and predilections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "And sure, some gardens might be better suited for shade-loving plants, and others love drought-tolerant varietals — the point is, you can plant whatever you please, and experiment with ideas that some say are suboptimal, but are a much better fit for your own personal tastes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Network Neutrality is fundamentally about ensuring that you — and only you — get to decide what you want to hear, watch, play, and read.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "So next time some mega-corporation tries to tell you that their peach-okra pie is ‘simply delicious,’ remember: You know best what you like to eat.” “Here is a simple metaphor: The telephone system, which has long been regulated to protect the public interest.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "You probably wouldn’t like it if you tried to order pizza from your favorite local place and were connected to a Papa John’s instead because it had got some special deal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Or if a Verizon telephone only connected to other Verizon phones.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Obviously, there are a lot of differences between internet access and the telephone and how they work and how they are built, but the basic principle that essential communication systems ought to be non-discriminatory is the same.” Kate Forscey, associate policy counsel at Public Knowledge “There are a lot of ways to describe net neutrality, but my favorite has its roots with justice [Antonin] Scalia: Pizza delivery.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Imagine you are in a town with two pizza places — Domino’s and Papa John’s — and one phone company, AT&T.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "In a normally functioning free market, if you want to order pizza you are likely to call whichever pizza place that tastes best to you or has the best bang for your buck.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "But let’s say AT&T and Domino’s cut a special deal where any calls to Domino’s are favored over the calls going to other pizza places.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "So anyone calling Papa John’s has to wait behind everyone else calling Domino’s.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "For most people even if you might think Papa John’s tastes better, you know you will get your pizza faster if you choose Domino’s.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Worse, let’s say AT&T acquired Domino’s and profits directly from Domino’s profits.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "Now AT&T has even more reason to block or throttle calls going to Papa John’s.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "We doubt any new pizza shops are going to set up shop near you if they know they are facing this kind of unfair treatment from the established big guys.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "So, here we have fewer choices and higher prices for everyone involved.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The strong net neutrality rules currently on the books prevent big providers like AT&T, Verizon, and Comcast from favoring one pizza chain — or in the case of internet, content creator — over another.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "It means all traffic and content travels over your connection at an equal pace.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "This means more entrants to the market, more reasons for people to continue making their services better, and happier customers, whether they prefer Domino’s or something else.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "And now imagine that instead of delicious pizza we are talking about access to healthcare, the ability to open competitive businesses, launch your own app, to apply for jobs and for your kids to do their homework.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Net neutrality makes sure that everyone gets a seat at the table to succeed at the American dream.” Outgoing FCC Chair Tom Wheeler on the future of telecom regulation Tim Wu: Why undoing net neutrality may be harder than it looks Why net neutrality rules are in danger Updated, 5:41 p.m. PT: This story was updated with more information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "As a nonprofit news organization, our future depends on listeners like you who believe in the power of public service journalism.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Your investment in Marketplace helps us remain paywall-free and ensures everyone has access to trustworthy, unbiased news and information, regardless of their ability to pay.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Donate today — in any amount — to become a Marketplace Investor.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Now more than ever, your commitment makes a difference.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Tags in this Story Internet access Net neutrality COVID-19 Elon Musk and Tesla report a profit for the first quarter, despite COVID-19 COVID-19 \"Parks and Rec\" co-creator Michael Schur on recreating Pawnee from home “In good times & bad, Marketplace is a beacon of light you can count on.” Fed says not to worry about debt right now.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "But we have to, eventually.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "We've got newsletters.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

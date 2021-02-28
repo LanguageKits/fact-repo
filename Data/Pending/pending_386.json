@@ -1,0 +1,1391 @@
+{
+    "document_id": -1,
+    "url": "https://childrenshealthdefense.org/news/the-risks-vs-benefits-of-face-masks-is-there-an-agenda/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:51:47.888930+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "COVID Books & DVDs eBooks May 26, 2020 Link copied There has been a shifting of positions on the use of face masks with the COVID-19 outbreak.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Initially it was not recommended, then we had different signals from the U.S.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Surgeon General Dr. Jerome Adams and representatives of the CDC, the NIH and other agencies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "More recently, the policies recommending wearing face masks have become more prevalent and often mandated in public places.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "There are many important considerations including the risk versus the reward.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Let\u2019s look at the two camps in the debate: The benefit is greater than the risk\u2014 Proponents of face masks use the following arguments: We can prevent sick or asymptomatic infected people from infecting others by wearing masks \u2013 There may be some credible evidence to suggest this, but in doing so the infected person wearing the mask may be making their infection much worse as a result.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The \u201cwear them only in a medical setting\u201d arguments below will prove this out.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "N-95 masks have been shown to block 95% of airborne particles with a median diameter >0.3 \u03bcm 2 ( greater than 0.3 micrometers or microns squared ), whereas standard face masks may block 50-70% of particles depending on the mask.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "( http://medcraveonline.com/JLPRR/JLPRR-01-00021.pdf ) If healthy people wear face masks, they will be protected from those that may be infected- The counterpoint in the next section will make the argument against that logic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "If you wear a mask, you are less likely to touch your nose, mouth or eyes, which is where the vast majority of infections begin- Some claim this to be true, but an argument can be made that people handle their mask frequently when adjusting them on their face and to remove them and put them on.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "All this touching of the mask raises the potential that viral transmission to the mask can then transfer to the nasal and oral cavities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Recent video of the Coronavirus Task Force news conferences has underscored this, as Dr Fauci and others from the task force are seen frequently fiddling with their masks in the background.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Face masks should not be worn by healthy individuals to protect themselves from acquiring respiratory infection because there is no evidence to suggest that face masks worn by healthy individuals are effective in preventing people from becoming ill.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The risk is greater than the benefit (except in a medical setting)\u2014 Detractors from the regular use of face masks cite the following: Face masks do not protect the wearer from transmission by others- The American Medical Association just released a position paper on masks: \u201cFace masks should be used only by individuals who have symptoms of respiratory infection such as coughing, sneezing, or, in some cases, fever.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Face masks should also be worn by healthcare workers, by individuals who are taking care of or are in close contact with people who have respiratory infections, or otherwise as directed by a doctor.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Face masks should not be worn by healthy individuals to protect themselves from acquiring respiratory infection because there is no evidence to suggest that face masks worn by healthy individuals are effective in preventing people from becoming ill. Face masks should be reserved for those who need them because masks can be in short supply during periods of widespread respiratory infection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Because N95 respirators require special fit testing, they are not recommended for use by the general public.\u201d ( Journal of the American Medical Association (JAMA); April 21, 2020 Volume 323, Number 15 https://jamanetwork.com/journals/jama/fullarticle/2762694 ) A recent careful examination of the literature, in which 17 of the best studies were analyzed, concluded that, \u201cNone of the studies established a conclusive relationship between mask/respirator use and protection against influenza infection.\u201d ( bin-Reza F et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The use of mask and respirators to prevent transmission of influenza: A systematic review of the scientific evidence.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Resp Viruses 2012;6(4):257-67. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5779801/ ) Face masks restrict the elimination of virus, recirculating the virus into the nasal/sinus and upper respiratory passages- \u201cBy wearing a mask, the exhaled viruses will not be able to escape and will concentrate in the nasal passages, enter the olfactory nerves and travel into the brain.\u201d Article by Dr. Blaylock is a prominent retired neurosurgeon and author of health-related books.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "\u201cWe know that people who have the worst reactions to the coronavirus have the highest concentrations of the virus early on.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "And this leads to the deadly cytokine storm in a selected number.\u201d ( https://www.technocracy.news/blaylock-face-masks-pose-serious-risks-to-the-healthy/ ) This direct rebreathing of the virus back into the nasal passages can contribute to the migration of the virus to the brain.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "(1, 2) \u201cNewer evidence suggests that in some cases the virus can enter the brain.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "In most instances it enters the brain by way of the olfactory nerves (smell nerves), which connect directly with the area of the brain dealing with recent memory and memory consolidation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "By wearing a mask, the exhaled viruses will not be able to escape and will concentrate in the nasal passages, enter the olfactory nerves and travel into the brain.\u201d(3) Baig AM et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Evidence of the COVID-19 virus targeting the CNS: Tissue distribution, host-virus interaction, and proposed neurotropic mechanisms.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "ACS Chem Neurosci 2020;11:7:995-998.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Wu Y et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Nervous system involvement after infection with COVID-19 and other coronaviruses Perlman S et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Spread of a neurotropic murine coronavirus into the CNS via the trigeminal and olfactory nerves .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Virology 1989;170:556-560.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Wearing a face can cause headaches and reduce oxygen levels- A recent study involving 159 healthcare workers aged 21 to 35 years of age found that 81% developed headaches from wearing a face mask\u2026 That is, a reduction in blood oxygenation (hypoxia) or an elevation in blood CO2 (hypercapnia).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "It is known that the N95 mask, if worn for hours, can reduce blood oxygenation as much as 20% .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "And proper oxygenation of the blood is essential for energy, mental clarity, focus and emotional well-being.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "( Ong JJY et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Headaches associated with personal protective equipment- A cross sectional study among frontline healthcare workers during COVID-19 .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Headache 2020;60(5):864-877. )",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Wearing a face mask causes one to re-breath the carbon dioxide (CO2), that the lungs are attempting to expel- This in turn reduces the immune response, negatively affects epithelial cell function (cells in the lungs and blood vessels) and lowers the amount of oxygen exchange across the alveolar membranes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "From the article: \u201cHypercapnia, the elevation of carbon dioxide (CO2) in blood and tissues, commonly occurs in severe acute and chronic respiratory diseases, and is associated with increased risk of mortality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Recent studies have shown that hypercapnia adversely affects innate immunity, host defense, lung edema clearance and cell proliferation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Airway epithelial dysfunction is a feature of advanced lung disease\u2026.These changes in gene expression indicate the potential for hypercapnia to impact bronchial epithelial cell function in ways that may contribute to poor clinical outcomes in patients with severe acute or advanced chronic lung diseases.\u201d This clearly can have a negative impact with a disease like COVID-19.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "( https://www.nature.com/articles/s41598-018-32008-x.pdf ) Wearing a face mask can increase your risk of infections- The last point discussed the drop of oxygen levels after wearing a mask.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "A drop in oxygen levels (hypoxia), is associated with an impairment in immunity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Studies have shown that hypoxia can inhibit the type of main immune cells used to fight viral infections called the CD4+ T-lymphocyte.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "This occurs because the hypoxia increases the level of a compound called hypoxia inducible factor-1 (HIF-1), which inhibits T-lymphocytes and stimulates a powerful immune inhibitor cell called the T-regs.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "This sets the stage for contracting any infection, including COVID-19 and making the consequences of that infection much graver.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "In essence, your mask may very well put you at an increased risk of infections and if so, having a much worse outcome.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "In addition, reduced oxygenation can accelerate cancer growth.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Shehade H et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Cutting edge: Hypoxia-Inducible Factor-1 negatively regulates Th1 function .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "J Immunol 2015;195:1372-1376.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "Westendorf AM et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Hypoxia enhances immunosuppression by inhibiting CD4+ effector T cell function and promoting Treg activity .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Cell Physiol Biochem 2017;41:1271-84.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Sceneay J et al.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Hypoxia-driven immunosuppression contributes to the premetastatic niche .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "Oncoimmunology 2013;2:1 e22355.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "Wearing face masks is a constant reminder that we should fear this invisible enemy or \u201cmonster\u201d as some politicians have called it- There is no doubt that wearing a mask reinforces the worry and fear about COVID-19.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Even being in public mask-less and seeing that most people are wearing masks leaves one with a sense of angst.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "Fear, worry and anxiety are powerful immune suppressing emotions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "This is another factor relating to the immunosuppressive effects of face masks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "This is a link to a section of a 2007 book titled, \u2013 Second Edition 2007.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "You can read Chapter 2 titled .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "Interestingly, HIV is a viral infection as is SARS-C0V-2 (COVID-19).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "On April 27, 2020, the Ventura County California Public Health Department released a Pros and Cons one-sheet summary about face masks (link at end of this section).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "One thing they warn against is the general public buying and using N-95 masks, because of the shortage of PPE for medical personnel.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "This is very wise advice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "( https://www.simivalley.org/home/showdocument?id=22324 ) It also cites some other limited benefits of preventing transmission, pretty well characterized by this quote: \u201cThere is a \u2018very slight protective advantage\u2019 to wearing a medical mask as opposed to wearing nothing at all in a community setting.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "The risk of acquiring a viral infection is reduced by 6%.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "When both ill and well wear a medical mask in a household, the risk is reduced by 19%.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "There is more \u201cevidence to support the use of medical masks for short periods of time by particularly vulnerable individuals when in transient high-risk situations.\u201d Altogether, common fabric cloth masks are not considered protective against respiratory viruses and their use should not be encouraged.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "Here is a good sampling\u2026 With near universal use of cloth and medical masks worn in public in Wuhan, China during the 2019-2020 flu season leading up to the COVID-19 outbreak, the outbreak spread virtually unchecked.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "\u201cAvailable evidence shows that (cloth masks)\u2026 may even increase the risk of infection due to moisture, liquid diffusion and retention of the virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "Penetration of particles through cloth is reported to be high.\u201d \u201cAltogether, common fabric cloth masks are not considered protective against respiratory viruses and their use should not be encouraged.\u201d ( https://www.cdc.gov/coronavirus/2019-ncov/hcp/ppe-strategy/face-masks.html ) \u201cMoisture retention, reuse of cloth masks and poor filtration may result in increased risk of infection.\u201d The virus may survive on the surface of the facemasks.\u201d \u201cSelf-contamination through repeated use and improper doffing is possible.\u201d ( https://bmjopen.bmj.com/content/5/4/e006577 ) Textile materials (that can be used for cloth masks) can contain harmful chemicals and dyes (i.e.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "There is no research available regarding the safety of breathing through such materials but formaldehyde is a gas that can irritate a person\u2019s eyes, nose, throat and lungs, or trigger an asthma attack, even at low concentrations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "Prolonged exposure to formaldehyde can cause cancer.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "( https://ww2.arb.ca.gov/resources/fact-sheets/formaldehyde and https://www.gao.gov/new.items/d10875.pdf ) Wearing cloth masks in public can create a false sense of security and complacency in which people may neglect other hygiene practices.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "( https://www.who.int/publications-detail/advice-on-the-use-of-masks-in-the-community-during-home-care-and-in-healthcare-settings-in-the-context-of-the-novel-coronavirus-(2019-ncov)-outbreak ) Frequent washing and drying of a cloth mask can decrease the filtration capacity of the mask.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "( https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6599448/ ) \u201cNeither surgical nor cotton masks effectively filtered SARS\u2013CoV-2 during coughs by infected patients\u2026 the size and concentrations of SARS\u2013CoV-2 in aerosols generated during coughing are unknown.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "Oberg and Brousseau demonstrated that surgical masks did not exhibit adequate filter performance against aerosols measuring 0.9, 2.0, and 3.1 \u03bcm in diameter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 79,
+            "sentence": "Lee and colleagues showed that particles 0.04 to 0.2 \u03bcm can penetrate surgical masks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 80,
+            "sentence": "The size of the SARS\u2013CoV particle from the 2002\u20132004 outbreak was estimated as 0.08 to 0.14 \u03bcm; assuming that SARS-CoV-2 has a similar size, surgical masks are unlikely to effectively filter this virus.\u201d ( https://annals.org/aim/fullarticle/2764367 ) In total, the document presented 18 arguments and studies against the effectiveness and use of masks and 10 showing some limited benefit.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 81,
+            "sentence": "After careful scrutiny of the pros and cons, I am landing squarely against the use of them other than by medical personnel in a clinical setting, or if an individual that is in close proximity of an infected person with the risk of being directly coughed or sneezed on, as in when caring for or visiting a sick person.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 82,
+            "sentence": "( https://vcportal.ventura.org/CEO/VCNC/2020-05-05_VCNC_Masks_Pros_and_Cons.pdf ) The conclusion of the Russell Blaylock M.D.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 83,
+            "sentence": "article states the following: \u201cIt is evident from this review that there is insufficient evidence that wearing a mask of any kind can have a significant impact in preventing the spread of this virus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 84,
+            "sentence": "The fact that this virus is a relatively benign infection for the vast majority of the population and that most of the at-risk group also survive, from an infectious disease and epidemiological standpoint, by letting the virus spread through the healthier population we will reach a herd immunity level rather quickly that will end this pandemic quickly and prevent a return next winter.\u201d \u201cDuring this time, we need to protect the at-risk population by avoiding close contact, boosting their immunity with compounds that boost cellular immunity and in general, care for them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 85,
+            "sentence": "Given all of that information, it\u2019s time to ask the obvious question.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 86,
+            "sentence": "Here is a hypothesis, but in the form of two questions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 87,
+            "sentence": "It implies malintent which I cannot prove beyond a shadow of a doubt, but just indulge me for a moment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 88,
+            "sentence": "In the end, each person must decide that for themselves.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 89,
+            "sentence": "Now match those two questions with the proper answers: A.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 90,
+            "sentence": "Suppress their immune systems with fear, loss of income, lack of exercise and sunshine and face masks whenever going away from home.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 91,
+            "sentence": "Keep the young and healthy people at home and sequestered from each other.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 92,
+            "sentence": "If you paired 1 with B, and 2 with A, congratulations!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 93,
+            "sentence": "Welcome to the growing number of free-thinking people that are connecting the dots.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 94,
+            "sentence": "One thing for certain is that so many people have taken the wearing of face masks and social distancing to a bizarre extreme.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 95,
+            "sentence": "A few days ago, I saw one woman in the neighborhood out for a walk in the heat of the day.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 96,
+            "sentence": "I commented to her that it sure was a hot time of day to be out for a walk.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 97,
+            "sentence": "She looked at me with an odd look of concern on her face and said, \u201cyeah, but at least there are no other people out now\u201d.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 98,
+            "sentence": "Other common examples are the people driving alone in their car with a face mask on and people walking through parking lots and down uncrowded sidewalks or at a park wearing face masks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 99,
+            "sentence": "My purpose on mentioning these examples is not to be condescending or critical of individuals that are overly fearful or are unaware of the harm face masks may cause them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 100,
+            "sentence": "These individuals have been duped by a complicit media that has continued to run with the absolutely, ridiculously, outrageously inaccurate models and never adjusted their level of hype and fear mongering long after those models had been exposed for what they were\u2014ridiculous.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 101,
+            "sentence": "In the meantime, people that are living with an irrational level of fear as a result, are being harmed physically and emotionally.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 102,
+            "sentence": "The reduced oxygen levels will increase anxiety, fatigue and brain fog, decrease learning capacity due to decreased oxygen to the brain, weaken their immune systems and can lead to an increased rate and severity of all types of infections, not just COVID-19.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 103,
+            "sentence": "CDC\u2019s recommendations for opening schools require children to wear face masks Picture classrooms of children wearing face masks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 104,
+            "sentence": "This image is repulsive to me on so many levels.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 105,
+            "sentence": "Yet, updated CDC guidelines on May 19 th , 2020 and posted on their site titled Considerations for Schools, recommends that children older than the age of 2 wear face masks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 106,
+            "sentence": "In part, it says, \u201cTeach and reinforce use of cloth face coverings.\u201d It then goes on to say\u2026 Note: Cloth face coverings should not be placed on: Children younger than 2 years old Anyone who has trouble breathing or is unconscious Anyone who is incapacitated or otherwise unable to remove the cloth face covering without assistance ( https://www.cdc.gov/coronavirus/2019-ncov/community/schools-childcare/schools.html ) And many in the government and educational system are echoing these preposterous recommendations.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 107,
+            "sentence": "My opinion based on the science we just looked at is that this would be a huge mistake.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 108,
+            "sentence": "Making children wear face masks has the potential to cause long-term psychological, emotional and physical damage.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 109,
+            "sentence": "It promotes an excessive fear of germs (phobia) and of social interaction.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 110,
+            "sentence": "The reduced oxygen levels will increase anxiety, fatigue and brain fog, decrease learning capacity due to decreased oxygen to the brain, weaken their immune systems and can lead to an increased rate and severity of all types of infections, not just COVID-19.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 111,
+            "sentence": "We know that children are at very low risk of complications from COVID-19.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 112,
+            "sentence": "Yet, this practice of wearing face masks could potentially increase that level of risk.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 113,
+            "sentence": "Teaching children good hygiene practices and that their immune system can help prevent and fight \u201cgerms\u201d if they eat healthy food, exercise and practice good health habits would go a long way to empower them with positive and practical knowledge that they can learn and use throughout their lives.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 114,
+            "sentence": "Going forward As we learn about the miscalculations from the hugely exaggerated models, the inaccurate coding and calculations of COVID-19 deaths bloating the numbers, the large percentages of people that are already immune because they have had the infection and recovered, many not even knowing they were sick, we realize that the mortality rate from COVID-19 is nowhere near what we had thought.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 115,
+            "sentence": "Then there are the mistakes made within nursing homes and long-term care facilities, including sending positive COVID patients into those facilities and the mistakes with the way we treated many cases with ventilators.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 116,
+            "sentence": "In a retrospective analysis of all of these factors, I believe that we will realize that mortality from COVID-19 is not even as bad as a \u201cnormal\u201d flu and pneumonia season.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 117,
+            "sentence": "This is not to say that initially we shouldn\u2019t have viewed COVID-19 as a serious potential health crisis, but so is 50,000 to 80,000 people dying from flu and pneumonia every winter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 118,
+            "sentence": "My greatest concern is the destruction of the economy, loss of jobs, loss of small businesses, the effects on marriages and families, skyrocketing mental health disorders, stress related diseases and the deaths due to despair and loss of hope, people not getting the medical attention for things like heart issues, high blood pressure and cancer they would otherwise get if they had access to hospitals and routine procedures.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 119,
+            "sentence": "These are all the unintended consequences of what we have already done, and if we continue to ignore the new evidence of the data, science and doctors\u2019 experiences on the front lines, we will certainly cause much more harm than good.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 120,
+            "sentence": "Going forward with the current situation (and should a viral outbreak occur in the future), risk versus benefit of every decision must be considered.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 121,
+            "sentence": "Dr. Alan Palmer is the author of a FREE eBook called .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 122,
+            "sentence": "It is an amazing research tool with easy navigation tools, containing excerpts and summaries from over 1,400 studies that contradict what the public is being told about the safety and efficacy of vaccines.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 123,
+            "sentence": "*** Sign up for free news and updates from Robert F. Kennedy, Jr. and the Children\u2019s Health Defense.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 124,
+            "sentence": "CHD is planning many strategies, including legal, in an effort to defend the health of our children and obtain justice for those already injured.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 125,
+            "sentence": "Your support is essential to CHD\u2019s successful mission.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 126,
+            "sentence": "* * Date Format: MM slash DD slash YYYY This field is for validation purposes and should be left unchanged.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 127,
+            "sentence": "You make the difference.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 128,
+            "sentence": "COVID FAQ November 23, 2020 November 23, 2020 November 20, 2020 November 20, 2020 COVID 3 hours ago Endocrine disruptors, which interfere with natural sex hormones, pose special risks for children who are still growing and developing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 129,
+            "sentence": "... childrenshealthdefense.org Endocrine disruptors, which interfere with natural sex hormones, pose special risks for children who are still growing and developing.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 130,
+            "sentence": "\u00b7 19 11 2 Plastic is actually really stable....until it has heat applied to it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 131,
+            "sentence": "toss them and get the tried and true glass ones.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 132,
+            "sentence": "www.amazon.com/Evenflo-Feeding-Premium-Bottles-Newborn/dp/B01M2Z8AQH?tag=wte-edit-20&ascsubtag=65... updated their profile picture.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 133,
+            "sentence": "4 hours ago ... \u00b7 29 1 0 Load more Tweets by Children's HD \u2022 All rights  Reserved \u00d7 Censorship is hiding us from you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 134,
+            "sentence": "Get important articles and updates on issues critical to children\u2019s health.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 135,
+            "sentence": "* * Date Format: MM slash DD slash YYYY This field is for validation purposes and should be left unchanged.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 136,
+            "sentence": "\u00d7 We use cookies to ensure that we give you the best experience on our website.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 137,
+            "sentence": "You consent to our cookies if you continue to use our website.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,601 @@
+{
+    "document_id": -1,
+    "url": "https://qz.com/1826043/the-coronavirus-crisis-proves-internet-should-be-a-public-utility/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Ephrat Livni",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:30:00.682544+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to navigation Skip to content Become a member Fighting for a democratic internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "WIFI WARS The coronavirus crisis proves the internet should be a public utility March 26, 2020 Senior reporter, law & politics, DC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Imagine if you had no internet access in this time of global crisis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "For one thing, you couldn’t read this story.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "More importantly, you’d be in some form of quarantine unable to access information, with far fewer distractions and means to connect with others, and no way to work (if indeed your job has moved online in these difficult times).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "And if you were an indigent parent, you wouldn’t be able to maintain some semblance of continuing education for your children.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "You’d be struggling—alienated and uninformed—much more so than you may already be.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The spread of the novel coronavirus around the world has made many of us shut-ins and proven conclusively that the internet should be a public utility.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "It’s a basic necessity in the 21st century, like running water, gas, and electricity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Indeed, the United Nations in 2016 declared that internet access is a human right .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Sure, you could theoretically survive without it, just as you might light your home with candles or warm it by fire.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Just as you could arguably trek to the closest freshwater source and walk back with buckets of the life-sustaining stuff.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "But in wealthy societies, like the US, those are absurd notions.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Living under such conditions is virtually impossible and endangers everyone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The pandemic has illuminated the interconnectedness of everyone and everything .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "That’s why we’re staying inside and avoiding physical contact.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Your ignorance of infectious disease could lead to my demise and vice versa.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "With no ill intent at all, your loveliest neighbor or a total stranger could put you in grave danger.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "So, though we have a whole lot of social woes to contend with right now—pressing medical and economic needs—it’s not too soon to recognize that internet service providers’ profits are not the top priority and that lack of access exacerbates existing class divides.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The classless society Americans like to believe they live in a classless society.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "In theory, anyone can lift themselves up by their proverbial bootstraps and live the dream.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Realistically, it’s a whole lot harder if at every stage in your upbringing and adulthood you have fewer tools and opportunities.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "At this point, it’s virtually impossible if you’re not up to speed on technology or cut off from its offerings.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "As labor economist Julia Pollak noted on Twitter, internet access is critical for education and employment and many people, until this pandemic changed things, relied on hotspots in cafes or libraries or schools for connection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Internet service providers—like Comcast— recognize this , as evidenced by recent announcements that in these unusual times they’re relaxing data restrictions, offering free service for a limited period, suspending disconnections, and hooking up new customers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Meanwhile, many American public schools have issued laptops to students who couldn’t afford them, hoping the extended disruption to studies won’t disproportionately affect the poor, although this doesn’t necessarily mean every kid’s household will be connected to the internet .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "That is all very nice for now.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "But these charitable actions only highlight the need for widespread access regardless of economic circumstances.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Comcast can clearly afford to be generous.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "In 2017 and 2018 the company spent more than $30 million lobbying Congress .",
+            "fact": true,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "How much it spent to convince state and municipal politicians that private companies should control access to the public web is unknown, prompting shareholders to demand transparency last year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Their concern was that the company’s activities would lead to a public backlash and greater demand for municipal broadband, which will erode profits.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "So, basically, what the shareholders were saying is that if the public truly understood just how much money the company was spending to ensure it controls internet access, voters would themselves be lobbying politicians for a public option that could ultimately undermine Comcast’s ability to attract any customers at all.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "Deep pockets and open secrets If you’re not steeped in technology or law, you might not realize that Americans have been fighting for a fair internet for quite some time, losing the battle against big business.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Comcast is the biggest spender when it comes to lobbying politicians but it isn’t alone in spending millions to fight so-called net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "When the “net” is neutral, service providers can’t slow, block, or prioritize one type of data over another, meaning they can’t manipulate service to ensure those who can afford to do so spend more for better broadband.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "In 2017, telecoms found a powerful ally in government.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "The Federal Communications Commission (FCC)—led by Trump appointee Ajit Pai, formerly a lawyer for Verizon— repealed net neutrality protections after a notice period plagued with allegations of unfairness.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "Some of the companies supporting the repeal of net neutrality protections appear to have contributed to campaigns by internet trolls posting support for the new rules online, which skewed the official record meant to reflect what the public wants.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "The FCC also beat legal challenges by state attorneys and internet advocacy groups, to some extent .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "A federal circuit court of appeals found the new regulations are legal, so telecoms can throttle service.",
+            "fact": true,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "But the court also held that the US government cannot bar states or other localities from creating public options.",
+            "fact": true,
+            "misinformation": true,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "While FCC chairman Pai lauded the decision as a win for consumers and broadband deployment, his counterpart, FCC commissioner Jessica Rosenworcel issued her own statement , saying the agency was “on the wrong side of the American people and the wrong side of history.” She pointed out that the ruling proved the FCC had failed to understand the law.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Rosenworcel wrote: Today’s court decision vacates the FCC’s unlawful effort to block states and localities from protecting an open internet for their citizens.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "From small towns to big cities, from state houses to governors’ executive actions, states and localities have been stepping in because the FCC shirked its duties.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "In addition, the court took the agency to task for disregarding its duty to consider how its decision threatens public safety, lifeline service, and broadband infrastructure.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "The public interest Enlightened localities have long understood just how critical internet access is.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "After last year’s ruling, democratic internet advocates posited that the short-term win for telecoms would ultimately result in their losses and a victory for the public.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Not only had the broadband providers proven they don’t feel responsible to the people they serve, they also gave mayors and governors good reason and plenty of motivation to act boldly on behalf of their constituents .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Increasingly, towns, cities, and states are taking a close look at , which built its own high-speed fiber-optic internet network in 2009.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "A 2018 found the city’s broadband was rated best in the US.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "There are already more than 500 communities nationwide operating public networks or leveraging their massive contracts with broadband providers to ensure free wiring of schools, libraries, and other publicly-accessible wifi hotspots.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "This patchwork approach to public access is taking hold across the US and there is a growing understanding that internet access is a social issue that has to be addressed by governments, not private companies operating with profit as their sole motivator.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Perhaps after the pandemic panic gives way to a new state of normalcy, the people will demand inexpensive and reliable high-quality broadband, and maybe private internet service providers will have to sing a different tune.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "They already recognize that access is essential, based on their response to the coronavirus quarantines.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "That will make it harder to walk back the admissions and concessions they’re making today, and they may well find that if they don’t want to keep playing nice, a time will come when they’re no longer necessary because the game has totally changed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "We’ve got an email for that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "Sign me up Sign me up for the Daily Brief, Quartz’s morning email for smart, busy people.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": ", , , tech , law 💬 + Add your insights News for the next era, not just the next hour Become a member Emerging industries About us Contact us Help center Send us tips Become a member Download our app Site map Terms & conditions Privacy policy Do not sell my info Ethics and advertising agreements Community agreements Quartz is owned by ↑ Beam me up, Scotty Update your browser for the best experience.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

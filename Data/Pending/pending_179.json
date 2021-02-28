@@ -1,0 +1,561 @@
+{
+    "document_id": -1,
+    "url": "https://onezero.medium.com/killing-net-neutrality-was-even-worse-than-you-think-132a21aab55a",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Karl Bode",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:30:26.679256+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "when most people think about last year’s controversial repeal of net neutrality , they likely assume that the rules meant to protect an open internet were the only casualty.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "In the year since, the telecom sector and its defenders have tried to argue that because the internet didn’t immediately implode in a glorious fireball post-net neutrality, the Federal Communications Commission’s (FCC) repeal must not have been that big of a deal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "They couldn’t be more wrong.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The FCC’s Orwellian-named “ ” order certainly did kill rules preventing internet service providers (ISPs) from abusing their broadband monopolies to harm competitors and consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "And it did so in a flurry of controversy and fraud , all while ignoring the opinions of a bipartisan majority of Americans who wanted to keep net neutrality in place.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "But the industry-backed repeal quietly had a much broader objective: It all-but obliterated the FCC’s authority to hold ISPs accountable for any number of other bad behaviors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Instead, it dumped most telecom oversight on a Federal Trade Commission (FTC) that experts say lacks the resources or authority to police the sector and punish bad behavior.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "“The fight over net neutrality has always been about gutting the FCC’s legal authority to protect consumers and promote competition,” said Gigi Sohn, a former FCC lawyer and advisor who helped craft the agency’s original 2015 net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "little broadband competition and weakened regulators, big ISPs can now get away with pretty much anything, provided they’re modestly clever about it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "For giant telecom monopolies like AT&T and Comcast, the repeal is working just as they intended.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Case in point: Frontier Communications, the nation’s eighth-largest ISP with 3.7 million subscribers, is under fire for charging consumers a $10 monthly modem rental fee even if they already own their modems.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Users can usually buy their own modem and avoid such fees, but Frontier’s website says the ISP will still charge you to “rent” something you already bought.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "wrote FCC boss Ajit Pai to complain, noting that charging consumers such fees was predatory behavior.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "“These unreasonable fees defy common sense and undermine the FCC’s stated ‘number one priority’ of closing the digital divide,” Quigley said.",
+            "fact": false,
+            "misinformation": true,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "“I find the lack of action to protect consumers troubling,” he added.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "In a statement to OneZero , Frontier insisted its lengthy terms of service warn users they will be charged a rental fee for owned modems to “support equipment and provision of services,” even though that’s what the rest of your bill is supposed to be for.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Frontier also suggested people who use their own modems cost the company more money.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "“Though infrequent, when a customer uses a non-Frontier router, we see increased complaints and more difficulty with troubleshooting, performing online resets, and providing simple resolutions, so it costs more to serve that customer,” the company said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "“Therefore, if a customer uses their own router, the service fee applies to cover these costs.” But even widely disliked giants like Comcast provide users a long list of sanctioned modems users can purchase if they want to avoid monthly rental fees and interoperability headaches.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Quigley’s letter highlights a more likely motivation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Like the airline, banking, and other industries, telecom companies adore imposing sneaky fees on TV and broadband service .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "It allows them to falsely advertise one rate, then sock consumers with higher prices once the bill comes due.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "“I find it difficult to see how this fee serves as anything other than a way for Frontier to disguise the true cost of its service to customers,” Quigley said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "In a response letter , Pai brushed aside Quigley’s complaints, insisting the existing FCC complaint process had already solved the problem.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Any other investigations, Pai insisted, were now under the purview of the FTC since the FCC’s controversial net neutrality repeal.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "“Of course, the Commission also has an obligation to protect consumers,” Pai wrote.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "“It fulfills that obligation in part by providing consumers with an effective informal complaint process to resolve issues they may have with their providers.” “It’s working exactly as planned — so long as your ISP tells you it’s going to rip you off, there is nothing the FTC will do about it.” But Frontier users who’ve filed complaints with the FCC say it isn’t doing anything to fix the problem .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "Under the current system, Sohn says the FCC must forward consumer complaints to ISPs, but ISPs aren’t required to do anything more than respond within 30 days.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Frontier, for its part, refuses to stop the practice, and the government refuses to stop them in turn.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "While Pai suggests the FTC could step in to protect users, the FTC’s authority over telecom providers under the FTC Act only applies if an ISP is engaged in behavior that’s clearly “unfair and deceptive.” If ISPs are semi-clearly informing customers that they’re being ripped off (even in fine print), the FTC can’t act, Sohn said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "The FTC is also aggressively understaffed compared to its international counterparts, and when it does bother to take action — as a recent $60 million settlement with AT&T for lying to its customers made clear — it can take the better part of a decade to impose what usually winds up being little more than a wrist slap for companies earning tens of billions of dollars per quarter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "“Chairman Pai and the broadband industry have known from the get-go that the FTC lacks the legal tools and the technical expertise to satisfy consumers who are getting ripped off by the broadband industry,” she said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "“It’s working exactly as planned — so long as your ISP tells you it’s going to rip you off, there is nothing the FTC will do about it.” ISPs can now mislead consumers about everything from the type of connection they’re buying to how much money they’ll pay for it once sneaky fees are factored in.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "And with no net neutrality rules, ISPs can also use their power as internet access gatekeepers to disadvantage companies they compete with.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "AT&T, for example, only hits users with costly and unnecessary bandwidth usage caps and overage fees if they use a competing service like Netflix — but not if they use AT&T’s own streaming services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The FCC’s neutrality repeal also included a provision banning states from stepping in to protect consumers, a gift to ISPs like Frontier facing investigations from to for everything from refusing to upgrade or repair its network to defrauding taxpayers .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "That FCC effort was recently scuttled by the courts , though it is likely to be appealed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "In most states, telecom lobbying ensures state leaders routinely do little to nothing to rein in the broadband industry’s worst impulses .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "However, some states like California and Washington have passed their own consumer protections that largely mirror the FCC’s original rules.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Lawsuits aimed at thwarting those efforts .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "“That’s why the telecom and cable industry are so freaked out over the possibility of state net neutrality laws — because it would restore power to the states that the industry convinced them to abdicate in the early part of the millennium,” Sohn said.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Thanks to a 2011 AT&T Supreme Court victory , consumers are also banned from suing their ISPs in court for ripping them off.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Instead, frustrated users must participate in binding arbitration, a process that tends to favor corporations more often than not.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "While D.C. policy wonks obsess about how to more heavily regulate the clearly problematic behavior of Silicon Valley giants like Facebook and Google, giant ISPs like AT&T, Verizon, and Comcast have been able to dodge the spotlight and quietly strip away oversight of their own sector — despite routinely engaging in the same or worse behavior.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Sohn and other experts say that thanks to corruption and revolving door regulators , lobbyists have built a system where U.S. telecom consumers are all but powerless in the face of predatory monopolies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "The internet may not have immediately imploded after net neutrality was repealed, but that doesn’t mean all is right with the online world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "OneZero The undercurrents of the future.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "A Medium publication about tech and science.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "816 FCC 816 claps Written by Seattle-based freelance writer with a focus on tech, tech policy, and consumer rights.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "OneZero The undercurrents of the future.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "A Medium publication about tech and science.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "See responses (6) in OneZero in OneZero in OneZero Welcome to a place where words matter.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "On , smart voices and original ideas take center stage - with no ads in sight.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "yours Follow all the topics you care about, and we’ll deliver the best stories for you to your homepage and inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "Become a member Get unlimited access to the best stories on — and support writers while you’re at it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "document_id": -1,
+    "url": "https://kcls.org/blogs/post/net-neutrality-what-it-means-for-libraries/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Lisa G. Rosenblum",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:50:53.645645+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "I would like to focus this month on an issue that is of great importance to libraries and the patrons we serve.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "In 2017, the Federal Communications Commission (FCC) repealed “net neutrality” rules that were previously in place to ensure that consumers have equal access to web-based content.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The rules prohibited internet service providers (ISP) from charging for content, or giving certain customers preferential access to content.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The FCC’s decision to repeal net neutrality rules turned internet access into a commodity, something that can be bought and sold rather than regulated as a public utility.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Public libraries nation-wide are concerned about this decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Net neutrality is fundamental to the principles of free and open access to information.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "As a trusted civic organization, public libraries should not have to compete for access to the internet, nor should the flow of ideas and information be subject to for-profit business decisions of internet service providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "A number of legal challenges have followed the repeal, including a lawsuit against the FCC filed by attorneys-general from 21 states, including Washington State.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The lawsuit claims that the repeal of net neutrality represents an “abuse of regulatory discretion.” It also cites lawful content as protected free speech under the First Amendment of the U.S. Constitution.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "In response to the FCC’s decision, the Washington State Legislature passed House Bill 2282, subsequently signed into law by the Governor.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The measure prohibits ISPs from blocking legal content; impairing or “throttling” internet traffic based on content, apps, services or devices used; or favoring certain online traffic for the company’s own benefit, called “paid prioritization.” Many elected officials view reliable internet service as a critical component of a fully participative electorate and there is bi-partisan support among members of Congress, including Washington State’s congressional delegation, to re-establish net-neutrality protections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Library patrons rely on KCLS to seek jobs, conduct research, or find essential resources in times of crisis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Creating barriers to information is counter to the principles of equitable access that public libraries defend.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "KCLS will continue to monitor this issue and keep our patrons apprised.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "View all cards in Director's Blog (27) KCLS Employment Support KCLS Friends of the Library KCLS Foundation 960 Newport Way NW Issaquah, WA 98027 425.462.9600 Tell us how we're doing 960 Newport Way NW Issaquah, WA 98027 425.462.9600 Tell us how we're doing , opens a new window , opens a new window , opens a new window , opens a new window Powered by BiblioCommons.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "BiblioWeb: app05 Version 3.18.2 Last updated 2020/04/27 13:05",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

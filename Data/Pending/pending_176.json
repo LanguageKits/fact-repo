@@ -1,0 +1,481 @@
+{
+    "document_id": -1,
+    "url": "https://www.wired.com/story/another-chance-weigh-fcc-net-neutrality-repeal/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Klint Finley",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:30:19.349175+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to main content To revisit this article, visit My Profile, then View saved stories .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "To revisit this article, select My⁠ ⁠Account, then View saved stories .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "An appeals court ordered the FCC to seek comments on whether its new regime hurts public safety or low-income consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "FCC Chair Ajit Pai led the agency's effort to repeal Obama-era net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The Federal Communications Commission is once again seeking comment on its repeal of its Obama-era net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "But the new comment period isn't focused on the usual issues that underpin the net neutrality debate, such as blocking or throttling content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Instead, it will focus on less-noticed aspects of the agency's decision with regards to public safety and the agency's oversight of broadband internet providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "In 2015 the Obama-era FCC reclassified broadband service providers as \"common carriers\" like traditional telephone companies, giving the agency broader authority to regulate broadband providers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "But in late 2017, the now Republican-controlled FCC voted to overturn the Obama-era rules, relinquishing much of that authority.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "A coalition including state attorneys general, internet industry groups, and nonprofit organizations quickly filed suit, arguing the FCC’s decision was illegal.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Last year a federal appeals court sided mostly with the FCC .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "But there were some caveats.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The FCC's order attempted to override state net neutrality laws, but the court decided the FCC didn't have the authority to do so.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The court also said the FCC hadn’t adequately considered how repealing the net neutrality rules would affect public safety, utility pole regulations, and an FCC program called Lifeline that subsidizes phone and internet service for low-income families.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Instead of tossing out the FCC's order entirely, the court gave the FCC the chance to address those issues.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "But former FCC lawyer Gigi Sohn says the courts could strike down more of the new rules if it finds the agency's response unsatisfactory.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "A new comment period on FCC’s new rules, known as the \"Restoring Internet Freedom Order,\" is the commission's first step toward trying to satisfy the court.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "It's not likely that FCC chair Ajit Pai is going to have a change of heart about reclassifying broadband.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The public notice of the comment period was announced quietly \"We look forward to addressing” the issues that the court identified, Pai said in a statement following the appeals court ruling last year.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Everything you need to know about the struggle to treat information on the internet the same—ISPs shouldn't be able to block some sorts of data and prioritize others.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "But comments will add to the public record that the FCC will have to address as part of the case.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "You can file a comment through the agency's online comment system by using the proceeding number 17-108, or by paper following the instructions found in the FCC's public notice .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "The deadline is March 30.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "\"The American public should raise their voices and let Washington know how important an open internet is,\" FCC commissioner Jessica Rosenworcel said in a statement this week.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "The FCC specifically seeks comment on how the order affects public safety, utility poles, and Lifeline service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "For example, the agency's public notice asks whether public safety officials rely on retail wireless services as opposed to dedicated communications networks.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Net neutrality advocates say the FCC's decision hurt public safety during the 2018 California wildfires, when Verizon throttled firefighters' mobile internet speeds after they exceeded their data caps.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "\"This throttling has had a significant impact on our ability to provide emergency services,\" Santa Clara County fire chief Anthony Bowden wrote in a declaration in the lawsuit.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "\"Verizon imposed these limitations despite being informed that throttling was actively impeding County Fire's ability to provide crisis-response and essential emergency services.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "Verizon has said that the throttling was a mistake, and it has a policy not to limit service during emergencies.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "The appeals court decided that the 2018 throttling incident, which occurred after the FCC's 2017 vote, shouldn't be considered as evidence in the suit.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "The FCC's Obama-era rules didn't explicitly prohibit data caps, but they did prohibit “unjust or unreasonable prices and practices.” Perhaps more important, the FCC had broad authority to regulate broadband providers when they were classified as common carriers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "The FCC's previous attempt to solicit comments from the public was a fiasco.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "The agency's comment system crashed following a May 2017 segment of comedian's John Oliver's television show encouraging viewers to file comments.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "The FCC initially blamed a cyberattack for the outage, but the FCC's Office of the Inspector General later concluded those claims were misleading.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The system was also flooded with comments using fake names .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "Signal is finally bringing its secure messaging to the masses The princess, the plantfluencers, and the pink congo scam Mark Warner takes on How a space engineer made her own rotary cell phone Meet the sulfur miners risking their lives inside a volcano 👁 The secret history of facial recognition .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Check out our favorite wireless headphones , soundbars , and Bluetooth speakers is a contributing writer for WIRED covering tech policy, software development, cloud computing, and more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "A world without net neutrality might end up meaning that you have to pay more to access the internet content that you want.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "But it also might crush innovation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "FCC telecoms isps WIRED is where tomorrow is realized.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "It is the essential source of information and ideas that make sense of a world in constant transformation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "The WIRED conversation illuminates how technology is changing every aspect of our lives—from culture to business, science to design.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "The breakthroughs and innovations that we uncover lead to new ways of thinking, new connections, and new industries.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "FAQ Send a tip securely to WIRED RSS 2020 Condé Nast.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Use of this site constitutes acceptance of our (updated 1/1/20 ) and (updated 1/1/20 ) and may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

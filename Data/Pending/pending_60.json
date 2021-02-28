@@ -1,0 +1,171 @@
+{
+    "document_id": -1,
+    "url": "https://www.broadcastingcable.com/news/fcc-seeks-comment-on-restoring-internet-freedom-remand",
+    "document_category": "Blog/magazine",
+    "annotators": [],
+    "author": "John Eggerton",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:39:58.753525+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "TV Careers RSS TV Careers TV Careers Rosenworcel calls on opponents of net neutrality rule dereg to make some noise Publish date: Feb 19, 2020 The FCC is seeking comment on three issues related to its Restoring Internet Freedom (RIF) order, issues the court remanded back to it for further action.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "One commissioner is already weighing in with advice on how to register those comments.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "FCC commissoner Jessica Rosenworcel The U.S. Court of Appeals for the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Circuit upheld the bulk of the agency's decision to reclassify ISPs as Title I information service providers that aren’t subject to Title II common-carrier regulations and to eliminate the rules against blocking, throttling, paid prioritization, and a general conduct rule.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "But the court said the FCC needed to better explain the impact of those decisions on public safety, the regulation of pole attachments, and its Lifeline broadband/phone subsidy program.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "The FCC’s Wireline Competition Bureau is seeking comment on just what action it should take in response to the court remand, and has given commenters until March 30 and reply comments until April 29 to be filed.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "That comes after the D.C. court earlier this month denied all requests for a full-court rehearing of the three-judge RIF ruling, clearing the way for the FCC to issue its request for input on the court's ruling.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Democratic commissioner Jessica Rosenworcel, who voted against the RIF order, had some comments on the request for comments.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "“The FCC got it wrong when it repealed net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The decision put the agency on the wrong side of history, the American public, and the law,” she said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "“And the courts agreed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "That’s why they sent back to this agency key pieces regarding how the rollback of net neutrality protections impacted public safety, low-income Americans and broadband infrastructure.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "“Today, the FCC is seeking comment on how best to move forward,“ she added.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The American public should raise their voices and let Washington know how important an open internet is for every piece of our civic and commercial lives.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The agency wrongfully gave broadband providers the power to block websites, throttle services, and censor online content [which the court did not say was on the wrong side of the law] The fight for an open internet is not over.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "It’s time to make noise.” terms: FCC Next TV Rosenworcel 'hopeful' FCC will be reversed, dereg fans confident FCC will prevail Form comments back Pai's rollback of Title II Dems pledge fast track for Save the Internet Act Tells Media Institute it is time to stop raising ruckus and start raising sights Net neutrality activists vow to keep up fight; Pai points to more investment, access Net neutrality activists vow to keep up fight to restore rules Rosenworcel decries 'deceptive' move as dismantling protections Says he was delegating to staff, not hiding net neutrality ball RSS",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

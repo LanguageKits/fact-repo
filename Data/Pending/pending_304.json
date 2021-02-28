@@ -1,0 +1,241 @@
+{
+    "document_id": -1,
+    "url": "https://www.phillymag.com/business/2018/01/26/pennsylvania-net-neutrality-executive-order-philadelphia/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Fabiola Cineas",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:55:13.223531+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "LinkedIn NextHealth PHL LinkedIn Search for: NextHealth PHL I'm a scraper This search result is here to prevent scraping If you're a human and see this, please ignore it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "If you're a scraper, please click the link below :-)  Note that clicking the link below will block access to this site for 24 hours.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The move might be one way to uphold Open Internet protections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "· 1/26/2018, 2:34 p.m.          Every Thursday, get the latest dispatches from Philly’s business and innovation community delivered right to your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "It’s been about a month since the FCC voted to roll back Obama-era net neutrality rules, and since then, two states — and — have taken things into their own hands.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "They’ve passed executive orders to uphold the internet protections and now, Pennsylvania might be next in line.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "On Thursday, a spokesperson for governor Tom Wolf told Philadelphia magazine that the state is looking at the possibility of passing an executive order of its own.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "“This is under review and we are looking at what our options are,” said the spokesperson, who declined to offer any further details.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "If the executive order passed in Pennsylvania looks anything like the one signed by New York governor Andrew Cuomo this week, the Commonwealth would require state officials to purchase internet service only from broadband companies that abide by net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The rules prevented internet service providers like Comcast and Verizon from blocking, throttling, and favoring some websites over others.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Under the regulations, broadband companies were required treat all lawful websites, regardless of size and content, fairly.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "New York’s new order specifically says that any internet service provider receiving or renewing a contract after March 1 in New York will be required to sign a binding agreement saying they’ll uphold net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Governor Wolf has previously voiced his support for the Obama-era net neutrality regulations.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "On Twitter last November he wrote, “Keeping the internet free and open is essential to a healthy democracy.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Ending Net Neutrality would allow internet providers to filter your access to information and charge you more.” Keeping the the internet free and open is essential to a healthy democracy.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Ending #NetNeutrality would allow internet providers to filter your access to information and charge you more.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "At the local level, Kenney spokesperson told that while the administration supports the concept of net neutrality, officials have not yet evaluated whether the City of Philadelphia has the authority to pass such an order.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "“Philadelphia continues to support standards that protect open internet and net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "We will stand with other cities, advocates and activists in efforts toward federal legislation that ensures the protection and future maintenance of open, equal, uninhibited internet access to all lawful online content,” he said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "The executive orders are already proving to heat up an already contentious fight over the future of the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "According to the Washington Post , the FCC is willing to take states to court over the new decrees.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "And as for broadband providers, if more states adopt their own set of rules, “it could result in a patchwork of different regulations Internet providers say would be a nightmare,” the publication wrote.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "@fabiolacineas fcineas@phillymag.com 12 Philadelphia-Area Companies Make the Fortune 500 for 2018 15 Philadelphia-Area Companies Make Fortune 500 for 2019 IN THIS SECTION LinkedIn",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

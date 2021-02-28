@@ -1,0 +1,401 @@
+{
+    "document_id": -1,
+    "url": "https://inthesetimes.com/article/22176/net-neutrality-fcc-trump-open-internet",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:30:31.475780+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "RSS ▼ POLITICS ACT LOCALLY LABOR CULTURE PODCASTS CURRENT ISSUE SUBSCRIBE DONATE HOME POLITICS ACT LOCALLY LABOR CULTURE PODCASTS MAGAZINE SUBSCRIBE GIVE A GIFT CURRENT ISSUE ARCHIVES CUSTOMER SERVICE DONATE The fight for an open internet is still being waged.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "(Photo by Chip Somodevilla/Getty Images) Web Only / Views » November 18, 2019  Cities and states are leading the way in defending the internet from corporate control.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Internet service providers like Comcast and Verizon are free to slow down, block or prioritize internet traffic as they wish, without interference by the federal government.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "That’s the effect of an October ruling by the D.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Circuit Court of Appeals, upholding a 2017 ruling by the Federal Communications Commission that reversed rules requiring what is called “ net neutrality ” – treating all internet traffic equally, regardless of where it’s from or what kind of data it is.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Giving corporate telecom giants this power is wildly unpopular among the American people , who know that these companies have overcharged customers and interfered with users’ internet access in the past.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "However, people who advocate for an open internet, free of corporate roadblocks, might find solace in another aspect of the court’s ruling: States and local governments may be able to mandate their own net neutrality rules .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The effort is underway Governors in six states – Hawaii, Montana, New Jersey, New York, Rhode Island and Vermont – have already signed executive orders enforcing net neutrality by prohibiting state agencies from doing business with internet service providers that limit customers’ online access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Four states have passed their own laws requiring internet companies to treat all online content equally is in the works.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "More than 100 mayors representing both large urban centers such as San Francisco and small cities such as Edmond, Oklahoma, have pledged not to sign contracts with internet service providers that violate net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "These mayors are leveraging the lucrative contracts that their municipalities have with internet providers to wire public schools, libraries and local government buildings to pressure these companies into observing net neutrality throughout the city.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The emerging patchwork of local- and state-level net neutrality legislation could help ensure that millions of Americans have access to an open internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "However, people living outside of these enclaves will still be vulnerable to the whims of for-profit internet service providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "In our new book, “ ,” we argue that the best way to protect the public interest is to remove internet service from the commercial market and treat broadband as a public utility.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Corporations focus on profits Broadband giants have spent millions of dollars lobbying against federal open internet regulations since 2006.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Industry-backed efforts even included funding a network of far-right online trolls to spam the FCC’s website with anti-net neutrality propaganda.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "These companies continue to want the power to manipulate online traffic , such as charging users and content providers like Netflix to access each other – even though both are already paying for connections to the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "This history of manipulation highlights a recurring challenge to the ideal of net neutrality: Governments seek to reconcile the public’s interest in open, nondiscriminatory online communication with the profit interests of large internet service providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "The resulting policies only narrowly target corporations’ manipulative practices, while letting the companies continue to own and control the physical network itself.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "Cities build their own A different vision of how the internet could operate is already taking shape across the United States.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "In recent years, many cities and towns around the country have built their own broadband networks .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "These communities are often seeking to provide affordable high-speed internet service to neighborhoods that the for-profit network providers aren’t adequately serving.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "One of the best-known efforts is in the city of , which built its own high-speed fiber-optic internet network in 2009.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Chattanooga’s experiment has been an unequivocal success: According to a 2018 survey conducted by Consumer Reports, Chattanooga’s municipal broadband network is the top-rated internet provider in the entire U.S. More than 500 other communities around the country operate publicly owned internet networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "In general, these networks are cheaper, faster and more transparent in their pricing than their private sector counterparts, despite lacking Comcast and Verizon’s gigantic economies of scale.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Because the people operating municipal broadband networks serve communities rather than large shareholders on Wall Street, they have a vested interest in respecting net neutrality principles.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Thinking bigger A number of much larger-scale public broadband initiatives have also been proposed to combat the power of the giant internet companies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "In the 2018 election cycle, Democratic gubernatorial candidates from and proposed building publicly owned statewide internet networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Several Democratic presidential candidates have announced plans to build thousands of miles of publicly owned high-speed internet connections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "They vary in the details, but all are responses to the concentration of corporate control over internet access – both in terms of who gets high-speed service in what locations at what price, and what content those connections carry.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "Together, these initiatives reflect a growing understanding that Americans need a more expansive vision of an open internet to truly realize the democratic promise of an internet that reaches everyone .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "High-quality, affordable, restriction-free internet access can come from publicly owned providers that answer directly to the people.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "In our view, and in the eyes of a growing number of Americans, the broadband industry uses its entrenched market power to serve itself, not the public.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "This piece was first posted at .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "Progressive journalism is needed now more than ever, and needs you.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "Like many nonprofits, we expect to struggle financially as a result of this crisis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "But in a moment like this, we can’t afford to scale back or be silent, not when so much is at stake.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "If it is within your means, please consider making an emergency donation to help fund our coverage during this critical time .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "if you like this, check out: MOST READ Limited Time: Subscribe to IN THESE TIMES MAGAZINE for just $1 a month Try for $1 Online Form - Newsletter splash 5 The stories behind the inequality crisis—from x « Read this next ABOUT US NEWSLETTERS/RSS CONTACT US REPRINTS ARCHIVES SUBMISSIONS DONATE LEAVE A LEGACY SPONSORSHIPS ADVERTISE PRESS PRIVACY POLICY SUBSCRIBE GIVE A GIFT INTERNSHIPS/JOBS INVESTIGATIVE INSTITUTE",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

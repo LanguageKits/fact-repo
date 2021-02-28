@@ -1,0 +1,31 @@
+{
+    "document_id": -1,
+    "url": "https://healingoracle.ch/2020/04/12/bill-gates-things-wont-go-back-to-normal-until-the-entire-world-has-his-vaccine/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-11-23 17:58:43.776253+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "You don't have permission to access this resource.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Additionally, a 403 Forbidden error was encountered while trying to use an ErrorDocument to handle the request.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

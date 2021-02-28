@@ -1,0 +1,141 @@
+{
+    "document_id": -1,
+    "url": "https://www.reuters.com/article/us-usa-internet/tech-industry-asks-u-s-court-to-reconsider-net-neutrality-ruling-idUSKBN1YH2AZ",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "David Shepardson",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:30:03.401489+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "December 13, 2019 / 7:53 PM / 5 months ago Tech industry asks U.S. court to reconsider net neutrality ruling WASHINGTON (Reuters) - Trade groups representing major technology companies and advocacy groups on Friday asked a U.S. appeals court to reconsider its October ruling that largely upheld the 2017 repeal of landmark net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "The Federal Communications Commission in December 2017 reversed Obama-era rules prohibiting internet service providers (ISPs) from blocking or throttling traffic, or offering paid fast lanes, a blow to large tech companies and consumer groups that had championed net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "In petitions filed with the U.S. Court of Appeals for the District of Columbia on Friday, the Computer & Communications Industry Association, internet trade group INCOMPAS and various advocacy groups asked the three-judge panel to rehear the case or the full appeals court to take up the issue.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "“The decision presents an issue of exceptional importance, as it affirms the reversal of U.S. policies promoting the open Internet, and the repeal of the FCC’s 2015 net neutrality rules,” said one of the petitions.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "“The FCC abdicated its ability to regulate the behavior of ISPs for the first time in its history.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "As a consequence, ISPs are permitted to block or throttle Internet access, demand pay-to-play ransom from Internet edge providers, or otherwise interfere with end users’ access to the Internet,” the petition said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "FCC spokeswoman Tina Pelkey said the agency is confident the court’s decision “will stand and that we will continue to have a free and open Internet moving forward.” The appeals court, in its October decision, also ruled the FCC erred when it declared that states cannot pass their own net neutrality laws and ordered the agency to review some key aspects of its 2017 repeal of rules set by the Obama administration, including public safety implications and how its decision will impact a government subsidy program for low-income users.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The 2017 FCC 3-2 vote handed internet providers sweeping powers to recast how Americans use the internet, as long as they disclose changes.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The new rules took effect in June 2018 but ISPs have yet to change how users access the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "In April, the Democratic-controlled U.S. House of Representatives voted to reinstate net neutrality protections, but the measure has never been considered by the Republican-controlled U.S. Senate.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Democratic senators on Tuesday were blocked in their bid to seek consideration.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "narrow-browser-and-phone medium-browser-and-portrait-tablet landscape-tablet medium-wide-browser wide-browser-and-larger medium-browser-and-landscape-tablet medium-wide-browser-and-larger above-phone portrait-tablet-and-above above-portrait-tablet landscape-tablet-and-above landscape-tablet-and-medium-wide-browser portrait-tablet-and-below landscape-tablet-and-below All quotes delayed a minimum of 15 minutes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "See here for a complete list of exchanges and delays.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

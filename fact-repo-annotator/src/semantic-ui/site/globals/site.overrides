@@ -1,0 +1,9 @@
+/*******************************
+         Site Overrides
+*******************************/
+
+@import (css) url('https://fonts.googleapis.com/css?family=Tangerine:400,700,400italic,700italic&subset=latin');
+@import (css) url('https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic&subset=latin');
+@import (css) url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700,400italic,700italic&subset=latin');
+@import (css) url('https://fonts.googleapis.com/css?family=Roboto:400,700,400italic,700italic&subset=latin');
+@import (css) url('https://fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic,700italic&subset=latin');

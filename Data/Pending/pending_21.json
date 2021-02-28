@@ -1,0 +1,111 @@
+{
+    "document_id": -1,
+    "url": "https://fortune.com/2017/11/23/net-neutrality-explained-what-it-means-and-why-it-matters/",
+    "document_category": "Blog/magazine",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:38:15.693230+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "  You need to enable JavaScript to view this site.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Fortune 500 Global 500 40 Under 40 COVID-19 SEARCH SIGN IN Boris Johnson declares the U.K. \u201cpast the peak\u201d of COVID-19 infections\u2014but no plans to ease restrictions yet Gilead\u2019s remdesivir won\u2019t be a COVID-19 miracle cure, but it\u2019s still an important first step Fearing wine lakes and rotten potato heaps, Europe\u2019s farmers demand a coronavirus rescue package How the CEO of Chegg believes COVID-19 will change higher education for good 40 Under 40 Fortune 500 Global 500 and ( ) .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "FORTUNE is a trademark of Fortune Media IP Limited, registered in the U.S. and other countries.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "FORTUNE may receive compensation for some links to products and services on this website.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Offers may be subject to change without notice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Quotes delayed at least 15 minutes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Market data provided by .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "ETF and Mutual Fund data provided by http://www.djindexes.com/mdsidx/html/tandc/indexestandcs.html .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "S&P Index data is the property of Chicago Mercantile Exchange Inc. and its licensors.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Powered and implemented by .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

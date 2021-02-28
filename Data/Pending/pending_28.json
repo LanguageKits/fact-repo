@@ -1,0 +1,231 @@
+{
+    "document_id": -1,
+    "url": "https://www.vice.com/en_us/article/3kx5a9/courts-mostly-back-fcc-assault-on-net-neutrality",
+    "document_category": "News Report",
+    "annotators": [],
+    "author": "Karl Bode",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:38:34.822730+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "SKIP TO MAIN CONTENT en TV Election 2020 VICE Magazine But the court also blocked the FCC’s attempt to ban states from stepping in and protecting consumers themselves.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "by Oct 1 2019, 4:16pm A federal appeals court on Tuesday delivered a split decision to the FCC on net neutrality, approving much of the controversial order, but also vacating portions of the proposal that would have also banned states from protecting net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The FCC’s hugely unpopular (and Orwellian-sounding) “Restoring Internet Freedom” order gutted most of the FCC’s authority to police broadband providers, shoveling any remaining oversight to an FTC critics say lacks the authority or resources to actually police giant internet service providers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "This accountability vacuum is precisely why ISPs like AT&T and Comcast supported the plan.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "23 state attorneys general and companies like Mozilla sued the FCC last year , stating the FCC ignored the public interest and objective data in repealing the popular rules, which prevented giant ISPs from abusing their role as natural broadband monopolies by slowing, blocking, or otherwise hindering the internet traffic of competitors like Netflix.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "While the court backed much of the FCC’s order with a 2-1 vote, it did send several parts back to the FCC for reconsideration.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The court noted that the FCC didn’t bother to consider the impact the repeal would have on public safety or the FCC’s program, which doles out a modest $9 monthly subsidy for low income phone and broadband users.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Most importantly, the court shot down a portion of the order attempting to block states from passing their own state net neutrality rules, saying the FCC lacked the legal authority to limit state rights in such a fashion.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "“The Court concludes that the Commission has not shown legal authority to issue its Preemption Directive, which would have barred states from imposing any rule or requirement that the Commission ‘repealed or decided to refrain from imposing’ in the Order or that is ‘more stringent’ than the Order,” the court said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Roughly 29 states have passed some type of net neutrality protections since the FCC’s repeal, with several (like California’s SB822 ) actually going a bit further than the FCC’s now-discarded 2015 rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Last year the Trump Department of Justice sued California for trying to protect consumers , an effort that could now prove more complicated with this latest ruling.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "In a statement , FCC boss Ajiit Pai called the court ruling a “victory for consumers, broadband deployment, and the free and open internet.” His fellow Commissioner Jessica Rosenworcel disagreed, arguing the FCC’s attempt to block states from protecting consumers showcases an agency willing to play fast and loose with the law.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "“Today’s court decision vacates the FCC’s unlawful effort to block states and localities from protecting an open internet for their citizens,” Rosenworcel said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "“From small towns to big cities, from state houses to governors’ executive actions, states and localities have been stepping in because the FCC shirked its duties.” “The momentum around the country is proof the American people are not done fighting for an open internet,” she added.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "The court ruling comes despite recent studies that show the FCC’s primary justification for repeal—that the rules stifled broadband investment—was based on fraudulent data.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "It also comes despite widespread evidence of fraud during the agency’s repeal, including the use of stolen identities to generate artificial support for the repeal via the FCC website.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Gigi Sohn, a former FCC lawyer who helped write the 2015 rules, told Motherboard that while the ruling clearly hamstrings the federal government’s ability to protect consumers from predatory telecom monopolies, the court’s decision to protect state authority was a win for net neutrality supporters.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "“The states are now free to do what the FCC will not—assert authority over the broadband market and protect an open Internet,” Gigi Sohn, a former FCC lawyer who authored the rules, told Motherboard.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "“Broadband providers will inevitably complain about having to comply with a so-called ‘patchwork’ of different state laws, but that is of their own making.” Sohn noted that Congress now has a “golden opportunity” to protect consumers via the Save the Internet Act, a three page bill the House passed in April that would fully restore the FCC rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "“Upon its passage, the popular 2015 net neutrality rules will be reinstated, and just as importantly, so will the FCC’s legal authority to protect consumers and competition in the broadband market,” Sohn said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "“The industry should join the American people and urge the Senate to pass the Act and for the President to sign it without delay.” FCC net neutrality Get a personalized roundup of VICE's best stories in your inbox.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Subscribe to VICE Content Funding on VICE 2020 VICE MEDIA LLC",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

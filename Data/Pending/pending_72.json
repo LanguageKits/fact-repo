@@ -1,0 +1,701 @@
+{
+    "document_id": -1,
+    "url": "https://www.broadcastingcable.com/news/net-neutrality-bill-react-floods-in",
+    "document_category": "Blog/magazine",
+    "annotators": [],
+    "author": "John Eggerton",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:40:24.037582+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Stakeholders are just as divided as Congress Publish date: Apr 10, 2019 Even before the final vote was cast , the reaction was starting to pour in to House passage Wednesday (April 10) of the Save the Internet Act (HR 1644), which restores Title II-based FCC rules against blocking, throttling and paid prioritization and a general conduct standard for other conduct unbecoming and open internet in the view of the majority of whichever FCC happens to be installed.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "That reaction reflects the digital divide over how the government should regulate the internet, ISPs vs. the edge, activists versus industry, and Republican vs. Democrat.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The bill is not expected to make it through the Senate or into law, a point made by the current FCC chairman in dismissing the bill.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "But that was not stopping its supporters from claiming Wednesday's victory or holding out hope for another, or for its opponents to say it was a political football that would soon deflate, leaving the issue unresolved yet again.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "“This legislation is a big-government solution in search of a problem,\" said FCC chair Ajit Pai.\"The Internet is free and open, while faster broadband is being deployed across America.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "This bill should not and will not become law.” FCC commissioner Jessica Rosenworcel, who voted for those rules and against their elimination by the Pai-led Republican majority in the Restoring Internet Freedom Act, was quick to weigh in on the House victory as well.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "\"Today, the United States House of Representatives voted to once again make net neutrality the law of the land,\" she said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "\"Their legislative effort gets right what the FCC got so wrong.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "When the agency rolled back net neutrality protections, it gave broadband providers the power to block websites, throttle services, and censor online content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "This decision put the FCC on the wrong side of history, the wrong side of the law, and the wrong side of the American public.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Commissioner Michael O'Rielly, who voted to role back the rules, saw it differently.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "“Like many others, I would have welcomed a clear, thoughtful, and bipartisan Congressional directive with respect to the FCC’s authority over the Internet,\" He said.\"However, H.R.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "1644 is not even remotely an intellectually honest or serious effort to create regulatory certainty or legislate net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "It is a political statement built on a broken abomination of an FCC rulemaking.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "I remain firmly opposed to any attempt to subject the Internet to burdensome and anachronistic public utility regulation, especially any effort to ban paid prioritization.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The one positive aspect that emerged from this gamesmanship is House Democrats’ firm declaration against taxing the Internet via USF fees.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Levying such fees on this vital and flourishing resource would impede Americans’ digital access, and I am glad there is bipartisan agreement on this key issue.” Republicans say the bill would prevent the FCC from requiring broadband providers to contribute to that Universal Service Fund (USF) subsidy because the 2015 Open Internet order establishing the rules forbore from requiring the contribution, though the order said it was putting off the decision.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "“The United States has turned the page on the failed broadband policies of the Obama Administration,\" said commissioner Brendan Carr.\"By getting the government out of the way, Internet speeds are up 40%, the digital divide is closing across rural America, and the U.S. now has the world’s largest deployment of next-generation 5G networks.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "There’s a lot of common ground on net neutrality,\" he said.\"But this bill studiously avoids it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "It elevates the partisan politics of Title II over widely-supported rules of the road and would turn back the clock on the progress America is making.” “Today’s House vote was a disappointing wrong turn that will only lead to a dead end,\" said NCTA-The Internet & Television Association.\"Consumers should be frustrated that House Democratic leadership has chosen to pursue a partisan path which will ultimately fail to deliver the net neutrality protections that every stakeholder agrees is important.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Despite this setback, our industry remains committed to working on a bipartisan solution and hopes that the end of this political exercise will clear the way for more thoughtful and sincere efforts to protect consumers without outdated and burdensome overregulation.” Computer companies and edge providers represented by the Computer & Communications Industry Association were celebrating the vote.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "“The U.S. digital economy is the envy of the world and ‘net neutrality’ nondiscrimination rules have helped startups compete with bigger players,\" said CCIA president Ed Black.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "\"Restoring these rules helps thousands of smaller businesses, as well as the next generation of startups, offer their products and services without fear of arbitrary and unnecessary charges from the big ISPs.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "\"Today, the House took a firm stand on behalf of internet users across the country,\" said Mozilla, which is challenging the FCC's net deregulation in court.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "By passing the Save the Internet Act, members have made it clear that Americans have a fundamental right to access the open internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Without these protections in place, big corporations like Comcast, Verizon, and AT&T could block, slow, or levy tolls on content at the expense of users and small businesses.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "We hope that the Senate will recognize the need for strong net neutrality protections and pass this legislation into law.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "In the meantime, we will continue to fight in the courts as the DC Circuit considers Mozilla v. FCC, our effort to restore essential net neutrality protections for consumers through litigation.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Sen. Ed Markey (D-Mass.), who has introduced a companion bill in the Senate, joined the applause.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "“Americans of all political stripes support putting net neutrality rules back on the books, because when you pay your monthly broadband bill, you should be able access all the content on the internet at the same speed without interference or throttling by your broadband provider,” he said following the vote.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "That’s what a free and open internet is all about: free of corporate control and open to anyone who wants to communicate, engage, and innovate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "The Senate now has a real opportunity pass the Save the Internet Act and overturn the FCC’s wrongheaded decision on net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "I call on Leader McConnell to bring the Save the Internet Act to the Senate floor for a vote immediately.” “Today’s bipartisan vote by the House of Representatives to pass the Save the Internet Act reflects the overwhelming public consensus that strong net neutrality consumer protections are vital for the internet ecosystem and the digital economy,\" said Public Knowledge senior counsel Phillip Berenbroick.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "\"Millions of Americans have repeatedly told the FCC they want strong net neutrality protections and oversight of broadband providers, and polling consistently shows more than 80 percent of Democrats, Republicans, and Independents support the policies passed by the House today.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": ", saw the bill as a net negative.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "“Small Internet Service Providers (ISPs) who are members of ACA Connects support an open Internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "They do not block, degrade or otherwise impair access to the Internet by their customers and are willing to have these restrictions written into law,\" the cable trade group's president, Matt Polka, said.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "“Rather, than simply codifying Net Neutrality principles, H.R.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "1644, under the guise of saving the Internet, takes a much different approach.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "The bill would revive Federal Communications Commission rules that turn ISPs into common carriers and impose onerous and outdated regulations on them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "This added regulation would not make the Internet more open.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "It would only retard investment in higher performance broadband networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "\"With passage today of the Save the Internet Act, the net neutrality story morphs from a debate about the right set of rules governing internet service in a hyper-connected world to a proxy battle pitting so-called internet freedom advocates against the innovators that invest in, and the consumers who benefit from, our nation’s connectivity,\" said US Telecom president Jonathan Spalter, who was definitely not applauding.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "\"Instead of embracing the power of markets, transparency, and surgical rules, we continue to fight this last war and debate a regulatory regime well past its prime, while important technology policy around data privacy and cybersecurity awaits.So does our shared mission of delivering broadband access to all Americans, be they in urban or rural communities.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "Also sitting firmly on its collective hands was the FreedomWorks Foundation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "“The internet is alive and well and Democrats are just beating a dead horse,\" said director of policy Patrick Hedger.\"Connections, speeds, and investment are all up following the rollback of Title II and the internet was fine before Title II.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "Treating the internet like a public utility is the equivalent of swatting a fly with a bazooka.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "It's hard to call ourselves a free country when one party insists on going after essentially hypothetical issues with the most aggressive government regulations and controls on the books.” Ditto the American Action Network, whose president, Dan Conston said: “The Internet today is faster and easier to use than ever before.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "For thirty years, the Internet has flourished because Washington has left it alone.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Americans support a fair and open internet, but they strongly reject over-regulation by Congress.” “Today’s vote is a tremendous victory for the millions of people across the country who’ve been calling, writing, tweeting and visiting their members of Congress to urge them to fight for a free and open internet,\" said Free Press Action Fund president Craig Aaron.\"The energy behind this bill came from the grassroots, not big companies, but there were plenty of industry lobbyists trying to sink it.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "The overwhelming show of support for the Save the Internet Act proves how important and popular Net Neutrality has become.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "\"Rather than pushing a partisan solution whose efficacy is debated, members of Congress should advance bipartisan net neutrality legislation,\" said the Internet Innovation Alliance.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "\"Three Republican bills now introduced by House Energy and Commerce Committee leaders offer promising starts, containing the very open internet provisions that Congressional Democrats sought in 2010 and President Obama’s FCC implemented that same year: no blocking, no throttling, no paid prioritization.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Republicans are now on board with FCC rules against blocking, throttling and even paid prioritization, but are dead set against the general conduct standard that Dems say is vital to any net neutrality legislation.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "\"Today, the House passed meaningful net neutrality legislation,\" said Jim Doyle, president of Business Forward.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "\"It’s a big step forward and the result of a lot of hard work by Democrats.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "But he acknowledged that is probably as far as this bill will go.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "\"[A] bill that can only pass one half of Congress isn’t a real solution.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "We need a bipartisan compromise with the Republican-controlled Senate in order to advance this important legislation this year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "If not, we risk two more years of gridlock that leaves consumers and small businesses vulnerable.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "\"Outside the beltway, net neutrality is a no-brainer issue,\" said Michael Copps, former FCC chairman and net neutrality rule fan who is now a special advisor to Common Cause.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "\"An overwhelming majority of Americans support strong net neutrality rules including 80 percent or higher from Republicans and Independents.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "That’s because they understand net neutrality is the pre-requisite for an open and citizen-friendly internet where broadband has become the essential communications service for a 21st century democracy.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "Today’s vote reflects the will of the American people who demand an open internet to protect free speech, civic engagement, equal opportunity, and innovation.\"“Streaming is saving consumers money, and the Save the Internet Act will help save streaming competition,\" said INCOMPAS President Chip Pickering, whose members include edge providers as well as competitive carriers.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "\"Today’s vote in the House is welcome news to streamers, start-ups, and main street small business owners who have called on Congress to restore strong open internet protections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "It is time for Congress to ensure that all four corners of the net neutrality protections are reinstated—no blocking, no throttling, no paid prioritization and strong interconnection.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "We look forward to building bipartisan consensus in the Senate based on these protections and ensuring that net neutrality is reinstated as the law of the land.” \"Today the House of Representatives voted to make Open Internet protections the law of the land,\" said the Communications Workers of America.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "\"CWA believes that we need clear, enforceable rules to protect a free and open internet for everyone while promoting job-creating investment in broadband networks.The FCC must have the authority to enforce rules that prohibit blocking, throttling, and discriminatory treatment of some websites on the Internet.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "terms: ACA Connects NCTA Next TV Said impact on ISP revenue is below threshold NCTA said it is dead end; Public Knowledge calls it critical step Would allow EBS licenses to be transferred to commercial entities Still needs a handful more Dems or some GOP turn-arounds Rosenworcel says decision means no more corner-cutting on diversity Says there are still moderates that can be turned toward Save the Internet Act Chalks it up to telecom lobbyists Says it would restore 'heavy hand' of government RSS",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

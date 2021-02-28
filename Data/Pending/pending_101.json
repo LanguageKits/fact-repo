@@ -1,0 +1,291 @@
+{
+    "document_id": -1,
+    "url": "https://www.aei.org/technology-and-innovation/telecommunications/net-neutrality-and-the-dormant-commerce-clause/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:41:39.788695+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Job Opportunities at AEI AEI Internships US Economy Economic mobility AEIdeas AEIdeas AEIdeas @ProfDanielLyons June 27, 2019 Summer is upon us.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Soon, the Supreme Court will release its final opinions of the term and go into recess, leaving those of us in the legal tech world to resume the activity that occupied most of spring: watching the DC Circuit for the big net neutrality decision.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Of the many wrinkles in this iteration of the net neutrality debate, the federalism angle intrigues me most: the way in which opponents of the Restoring Internet Freedom Order (RIFO) have pushed state elected officials to use their power to fight federal initiatives.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "( As I mentioned a few weeks ago , we see a similar dynamic at work with certain state attorneys generals\u2019 recent surprise attack on the Sprint and T-Mobile merger.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "The DC Circuit decision may give some guidance regarding the extent to which RIFO has preempted these initiatives.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "But even if the Federal Communications Commission\u2019s preemption argument ultimately fails, there is a second, less-often-discussed limitation on states\u2019 ability to regulate broadband network management practices: the Dormant Commerce Clause.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "my latest article for The Free State Foundation\u2019s Perspectives series, I examine the Dormant Commerce Clause doctrine and the way it may affect future litigation regarding the validity of state net neutrality mandates.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The Dormant Commerce Clause prohibits states from enacting regulations that unduly burden interstate commerce.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "It is a judge-made doctrine, derived from the negative implication of the Constitution\u2019s grant to Congress of the power to regulate commerce between the states.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "While states have general authority to regulate commerce within their footprints, they are (rightfully) beholden to their constituents, and therefore have incentives to adopt economic legislation that benefits parochial interests, even if it has a negative impact on non-residents and the national economy as a whole.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "The Dormant Commerce Clause doctrine operates as a check on this concern \u2014 the same concern that triggered the collapse of the Articles of Confederation and prompted the insertion of the Commerce Clause into the Constitution.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "As the article shows, the Dormant Commerce Clause has played an active, but somewhat unpredictable, role in state efforts to regulate internet activity.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The doctrine requires judges to weigh the benefit of state regulation against the burden it places on interstate conduct.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The party challenging the law bears the burden of showing the impact on interstate commerce.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "[E]ven if the court construes these restrictions to apply only to contracts with in-state consumers, such regulations can disrupt the orderly flow of interstate traffic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Permissible network management practices would differ from state to state, depending on whether and how each state chose to regulate.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Even if all states adopted facially identical statutes, fragmentation is likely to occur over time as 50 different sovereigns may reasonably disagree on enforcement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "For example, what constitutes \u201creasonable network management\u201d may differ from state to state.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Broadband providers are thus left with two alternatives: operate a nationwide network that meets the standards of the most stringent state \u2014 meaning that state\u2019s law burdens out-of-state communications that would otherwise be legal \u2014 or balkanize the network and make the delivery of network traffic less efficient, which burdens the delivery of out-of-state communications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "State-level traffic management rules also limit the services that carriers can offer on a national basis.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "As the Commission has observed, edge markets are primarily national in scope.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "For congestion-sensitive applications such as streaming video or real-time video conferencing, prioritization can be a mechanism by which edge providers can deliver a better product to consumers without adversely affecting non-congestion-sensitive services.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Similarly, the ability to zero-rate a particular offering can help expand the planes of competition among edge providers and allow smaller providers a chance to gain an advantage over rivals.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "If broadband providers cannot market such services nationally, they are less likely to achieve national economies of scale and will be provided less efficiently.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "While it is unclear how the court would rule on a Dormant Commerce Clause challenge, one cannot deny that state regulation of a national network can have potentially deleterious effects, which is a strong argument in favor of regulating network management practices primarily at the federal level.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "You can read the full article with supporting citations here .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Learn more: States ambush Sprint and T-Mobile deal: Some preliminary thoughts .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "An antitrust-informed approach to net neutrality @ProfDanielLyons , , federalism , Net neutrality , , June 13, 2019 AEIdeas States ambush Sprint and T-Mobile deal: Some preliminary thoughts by  April 01, 2019 AEIdeas An antitrust-informed approach to net neutrality by  RSS About AEI Surprise medical billing 1789 Massachusetts Avenue, NW Washington, DC 20036  Main telephone: 202.862.5800 Main fax: 202.862.7177",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

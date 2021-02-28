@@ -1,0 +1,291 @@
+{
+    "document_id": -1,
+    "url": "https://www.cnet.com/news/trump-calls-net-neutrality-court-decision-a-great-win/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Marguerite Reardon ",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:30:35.924188+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "CNET también está disponible en español.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Ir a español Don't show this again Assassin's Creed Valhalla trailer Wunderlist alternatives Coronavirus updates Tesla earnings Hummer EV reveal delayed Alphabet earnings COVID-19 All the best products Best TVs  All reviews TVs  VPNs  Wearables & VR  All news All how to Streaming TV  All personal finance All smart home Best smart home devices  Guide to smart living  Tour our smart apartment  Tour our smart house  Product compatibility Apple HomeKit  Belkin WeMo  Samsung SmartThings  AutoComplete  Best cars Best SUVs  All deals VPN Deals  All coupons eBay Coupons  ExpressVPN Coupons  GrubHub Coupons  HP Coupons  TurboTax Discounts  Trump calls net neutrality court decision a 'great win' But Commissioner Jessica Rosenworcel, a Democrat, points out the decision isn't a total victory.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Oct. 7, 2019 2:07 p.m. PT President Donald Trump touted the DC Circuit's ruling last week on net neutrality as a big win for the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "last week's federal court decision to uphold the agency's net neutrality repeal .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "That repeal eliminated rules preventing broadband providers from blocking or slowing down access to websites or charging companies extra to deliver content faster.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Trump called the appeals court ruling a big win for the future of the internet, including 5G wireless, the next generation in mobile technology.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "The FCC is one of several federal agencies that has moved quickly to deregulate since Trump took control of the White House after the 2016 election.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "The Republican-led FCC voted in 2017 to dismantle the popular open internet rules adopted under President Barack Obama, arguing that the rules had stifled investment because they imposed utility-style regulation on the internet.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Supporters of the Obama-era rules have said the FCC's deregulation has left a void in which broadband providers can abuse their power as gatekeepers of the internet by squelching online competitors, limiting the sites and services consumers can access and overcharging.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "We just WON the big court case on Net Neutrality Rules!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "A great win for the future and speed of the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Will lead to many big things including 5G.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Congratulations to the FCC and its Chairman, Ajit Pai!",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "October 7, 2019 FCC Commissioner Jessica Rosenworcel, one of two Democrats on the commission, pointed out that the decision wasn't a total victory for the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "\"The court told the FCC it couldn't stop states from making their own #NetNeutrality rules,\" she wrote in a tweet .",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "The court told the @FCC it couldn't stop states from making their own #NetNeutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "It also sent a bunch of issues back to the @FCC .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Rolling back net neutrality put Washington on the wrong side of the law, history and the American people.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Last week, the US Court of Appeals for the DC Circuit upheld Pai's 2017 order to repeal the net neutrality rules, finding the agency had not overstepped its authority.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "It was an important win for Republicans at the agency.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Consumer groups, tech companies and local government officials had sued to restore rules passed in the previous administration.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "But the decision wasn't a total victory for the agency: The court also found that the FCC had overstepped its authority when it banned states from enacting their own open internet rules, as Rosenworcel pointed out.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Now, the fight to restore net neutrality rules will likely head to the states .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The court also remanded part of the order back to the FCC, stating the agency hadn't considered the effect the repeal would have on public safety and programs such as Lifeline, which offers subsidies for phone and internet service for the poor.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "Now playing: Watch this: Scott Wiener says California can save the internet  4:45  • reading Trump calls net neutrality court decision a 'great win' • Dec 13 To save net neutrality, Mozilla and others file appeal • Oct 3 The net neutrality battle lives on: What you need to know after the appeals court decision • Oct 2 Net neutrality battle moves to the states FCC Notification on Notification off Discuss: Trump calls net neutrality court decision a 'great win' Sign in to comment Be respectful, keep it civil and stay on topic.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "We delete comments that violate our policy , which we encourage you to read.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "Discussion threads can be closed at any time at our discretion.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "MORE FROM CNET Upgrade to Windows 10 for free right now The 34 best games on Nintendo Switch The best Wi-Fi routers of 2020 Windows 10 tips and tricks The best VPN services for 2020 About CNET Get the CNET app .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

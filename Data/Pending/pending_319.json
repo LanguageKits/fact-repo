@@ -1,0 +1,251 @@
+{
+    "document_id": -1,
+    "url": "https://www.nytimes.com/2014/05/16/opinion/searching-for-fairness-on-the-internet.html",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:56:13.577572+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "SEARCH Skip to content Skip to site index Today\u2019s Paper .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Searching for Fairness on the Internet https://nyti.ms/1k6sWkC Continue reading the main story Searching for Fairness on the Internet May 15, 2014 After weeks of being criticized for a proposal that would have divided the Internet into fast and slow lanes, the Federal Communications Commission put forward a new plan on Thursday.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "While more balanced than its earlier approach, the commission still seems to be leaning toward creating a two-tiered system that could discriminate against smaller companies and restrict consumer choice.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "has been struggling for years to come up with rules to prevent phone and cable companies from blocking or interfering with Internet content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Last month, the chairman of the agency, Tom Wheeler, appeared to throw in the towel when he proposed regulations that would have allowed telecommunications companies to strike deals with firms like Netflix and Amazon for faster delivery of their videos and other data to consumers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "Then, on Thursday, the commission voted 3 to 2 along party lines to consider two options .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Under the first option, the F.C.C.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "would require cable and phone companies to provide their broadband subscribers a basic level of unfettered Internet service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "But as long as that condition is met, telecom companies would also be able to charge businesses like Netflix fees to deliver their movies faster to consumers than others.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Under the second option, the commission would reclassify broadband as a telecommunications service, akin to a public utility.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "That would allow for more stringent regulation that could prevent companies like Verizon and Comcast from engaging in unreasonable and unjust discrimination.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "Many consumer advocates like and legal scholars like of Columbia Law School have recommended this option all along.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Mr. Wheeler and the commission\u2019s two other Democratic members say they will listen to public comments over the next four months before making up their minds about which of the two options they will pick.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "(The agency\u2019s two Republican members said they voted against the proposal because they do not think the F.C.C.should adopt any such rules.)",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "There are serious problems with the first option.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "It would give phone and cable companies a financial incentive to scrimp on basic high-speed Internet service in order to encourage companies like Apple or Google, which owns YouTube, to pay fees for premium delivery.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "Mr. Wheeler said on Thursday that he doesn\u2019t want the Internet \u201cdivided into \u2018haves\u2019 and \u2018have-nots,\u2019 \u201d but that\u2019s exactly what would happen if the commission creates a regulatory distinction between basic and premium offerings.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "The commission would be on much more solid ground if it decided to classify broadband Internet service as a utility.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "Mr. Wheeler has not been very enthusiastic about this option, which has many opponents among lawmakers in Washington, particularly Republicans who usually side with deep-pocketed phone and cable companies on controversial regulatory matters.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "But the chairman and the other two Democrats on the commission have to consider this option seriously if they want to make sure Americans can access lawful content on the Internet without restriction.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "Mr. Wheeler has said he wants to adopt final rules by the end of the year.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "should take more time if it needs to, as one Democratic commissioner, Jessica Rosenworcel, has suggested .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "These rules are too important to rush through.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "Continue reading the main story 2020 NYTCo Work with us",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

@@ -1,0 +1,251 @@
+{
+    "document_id": -1,
+    "url": "https://www.newamerica.org/oti/blog/american-people-broadly-support-net-neutrality/",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Amir Nasr",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:42:40.776169+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Programs — We are dedicated to renewing America by continuing the quest to realize our nation's highest ideals, honestly confronting the challenges caused by rapid technological and social change, and seizing the opportunities those changes create.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "About — WOCinTech Chat / Flickr Oct. 23, 2017 This post was updated on August 30, 2018 to include new survey data.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "In 2015, the Federal Communications Commission (FCC) put in place strong Net Neutrality rules that prohibited internet service providers (ISPs) like Comcast and Verizon from blocking or slowing consumers’ access to certain websites.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "The rules also prohibited providers from creating a two-tiered internet with a fast lane for companies that can afford it, and a slow lane for everyone else.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Net Neutrality protects consumers and small businesses, while allowing ISPs to grow and to continue to offer crucial internet service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "A then-unprecedented millions of Americans participated in the proceeding and overwhelmingly called for strong, enforceable Net Neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "However, this administration’s new FCC chairman, Ajit Pai, has decided that despite having tenuous evidence of negative impact, and much evidence of positive impact, the Net Neutrality rules now have to go.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "A radical proposal from May began the process to reverse the open internet protections with no viable replacement to protect internet users from the massive corporations that control the market (sound familiar?).",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "As millions have detailed in filings to the FCC, the Net Neutrality rules are necessary to protect Americans online and a robust internet economy.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "The rules are important, they are legally sound and they are consistent with the history of this country’s telecommunications policies.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "Net Neutrality is also incredibly popular among the American people.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "But don’t take our word for it—numerous surveys have shown Americans of all political leanings support Net Neutrality and expect the protections enshrined in the FCC’s 2015 Open Internet Order.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "Below is a collection of the surveys conducted by consumer groups, the cable industry, and nonpartisan polling agencies that show the broad, overwhelming support for Net Neutrality: IMGE Insights : A July 2018 survey of key House battleground districts found that 64% of Independents, 58% of undecided voters, and 60% of all voters would be more likely to vote for their member of Congress in the upcoming midterm elections if that member took immediate action to force a vote to restore the 2015 net neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "The survey, taken after the Senate passed a resolution that would strike down the FCC's repeal and bring back the net neutrality rules, surveyed voters from CA-25, CO-06, FL-18, and NY-19.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "A survey from April 2018 gave respondents detailed arguments for and against the FCC's net neutrality repeal found that 82% of Republicans and 90% of Democrats oppose the FCC’s move to repeal the rules​.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Even a survey conducted by the cable industry’s largest trade association found that 61% of all Americans support the FCC’s Net Neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "76% of all Americans, 81% of Democrats, and 73% of Republicans all support Net Neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "Only 14% of all Americans, 12% of Democrats, and 19% of Republicans said that internet service providers should be able to “offer fast lanes with quicker load times to websites that pay a premium.” Morning Consult/POLITICO : 61% of Democrats, 59% of Independents, and 59% of Republicans support Net Neutrality rules that say internet service providers “cannot block, throttle or prioritize certain content on the internet.” INCOMPAS/IMGE Insights : 75% of all voters, 75% of Trump voters, and 72% of Republicans all agree that internet service providers should be prohibited from slowing or blocking websites and video services.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "87% of all voters, 88% of Trump voters, and 90% of Republicans all agree that consumers should be able to access any websites they want on the internet, without any blocking, slowing down, or throttling by their internet service provider.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "77% of all Americans, 80% of Democrats, 76% of Independents, and 73% of Republicans all support keeping the FCC’s current Net Neutrality rules.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "88% of all Americans agreed with the statement: “When I buy internet service, I am paying to transmit information between my computer and the websites I visit, free from interference.” : 67% of all Americans agreed that internet service providers should not be able to choose which websites, apps, or streaming services their customers can access.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "Net Neutrality is an issue that will inform Americans’ votes this November.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": true,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "A survey from May 2018 found that 51% of registered voters believe a candidate’s support for the Net Neutrality rules is important when considering who to vote for ​ in the November midterm elections.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "740 15th Street NW, Suite 900 Washington, DC 20005",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

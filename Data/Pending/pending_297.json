@@ -1,0 +1,111 @@
+{
+    "document_id": -1,
+    "url": "https://www.sanders.senate.gov/net-neutrality",
+    "document_category": "Government",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:54:55.662877+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Skip to primary navigation Skip to main content Bernie's Podcast For years, net neutrality has prohibited big Internet corporations from favoring or blocking certain viewpoints or websites.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Our free and open Internet has made invaluable contributions to democracy both here in the United States and around the world.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "Whether you are rich, poor, young or old, the Internet allows all people to seek out information and communicate globally.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "Federal Communications Commissioner Tom Wheeler reportedly plans to vote on a rule change that would undermine the principles of net neutrality and let companies like Comcast and Verizon divide the Internet into fast and slow lanes.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "Under this terribly misguided proposal, the Internet as we have come to know it would cease to exist and the average American would be the big loser.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "We must not let private corporations turn bigger and bigger profits by putting a price tag on the free flow of ideas.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "Tell the FCC to protect the open Internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "Use the form to the right to submit your comments to federal rule makers.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "Submit your comment COMMENTS SO FAR Use the form below to submit your comment to the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "* * * E-mail * * OFFICE LOCATIONS OFFICE LOCATIONS tel (202) 224-5141 fax (202) 228-0776 Burlington, VT 05401 tel (802) 862-0697 tel (800) 339-9834 fax (802) 860-6370 St. Johnsbury, VT 05819 tel (802) 332-6186 fax (802) 860-6370 google .",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

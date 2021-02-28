@@ -1,0 +1,801 @@
+{
+    "document_id": -1,
+    "url": "https://www.aclu.org/issues/free-speech/internet-speech/what-net-neutrality",
+    "document_category": "Blog",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 18:37:32.509692+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "Jump to navigation Skip navigation Urgent: Support our response to COVID-19  Your gift will fund our critical work to protect voting rights, demand that vulnerable people in prisons,  jails and immigration detention centers be released, and fight to ensure reproductive health care remains open  and accessible to all who need it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "Now more than ever, we the people means all of us.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 2,
+            "sentence": "The internet has become so much a part of the lives of most Americans that it is easy to imagine that it will always remain the free and open medium it is now.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 3,
+            "sentence": "We'd like to believe it will remain a place where you can always access any lawful content you want, and where the folks delivering that content can't play favorites because they disagree with the message being delivered or want to charge more money for faster delivery.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 4,
+            "sentence": "But there are no such guarantees.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 5,
+            "sentence": "On December 14, 2017, the Trump FCC voted to make the open internet — and the “network neutrality” principles that sustain it — a thing of the past.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 6,
+            "sentence": "What you can see on the internet, along with the quality of your connection, are at risk of falling victim to the profit-seeking whims of powerful telecommunications giants.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 7,
+            "sentence": "If the FCC has its way, those companies could disfavor controversial viewpoints or smaller websites and favor the content providers who have the money to pay for better access.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 8,
+            "sentence": "The fight isn’t over, though.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 9,
+            "sentence": "Read on to learn more about how you can help protect your free and open internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 10,
+            "sentence": "CALL ON CONGRESS TO SAVE NET NEUTRALITY NOW The Federal Communications Commission voted in December 2017 to implement Chairman Ajit Pai’s plan to end net neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 11,
+            "sentence": "The fight now shifts to Congress, where pro-network neutrality members will press to use something called the Congressional Review Act to undo this hasty and misguided action.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 12,
+            "sentence": "The CRA is a relatively new tool that allows Congress to reverse regulatory actions within 60 legislative days of their enactment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 13,
+            "sentence": "Congress can use this tool to reverse the FCC's action.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 14,
+            "sentence": "Every American should press their members of Congress to support such a reversal via the CRA.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 15,
+            "sentence": "Most people get their high-speed internet access from only a few telecommunications giants —AT&T, Comcast, Cox, CenturyLink, Charter, and Verizon.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 16,
+            "sentence": "When we send or receive data over the internet, we expect those companies to transfer that data from one end of the network to the other.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 17,
+            "sentence": "We don't expect them to analyze or manipulate it.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 18,
+            "sentence": "And starting in 2015, the Federal Communications Commission (FCC) has had protections in place to prevent broadband providers from doing just that.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 19,
+            "sentence": "But now, the Trump FCC is moving to do away with those protections.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 20,
+            "sentence": "New technologies now allow telecom companies to scrutinize every piece of information we send or receive online — websites, email, videos, internet phone calls, or data generated by games or social networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 21,
+            "sentence": "And they can program the computers that route that information to interfere with the data flow by slowing down or blocking traffic and communicators that they don't like, and speeding up traffic they do like or that pays them extra for the privilege.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 22,
+            "sentence": "Imagine if the phone company could mess with your calls — through bad connections or frequent dropped calls — when you tried to order pizza from Domino's, because Pizza Hut is paying them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 23,
+            "sentence": "The phone company isn't allowed to do that because telephone service is treated under the law as a “common carrier” that has a responsibility to treat all traffic neutrally.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 24,
+            "sentence": "But this is what the FCC is now proposing to do: remove the equivalent rules for broadband internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 25,
+            "sentence": "Profit and other corporate interests, or a dislike for certain political viewpoints, or those that it deems “controversial.” Companies might want to interfere with speech that makes them look bad, block applications that compete with their own, degrade or block access to union sites during a labor conflict, or increase their profit by forcing developers to pay more to avoid having their data blocked or slowed down.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 26,
+            "sentence": "It should and normally it would — but it won't.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 27,
+            "sentence": "First of all, manipulations of our data are not always easily detectable; content can be delayed or distorted in important but subtle ways.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 28,
+            "sentence": "Second, most Americans don't have more than a handful of legitimate high-speed broadband options at home (the vast majority have only one or two).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 29,
+            "sentence": "It costs many billions to build a big high-speed broadband service, so the “barriers to entry” to the marketplace are high and there aren't very many of them.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 30,
+            "sentence": "That means customers often can't switch if a big broadband providers starts messing around with their service.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 31,
+            "sentence": "Broadband providers have both the incentive and the ability to interfere with the internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 32,
+            "sentence": "That hasn't stopped network neutrality opponents from claiming that the threat is “theoretical,” or that applying time-honored common carrier principles to the internet is a “solution in search of a problem.” In fact, real abuses happened consistently before the FCC put its network neutrality rules in place.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 33,
+            "sentence": "AT&T's jamming of a rock star's political protest.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 34,
+            "sentence": "During an August 2007 performance by the rock group Pearl Jam in Chicago, AT&T censored words from lead singer Eddie Vedder's performance.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 35,
+            "sentence": "The ISP, which was responsible for streaming the concert, shut off the sound as Vedder sang, \"George Bush, leave this world alone\" and \"George Bush, find yourself another home.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 36,
+            "sentence": "By doing so, AT&T, the self-advertised presenting sponsor of the concert series, denied viewers the complete exclusive coverage they were promised.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 37,
+            "sentence": "Although Vedder's words contained no profanity, an AT&T spokesperson claimed that the words were censored to prevent youth visiting the website from being exposed to \"excessive profanity.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 38,
+            "sentence": "AT&T then blamed the censorship on an external Website contractor hired to screen the performance, calling it a mistake and pledging to restore the unedited version of Vedder's appearance online.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 39,
+            "sentence": "Comcast's throttling of online file-sharing through BitTorrent.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 40,
+            "sentence": "In 2007, Comcast, the nation's largest cable TV operator and second largest ISP, discriminated against an entire class of online activities in 2007 by using deep packet inspection to block file transfers from customers using popular peer-to-peer networks such as BitTorrent, eDonkey, and Gnutella.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 41,
+            "sentence": "Comcast's actions, which were confirmed in nationwide tests conducted by the Associated Press, were unrelated to network congestion, since the blocking took place at times when the network was not congested.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 42,
+            "sentence": "Comcast blocked applications that are often used to trade videos — pirated content but also much legitimate content.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 43,
+            "sentence": "Critics noted that Comcast hopes to sell online video itself.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 44,
+            "sentence": "The FCC subsequently took action against Comcast for this abuse; Comcast stopped the throttling but also challenged the order in court and won, leading to a crisis in enforcement of network neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 45,
+            "sentence": "Verizon Wireless's censorship of NARAL Pro-Choice America.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 46,
+            "sentence": "In late 2007, Verizon Wireless cut off access to a text-messaging program by the pro-abortion-rights group NARAL that the group used to send messages to its supporters.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 47,
+            "sentence": "Verizon stated it would not service programs from any group \"that seeks to promote an agenda or distribute content that, in its discretion, may be seen as controversial or unsavory to any of our users.\"",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 48,
+            "sentence": "Verizon Wireless reversed its censorship of NARAL only after widespread public outrage.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 49,
+            "sentence": "Telus' blocking of striking workers' web site.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 50,
+            "sentence": "In 2005, the Canadian telecom, involved in a bitter labor dispute, blocked its internet subscribers from accessing a website run by the union that was on strike against Telus.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 51,
+            "sentence": "Network neutrality means applying well-established “common carrier” rules to the internet in order to preserve its freedom and openness.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 52,
+            "sentence": "Common carriage prohibits the owner of a network that holds itself out to all-comers from discriminating against information by halting, slowing, or otherwise tampering with the transfer of any data (except for legitimate network management purposes such as easing congestion or blocking spam).",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 53,
+            "sentence": "Important Fact: Common carriage is not a new concept — these rules have a centuries-old history.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 54,
+            "sentence": "They have long been applied to facilities central to the public life and economy of our nation, including canal systems, railroads, public highways, and telegraph and telephone networks.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 55,
+            "sentence": "The Federal Communications Commission voted in December 2017 to implement Chairman Ajit Pai’s plan to end net neutrality.",
+            "fact": true,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 56,
+            "sentence": "The fight now shifts to Congress, where pro-network neutrality members will press to use something called the Congressional Review Act to undo this hasty and misguided action.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 57,
+            "sentence": "The CRA is a relatively new tool that allows Congress to reverse regulatory actions within 60 legislative days of their enactment.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 58,
+            "sentence": "Congress can use this tool to reverse the FCC's action.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 59,
+            "sentence": "Every American should press their members of Congress to support such a reversal via the CRA.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 60,
+            "sentence": "Network neutrality is a consumer issue, but it is also one of the foremost free speech issues of our time.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 61,
+            "sentence": "In this day and age, it is pretty much impossible to get through life without using the internet — which is why it's essential that our free speech rights are protected both on- and offline.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 62,
+            "sentence": "After all, freedom of expression isn't worth much if the forums where people actually make use of it are not themselves free.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 63,
+            "sentence": "That is why the ACLU — a tireless defender of free speech and First Amendment rights for nearly a century — has long supported FCC actions that promote competition and innovation in telecommunications.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 64,
+            "sentence": "The ACLU has been a principal participant in almost every internet free speech case that has reached the U.S. Supreme Court in the past two decades, and our legislative staff has been aggressive on the issue in Congress and at the FCC.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 65,
+            "sentence": "We continue to be vigilant on this issue.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": true,
+            "temporal": false,
+            "ignore": false,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 66,
+            "sentence": "%3Ciframe%20thumb%3D%22https%3A%2F%2Fwww.aclu.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fvideo_thumbnail_1030x580%2Fpublic%2Ffield_image%2Fvid17-net-neutrality-explainer-thumbnail.jpg%3Fitok%3DeQs3yNJw%22%20class%3D%22media-youtube-player%22%20width%3D%22576%22%20height%3D%22324%22%20title%3D%22What%27s%20Next%20for%20Network%20Neutrality%3F%22%20src%3D%22%2F%2Fwww.youtube-nocookie.com%2Fembed%2FK2HYAibXkJ8%3Fwmode%3Dopaque%26amp%3Bmodestbranding%3D1%26amp%3Brel%3D0%26amp%3Bshowinfo%3D0%26amp%3Bcolor%3Dwhite%26autoplay%3D1%26version%3D3%22%20frameborder%3D%220%22%20allowfullscreen%3D%22%22%3EVideo%20of%20What%26amp%3B%23039%3Bs%20Next%20for%20Network%20Neutrality%3F%3C%2Fiframe%3E Privacy statement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 67,
+            "sentence": "This embed will serve content from youtube-nocookie.com.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 68,
+            "sentence": "We just lost an important battle in the war for an open internet.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 69,
+            "sentence": "But that war is far from over.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 70,
+            "sentence": "%3Ciframe%20width%3D%221160%22%20height%3D%22610%22%20src%3D%22https%3A%2F%2Fwww.youtube.com%2Fembed%2F92vuuZt7wak%3Fautoplay%3D1%26version%3D3%22%20frameborder%3D%220%22%20allowfullscreen%3D%22%22%20thumb%3D%22%2Ffiles%2Fyt_john-oliver-1160x610.jpg%22%3E%3C%2Fiframe%3E Privacy statement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 71,
+            "sentence": "This embed will serve content from youtube.com.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 72,
+            "sentence": "Now that equal access to online information is once again under serious threat, John Oliver encourages viewers to voice their displeasure to the FCC in a particularly creative way.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 73,
+            "sentence": "(from May 2017) Obama: \"I'm a big believer in Net Neutrality.\"",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 74,
+            "sentence": "%3Ciframe%20thumb%3D%22https%3A%2F%2Fwww.aclu.org%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fvideo_thumbnail_1030x580%2Fpublic%2Fmedia-youtube%2FmP01t0Z4Hr8.jpg%3Fitok%3DzfMIebs7%22%20class%3D%22media-youtube-player%22%20width%3D%22576%22%20height%3D%22324%22%20title%3D%22Obama%3A%20%26quot%3BI%27m%20a%20big%20believer%20in%20Net%20Neutrality.%26quot%3B%22%20src%3D%22%2F%2Fwww.youtube-nocookie.com%2Fembed%2FmP01t0Z4Hr8%3Fwmode%3Dopaque%26amp%3Bmodestbranding%3D1%26amp%3Brel%3D0%26amp%3Bshowinfo%3D0%26amp%3Bcolor%3Dwhite%26autoplay%3D1%26version%3D3%22%20frameborder%3D%220%22%20allowfullscreen%3D%22%22%3EVideo%20of%20Obama%3A%20%26amp%3Bquot%3BI%26amp%3B%23039%3Bm%20a%20big%20believer%20in%20Net%20Neutrality.%26amp%3Bquot%3B%3C%2Fiframe%3E Privacy statement.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 75,
+            "sentence": "This embed will serve content from youtube-nocookie.com.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 76,
+            "sentence": "During the State of the Union YouTube follow-up interview on February 1, 2010, President Obama again expressed strong commitment to Net Neutrality.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 77,
+            "sentence": "Watch, share, and talk about Net Neutrality -- Protecting a free Internet protects your Free Speech.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 78,
+            "sentence": "February 26, 2018 December 22, 2017 December 14, 2017 December 14, 2017 June 6, 2017 August 1, 2016 September 22, 2015 * ZIP Code *",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}

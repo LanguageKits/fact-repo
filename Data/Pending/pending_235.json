@@ -1,0 +1,31 @@
+{
+    "document_id": -1,
+    "url": "https://www.usatoday.com/opinion/",
+    "document_category": "News Editorial",
+    "annotators": [],
+    "author": "Unknown",
+    "language": "en",
+    "scrape_timestamp": "2020-04-30 19:43:01.244230+00:00",
+    "sentences": [
+        {
+            "id": 0,
+            "sentence": "A collection of somber editorial cartoons on the COVID-19 Coronavirus outbreak.",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        },
+        {
+            "id": 1,
+            "sentence": "SUBSCRIBE NOW Only $4.99 per month Today's Debate Policing the USA How flexible work can help save the economy Post-COVID, expect wave of high school dropouts How to get millions to take COVID-19 tests Female leaders: Today's Toon Real men wear masks and you should too, VP Pence Pandemic isolation a hard sacrifice for Ramadan My temp checks for coffee in Hong Kong may be U.S. future How the Democrats killed 'believe all women' Coronavirus COVID-19 cartoon gallery Pandemic protests dishonor America's veterans Time for Biden to name a VP, ramp up social media Trump denigrates the health experts we need Q&A;: 'We are not, at all, past the epidemic' Our view: Bail out states, but not pension funds Another view: States needed to hear 'bankruptcy' Dying for cute toes is not worth it, Georgia Why Trump's science denialism is un-American Keep up with children's health during pandemic Trump plays politics with immigrants & COVID-19 Coping with COVID-19 like it's 1861 Our view: 'I WANT YOU' to be a contact tracer Cartoon galleries Female leaders: Today's Toon Political cartoons: Mike Thompson's gallery Coronavirus COVID-19 cartoon gallery In pandemic, shelters rush to save the homeless Pandemic isolation a hard sacrifice for Ramadan Post-COVID, expect wave of high school dropouts Policing the USA More in Policing the USA COVID-19: I'm a front-line nurse who fears… Coronavirus: Cash bail is virtual death sentence Coronavirus response continues injustice for… April editorial cartoon gallery In pandemic, shelters rush to save the homeless Ex-prosecutor: I'm skeptic on Biden assault claim Share your coronavirus story eNewspaper USA TODAY Shop LinkedIn YouTube RSS Thanksgiving.com",
+            "fact": false,
+            "misinformation": false,
+            "opinion": false,
+            "temporal": false,
+            "ignore": true,
+            "sentence_category": "Uncategorized"
+        }
+    ]
+}
