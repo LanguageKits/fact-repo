@@ -40,3 +40,8 @@ You have 7 options on each sentence
 **Additional**
 - Author: If the url has an author, add it as well in the document meta data
 - Annotator: Add yourself here
+
+## Analysis
+- in the Analysis directory you will find a few basic scripts written in Jupyter Labs
+- LoadData will show how to ingest the JSON files and how to select particular categories for analysis or machien learning
+- BasicModel will show how to ingrest the data and feed it into Scikit for machine learning 
